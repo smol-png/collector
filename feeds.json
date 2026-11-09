@@ -556,7 +556,9 @@
   "url": "https://finance.yahoo.com/news/rssindex",
   "kind": "rss",
   "fast": true,
-  "group": "Business"
+  "group": "Business",
+  "disabled": true,
+  "note": "No feed at this address (404)."
  },
  {
   "id": "ft-home",
@@ -676,7 +678,9 @@
   "kind": "rss",
   "fast": true,
   "group": "World",
-  "gate": "markets"
+  "gate": "markets",
+  "disabled": true,
+  "note": "Refuses automated readers (403)."
  },
  {
   "id": "politico",
