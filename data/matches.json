@@ -16366,5 +16366,23 @@
   "market": "Prediction markets",
   "event": "e1316",
   "by": "rules"
+ },
+ "c58bc269fea40346": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1317",
+  "by": "rules"
+ },
+ "9e19f887196389fc": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 1000000.0,
+  "market": "AI",
+  "event": "e1318",
+  "by": "rules"
  }
 }
