@@ -1,0 +1,262 @@
+[
+ {
+  "id": "coindesk",
+  "name": "CoinDesk",
+  "url": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+ },
+ {
+  "id": "cointelegraph",
+  "name": "CoinTelegraph",
+  "url": "https://cointelegraph.com/rss"
+ },
+ {
+  "id": "theblock",
+  "name": "The Block",
+  "url": "https://www.theblock.co/rss.xml",
+  "pages": "https://www.theblock.co/rss.xml?paged={n}"
+ },
+ {
+  "id": "decrypt",
+  "name": "Decrypt",
+  "url": "https://decrypt.co/feed"
+ },
+ {
+  "id": "thedefiant",
+  "name": "The Defiant",
+  "url": "https://thedefiant.io/feed"
+ },
+ {
+  "id": "bitcoinmagazine",
+  "name": "Bitcoin Magazine",
+  "url": "https://bitcoinmagazine.com/feed",
+  "pages": "https://bitcoinmagazine.com/feed?paged={n}"
+ },
+ {
+  "id": "cryptoslate",
+  "name": "CryptoSlate",
+  "url": "https://cryptoslate.com/feed/",
+  "pages": "https://cryptoslate.com/feed/?paged={n}"
+ },
+ {
+  "id": "dlnews",
+  "name": "DL News",
+  "url": "https://www.dlnews.com/arc/outboundfeeds/rss/",
+  "unverified": true,
+  "disabled": true,
+  "note": "Feed frozen: newest item 28 Oct 2026 when checked on 8 Nov."
+ },
+ {
+  "id": "unchained",
+  "name": "Unchained",
+  "url": "https://unchainedcrypto.com/feed/",
+  "pages": "https://unchainedcrypto.com/feed/?paged={n}",
+  "unverified": true
+ },
+ {
+  "id": "cryptonews",
+  "name": "crypto.news",
+  "url": "https://crypto.news/feed/",
+  "pages": "https://crypto.news/feed/?paged={n}",
+  "unverified": true
+ },
+ {
+  "id": "gd-anthropic",
+  "name": "News: Anthropic",
+  "kind": "gdelt",
+  "group": "AI",
+  "query": "Anthropic sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Anthropic%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-openai",
+  "name": "News: OpenAI",
+  "kind": "gdelt",
+  "group": "AI",
+  "query": "OpenAI sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=OpenAI%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-nvidia",
+  "name": "News: Nvidia",
+  "kind": "gdelt",
+  "group": "AI",
+  "query": "Nvidia -gaming sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Nvidia%20-gaming%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-ai-chips-and-data-centres",
+  "name": "News: AI chips and data centres",
+  "kind": "gdelt",
+  "group": "AI",
+  "query": "(\"AI chips\" OR \"AI data center\" OR \"data centres\") sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22AI%20chips%22%20OR%20%22AI%20data%20center%22%20OR%20%22data%20centres%22%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-musk-companies",
+  "name": "News: Musk companies",
+  "kind": "gdelt",
+  "group": "Tech",
+  "query": "(Tesla OR SpaceX OR xAI OR \"Elon Musk\") sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28Tesla%20OR%20SpaceX%20OR%20xAI%20OR%20%22Elon%20Musk%22%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-big-tech",
+  "name": "News: Big tech",
+  "kind": "gdelt",
+  "group": "Tech",
+  "query": "(\"Magnificent Seven\" OR \"big tech\") stock sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22Magnificent%20Seven%22%20OR%20%22big%20tech%22%29%20stock%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-ipos",
+  "name": "News: IPOs",
+  "kind": "gdelt",
+  "group": "Stocks",
+  "query": "(\"IPO filing\" OR \"IPO pricing\" OR \"plans IPO\") sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22IPO%20filing%22%20OR%20%22IPO%20pricing%22%20OR%20%22plans%20IPO%22%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-stock-market-moves",
+  "name": "News: Stock market moves",
+  "kind": "gdelt",
+  "group": "Stocks",
+  "query": "(\"S&P 500\" OR Nasdaq) (selloff OR rally OR plunge OR record) sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22S%26P%20500%22%20OR%20Nasdaq%29%20%28selloff%20OR%20rally%20OR%20plunge%20OR%20record%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-federal-reserve",
+  "name": "News: Federal Reserve",
+  "kind": "gdelt",
+  "group": "Macro",
+  "query": "(\"Federal Reserve\" OR FOMC OR Powell) rates sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22Federal%20Reserve%22%20OR%20FOMC%20OR%20Powell%29%20rates%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-inflation-and-jobs",
+  "name": "News: Inflation and jobs",
+  "kind": "gdelt",
+  "group": "Macro",
+  "query": "(CPI OR inflation OR \"jobs report\" OR payrolls) sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28CPI%20OR%20inflation%20OR%20%22jobs%20report%22%20OR%20payrolls%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-yields-and-the-dollar",
+  "name": "News: Yields and the dollar",
+  "kind": "gdelt",
+  "group": "Macro",
+  "query": "(\"Treasury yields\" OR \"dollar index\" OR \"bond market\") sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22Treasury%20yields%22%20OR%20%22dollar%20index%22%20OR%20%22bond%20market%22%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-sec-and-crypto",
+  "name": "News: SEC and crypto",
+  "kind": "gdelt",
+  "group": "Policy",
+  "query": "SEC (crypto OR bitcoin OR ETF) sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=SEC%20%28crypto%20OR%20bitcoin%20OR%20ETF%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-cftc-and-prediction-markets",
+  "name": "News: CFTC and prediction markets",
+  "kind": "gdelt",
+  "group": "Policy",
+  "query": "(CFTC OR Kalshi OR Polymarket) sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28CFTC%20OR%20Kalshi%20OR%20Polymarket%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-sanctions",
+  "name": "News: Sanctions",
+  "kind": "gdelt",
+  "group": "Policy",
+  "query": "(OFAC OR \"Treasury sanctions\" OR FinCEN) sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28OFAC%20OR%20%22Treasury%20sanctions%22%20OR%20FinCEN%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-crypto-legislation",
+  "name": "News: Crypto legislation",
+  "kind": "gdelt",
+  "group": "Policy",
+  "query": "(\"CLARITY Act\" OR \"market structure bill\" OR \"stablecoin bill\" OR \"crypto bill\") sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22CLARITY%20Act%22%20OR%20%22market%20structure%20bill%22%20OR%20%22stablecoin%20bill%22%20OR%20%22crypto%20bill%22%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-white-house-and-crypto",
+  "name": "News: White House and crypto",
+  "kind": "gdelt",
+  "group": "Policy",
+  "query": "(\"White House\" OR Trump) (crypto OR bitcoin OR stablecoin) sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22White%20House%22%20OR%20Trump%29%20%28crypto%20OR%20bitcoin%20OR%20stablecoin%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-iran",
+  "name": "News: Iran",
+  "kind": "gdelt",
+  "group": "Geopolitics",
+  "query": "Iran (strikes OR explosions OR oil OR nuclear) sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran%20%28strikes%20OR%20explosions%20OR%20oil%20OR%20nuclear%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-oil",
+  "name": "News: Oil",
+  "kind": "gdelt",
+  "group": "Geopolitics",
+  "query": "(\"oil prices\" OR OPEC OR Brent) sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22oil%20prices%22%20OR%20OPEC%20OR%20Brent%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-china-trade",
+  "name": "News: China trade",
+  "kind": "gdelt",
+  "group": "Geopolitics",
+  "query": "China (tariffs OR \"trade talks\" OR \"export controls\") sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=China%20%28tariffs%20OR%20%22trade%20talks%22%20OR%20%22export%20controls%22%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-russia",
+  "name": "News: Russia",
+  "kind": "gdelt",
+  "group": "Geopolitics",
+  "query": "Russia (sanctions OR ceasefire) sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Russia%20%28sanctions%20OR%20ceasefire%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-hedge-funds",
+  "name": "News: Hedge funds",
+  "kind": "gdelt",
+  "group": "Money",
+  "query": "\"hedge fund\" (losses OR collapse OR \"blown up\" OR liquidation) sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22hedge%20fund%22%20%28losses%20OR%20collapse%20OR%20%22blown%20up%22%20OR%20liquidation%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-etf-flows",
+  "name": "News: ETF flows",
+  "kind": "gdelt",
+  "group": "Money",
+  "query": "(\"bitcoin ETF\" OR \"ether ETF\" OR \"crypto ETF\") (inflows OR outflows) sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22bitcoin%20ETF%22%20OR%20%22ether%20ETF%22%20OR%20%22crypto%20ETF%22%29%20%28inflows%20OR%20outflows%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-crypto-treasuries",
+  "name": "News: Crypto treasuries",
+  "kind": "gdelt",
+  "group": "Money",
+  "query": "(\"bitcoin treasury\" OR \"buys bitcoin\" OR \"BTC holdings\") sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22bitcoin%20treasury%22%20OR%20%22buys%20bitcoin%22%20OR%20%22BTC%20holdings%22%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-hacks-and-exploits",
+  "name": "News: Hacks and exploits",
+  "kind": "gdelt",
+  "group": "Crypto",
+  "query": "crypto (hack OR exploit OR stolen OR breach) sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=crypto%20%28hack%20OR%20exploit%20OR%20stolen%20OR%20breach%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-exchanges",
+  "name": "News: Exchanges",
+  "kind": "gdelt",
+  "group": "Crypto",
+  "query": "(Binance OR Coinbase OR Kraken OR OKX OR Bybit) sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28Binance%20OR%20Coinbase%20OR%20Kraken%20OR%20OKX%20OR%20Bybit%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ }
+]
