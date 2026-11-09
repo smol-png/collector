@@ -13494,5 +13494,16 @@
   "market": "Other",
   "event": "e1106",
   "by": "rules"
+ },
+ "a11f8920e083ed3d": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1107",
+  "by": "rules"
  }
 }
