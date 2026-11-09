@@ -23089,5 +23089,32 @@
   "market": "Macro",
   "event": "e1575",
   "by": "rules"
+ },
+ "5345e18d688e0941": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1744",
+  "by": "rules"
+ },
+ "9f38b07007ea9a6b": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1745",
+  "by": "rules"
+ },
+ "6c23e0efb85a64f3": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1746",
+  "by": "rules"
  }
 }
