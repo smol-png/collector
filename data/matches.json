@@ -15196,5 +15196,17 @@
   "market": "Stocks",
   "event": "e1239",
   "by": "rules"
+ },
+ "1be8f9e0a64c34d8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": 81.9,
+  "market": "Crypto",
+  "event": "e1229",
+  "by": "rules"
  }
 }
