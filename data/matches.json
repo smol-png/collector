@@ -20843,5 +20843,70 @@
   "market": "Prediction markets",
   "event": "e1585",
   "by": "rules"
+ },
+ "984789f570e8b32d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1358",
+  "by": "rules"
+ },
+ "982ffea96f51a4a2": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1608",
+  "by": "rules"
+ },
+ "253b77c5e5ca2802": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 24000.0,
+  "market": "AI",
+  "event": "e240",
+  "by": "rules"
+ },
+ "c6c73e4842f86176": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1609",
+  "by": "rules"
+ },
+ "0ae84bf05ff5f72c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1610",
+  "by": "rules"
+ },
+ "ad4fcffcc70985ba": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1357",
+  "by": "rules"
+ },
+ "724ead662218ad30": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1611",
+  "by": "rules"
  }
 }
