@@ -22818,5 +22818,25 @@
   "market": "AI",
   "event": "e1733",
   "by": "rules"
+ },
+ "2d186760c6701ab2": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1734",
+  "by": "rules"
+ },
+ "48491b021c0ce7ea": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e1722",
+  "by": "rules"
  }
 }
