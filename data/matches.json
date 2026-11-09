@@ -14321,5 +14321,25 @@
   "market": "AI",
   "event": "e1167",
   "by": "rules"
+ },
+ "6eb2c1fdaf372197": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e369",
+  "by": "rules"
+ },
+ "92545fcadaae3f15": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1155",
+  "by": "rules"
  }
 }
