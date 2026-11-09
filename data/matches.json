@@ -18494,5 +18494,17 @@
   "market": "Crypto",
   "event": "e1458",
   "by": "rules"
+ },
+ "1cc23152586fa6c2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "COIN",
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1371",
+  "by": "rules"
  }
 }
