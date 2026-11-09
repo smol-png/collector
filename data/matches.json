@@ -16672,5 +16672,16 @@
   "market": "Crypto",
   "event": "e1341",
   "by": "rules"
+ },
+ "669fcb90701db97d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1125",
+  "by": "rules"
  }
 }
