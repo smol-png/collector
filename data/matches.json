@@ -19250,5 +19250,16 @@
   "market": "Macro",
   "event": "e1163",
   "by": "rules"
+ },
+ "86e5a54a7f35b736": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1220",
+  "by": "rules"
  }
 }
