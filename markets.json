@@ -1,0 +1,58 @@
+{
+ "_note": "Perpl markets and the news that moves them. 'direct' = the asset itself (case-insensitive regex), 'ticker' = exact uppercase symbol, 'drivers' = subjects that typically move it. Add a market by copying an entry.",
+ "markets": [
+  {"id": "BTC", "name": "Bitcoin", "direct": "bitcoin|\\bbtc\\b|saylor|microstrategy|\\bmstr\\b|bitcoin treasury|bitcoin miners?",
+   "drivers": [
+    {"label": "Fed & rates", "rx": "federal reserve|\\bfed\\b|fomc|powell|rate (cut|hike)s?|interest rates?|inflation|\\bcpi\\b|jobs report|payrolls"},
+    {"label": "ETF flows", "rx": "\\betfs?\\b.*(inflow|outflow|flows)|(inflow|outflow)s?.*\\betfs?\\b"},
+    {"label": "Dollar & yields", "rx": "dollar index|\\bdollar\\b|treasury yields?|bond yields?"},
+    {"label": "Risk mood", "rx": "nasdaq|s&p 500|wall street|stocks? (sell-?off|rally|plunge|tumble)|ai stocks|nvidia"},
+    {"label": "Crypto regulation", "rx": "\\bsec\\b.*crypto|cftc|clarity act|market structure bill|stablecoin bill|crypto bill"},
+    {"label": "Liquidations", "rx": "liquidat"}]},
+  {"id": "ETH", "name": "Ethereum", "direct": "ethereum|\\bether\\b|\\beth\\b|vitalik|buterin|glamsterdam|layer[- ]2|\\bl2s?\\b",
+   "drivers": [
+    {"label": "ETF flows", "rx": "\\betfs?\\b.*(inflow|outflow|flows)|(inflow|outflow)s?.*\\betfs?\\b"},
+    {"label": "Fed & rates", "rx": "federal reserve|\\bfed\\b|fomc|powell|rate (cut|hike)s?|inflation|\\bcpi\\b"},
+    {"label": "Crypto regulation", "rx": "\\bsec\\b.*crypto|cftc|clarity act|market structure bill|stablecoin bill|crypto bill"},
+    {"label": "Liquidations", "rx": "liquidat"}]},
+  {"id": "MON", "name": "Monad", "ticker": "MON", "direct": "\\bmonad\\b|keone|\\$mon\\b",
+   "drivers": [{"label": "Monad ecosystem", "rx": "\\bperpl\\b|monad (ecosystem|mainnet|chain|network)"}]},
+  {"id": "HYPE", "name": "Hyperliquid", "ticker": "HYPE", "direct": "hyperliquid|\\$hype\\b",
+   "drivers": [{"label": "Perp DEXs", "rx": "perp(etual)? dex|perpetual futures exchange|\\blighter\\b|\\baster\\b|dydx"}]},
+  {"id": "LIT", "name": "Lighter", "ticker": "LIT", "direct": "\\blighter\\b(?! than)|\\$lit\\b",
+   "drivers": [{"label": "Perp DEXs", "rx": "perp(etual)? dex|perpetual futures exchange|hyperliquid|\\baster\\b|dydx"}]},
+  {"id": "SOL", "name": "Solana", "ticker": "SOL", "direct": "solana|\\$sol\\b",
+   "drivers": [
+    {"label": "ETF flows", "rx": "solana etf|sol etf"},
+    {"label": "Memecoins", "rx": "memecoins?|meme coins?|pump\\.?fun"}]},
+  {"id": "PUMP", "name": "Pump.fun", "ticker": "PUMP", "direct": "pump\\.?fun|\\$pump\\b",
+   "drivers": [{"label": "Memecoins", "rx": "memecoins?|meme coins?|launchpad"}, {"label": "Solana", "rx": "solana"}]},
+  {"id": "ZEC", "name": "Zcash", "direct": "zcash|\\bzec\\b",
+   "drivers": [{"label": "Privacy coins", "rx": "privacy coins?|privacy tokens?|monero|\\bxmr\\b|tornado cash|crypto mixers?"}]},
+  {"id": "NEAR", "name": "NEAR", "ticker": "NEAR", "direct": "near protocol|near foundation|\\$near\\b|illia polosukhin",
+   "drivers": [{"label": "AI agents", "rx": "ai agents?|agentic|decentralized ai"}]},
+  {"id": "VVV", "name": "Venice", "ticker": "VVV", "direct": "venice\\.ai|venice ai|\\$vvv\\b",
+   "drivers": [{"label": "AI tokens", "rx": "ai tokens?|decentralized ai|ai crypto|private ai"}]},
+  {"id": "UNI", "name": "Uniswap", "ticker": "UNI", "direct": "uniswap|\\$uni\\b",
+   "drivers": [{"label": "DeFi", "rx": "\\bdefi\\b|\\bdexs?\\b|fee switch"}, {"label": "Crypto regulation", "rx": "\\bsec\\b.*(defi|crypto)|clarity act|market structure bill"}]},
+  {"id": "GOLD", "name": "Gold", "soon": true, "direct": "\\bgold\\b(?! ?man)|bullion|\\bxau\\b",
+   "drivers": [
+    {"label": "Fed & rates", "rx": "federal reserve|\\bfed\\b|fomc|powell|rate (cut|hike)s?|inflation|real yields"},
+    {"label": "Dollar", "rx": "dollar index|\\bdollar\\b"},
+    {"label": "Geopolitics", "rx": "\\bwar\\b|strikes?|missiles?|iran|israel|russia|ukraine|sanctions"},
+    {"label": "Central banks buying", "rx": "central banks?.*(buy|purchas|reserves)"}]},
+  {"id": "OIL", "name": "Oil", "soon": true, "direct": "\\boil\\b|crude|brent|\\bwti\\b|opec",
+   "drivers": [
+    {"label": "Middle East", "rx": "iran|iraq|saudi|aramco|hormuz|qatar|israel|houthis?|red sea"},
+    {"label": "Russia", "rx": "russia|ukraine"},
+    {"label": "Demand", "rx": "china (economy|demand|imports)|recession|tariffs?"}]},
+  {"id": "SILVER", "name": "Silver", "soon": true, "direct": "\\bsilver\\b|\\bxag\\b",
+   "drivers": [{"label": "Fed & rates", "rx": "federal reserve|\\bfed\\b|powell|rate (cut|hike)s?|inflation"}, {"label": "Industrial demand", "rx": "solar panels?|industrial metals?"}]},
+  {"id": "EQUITIES", "name": "Equities", "soon": true, "direct": "s&p 500|nasdaq|dow jones|\\bstocks?\\b|wall street|equities",
+   "drivers": [
+    {"label": "Fed & rates", "rx": "federal reserve|\\bfed\\b|fomc|powell|rate (cut|hike)s?|inflation|\\bcpi\\b|jobs report"},
+    {"label": "Earnings", "rx": "earnings|quarterly results|guidance"},
+    {"label": "AI trade", "rx": "nvidia|ai stocks|ai spending|data cent(er|re)s?|openai|anthropic"},
+    {"label": "Trade & tariffs", "rx": "tariffs?|trade (war|deal|truce)"}]}
+ ]
+}

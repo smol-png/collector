@@ -255,7 +255,7 @@ select.chip{appearance:none;padding-right:34px;background-color:var(--panel);bac
 .fwrap{gap:0;padding:28px 40px 120px}
 .fsearch{display:flex;align-items:center;gap:12px;min-height:54px;padding:0 18px;border-radius:14px;background:rgba(18,13,36,.75);color:var(--faint)}
 .fsearch input{flex:1;min-width:0;background:transparent;border:0;outline:0;color:#FFFFFF;font-size:16px}
-.ftabs{display:grid;grid-template-columns:1fr 1fr 1fr;gap:6px;margin:12px 0 8px;padding:5px;border-radius:16px;background:rgba(18,13,36,.75)}
+.ftabs{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin:12px 0 8px;padding:5px;border-radius:16px;background:rgba(18,13,36,.75)}
 .ftabs button{min-height:52px;border:0;border-radius:12px;background:transparent;color:var(--muted);font:600 13px var(--mono);letter-spacing:.26em;text-transform:uppercase;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:10px}
 .ftabs button:hover{color:#FFFFFF}
 .ftabs button[aria-selected="true"]{background:var(--purple);color:#FFFFFF}
@@ -531,6 +531,38 @@ body.tl .full{margin:14px}
 .flag.brk{box-shadow:inset 0 0 0 1px rgba(255,255,255,.85)}
 .flag.brk::before{display:none}
 .flag.brk.first{box-shadow:inset 0 0 0 1px rgba(255,255,255,.75)}
+
+/* Markets tab */
+.mgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:10px;margin:6px 0 18px}
+.mcard{display:flex;flex-direction:column;gap:8px;text-align:left;padding:14px 16px;border-radius:14px;border:0;cursor:pointer;color:#FFFFFF;background:rgba(18,13,36,.75);box-shadow:inset 0 0 0 1px rgba(156,150,255,.18)}
+.mcard:hover{box-shadow:inset 0 0 0 1px rgba(156,150,255,.45)}
+.mcard.on{background:rgba(40,28,92,.9);box-shadow:inset 0 0 0 1.5px #FFFFFF}
+.mcard.soon{opacity:.72}
+.mcap{display:flex;align-items:baseline;gap:8px}
+.mcap b{font-size:20px;font-weight:800;letter-spacing:.01em}
+.mcap span{font-size:13px;color:var(--muted)}
+.mcap i{margin-left:auto;font:600 10px var(--mono);letter-spacing:.16em;text-transform:uppercase;font-style:normal;color:#C9C4FF;padding:2px 6px;border-radius:5px;box-shadow:inset 0 0 0 1px rgba(156,150,255,.5)}
+.mnums{display:flex;flex-wrap:wrap;gap:4px 12px;font:400 12px var(--mono);color:var(--muted)}
+.mnums b{color:#FFFFFF;font-weight:700}
+.mnums .mbrk b{color:#FFFFFF}.mnums .mbrk{color:#D6D2FF}
+.mhead{font-size:13px;line-height:1.4;color:#C9C6D4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.mfeedhead{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;margin:6px 2px 4px}
+.mfeedhead h2{margin:0;font-size:22px;font-weight:800;color:#FFFFFF}
+.mfeedhead h2 span{font-size:14px;font-weight:400;color:var(--muted);margin-left:6px}
+.seg2{display:flex;gap:4px;padding:4px;border-radius:12px;background:rgba(18,13,36,.75)}
+.seg2 button{min-height:36px;padding:0 12px;border:0;border-radius:9px;background:transparent;color:var(--muted);font-weight:500;cursor:pointer}
+.seg2 button[aria-pressed="true"]{background:var(--purple);color:#FFFFFF}
+.mexplain{margin:2px 2px 10px;font-size:13px;color:var(--muted)}
+.mexplain b{color:#FFFFFF;font-weight:600}
+.why{display:inline-flex;align-items:center;margin-right:8px;padding:3px 8px;border-radius:6px;font:700 10px/1.2 var(--mono);letter-spacing:.12em;text-transform:uppercase;vertical-align:3px;white-space:nowrap}
+.why.dir{background:#FFFFFF;color:#1E1A2B}
+.why.drv{color:#C9C4FF;box-shadow:inset 0 0 0 1px rgba(156,150,255,.45)}
+@media (max-width:640px){
+  .ftabs button{letter-spacing:.06em;font-size:11px;gap:5px;padding:0 4px}
+  .mgrid{display:flex;overflow-x:auto;scrollbar-width:none;margin:4px -12px 14px;padding:2px 12px}
+  .mgrid::-webkit-scrollbar{display:none}
+  .mcard{flex:none;width:190px}
+}
 </style>
 </head>
 <body>
@@ -949,11 +981,12 @@ function openCard(e, rank) {
     ${side ? `<aside class="oside">${side}</aside>` : ""}
   </div>`;
 }
-function lineRow(e, rank) {
+function lineRow(e, rank, why) {
   const open = st.tl.open.has(e.id), posted = st.posted.includes(e.id), c = clusterOf(e);
   if (open) return `<li class="line open" id="row-${e.id}">${openCard(e, rank)}</li>`;
   const tier = Math.min(e.outlets, 3);
-  const head = `<span class="hl">${flagOf(e)}<span class="h o${tier}">${esc(headline(e))}${posted ? '<span class="posted">Posted</span>' : ""}</span></span>`;
+  const whyChip = why ? (why.kind === "direct" ? `<span class="why dir">Direct</span>` : `<span class="why drv">Driver · ${esc(why.label)}</span>`) : "";
+  const head = `<span class="hl">${whyChip}${flagOf(e)}<span class="h o${tier}">${esc(headline(e))}${posted ? '<span class="posted">Posted</span>' : ""}</span></span>`;
   const num = `<span class="num c-out o${tier}"><b>${e.outlets}</b><span>${e.outlets === 1 ? "outlet" : "outlets"}</span></span>`;
   const btn = rank ? `<button type="button" class="lrow hrow" data-line="${e.id}" aria-expanded="false">
       ${badges2(e)}${head}
@@ -969,6 +1002,49 @@ function gotoEvent(id) {
   const el = document.getElementById("row-" + id); if (el) el.scrollIntoView({block: "start", behavior: "smooth"});
 }
 const dateLabel = iso => new Date(iso).toLocaleDateString([], {weekday: "short", day: "numeric", month: "short"});
+// ---------- Markets: which stories relate to each Perpl market ----------
+const MKT_CFG = () => (H.markets || []).map(m => ({...m,
+  _d: new RegExp(m.direct, "i"), _t: m.ticker ? new RegExp("(^|[^A-Za-z])\\$?" + m.ticker + "(?![A-Za-z])") : null,
+  _r: (m.drivers || []).map(d => ({label: d.label, rx: new RegExp(d.rx, "i")}))}));
+const textOf = e => [e.title, ...e.lane.map(o => o.title)].join("  ");
+function relOf(m, e) {
+  const t = textOf(e);
+  if ((e.tickers || []).includes(m.id) || m._d.test(t) || (m._t && m._t.test(t))) return {kind: "direct"};
+  const d = m._r.find(x => x.rx.test(t));
+  return d ? {kind: "driver", label: d.label} : null;
+}
+function marketsData(base) {
+  const recent = base.filter(e => ref() - Date.parse(lastUpd(e)) <= 2 * 864e5);
+  return MKT_CFG().map(m => {
+    const rel = recent.map(e => ({e, r: relOf(m, e)})).filter(x => x.r);
+    const day = rel.filter(x => ref() - Date.parse(lastUpd(x.e)) <= 864e5);
+    const direct = day.filter(x => x.r.kind === "direct").length, drivers = day.length - direct;
+    const brk = day.filter(x => breakingKind(x.e)).length;
+    const top = rel.slice().sort((a, b) => (a.r.kind === "direct" ? 0 : 1) - (b.r.kind === "direct" ? 0 : 1) || b.e.outlets - a.e.outlets || (lastUpd(a.e) < lastUpd(b.e) ? 1 : -1))[0];
+    return {m, rel, direct, drivers, brk, top, heat: (m.soon ? -1000 : 0) + direct * 3 + drivers + brk * 5};
+  }).sort((a, b) => b.heat - a.heat);
+}
+function marketsView(base) {
+  const data = marketsData(base);
+  if (!data.length) return `<div class="dnote">No markets configured yet. Add them to markets.json.</div>`;
+  const sel = data.find(x => x.m.id === st.tl.market) || data[0];
+  st.tl.market = sel.m.id;
+  const cards = data.map(x => `<button type="button" class="mcard${x.m.id === sel.m.id ? " on" : ""}${x.m.soon ? " soon" : ""}" data-mkt="${esc(x.m.id)}" aria-pressed="${x.m.id === sel.m.id}">
+      <span class="mcap"><b>${esc(x.m.id)}</b><span>${esc(x.m.name)}</span>${x.m.soon ? `<i>Soon</i>` : ""}</span>
+      <span class="mnums"><span><b>${x.direct}</b> direct</span><span><b>${x.drivers}</b> drivers</span>${x.brk ? `<span class="mbrk"><b>${x.brk}</b> breaking</span>` : ""}</span>
+      <span class="mhead">${x.top ? esc(headline(x.top.e)) : "No related news in the last 48 hours."}</span></button>`).join("");
+  const only = st.tl.directOnly;
+  // drivers: one line per ongoing story (its latest development); direct stories keep every development
+  const seenThread = new Set();
+  const rows = sel.rel.filter(x => !only || x.r.kind === "direct").sort((a, b) => lastUpd(a.e) < lastUpd(b.e) ? 1 : -1)
+    .filter(x => { if (x.r.kind === "direct") return true; const k = x.e.thread || x.e.id; if (seenThread.has(k)) return false; seenThread.add(k); return true; });
+  const feed = rows.length ? `<ol class="lines">${rows.slice(0, 120).map(x => lineRow(x.e, 0, x.r)).join("")}</ol>`
+    : `<div class="dnote">${only ? "No stories about " + esc(sel.m.name) + " itself in the last 48 hours." : "No related news in the last 48 hours."}</div>`;
+  return `<div class="mgrid" role="group" aria-label="Perpl markets">${cards}</div>
+    <div class="mfeedhead"><h2>${esc(sel.m.id)} <span>${esc(sel.m.name)}${sel.m.soon ? ", coming soon to Perpl" : ""}</span></h2>
+      <div class="seg2" role="group" aria-label="Which stories"><button type="button" data-donly="0" aria-pressed="${!only}">Direct and drivers</button><button type="button" data-donly="1" aria-pressed="${!!only}">Direct only</button></div></div>
+    <p class="mexplain">Last 48 hours. <b>Direct</b> stories are about ${esc(sel.m.name)} itself; <b>drivers</b> are subjects that typically move it.</p>${feed}`;
+}
 function brandBar(r) {
   const fh = feedHealth();
   return `<header class="tbrand"><a class="brand" href="#timeline">${mark(34)}Collector</a>
@@ -1047,12 +1123,13 @@ function timeline() {
   const nBreaking = base.filter(e => breakingKind(e)).length;
   const top = brandBar("timeline") + `
     <label class="fsearch${st.q ? " filled" : ""}">${icon("search", 20)}<span class="sr">Search</span><span class="caret" aria-hidden="true"></span><input id="q" type="search" placeholder="Search stories, tickers, markets" value="${esc(st.q)}" autocomplete="off"></label>
-    <div class="ftabs" role="tablist" aria-label="View"><button type="button" role="tab" data-tltab="recent" aria-selected="${T.tab === "recent"}"><span class="livedot" aria-hidden="true"></span>Live</button><button type="button" role="tab" data-tltab="breaking" aria-selected="${T.tab === "breaking"}">Breaking${nBreaking ? `<span class="tabn">${nBreaking}</span>` : ""}</button><button type="button" role="tab" data-tltab="hot" aria-selected="${T.tab === "hot"}">Hot 24h</button></div>`;
+    <div class="ftabs" role="tablist" aria-label="View"><button type="button" role="tab" data-tltab="recent" aria-selected="${T.tab === "recent"}"><span class="livedot" aria-hidden="true"></span>Live</button><button type="button" role="tab" data-tltab="breaking" aria-selected="${T.tab === "breaking"}">Breaking${nBreaking ? `<span class="tabn">${nBreaking}</span>` : ""}</button><button type="button" role="tab" data-tltab="hot" aria-selected="${T.tab === "hot"}">Hot 24h</button><button type="button" role="tab" data-tltab="markets" aria-selected="${T.tab === "markets"}">Markets</button></div>`;
   const pill = st.pending ? `<button type="button" class="newpill" data-applynew>${st.pending.n} new or updated ${st.pending.n === 1 ? "story" : "stories"}</button>` : "";
   // Hot = every story with new coverage in the last 24 hours, even if it first broke earlier
   const pool = T.tab === "hot" ? base.filter(e => ref() - Date.parse(lastUpd(e)) <= 864e5)
     : T.tab === "breaking" ? base.filter(e => breakingKind(e)) : base;
   const bar = filterBar(pool), shown = pool.filter(e => passMk(e) && passTp(e) && passMj(e) && passSt(e));
+  if (T.tab === "markets") return top + pill + marketsView(base);
   if (T.tab === "breaking") {
     const brk = shown.slice().sort((a, b) => a.first < b.first ? 1 : -1);
     const html = `<ol class="lines">${brk.map(e => lineRow(e, 1)).join("")}</ol>`;
@@ -1116,6 +1193,8 @@ document.addEventListener("click", ev => {
     if ("fmajor" in d) { TF.major = !TF.major; saveF(); render(); return; } }
   const d = t.dataset, L = st.lab, F = st.filters, r = route();
   const flip = (arr, v) => arr.includes(v) ? arr.filter(x => x !== v) : [...arr, v];
+  if (d.mkt) { st.tl.market = d.mkt; st.tl.open.clear(); render(); return; }
+  if (d.donly) { st.tl.directOnly = d.donly === "1"; render(); return; }
   if (d.tltab) { st.tl.tab = d.tltab; store.set("tltab", d.tltab); st.tl.open.clear(); render(); $("fscroll").scrollTop = 0; return; }
   if (d.line) { st.tl.open.has(d.line) ? st.tl.open.delete(d.line) : st.tl.open.add(d.line); render(); return; }
   if (d.goto) { gotoEvent(d.goto); return; }

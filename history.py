@@ -167,6 +167,7 @@ def run():
                    "storylines": len(storylines)},
         "types": dict(Counter(matches[i["id"]]["type"] for i in items)),
         "events": events, "storylines": storylines, "outlets": outlets,
+        "markets": (json.loads((ROOT / "markets.json").read_text()) if (ROOT / "markets.json").exists() else {}).get("markets", []),
         "headlines": [{"source": i["source"], "source_name": i.get("source_name"), "via": i.get("via"), "title": i["title"], "link": i["link"], "published": when(i), "summary": (i.get("summary") or "")[:400],
                        "type": matches[i["id"]]["type"], "category": matches[i["id"]]["category"],
                        "market": matches[i["id"]].get("market", "Other"),
