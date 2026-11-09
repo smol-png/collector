@@ -21789,5 +21789,35 @@
   "market": "Stocks",
   "event": "e1668",
   "by": "rules"
+ },
+ "9dcfa70849ef6a85": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1665",
+  "by": "rules"
+ },
+ "da8dfb2d1d3ace29": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "GOOGL",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1669",
+  "by": "rules"
+ },
+ "b7ee00050bd3c544": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e1670",
+  "by": "rules"
  }
 }
