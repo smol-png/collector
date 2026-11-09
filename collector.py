@@ -23,6 +23,8 @@ ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 UA = "crypto-wire-pilot/0.1 (+personal news research; polls every 5 min)"
 SEEN_DAYS = 14
+GDELT_PER_RUN = 5      # topics per 5-minute run: all 25 refresh about every 25 minutes
+GDELT_PAUSE = 7        # seconds between GDELT requests
 
 
 def now_utc():
@@ -197,11 +199,19 @@ def run():
     new_items, health = [], []
 
     trusted_only, trusted = load_trusted()
+    # GDELT refuses rapid bursts (HTTP 429), so each run asks only a rotating handful of topics.
+    gd = [f for f in feeds if f.get("kind") == "gdelt" and not f.get("disabled")]
+    cur = state.get("_gdelt", {}).get("cursor", 0) % max(len(gd), 1)
+    gd_now = {f["id"] for f in (gd[cur:] + gd[:cur])[:GDELT_PER_RUN]}
+    state["_gdelt"] = {"cursor": (cur + GDELT_PER_RUN) % max(len(gd), 1)}
+    gd_blocked = False
     for feed in feeds:
         if feed.get("disabled"):
             continue
         if feed.get("kind") == "gdelt":
-            time.sleep(2)   # GDELT asks for gentle request rates
+            if feed["id"] not in gd_now or gd_blocked:
+                continue
+            time.sleep(GDELT_PAUSE)
         rec = {"ts": iso(t), "source": feed["id"], "status": "error",
                "http": None, "ms": None, "entries": 0, "new": 0, "error": None}
         try:
@@ -233,6 +243,8 @@ def run():
                     st["newest_item"] = newest
             else:
                 rec["error"] = f"HTTP {r.status_code}"
+                if r.status_code == 429 and feed.get("kind") == "gdelt":
+                    gd_blocked = True   # back off: skip the rest of this run's GDELT topics
         except requests.RequestException as ex:
             rec["error"] = type(ex).__name__ + ": " + str(ex)[:200]
         if rec["status"] in ("ok", "unchanged"):
