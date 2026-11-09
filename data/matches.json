@@ -19688,5 +19688,36 @@
   "market": "Other",
   "event": "e1536",
   "by": "rules"
+ },
+ "7d89a6779f211a7d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1537",
+  "by": "rules"
+ },
+ "adb85f59daf8da0a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1538",
+  "by": "rules"
+ },
+ "2eb0d626b8b388ca": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1539",
+  "by": "rules"
  }
 }
