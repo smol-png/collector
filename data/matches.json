@@ -13384,5 +13384,97 @@
   "market": "Crypto",
   "event": "e1097",
   "by": "rules"
+ },
+ "e944eb42c6b93749": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1098",
+  "by": "rules"
+ },
+ "4fe7e17dbcb81c45": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e939",
+  "by": "rules"
+ },
+ "1809ac3119a26457": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1099",
+  "by": "rules"
+ },
+ "ee6355dcea02d7a5": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1100",
+  "by": "rules"
+ },
+ "67cabf46b80dc15b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 2200.0,
+  "market": "Other",
+  "event": "e1101",
+  "by": "rules"
+ },
+ "f8909b793642923a": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1102",
+  "by": "rules"
+ },
+ "efcde08177a88893": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1103",
+  "by": "rules"
+ },
+ "df3fb0d5a4440b47": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1104",
+  "by": "rules"
+ },
+ "830c45d89fdc131c": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1059",
+  "by": "rules"
+ },
+ "2f07541a62f4d531": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1105",
+  "by": "rules"
  }
 }
