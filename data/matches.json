@@ -20946,5 +20946,88 @@
   "market": "Stocks",
   "event": "e887",
   "by": "rules"
+ },
+ "7753be00fd7561ae": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1614",
+  "by": "rules"
+ },
+ "d68c775e428e729b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1615",
+  "by": "rules"
+ },
+ "9301a3980b93012c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1616",
+  "by": "rules"
+ },
+ "e15ed8822008b735": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1617",
+  "by": "rules"
+ },
+ "35e045f851c35072": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1618",
+  "by": "rules"
+ },
+ "350270746657678a": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1619",
+  "by": "rules"
+ },
+ "6d6e5ecd39a0a182": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1620",
+  "by": "rules"
+ },
+ "374db0e7e4f864cb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1225",
+  "by": "rules"
+ },
+ "42972240a8f68072": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1621",
+  "by": "rules"
  }
 }
