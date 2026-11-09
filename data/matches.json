@@ -20738,5 +20738,34 @@
   "market": "AI",
   "event": "e1602",
   "by": "rules"
+ },
+ "b273d2270e32fb48": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1592",
+  "by": "rules"
+ },
+ "acb28de92cedd891": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1603",
+  "by": "rules"
+ },
+ "34493c1aca9db005": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ADA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1604",
+  "by": "rules"
  }
 }
