@@ -19317,5 +19317,25 @@
   "market": "Prediction markets",
   "event": "e1504",
   "by": "rules"
+ },
+ "51d83d20ffde9a5b": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1058",
+  "by": "rules"
+ },
+ "49293d17dcce40fa": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1516",
+  "by": "rules"
  }
 }
