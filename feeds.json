@@ -2,40 +2,47 @@
  {
   "id": "coindesk",
   "name": "CoinDesk",
-  "url": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+  "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+  "fast": true
  },
  {
   "id": "cointelegraph",
   "name": "CoinTelegraph",
-  "url": "https://cointelegraph.com/rss"
+  "url": "https://cointelegraph.com/rss",
+  "fast": true
  },
  {
   "id": "theblock",
   "name": "The Block",
   "url": "https://www.theblock.co/rss.xml",
-  "pages": "https://www.theblock.co/rss.xml?paged={n}"
+  "pages": "https://www.theblock.co/rss.xml?paged={n}",
+  "fast": true
  },
  {
   "id": "decrypt",
   "name": "Decrypt",
-  "url": "https://decrypt.co/feed"
+  "url": "https://decrypt.co/feed",
+  "fast": true
  },
  {
   "id": "thedefiant",
   "name": "The Defiant",
-  "url": "https://thedefiant.io/feed"
+  "url": "https://thedefiant.io/feed",
+  "fast": true
  },
  {
   "id": "bitcoinmagazine",
   "name": "Bitcoin Magazine",
   "url": "https://bitcoinmagazine.com/feed",
-  "pages": "https://bitcoinmagazine.com/feed?paged={n}"
+  "pages": "https://bitcoinmagazine.com/feed?paged={n}",
+  "fast": true
  },
  {
   "id": "cryptoslate",
   "name": "CryptoSlate",
   "url": "https://cryptoslate.com/feed/",
-  "pages": "https://cryptoslate.com/feed/?paged={n}"
+  "pages": "https://cryptoslate.com/feed/?paged={n}",
+  "fast": true
  },
  {
   "id": "dlnews",
@@ -50,14 +57,16 @@
   "name": "Unchained",
   "url": "https://unchainedcrypto.com/feed/",
   "pages": "https://unchainedcrypto.com/feed/?paged={n}",
-  "unverified": true
+  "unverified": true,
+  "fast": true
  },
  {
   "id": "cryptonews",
   "name": "crypto.news",
   "url": "https://crypto.news/feed/",
   "pages": "https://crypto.news/feed/?paged={n}",
-  "unverified": true
+  "unverified": true,
+  "fast": true
  },
  {
   "id": "gd-anthropic",
@@ -346,5 +355,85 @@
   "group": "Macro",
   "query": "(\"debt ceiling\" OR \"government shutdown\" OR \"Treasury auction\" OR \"credit rating\" OR downgrade) sourcelang:english",
   "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22debt%20ceiling%22%20OR%20%22government%20shutdown%22%20OR%20%22Treasury%20auction%22%20OR%20%22credit%20rating%22%20OR%20downgrade%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "fed",
+  "name": "Federal Reserve",
+  "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+  "group": "Official",
+  "kind": "rss",
+  "fast": true
+ },
+ {
+  "id": "sec",
+  "name": "SEC",
+  "url": "https://www.sec.gov/news/pressreleases.rss",
+  "group": "Official",
+  "kind": "rss",
+  "fast": true
+ },
+ {
+  "id": "cftc",
+  "name": "CFTC",
+  "url": "https://www.cftc.gov/RSS/RSSGP/rssgp.xml",
+  "group": "Official",
+  "kind": "rss",
+  "fast": true
+ },
+ {
+  "id": "treasury",
+  "name": "US Treasury",
+  "url": "https://home.treasury.gov/news/press-releases/feed",
+  "group": "Official",
+  "kind": "rss",
+  "fast": true
+ },
+ {
+  "id": "ofac",
+  "name": "OFAC",
+  "url": "https://ofac.treasury.gov/recent-actions/rss.xml",
+  "group": "Official",
+  "kind": "rss",
+  "fast": true
+ },
+ {
+  "id": "whitehouse",
+  "name": "White House",
+  "url": "https://www.whitehouse.gov/news/feed/",
+  "group": "Official",
+  "kind": "rss",
+  "fast": true
+ },
+ {
+  "id": "truth-trump",
+  "name": "Trump on Truth Social",
+  "url": "https://truthsocial.com/@realDonaldTrump.rss",
+  "group": "Official",
+  "kind": "rss",
+  "fast": true
+ },
+ {
+  "id": "truth-archive",
+  "name": "Trump's Truth (archive)",
+  "url": "https://trumpstruth.org/feed",
+  "group": "Official",
+  "kind": "rss",
+  "fast": true
+ },
+ {
+  "id": "coinbase-blog",
+  "name": "Coinbase",
+  "url": "https://www.coinbase.com/blog/rss.xml",
+  "group": "Exchanges",
+  "kind": "rss",
+  "fast": true
+ },
+ {
+  "id": "kraken-blog",
+  "name": "Kraken",
+  "url": "https://blog.kraken.com/feed",
+  "group": "Exchanges",
+  "kind": "rss",
+  "fast": true
  }
 ]

@@ -1,7 +1,5 @@
-name: Collect headlines
+name: Collect headlines (manual one-off)
 on:
-  schedule:
-    - cron: "*/5 * * * *"     # every 5 minutes (GitHub may run it a few minutes late)
   workflow_dispatch:          # lets you press "Run workflow" by hand
 permissions:
   contents: write

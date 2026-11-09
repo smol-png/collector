@@ -66,6 +66,10 @@ Run **Actions → Backfill a week of history → Run workflow** once (or `python
 
 Google News was considered and dropped: its site rules disallow automated readers.
 
+## Live mode (default)
+
+`.github/workflows/live.yml` keeps Collector running around the clock: each run checks the direct feeds (outlets, official sources, Truth Social) every minute and GDELT every five minutes for about 55 minutes, labels new headlines, pushes them, asks for a dashboard rebuild at most every 10 minutes, then starts its own next run. An hourly schedule restarts the chain if it ever breaks. `collect.yml` is kept for manual one-off runs.
+
 ## Good to know
 
 - DL News is switched off in `feeds.json` (its feed was frozen when checked on 8 Nov). Unchained and crypto.news are new and not yet confirmed. Check the Feeds panel after the first run and remove any that show red.

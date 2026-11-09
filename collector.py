@@ -21,7 +21,7 @@ import requests
 
 ROOT = Path(__file__).parent
 DATA = ROOT / "data"
-UA = "crypto-wire-pilot/0.1 (+personal news research; polls every 5 min)"
+UA = "Collector news monitor (github.com/smol-png/collector; collector@users.noreply.github.com)"
 SEEN_DAYS = 14
 GDELT_PER_RUN = 6      # topics per 5-minute run: all 36 refresh about every 30 minutes
 GDELT_PAUSE = 7        # seconds between GDELT requests
@@ -190,7 +190,8 @@ def items_from_entries(feed, entries, seen, t):
     return found, newest
 
 
-def run():
+def run(include_gdelt=True, write_health=True):
+    """One pass over the feeds. Fast mode (include_gdelt=False) checks only the direct feeds."""
     feeds = load_json(ROOT / "feeds.json", [])
     state = load_json(DATA / "state.json", {})
     seen = load_json(DATA / "seen.json", {})
@@ -203,13 +204,14 @@ def run():
     gd = [f for f in feeds if f.get("kind") == "gdelt" and not f.get("disabled")]
     cur = state.get("_gdelt", {}).get("cursor", 0) % max(len(gd), 1)
     gd_now = {f["id"] for f in (gd[cur:] + gd[:cur])[:GDELT_PER_RUN]}
-    state["_gdelt"] = {"cursor": (cur + GDELT_PER_RUN) % max(len(gd), 1)}
+    if include_gdelt:
+        state["_gdelt"] = {"cursor": (cur + GDELT_PER_RUN) % max(len(gd), 1)}
     gd_blocked = False
     for feed in feeds:
         if feed.get("disabled"):
             continue
         if feed.get("kind") == "gdelt":
-            if feed["id"] not in gd_now or gd_blocked:
+            if not include_gdelt or feed["id"] not in gd_now or gd_blocked:
                 continue
             time.sleep(GDELT_PAUSE)
         rec = {"ts": iso(t), "source": feed["id"], "status": "error",
@@ -260,7 +262,8 @@ def run():
     seen = {k: v for k, v in seen.items() if v >= cutoff}
 
     append_jsonl(DATA / "items" / f"{day}.jsonl", new_items)
-    append_jsonl(DATA / "health" / f"{day}.jsonl", health)
+    if write_health:
+        append_jsonl(DATA / "health" / f"{day}.jsonl", health)
     save_json(DATA / "state.json", state)
     save_json(DATA / "seen.json", seen)
     for h in health:
