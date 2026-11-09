@@ -13290,5 +13290,25 @@
   "market": "Stocks",
   "event": "e1088",
   "by": "rules"
+ },
+ "e3d3301250fa89b6": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1089",
+  "by": "rules"
+ },
+ "3254f60a34b10181": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e235",
+  "by": "rules"
  }
 }
