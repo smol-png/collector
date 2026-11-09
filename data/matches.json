@@ -19518,5 +19518,70 @@
   "market": "AI",
   "event": "e1527",
   "by": "rules"
+ },
+ "c67f673010c7093e": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e1337",
+  "by": "rules"
+ },
+ "355379d9083260c1": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1528",
+  "by": "rules"
+ },
+ "504f5c1e0d7ba930": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1523",
+  "by": "rules"
+ },
+ "4c50d164c3b9eac8": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1214",
+  "by": "rules"
+ },
+ "f3db18de79486678": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1287",
+  "by": "rules"
+ },
+ "7a88e3af9b3ff4d0": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1059",
+  "by": "rules"
+ },
+ "a800c06325ea409e": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 2.7,
+  "market": "Stocks",
+  "event": "e1463",
+  "by": "rules"
  }
 }
