@@ -21927,5 +21927,36 @@
   "market": "Other",
   "event": "e1682",
   "by": "rules"
+ },
+ "b01010392025a85d": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1668",
+  "by": "rules"
+ },
+ "813f1925699b0aed": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ADA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1683",
+  "by": "rules"
+ },
+ "a96c1da7aab1cab6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 750.0,
+  "market": "Crypto",
+  "event": "e1684",
+  "by": "rules"
  }
 }
