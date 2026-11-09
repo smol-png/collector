@@ -18952,5 +18952,25 @@
   "market": "AI",
   "event": "e1492",
   "by": "rules"
+ },
+ "11a9a1886ec450c9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1493",
+  "by": "rules"
+ },
+ "1141b1840dfe6bde": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1494",
+  "by": "rules"
  }
 }
