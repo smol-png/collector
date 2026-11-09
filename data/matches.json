@@ -16088,5 +16088,25 @@
   "market": "Other",
   "event": "e1297",
   "by": "rules"
+ },
+ "c977069024031417": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1298",
+  "by": "rules"
+ },
+ "130ba3ed9cc3ee86": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "HYPE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1299",
+  "by": "rules"
  }
 }
