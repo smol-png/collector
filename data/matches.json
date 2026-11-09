@@ -14770,5 +14770,18 @@
   "market": "Crypto",
   "event": "e1108",
   "by": "rules"
+ },
+ "f92e375fecd244e8": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "META",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1201",
+  "by": "rules"
  }
 }
