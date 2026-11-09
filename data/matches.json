@@ -14728,5 +14728,16 @@
   "market": "Other",
   "event": "e1199",
   "by": "rules"
+ },
+ "0c08bb7ab976260a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1130",
+  "by": "rules"
  }
 }
