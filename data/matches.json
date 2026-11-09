@@ -21346,5 +21346,26 @@
   "market": "Other",
   "event": "e1358",
   "by": "rules"
+ },
+ "d27e83f578932fef": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1623",
+  "by": "rules"
+ },
+ "e0fd57a3ef4b62a7": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e975",
+  "by": "rules"
  }
 }
