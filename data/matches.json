@@ -17147,5 +17147,37 @@
   "market": "AI",
   "event": "e1369",
   "by": "rules"
+ },
+ "818aa97bdafc4197": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e864",
+  "by": "rules"
+ },
+ "83cb315fb67eda9c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1370",
+  "by": "rules"
+ },
+ "b281cc41a616d240": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "COIN",
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1371",
+  "by": "rules"
  }
 }
