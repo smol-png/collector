@@ -14054,5 +14054,16 @@
   "market": "AI",
   "event": "e1151",
   "by": "rules"
+ },
+ "b773d00b9df8ed9c": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e230",
+  "by": "rules"
  }
 }
