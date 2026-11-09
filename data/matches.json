@@ -15068,5 +15068,64 @@
   "market": "Stocks",
   "event": "e1227",
   "by": "rules"
+ },
+ "48802befed033dec": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1228",
+  "by": "rules"
+ },
+ "e2a10cfe2bf5ea34": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1229",
+  "by": "rules"
+ },
+ "f7d5f0957e2dc52e": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": 2850.0,
+  "market": "Crypto",
+  "event": "e1230",
+  "by": "rules"
+ },
+ "6828792cc3c802f8": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1231",
+  "by": "rules"
+ },
+ "425da46ce1b69cd8": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1232",
+  "by": "rules"
+ },
+ "80be3f9bf1b3427c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1183",
+  "by": "rules"
  }
 }
