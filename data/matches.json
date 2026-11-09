@@ -16184,5 +16184,106 @@
   "market": "Other",
   "event": "e1303",
   "by": "rules"
+ },
+ "c702e33e635d1894": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1304",
+  "by": "rules"
+ },
+ "355208d8e2b87c5b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1210",
+  "by": "rules"
+ },
+ "c02510b29ae82b35": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1148",
+  "by": "rules"
+ },
+ "df4689d961e9f707": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1287",
+  "by": "rules"
+ },
+ "f0e976bc5d0e2f7a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1305",
+  "by": "rules"
+ },
+ "1312e87ab09123b1": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1038",
+  "by": "rules"
+ },
+ "e953288d29f6a588": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1306",
+  "by": "rules"
+ },
+ "3b1131927a8be83f": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e1307",
+  "by": "rules"
+ },
+ "9cee8524cf4f2b7e": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1219",
+  "by": "rules"
+ },
+ "977db3c090c78e02": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1308",
+  "by": "rules"
+ },
+ "a7f35ea052fd695f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1309",
+  "by": "rules"
  }
 }
