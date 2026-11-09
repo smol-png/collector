@@ -18526,5 +18526,16 @@
   "market": "Crypto",
   "event": "e1223",
   "by": "rules"
+ },
+ "47eed522b4427503": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 2000.0,
+  "market": "Crypto",
+  "event": "e1459",
+  "by": "rules"
  }
 }
