@@ -23060,5 +23060,16 @@
   "market": "AI",
   "event": "e1549",
   "by": "rules"
+ },
+ "32feb0c6224fccf0": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e939",
+  "by": "rules"
  }
 }
