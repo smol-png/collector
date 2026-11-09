@@ -20823,5 +20823,25 @@
   "market": "Other",
   "event": "e1607",
   "by": "rules"
+ },
+ "4a8d4f81ab1d7574": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1155",
+  "by": "rules"
+ },
+ "a7adee994193f58a": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e1585",
+  "by": "rules"
  }
 }
