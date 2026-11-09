@@ -4926,5 +4926,17 @@
   "market": "Crypto",
   "event": "e366",
   "by": "rules"
+ },
+ "a51d2f08e91154a9": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e367",
+  "by": "rules"
  }
 }
