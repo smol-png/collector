@@ -15635,5 +15635,25 @@
   "market": "Other",
   "event": "e1265",
   "by": "rules"
+ },
+ "ec0a382d616781e0": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1266",
+  "by": "rules"
+ },
+ "b459cc88788ec530": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e362",
+  "by": "rules"
  }
 }
