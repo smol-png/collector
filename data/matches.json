@@ -15321,5 +15321,25 @@
   "market": "Crypto",
   "event": "e1246",
   "by": "rules"
+ },
+ "a0f7379292bb54c4": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e198",
+  "by": "rules"
+ },
+ "0b8b4b640660f144": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1247",
+  "by": "rules"
  }
 }
