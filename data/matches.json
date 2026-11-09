@@ -17273,5 +17273,25 @@
   "market": "Stocks",
   "event": "e219",
   "by": "rules"
+ },
+ "258f96679814b81f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1378",
+  "by": "rules"
+ },
+ "4af8c77835e281cd": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1379",
+  "by": "rules"
  }
 }
