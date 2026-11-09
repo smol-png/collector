@@ -12683,5 +12683,23 @@
   "market": "Crypto",
   "event": "e1044",
   "by": "rules"
+ },
+ "41d8af7239ffcd00": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1045",
+  "by": "rules"
+ },
+ "bc0a4fdf7c56ee8a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1046",
+  "by": "rules"
  }
 }
