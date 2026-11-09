@@ -505,6 +505,17 @@ body.tl .full{margin:14px}
 .dot.quiet{background:#21D87A;opacity:.5}
 .sst.quiet{color:#9FD9BA}
 .spill.quiet{background:rgba(33,216,122,.08);color:#9FD9BA;box-shadow:inset 0 0 0 1px rgba(33,216,122,.25)}
+
+/* breaking / unfolding tags and chips */
+.flag{display:inline-flex;align-items:center;gap:6px;margin-right:10px;padding:3px 8px;border-radius:6px;font:700 10px/1.2 var(--mono);letter-spacing:.16em;text-transform:uppercase;vertical-align:3px;white-space:nowrap}
+.flag.brk{background:var(--purple);color:#FFFFFF;box-shadow:var(--neon)}
+.flag.brk::before{content:"";width:6px;height:6px;border-radius:50%;background:#FFFFFF;animation:pulse 1.6s ease-out infinite}
+.flag.unf{color:#C9C4FF;box-shadow:inset 0 0 0 1px rgba(156,150,255,.55)}
+.flag.unf b{font-weight:700;color:#FFFFFF;letter-spacing:.06em}
+.otop .flag{margin:0}
+.fchip.stage .sdot{width:7px;height:7px;border-radius:50%;background:#FFFFFF;animation:pulse 1.6s ease-out infinite}
+.fchip.stage.brk{box-shadow:var(--neon)}
+@media (prefers-reduced-motion: reduce){ .flag.brk::before,.fchip.stage .sdot{animation:none} }
 </style>
 </head>
 <body>
@@ -912,7 +923,7 @@ function openCard(e, rank) {
       <ul class="srcs rel">${rel.map(x => { const tr = Math.min(x.outlets, 3); return `<li class="t${tr}"><button type="button" class="src" data-goto="${x.id}" title="${esc(headline(x))}"><span class="rn">${x.outlets}</span><span class="t o${tr}">${esc(headline(x))}</span><span class="tm">${when(x.first)}</span></button></li>`; }).join("")}</ul></section>` : "");
   return `<div class="ocard${side ? "" : " solo"}">
     <div class="omain">
-      <div class="otop"><span>${day(e.first)}</span>${badges2(e)}
+      <div class="otop"><span>${day(e.first)}</span>${badges2(e)}${flagOf(e)}
         <button type="button" class="oclose" data-line="${e.id}" aria-expanded="true" aria-label="Close story">${icon("back", 18)}</button></div>
       <a class="oh" href="${esc(L.link)}" target="_blank" rel="noopener">${esc(headline(e))}${icon("ext", 20)}</a>
       ${sum ? `<p class="ex">${esc(sum.summary)}<small>Opening lines from ${esc(sum.name)}’s feed. <a href="${esc(sum.link)}" target="_blank" rel="noopener">Read the full article</a></small></p>` : ""}
@@ -927,7 +938,7 @@ function lineRow(e, rank) {
   const open = st.tl.open.has(e.id), posted = st.posted.includes(e.id), c = clusterOf(e);
   if (open) return `<li class="line open" id="row-${e.id}">${openCard(e, rank)}</li>`;
   const tier = Math.min(e.outlets, 3);
-  const head = `<span class="hl"><span class="h o${tier}">${esc(headline(e))}${posted ? '<span class="posted">Posted</span>' : ""}</span></span>`;
+  const head = `<span class="hl">${flagOf(e)}<span class="h o${tier}">${esc(headline(e))}${posted ? '<span class="posted">Posted</span>' : ""}</span></span>`;
   const num = `<span class="num c-out o${tier}"><b>${e.outlets}</b><span>${e.outlets === 1 ? "outlet" : "outlets"}</span></span>`;
   const btn = rank ? `<button type="button" class="lrow hrow" data-line="${e.id}" aria-expanded="false">
       ${badges2(e)}${head}
@@ -970,23 +981,34 @@ function sourcesPage() {
 const MARKETS = ["Crypto", "Stocks", "AI", "Macro", "Prediction markets", "Other"];
 const TOPIC_LABEL = {"Hacks & security": "Hacks", "Regulation & enforcement": "Regulation", "Courts & lawsuits": "Courts", "ETFs & fund flows": "Fund flows",
   "Markets & prices": "Prices", "Macro & rates": "Rates", "Companies & earnings": "Companies", "Deals & funding": "Deals", "Launches & upgrades": "Launches", "AI": "AI", "Politics": "Politics", "Other": "Other"};
-const TF = Object.assign({markets: [], topics: [], major: false, topicsOpen: false}, store.get("tlfilter", {}));
+const TF = Object.assign({markets: [], topics: [], major: false, stage: "", topicsOpen: false}, store.get("tlfilter", {}));
 const saveF = () => store.set("tlfilter", TF);
 const passMk = e => !TF.markets.length || TF.markets.includes(marketOf(e));
 const passTp = e => !TF.topics.length || TF.topics.includes(e.category);
 const passMj = e => !TF.major || e.outlets >= 3;
+// Breaking = a new story (not a continuation) picked up by 2+ outlets in the last 6 hours.
+// Unfolding = a new development in a story that has been running for up to 3 days.
+const stageOf = e => e.unfolding ? "unfolding" : (e.outlets >= 2 && ref() - Date.parse(e.first) <= 6 * 36e5 ? "breaking" : "");
+const passSt = e => !TF.stage || stageOf(e) === TF.stage;
+const ordinal = n => n + (n % 100 >= 11 && n % 100 <= 13 ? "th" : ["th", "st", "nd", "rd"][n % 10] || "th");
+const flagOf = e => { const s = stageOf(e);
+  return s === "breaking" ? `<span class="flag brk">Breaking</span>`
+    : s === "unfolding" ? `<span class="flag unf" title="Update ${e.update_n || 1} to a story that has been running for up to 3 days">Unfolding<b>· update ${e.update_n || 1}</b></span>` : ""; };
 function filterBar(pool) {
-  const mkCount = m => pool.filter(e => passTp(e) && passMj(e) && marketOf(e) === m).length;
-  const tpCount = c => pool.filter(e => passMk(e) && passMj(e) && e.category === c).length;
+  const mkCount = m => pool.filter(e => passTp(e) && passMj(e) && passSt(e) && marketOf(e) === m).length;
+  const tpCount = c => pool.filter(e => passMk(e) && passMj(e) && passSt(e) && e.category === c).length;
+  const stCount = v => pool.filter(e => passMk(e) && passTp(e) && passMj(e) && stageOf(e) === v).length;
   const mks = MARKETS.filter(m => mkCount(m) || TF.markets.includes(m));
   const tps = Object.keys(TOPIC_LABEL).filter(c => tpCount(c) || TF.topics.includes(c));
-  const any = TF.markets.length || TF.topics.length || TF.major;
+  const any = TF.markets.length || TF.topics.length || TF.major || TF.stage;
   return `<div class="fpanel"><div class="fbar" role="group" aria-label="Filters">
       <button type="button" class="fchip" data-fall aria-pressed="${!any}">All</button>
       ${mks.map(m => `<button type="button" class="fchip" data-fm="${esc(m)}" aria-pressed="${TF.markets.includes(m)}">${svgI(MK[m] || MK.Other, 15)}${esc(m)}<span class="fc">${mkCount(m)}</span></button>`).join("")}
       <span class="fsep" aria-hidden="true"></span>
       <button type="button" class="fchip" data-ftopics aria-expanded="${TF.topicsOpen}" aria-pressed="${!!TF.topics.length}">Topics${TF.topics.length ? `<span class="fc">${TF.topics.length}</span>` : ""}${icon("chev", 14)}</button>
-      <button type="button" class="fchip major" data-fmajor aria-pressed="${TF.major}">Major only<span class="fc">${pool.filter(e => passMk(e) && passTp(e) && e.outlets >= 3).length}</span></button>
+      <button type="button" class="fchip major" data-fmajor aria-pressed="${TF.major}">Major only<span class="fc">${pool.filter(e => passMk(e) && passTp(e) && passSt(e) && e.outlets >= 3).length}</span></button>
+      <button type="button" class="fchip stage brk" data-fstage="breaking" aria-pressed="${TF.stage === "breaking"}"><span class="sdot" aria-hidden="true"></span>Breaking<span class="fc">${stCount("breaking")}</span></button>
+      <button type="button" class="fchip stage unf" data-fstage="unfolding" aria-pressed="${TF.stage === "unfolding"}">Unfolding<span class="fc">${stCount("unfolding")}</span></button>
     </div>
     ${TF.topicsOpen ? `<div class="fbar sub" role="group" aria-label="Topics">${tps.map(c => `<button type="button" class="fchip" data-ft="${esc(c)}" aria-pressed="${TF.topics.includes(c)}">${svgI(TP[c] || TP.Other, 15)}${TOPIC_LABEL[c]}<span class="fc">${tpCount(c)}</span></button>`).join("")}</div>` : ""}</div>`;
 }
@@ -1002,7 +1024,7 @@ function timeline() {
   const pill = st.pending ? `<button type="button" class="newpill" data-applynew>${st.pending.n} new or updated ${st.pending.n === 1 ? "story" : "stories"}</button>` : "";
   // Hot = every story with new coverage in the last 24 hours, even if it first broke earlier
   const pool = T.tab === "hot" ? base.filter(e => ref() - Date.parse(lastUpd(e)) <= 864e5) : base;
-  const bar = filterBar(pool), shown = pool.filter(e => passMk(e) && passTp(e) && passMj(e));
+  const bar = filterBar(pool), shown = pool.filter(e => passMk(e) && passTp(e) && passMj(e) && passSt(e));
   if (T.tab === "hot") {
     const hot = shown.slice()
       .sort((a, b) => b.outlets - a.outlets || clusterOf(b).n - clusterOf(a).n || (lastUpd(a) < lastUpd(b) ? 1 : -1));
@@ -1052,7 +1074,8 @@ document.addEventListener("click", ev => {
     saveF(); render(); $("fscroll").scrollTop = 0; scrollTo(0, 0); return; }
   const t = ev.target.closest("button, a[data-storyline]"); if (!t) return;
   { const d = t.dataset, flip = (arr, v) => arr.includes(v) ? arr.filter(x => x !== v) : [...arr, v];
-    if ("fall" in d) { TF.markets = []; TF.topics = []; TF.major = false; saveF(); render(); return; }
+    if ("fall" in d) { TF.markets = []; TF.topics = []; TF.major = false; TF.stage = ""; saveF(); render(); return; }
+    if (d.fstage) { TF.stage = TF.stage === d.fstage ? "" : d.fstage; saveF(); render(); return; }
     if (d.fm) { TF.markets = flip(TF.markets, d.fm); saveF(); render(); return; }
     if (d.ft) { TF.topics = flip(TF.topics, d.ft); saveF(); render(); return; }
     if ("ftopics" in d) { TF.topicsOpen = !TF.topicsOpen; saveF(); render(); return; }

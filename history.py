@@ -19,6 +19,61 @@ def ts(s):
     return dt.datetime.strptime(s, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=dt.timezone.utc)
 
 
+# ---------- breaking vs unfolding ----------
+# A story is "unfolding" when it continues an ongoing one: same storyline (when Claude made storylines),
+# or it shares at least two distinctive names/subjects with a story from the previous 72 hours.
+COMMON=set("""about above across after again against ahead all almost along already also although always among another any anyone
+around back because become becomes been before behind being below best better between beyond big bigger biggest both brief but
+call calls came can case cases cause change changes claim claims clear close closed come comes coming could current daily
+day days deal deals despite did does doing done down due during each early easy either else end ends enough even ever every
+expected face faces fall falls far fast few final find first five following for four free from full further gain gains get gets
+give given gives goes going good got great group groups grow growth half hard has have head help her here high higher his hit
+hits hold holds home how however huge into its just keep key kind know large largest last late later latest launch lead leads
+least less level levels like likely line list little live long look looks lose loses loss losses low lower made major make
+makes many market markets may mean means meet meets message might million billion trillion month months more most move moves
+much must near need needs never news next night now number off offer often once one ones only open other others our out over
+own part past pay people per plan plans point points post posts power push put quick quickly raise raises rate rates reach
+real record records report reports result results return returns rise rises risk risks rule rules run runs said same say says
+second see seen sell sells set sets several share shares she short show shows side since small some soon source sources start
+starts state states still stop stops such sure take takes talk talks term than that their them then there these they thing
+things think third this those three through time times today told top total toward trade trades trading try turn turns two under
+until update updates use used users using very view want wants was way ways week weeks well were what when where which while
+who whole why will with without word work works world worth would year years yet you your america american americans us u.s
+united new old big small south north east west white house top full near gets one but has message presidential alleged
+election results payments according analyst analysts amid announces announced bank banks business company companies deal data
+ceo cfo firm firms fund funds government investor investors official officials president price prices stock stocks crypto
+bitcoin btc ether eth token tokens rally surge surges drops drop slump slumps falls jumps tumbles soars plunges hits former restores restored withdrawals warns freezes remains resumes""".split())
+
+
+def thread_events(events, words):
+    toks = {e["id"]: set().union(*[words(o["title"]) for o in e["lane"]]) for e in events}
+    df = Counter(t for s in toks.values() for t in s)
+    cap = max(3, int(len(events) * 0.04))
+    distinct = {k: {t for t in s if t not in COMMON and len(t) >= 3 and 2 <= df[t] <= cap
+                    and not t.replace(".", "").replace("$", "").replace(",", "").isdigit()} for k, s in toks.items()}
+    evs = sorted(events, key=lambda e: e["first"])
+    root = {}
+    for i, e in enumerate(evs):
+        t0, prev = ts(e["first"]), None
+        for p in reversed(evs[:i]):
+            gap = (t0 - ts(p["first"])).total_seconds()
+            if gap < 1800:
+                continue
+            if gap > 72 * 3600:
+                break
+            same_storyline = e.get("storyline") and e["storyline"] == p.get("storyline")
+            if same_storyline or len(distinct[e["id"]] & distinct[p["id"]]) >= 2:
+                prev = p
+                break
+        root[e["id"]] = root[prev["id"]] if prev else e["id"]
+        e["unfolding"] = prev is not None
+        e["thread"] = root[e["id"]]
+    count = Counter()
+    for e in evs:
+        e["update_n"] = count[e["thread"]] if e["unfolding"] else 0   # 1 = first update after the origin
+        count[e["thread"]] += 1
+
+
 def run():
     now = dt.datetime.now(dt.timezone.utc)
     feeds = json.loads((ROOT / "feeds.json").read_text())
@@ -69,6 +124,8 @@ def run():
             "seed": {"type": mt[0]["type"], "category": mt[0]["category"], "usd_m": mt[0]["usd_m"],
                      "tickers": mt[0]["tickers"], "source": first["source"]},
         })
+    from basic_matcher import words as _words
+    thread_events(events, _words)
     events.sort(key=lambda e: (-e["outlets"], -e["spread_2h"], e["first"]))
 
     storylines = []
