@@ -21438,5 +21438,16 @@
   "market": "Crypto",
   "event": "e1315",
   "by": "rules"
+ },
+ "fce8e29220b9df16": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1643",
+  "by": "rules"
  }
 }
