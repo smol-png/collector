@@ -16294,5 +16294,59 @@
   "market": "Other",
   "event": "e1310",
   "by": "rules"
+ },
+ "533aec5dfc72e33d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1311",
+  "by": "rules"
+ },
+ "6195033b0c4389d2": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1312",
+  "by": "rules"
+ },
+ "7e6c7de893028042": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e954",
+  "by": "rules"
+ },
+ "a642757e742795e8": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e1313",
+  "by": "rules"
+ },
+ "e2f6961d1fd84fd6": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1314",
+  "by": "rules"
+ },
+ "1ad2eb556824ae16": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": 6300.0,
+  "market": "Crypto",
+  "event": "e1315",
+  "by": "rules"
  }
 }
