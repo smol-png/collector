@@ -1,0 +1,3079 @@
+{
+ "271cb0ac299acf40": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e1",
+  "by": "rules"
+ },
+ "db33f69a21f0b9b8": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "ZEC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2",
+  "by": "rules"
+ },
+ "cbda3e0f0bea60be": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3",
+  "by": "rules"
+ },
+ "92276285b68434df": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4",
+  "by": "rules"
+ },
+ "9630628396471d23": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5",
+  "by": "rules"
+ },
+ "da6b892294c30bc0": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6",
+  "by": "rules"
+ },
+ "e9beb15a21698b83": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7",
+  "by": "rules"
+ },
+ "0ad5a5d12aa206ce": {
+  "type": "explainer",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8",
+  "by": "rules"
+ },
+ "24f6fc9ecf594ea1": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9",
+  "by": "rules"
+ },
+ "e4f8779c53806481": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 221.5,
+  "market": "Other",
+  "event": "e10",
+  "by": "rules"
+ },
+ "23a83faf7b31e406": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11",
+  "by": "rules"
+ },
+ "a0e0aaf0776f8870": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12",
+  "by": "rules"
+ },
+ "637edd0b3e653e8f": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e13",
+  "by": "rules"
+ },
+ "e9db25afa6684541": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14",
+  "by": "rules"
+ },
+ "0f5cdb62239e7419": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e15",
+  "by": "rules"
+ },
+ "ce78cadf2d6f5ad9": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e16",
+  "by": "rules"
+ },
+ "e8be47cd0ffa4d34": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17",
+  "by": "rules"
+ },
+ "ebb562d9ccda9d38": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18",
+  "by": "rules"
+ },
+ "67aa2a99f8cad8e9": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19",
+  "by": "rules"
+ },
+ "46836ae27d134794": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20",
+  "by": "rules"
+ },
+ "94f3d77b29cf5e67": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17",
+  "by": "rules"
+ },
+ "3cf90d25a0411079": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL",
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e21",
+  "by": "rules"
+ },
+ "07f706c0cb3ed659": {
+  "type": "roundup",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e22",
+  "by": "rules"
+ },
+ "14cb5905d0b244a8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e23",
+  "by": "rules"
+ },
+ "c684b3191eed0cdb": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e24",
+  "by": "rules"
+ },
+ "2c80ed9ff263268e": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e25",
+  "by": "rules"
+ },
+ "770a278e3b4042b3": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e26",
+  "by": "rules"
+ },
+ "65c312a701a9c933": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e27",
+  "by": "rules"
+ },
+ "c218e2db92d3ed0a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e28",
+  "by": "rules"
+ },
+ "ce7a8dc9a6bdfb13": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e29",
+  "by": "rules"
+ },
+ "47c8fe09accb4b8c": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4",
+  "by": "rules"
+ },
+ "57da79c000ad570d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e30",
+  "by": "rules"
+ },
+ "6e803192670b4f2b": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e31",
+  "by": "rules"
+ },
+ "4bf7fa6a53b690ef": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e32",
+  "by": "rules"
+ },
+ "8050f5c3fca29ea4": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 428.0,
+  "market": "Crypto",
+  "event": "e33",
+  "by": "rules"
+ },
+ "44db4bb397db4848": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e34",
+  "by": "rules"
+ },
+ "b43c12a02ea6fd6a": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e35",
+  "by": "rules"
+ },
+ "4151eb0fff3eb049": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e36",
+  "by": "rules"
+ },
+ "082311d3654d1f0a": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e37",
+  "by": "rules"
+ },
+ "84a10f6a55452b74": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": 0.08,
+  "market": "Crypto",
+  "event": "e38",
+  "by": "rules"
+ },
+ "2f7dd3c70b6e2d05": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAVE",
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e39",
+  "by": "rules"
+ },
+ "d9f97246e8db9df3": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e40",
+  "by": "rules"
+ },
+ "92f15dfd33bf9a55": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e41",
+  "by": "rules"
+ },
+ "0df8b3f0ea64f5d1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e42",
+  "by": "rules"
+ },
+ "1880c3249aca5638": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e43",
+  "by": "rules"
+ },
+ "7a7f9222a6284c3b": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e44",
+  "by": "rules"
+ },
+ "6754729c6462368b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e45",
+  "by": "rules"
+ },
+ "7b828f60926c2dc7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e46",
+  "by": "rules"
+ },
+ "18b9d32db925e724": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e47",
+  "by": "rules"
+ },
+ "d625fa321b34a223": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e48",
+  "by": "rules"
+ },
+ "eb32349a15a15fde": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e49",
+  "by": "rules"
+ },
+ "53589ae9a5771a11": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e50",
+  "by": "rules"
+ },
+ "db86f643abac3814": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e51",
+  "by": "rules"
+ },
+ "34bd37cfd4a0351f": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e52",
+  "by": "rules"
+ },
+ "e3c5d7669e9e05a2": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": 16.0,
+  "market": "Crypto",
+  "event": "e53",
+  "by": "rules"
+ },
+ "bda7e65677f12673": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e37",
+  "by": "rules"
+ },
+ "42ea34746ea94e9a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e54",
+  "by": "rules"
+ },
+ "b3690bbb3de1cea3": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e55",
+  "by": "rules"
+ },
+ "b7329246acd697f0": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e56",
+  "by": "rules"
+ },
+ "60686cddf5de1cc7": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e57",
+  "by": "rules"
+ },
+ "48bb350c4094f732": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e58",
+  "by": "rules"
+ },
+ "ac6f0c42a7484c0c": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e59",
+  "by": "rules"
+ },
+ "b0b55391acdffcf7": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": 2.47,
+  "market": "Crypto",
+  "event": "e60",
+  "by": "rules"
+ },
+ "79a4132029ef315f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "HYPE"
+  ],
+  "usd_m": 620.6,
+  "market": "Crypto",
+  "event": "e61",
+  "by": "rules"
+ },
+ "5a1f9c1bf2db6993": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e62",
+  "by": "rules"
+ },
+ "671ce8ec9957d9fe": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e63",
+  "by": "rules"
+ },
+ "4cce01d63a6df830": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e64",
+  "by": "rules"
+ },
+ "cf13eab2938baad0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e65",
+  "by": "rules"
+ },
+ "88b31fcd92a1422e": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "HYPE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e66",
+  "by": "rules"
+ },
+ "874ac403523dd609": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e32",
+  "by": "rules"
+ },
+ "2bccf8454d76a07b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 200.0,
+  "market": "Crypto",
+  "event": "e67",
+  "by": "rules"
+ },
+ "7f6d1eb04840a8c1": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e68",
+  "by": "rules"
+ },
+ "66058462fda9e96e": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e69",
+  "by": "rules"
+ },
+ "23d467e4ffb86be1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TRX"
+  ],
+  "usd_m": 4.06,
+  "market": "Crypto",
+  "event": "e70",
+  "by": "rules"
+ },
+ "ab04c527a7764671": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e55",
+  "by": "rules"
+ },
+ "510d78b8526e7a4d": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 430.0,
+  "market": "Crypto",
+  "event": "e71",
+  "by": "rules"
+ },
+ "76de6994c60062d7": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e32",
+  "by": "rules"
+ },
+ "f1a308adccba6e49": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e72",
+  "by": "rules"
+ },
+ "36dbcd3c46f385a0": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": 6300.0,
+  "market": "Crypto",
+  "event": "e73",
+  "by": "rules"
+ },
+ "6295b11f38c6320a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 6000.0,
+  "market": "AI",
+  "event": "e74",
+  "by": "rules"
+ },
+ "462b66e2ff6275f0": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": 300.0,
+  "market": "Prediction markets",
+  "event": "e75",
+  "by": "rules"
+ },
+ "822af10fd699e00e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e76",
+  "by": "rules"
+ },
+ "2f42e75e771b1598": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": 2.5,
+  "market": "Crypto",
+  "event": "e60",
+  "by": "rules"
+ },
+ "ec6e4e6bc7b7cc7a": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e55",
+  "by": "rules"
+ },
+ "40a2a64193175e70": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "BTC",
+   "XRP"
+  ],
+  "usd_m": 50.0,
+  "market": "Crypto",
+  "event": "e77",
+  "by": "rules"
+ },
+ "4d6ebe8bc059d19e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e78",
+  "by": "rules"
+ },
+ "b962beff897505c4": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": 6300.0,
+  "market": "Crypto",
+  "event": "e73",
+  "by": "rules"
+ },
+ "6d7acb886c95a6a1": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e79",
+  "by": "rules"
+ },
+ "ba80d22e8dad1a03": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e80",
+  "by": "rules"
+ },
+ "22a30d5331537ceb": {
+  "type": "live",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.08,
+  "market": "Crypto",
+  "event": "e71",
+  "by": "rules"
+ },
+ "60267cc0eb4ef142": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e81",
+  "by": "rules"
+ },
+ "ae13a9769f4c6d34": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": 1000.0,
+  "market": "Other",
+  "event": "e82",
+  "by": "rules"
+ },
+ "21b798f033236681": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e83",
+  "by": "rules"
+ },
+ "04b94c13e5c2390d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "ETH",
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e84",
+  "by": "rules"
+ },
+ "37b8329378823118": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e69",
+  "by": "rules"
+ },
+ "0a9d04c707d81897": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e85",
+  "by": "rules"
+ },
+ "f60ff358fd5124aa": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e86",
+  "by": "rules"
+ },
+ "b5a9720aec041642": {
+  "type": "roundup",
+  "category": "Politics",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e33",
+  "by": "rules"
+ },
+ "5a920cc2feabae90": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e79",
+  "by": "rules"
+ },
+ "d308c047518e4aec": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e87",
+  "by": "rules"
+ },
+ "b931a51319577dde": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e88",
+  "by": "rules"
+ },
+ "8b2cec013eec6163": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 12400.0,
+  "market": "Crypto",
+  "event": "e89",
+  "by": "rules"
+ },
+ "f153b8448aa1553d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e90",
+  "by": "rules"
+ },
+ "f5f8bdf8e46640b6": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e79",
+  "by": "rules"
+ },
+ "2cb83ce7edf3bd15": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e91",
+  "by": "rules"
+ },
+ "bfa8f3938ce14d32": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 474.8,
+  "market": "Crypto",
+  "event": "e92",
+  "by": "rules"
+ },
+ "d745a0da787e5f21": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e93",
+  "by": "rules"
+ },
+ "6eb73f652258959c": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": 3100.0,
+  "market": "Crypto",
+  "event": "e94",
+  "by": "rules"
+ },
+ "9837b414dc9d1d64": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e95",
+  "by": "rules"
+ },
+ "6cde34be9719d847": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e76",
+  "by": "rules"
+ },
+ "55059e8d665e2f27": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e96",
+  "by": "rules"
+ },
+ "9e99666e19f443fc": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.07,
+  "market": "Crypto",
+  "event": "e87",
+  "by": "rules"
+ },
+ "91b375ff05614f62": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19",
+  "by": "rules"
+ },
+ "27c09e15f2c29a53": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e97",
+  "by": "rules"
+ },
+ "d92b9ddac8e23603": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e49",
+  "by": "rules"
+ },
+ "5215274a294b8d7f": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "BTC",
+   "XRP"
+  ],
+  "usd_m": 50.0,
+  "market": "Crypto",
+  "event": "e77",
+  "by": "rules"
+ },
+ "0595790e01b96a4a": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "AAVE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e98",
+  "by": "rules"
+ },
+ "c6253738fe863ba3": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e99",
+  "by": "rules"
+ },
+ "78451acef40af054": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e49",
+  "by": "rules"
+ },
+ "d503da4483e558fd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e100",
+  "by": "rules"
+ },
+ "3dcc971df9333719": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e101",
+  "by": "rules"
+ },
+ "58f8c53b705185e6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "COIN",
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e102",
+  "by": "rules"
+ },
+ "b616159e103b0369": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 509.0,
+  "market": "Crypto",
+  "event": "e92",
+  "by": "rules"
+ },
+ "fa695d264ee96f5c": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 474.8,
+  "market": "Crypto",
+  "event": "e92",
+  "by": "rules"
+ },
+ "fcf5be8acbd991a9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e103",
+  "by": "rules"
+ },
+ "da87a8c4756399e8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 1000.0,
+  "market": "Crypto",
+  "event": "e104",
+  "by": "rules"
+ },
+ "694a1a59b27a2ca2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 2.47,
+  "market": "Crypto",
+  "event": "e60",
+  "by": "rules"
+ },
+ "7c031120ee205b91": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e105",
+  "by": "rules"
+ },
+ "41025831791f80b5": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": 2.47,
+  "market": "Crypto",
+  "event": "e60",
+  "by": "rules"
+ },
+ "458c2a027e623366": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e106",
+  "by": "rules"
+ },
+ "65a4dde91355c7c4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e107",
+  "by": "rules"
+ },
+ "d1cdc0f54322d7f1": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19",
+  "by": "rules"
+ },
+ "92b909bcfbdf3429": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e108",
+  "by": "rules"
+ },
+ "89e93ac1f7fc88f4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e109",
+  "by": "rules"
+ },
+ "50aabfb0af6b856d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e110",
+  "by": "rules"
+ },
+ "f1d0eb5ffe240830": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e111",
+  "by": "rules"
+ },
+ "d475c7ab7195b281": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e112",
+  "by": "rules"
+ },
+ "6ec038fc0a4da463": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e110",
+  "by": "rules"
+ },
+ "b77b904ed0981527": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e113",
+  "by": "rules"
+ },
+ "b020b35f44cebd29": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e114",
+  "by": "rules"
+ },
+ "61daacadf5dee377": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 124.0,
+  "market": "Crypto",
+  "event": "e77",
+  "by": "rules"
+ },
+ "6b46722e5a21721b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e115",
+  "by": "rules"
+ },
+ "d4c3da55caa4212e": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e116",
+  "by": "rules"
+ },
+ "bb8437204a028450": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e117",
+  "by": "rules"
+ },
+ "c2df38f0e8aba641": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e118",
+  "by": "rules"
+ },
+ "a2e89936287c37c3": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e119",
+  "by": "rules"
+ },
+ "10a6cc56d4436f99": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e120",
+  "by": "rules"
+ },
+ "08d0d28d2318f44b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e121",
+  "by": "rules"
+ },
+ "a8b417b96170e311": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e105",
+  "by": "rules"
+ },
+ "ff7abfe26e5e6420": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 430.0,
+  "market": "Crypto",
+  "event": "e71",
+  "by": "rules"
+ },
+ "c08b41acf1765162": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e122",
+  "by": "rules"
+ },
+ "3513e598877a8e43": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e84",
+  "by": "rules"
+ },
+ "77e8b54d6c5f713f": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e105",
+  "by": "rules"
+ },
+ "634ac3a7e03b4746": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e112",
+  "by": "rules"
+ },
+ "243402242a719e87": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e123",
+  "by": "rules"
+ },
+ "9e6f0eb15a29faa7": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 530.0,
+  "market": "Crypto",
+  "event": "e124",
+  "by": "rules"
+ },
+ "c476b0c90071a6ce": {
+  "type": "explainer",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "HYPE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e66",
+  "by": "rules"
+ },
+ "ca56c734e639f357": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e125",
+  "by": "rules"
+ },
+ "0428d3a6c426d79a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e126",
+  "by": "rules"
+ },
+ "286a3f0a55a330b0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL",
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e127",
+  "by": "rules"
+ },
+ "03889e7afa03ec66": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e128",
+  "by": "rules"
+ },
+ "37e08394098d3ac5": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e55",
+  "by": "rules"
+ },
+ "48de6ecd765decb8": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e129",
+  "by": "rules"
+ },
+ "a432943f54aea895": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e130",
+  "by": "rules"
+ },
+ "224fc1fbad3db511": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e97",
+  "by": "rules"
+ },
+ "a126280333dee0bd": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": 16000.0,
+  "market": "Crypto",
+  "event": "e131",
+  "by": "rules"
+ },
+ "2f7fa89030d091f0": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": 16000.0,
+  "market": "Crypto",
+  "event": "e131",
+  "by": "rules"
+ },
+ "5d2f0a49eeb97bc0": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e132",
+  "by": "rules"
+ },
+ "c0a87ebd9f2422c7": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": 16000.0,
+  "market": "Crypto",
+  "event": "e131",
+  "by": "rules"
+ },
+ "df10cca5288d0eb5": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "AAVE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e98",
+  "by": "rules"
+ },
+ "51560e48e0df6c76": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e133",
+  "by": "rules"
+ },
+ "4cf7e2a1cdfd2d8c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e134",
+  "by": "rules"
+ },
+ "b99ea3c85356cf57": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL",
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e135",
+  "by": "rules"
+ },
+ "d0ea57db70abac01": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.1,
+  "market": "Other",
+  "event": "e136",
+  "by": "rules"
+ },
+ "068cb5acd27293c9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e137",
+  "by": "rules"
+ },
+ "20acbb2ebdf81dc3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e138",
+  "by": "rules"
+ },
+ "977efe037074ee28": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.01,
+  "market": "Stocks",
+  "event": "e136",
+  "by": "rules"
+ },
+ "785f763cbba02d1f": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e139",
+  "by": "rules"
+ },
+ "9e00f1436fb2c935": {
+  "type": "roundup",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e140",
+  "by": "rules"
+ },
+ "bf56854014af38f4": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 16.5,
+  "market": "Crypto",
+  "event": "e141",
+  "by": "rules"
+ },
+ "f5bd35ef2a11e47b": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": 32.05,
+  "market": "Other",
+  "event": "e142",
+  "by": "rules"
+ },
+ "1cf083697c7f7142": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": 1650.0,
+  "market": "Crypto",
+  "event": "e143",
+  "by": "rules"
+ },
+ "e428c65f9dd98939": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e144",
+  "by": "rules"
+ },
+ "5c893ee240412e7f": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e78",
+  "by": "rules"
+ },
+ "bd73ab4473ead3cc": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e145",
+  "by": "rules"
+ },
+ "ec0b3085efa933a3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e146",
+  "by": "rules"
+ },
+ "aed02d87b3622e28": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e147",
+  "by": "rules"
+ },
+ "808dc291917810b8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e147",
+  "by": "rules"
+ },
+ "61af8916cf2723a4": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": 2500.0,
+  "market": "Prediction markets",
+  "event": "e148",
+  "by": "rules"
+ },
+ "3a1e1f58de74a44e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e149",
+  "by": "rules"
+ },
+ "25adec456b53b9dd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e150",
+  "by": "rules"
+ },
+ "be99112d8070bc13": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e151",
+  "by": "rules"
+ },
+ "579e0725079155b3": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e152",
+  "by": "rules"
+ },
+ "e974589f2708e478": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 2.5,
+  "market": "Crypto",
+  "event": "e153",
+  "by": "rules"
+ },
+ "00b84bc8aae55f60": {
+  "type": "explainer",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e154",
+  "by": "rules"
+ },
+ "242ad4d661f1370c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e155",
+  "by": "rules"
+ },
+ "026992305b9f4750": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e156",
+  "by": "rules"
+ },
+ "78a10e2a285d9903": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 1280.0,
+  "market": "Crypto",
+  "event": "e157",
+  "by": "rules"
+ },
+ "728e4d6ae3f4a3cc": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e99",
+  "by": "rules"
+ },
+ "9bf1091c0bc1bccf": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [
+   "COIN",
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e158",
+  "by": "rules"
+ },
+ "495cc54003c85da8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e127",
+  "by": "rules"
+ },
+ "ce3c494cfd496914": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": 16000.0,
+  "market": "Crypto",
+  "event": "e131",
+  "by": "rules"
+ },
+ "5b98d69d0210f32b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e159",
+  "by": "rules"
+ },
+ "ed7e27b25dc07dbc": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e160",
+  "by": "rules"
+ },
+ "58b557043b3910a1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e161",
+  "by": "rules"
+ },
+ "834792ee6c9a615b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e110",
+  "by": "rules"
+ },
+ "adf539d396a960bb": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": 2.47,
+  "market": "Crypto",
+  "event": "e60",
+  "by": "rules"
+ },
+ "692f6de113cd3566": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e162",
+  "by": "rules"
+ },
+ "50632d21ed685f02": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e163",
+  "by": "rules"
+ },
+ "b933878e802e0bb4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e164",
+  "by": "rules"
+ },
+ "23e3143bef1f3bc8": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e165",
+  "by": "rules"
+ },
+ "22d6cb04efa5ef15": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19",
+  "by": "rules"
+ },
+ "ae3452d87d173a7c": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e166",
+  "by": "rules"
+ },
+ "3960fba1961bb5d5": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e167",
+  "by": "rules"
+ },
+ "80922ebacf4dabd7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e168",
+  "by": "rules"
+ },
+ "708011498ea2f0e9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": 26.0,
+  "market": "Crypto",
+  "event": "e169",
+  "by": "rules"
+ },
+ "52a1af98bdc59fd8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 14.0,
+  "market": "Crypto",
+  "event": "e170",
+  "by": "rules"
+ },
+ "24ecc8a2080eb5b9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL",
+   "GOOGL"
+  ],
+  "usd_m": 6.0,
+  "market": "Crypto",
+  "event": "e171",
+  "by": "rules"
+ },
+ "a20f819a80075e15": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e172",
+  "by": "rules"
+ },
+ "69a75bd16a486699": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "BNB"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e173",
+  "by": "rules"
+ },
+ "aeeed532249b2db1": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": 16000.0,
+  "market": "Crypto",
+  "event": "e174",
+  "by": "rules"
+ },
+ "d274c1994022c5a4": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e175",
+  "by": "rules"
+ },
+ "3a051fa16c012be1": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e176",
+  "by": "rules"
+ },
+ "843a2308c1044e3a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e177",
+  "by": "rules"
+ },
+ "975e0aeff96fb3a5": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e178",
+  "by": "rules"
+ },
+ "d05f1d07d87db3bf": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e179",
+  "by": "rules"
+ },
+ "a62f2c65d2c6e009": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 188000.0,
+  "market": "Other",
+  "event": "e180",
+  "by": "rules"
+ },
+ "daf3003ac1240453": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e181",
+  "by": "rules"
+ },
+ "fffea6d4ccd9307e": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e182",
+  "by": "rules"
+ },
+ "3011721e57b9bd22": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e183",
+  "by": "rules"
+ },
+ "311c4302578f959e": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e184",
+  "by": "rules"
+ },
+ "0a08e7f5ddc4db30": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e179",
+  "by": "rules"
+ },
+ "fa0108732ac3cb85": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.07,
+  "market": "Crypto",
+  "event": "e185",
+  "by": "rules"
+ },
+ "7207006a18e50c4a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e186",
+  "by": "rules"
+ },
+ "7dca6b60b8e347dd": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e187",
+  "by": "rules"
+ },
+ "4b20d8c32f3c6421": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e188",
+  "by": "rules"
+ },
+ "ceb9f97b1983e99f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e186",
+  "by": "rules"
+ },
+ "6ec2f4770b3fa52a": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 3400.0,
+  "market": "AI",
+  "event": "e189",
+  "by": "rules"
+ },
+ "94712162d90025f2": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e190",
+  "by": "rules"
+ },
+ "5c5f5cc387f03eae": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e191",
+  "by": "rules"
+ },
+ "6025c5abc0a97066": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e192",
+  "by": "rules"
+ },
+ "63987501b9283fd6": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e193",
+  "by": "rules"
+ },
+ "b4e7e58cddfa6efa": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e194",
+  "by": "rules"
+ },
+ "9bcea1aa92114bad": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 3400.0,
+  "market": "AI",
+  "event": "e189",
+  "by": "rules"
+ },
+ "2ef4a95dcae40837": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 1500000.0,
+  "market": "AI",
+  "event": "e195",
+  "by": "rules"
+ },
+ "b14ad6e050469698": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 5700.0,
+  "market": "AI",
+  "event": "e196",
+  "by": "rules"
+ },
+ "a7ae2367ab622fac": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e197",
+  "by": "rules"
+ },
+ "20437f9c5777387a": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e182",
+  "by": "rules"
+ },
+ "fc6ea82c1b01bdef": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e198",
+  "by": "rules"
+ },
+ "20a9df50585b6a33": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e199",
+  "by": "rules"
+ },
+ "1595a9902f212563": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 3400.0,
+  "market": "AI",
+  "event": "e189",
+  "by": "rules"
+ },
+ "18bd23e310f5c5ea": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e200",
+  "by": "rules"
+ },
+ "0bf0ff673a459962": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e201",
+  "by": "rules"
+ },
+ "f47bd3742b0664e2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e202",
+  "by": "rules"
+ },
+ "4fe3b44e898ca58b": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": 5.6,
+  "market": "Other",
+  "event": "e203",
+  "by": "rules"
+ },
+ "44a0ce4a056603e5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e204",
+  "by": "rules"
+ },
+ "3a1af4087026a642": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e205",
+  "by": "rules"
+ },
+ "225921ee715b717c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e206",
+  "by": "rules"
+ },
+ "551c8cc1774d59f6": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e207",
+  "by": "rules"
+ },
+ "e55aceef9943427f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e208",
+  "by": "rules"
+ },
+ "82dd5236ee30835b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e209",
+  "by": "rules"
+ },
+ "76ce4e245ad1e4c6": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "MSTR",
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e210",
+  "by": "rules"
+ },
+ "dac3ec6662f3467c": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": 0.08,
+  "market": "Crypto",
+  "event": "e211",
+  "by": "rules"
+ },
+ "f8c780ce20d3f9f2": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e212",
+  "by": "rules"
+ },
+ "569a6cee2a158aa3": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e197",
+  "by": "rules"
+ },
+ "f68e389d3d920da3": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e213",
+  "by": "rules"
+ },
+ "29e4c676d7309fcd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e214",
+  "by": "rules"
+ },
+ "bf9232df37784d2c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e215",
+  "by": "rules"
+ },
+ "9251a0a5903d2d5f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e216",
+  "by": "rules"
+ },
+ "3223cb7e9ef258a6": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e197",
+  "by": "rules"
+ },
+ "4576624e3e076f44": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e217",
+  "by": "rules"
+ },
+ "413bb5997e859378": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e198",
+  "by": "rules"
+ },
+ "b336b2e22b1fe3dc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e218",
+  "by": "rules"
+ },
+ "acf1a74ec40f7930": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
+ },
+ "f3a832e50b5e637a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e220",
+  "by": "rules"
+ },
+ "abfa8ae2356a2ba7": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e221",
+  "by": "rules"
+ },
+ "9e6e56970b738e36": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH",
+   "HYPE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e222",
+  "by": "rules"
+ },
+ "56d64d85b55ff489": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e223",
+  "by": "rules"
+ },
+ "ff61005f156e6f07": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e224",
+  "by": "rules"
+ },
+ "18dd458d9349b88b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e198",
+  "by": "rules"
+ },
+ "08e365b1dea89321": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAVE"
+  ],
+  "usd_m": 120.0,
+  "market": "Crypto",
+  "event": "e225",
+  "by": "rules"
+ },
+ "302a71f07c19de99": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e226",
+  "by": "rules"
+ },
+ "f0bb201934894e56": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e227",
+  "by": "rules"
+ },
+ "06026e59e2e60bd7": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e228",
+  "by": "rules"
+ },
+ "8b9a7bf5dd366626": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e229",
+  "by": "rules"
+ },
+ "774c80a4a24016bf": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e230",
+  "by": "rules"
+ },
+ "1cc0582effe83676": {
+  "type": "roundup",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e231",
+  "by": "rules"
+ },
+ "876aada90f595142": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e232",
+  "by": "rules"
+ },
+ "8eef81c3219db5b9": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e233",
+  "by": "rules"
+ },
+ "05f128c371b727df": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 1000.0,
+  "market": "Crypto",
+  "event": "e234",
+  "by": "rules"
+ },
+ "d8dbf40e31d3b255": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e235",
+  "by": "rules"
+ },
+ "712e51e422447043": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e236",
+  "by": "rules"
+ },
+ "6669d6ad3eacd2ed": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": 270.0,
+  "market": "Crypto",
+  "event": "e237",
+  "by": "rules"
+ },
+ "70425e468f61375e": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e238",
+  "by": "rules"
+ },
+ "255dd0d5e21933e8": {
+  "type": "explainer",
+  "category": "Markets & prices",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e239",
+  "by": "rules"
+ },
+ "44705e21d2873b97": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 24000.0,
+  "market": "Crypto",
+  "event": "e240",
+  "by": "rules"
+ },
+ "2004b09168888dc8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e241",
+  "by": "rules"
+ },
+ "b563d99254d1aae0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e242",
+  "by": "rules"
+ },
+ "4b2d3dc936cc15ee": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.07,
+  "market": "Crypto",
+  "event": "e243",
+  "by": "rules"
+ },
+ "ea4b0ec1fd72726e": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e244",
+  "by": "rules"
+ },
+ "dfc0858fbb3ab980": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e245",
+  "by": "rules"
+ },
+ "d066f7742e394baa": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.07,
+  "market": "Crypto",
+  "event": "e246",
+  "by": "rules"
+ },
+ "209670d8ec7d2dce": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e247",
+  "by": "rules"
+ },
+ "b7eaaa032ebd95d0": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 1300.0,
+  "market": "Crypto",
+  "event": "e248",
+  "by": "rules"
+ },
+ "cc6ec3f406ee117b": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e249",
+  "by": "rules"
+ },
+ "d927e7dc9a4dc720": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e250",
+  "by": "rules"
+ },
+ "e7893d77ed03f36b": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e249",
+  "by": "rules"
+ },
+ "aa292415ab3c71b4": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e251",
+  "by": "rules"
+ },
+ "1d164de8b4e0b9c0": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 0.3,
+  "market": "Crypto",
+  "event": "e252",
+  "by": "rules"
+ },
+ "f82d52de94772681": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e217",
+  "by": "rules"
+ },
+ "b5ea2fc87d87b4ae": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e253",
+  "by": "rules"
+ },
+ "8e835c08a96605b6": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e254",
+  "by": "rules"
+ },
+ "ba6bb13ac891236c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e197",
+  "by": "rules"
+ }
+}
