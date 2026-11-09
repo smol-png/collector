@@ -18234,5 +18234,34 @@
   "market": "Stocks",
   "event": "e1444",
   "by": "rules"
+ },
+ "1d99a44d8bfe2f12": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1445",
+  "by": "rules"
+ },
+ "5c4d916e6df1d6ac": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1446",
+  "by": "rules"
+ },
+ "3d1aa33dacd5c800": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1447",
+  "by": "rules"
  }
 }
