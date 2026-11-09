@@ -563,6 +563,18 @@ body.tl .full{margin:14px}
   .mgrid::-webkit-scrollbar{display:none}
   .mcard{flex:none;width:190px}
 }
+
+/* Price action */
+.ftabs .flame{flex:none;transform-origin:50% 100%;animation:flicker 1.3s ease-in-out infinite}
+@keyframes flicker{0%,100%{transform:scale(1) rotate(-2deg);opacity:1}30%{transform:scale(1.08,.94) rotate(2deg);opacity:.9}60%{transform:scale(.95,1.07) rotate(-1deg);opacity:1}}
+.ftabs .tl-short{display:none}
+.atag{display:inline-flex;align-items:center;margin-right:6px;padding:3px 7px;border-radius:6px;font:700 10.5px/1.2 var(--mono);letter-spacing:.08em;vertical-align:3px;color:#E6E3F5;box-shadow:inset 0 0 0 1px rgba(156,150,255,.45)}
+.atag.listed{background:var(--purple);color:#FFFFFF;box-shadow:none}
+.earlier{display:inline-flex;margin-right:8px;font:500 11px var(--mono);color:var(--muted);vertical-align:3px}
+.fchip.asset{font:600 13px var(--mono);letter-spacing:.04em}
+.fchip.asset.listed{box-shadow:inset 0 0 0 1px rgba(110,92,254,.9)}
+@media (max-width:640px){ .ftabs .tl-full{display:none} .ftabs .tl-short{display:inline} }
+@media (prefers-reduced-motion: reduce){ .ftabs .flame{animation:none} }
 </style>
 </head>
 <body>
@@ -590,7 +602,7 @@ const st = {
   watch: store.get("watch", ["BTC", "ETH", "HYPE"]),
   filters: Object.assign({}, DEFAULT_FILTERS, store.get("filters", {})),
   alerts: Object.assign({watch: true, minOutlets: 3}, store.get("alerts", {})),
-  tl: {tab: store.get("tltab", "recent"), open: new Set(), draft: null, watchOnly: false, shown: 150},
+  tl: {tab: store.get("tltab", "recent") === "markets" ? "price" : store.get("tltab", "recent"), open: new Set(), draft: null, watchOnly: false, shown: 150},
   posted: store.get("posted", []), pending: null,
 };
 const TYPES = {news: "News", analysis: "Analysis", opinion: "Opinion", explainer: "Explainer", roundup: "Roundup", live: "Live blog", sponsored: "Sponsored", other: "Other"};
@@ -960,17 +972,19 @@ function composer(e) {
 }
 
 /* ---------- rows and the opened story ---------- */
-function openCard(e, rank) {
+function openCard(e, rank, opts) {
   const c = clusterOf(e), L = lead(e), posted = st.posted.includes(e.id);
   const rel = c.sl ? c.sl.events.map(E).filter(x => x && x.id !== e.id).sort((a, b) => b.outlets - a.outlets || (a.first < b.first ? 1 : -1)) : [];
   const sum = [L, ...e.lane].find(o => o.summary);
   const side = (e.outlets > 1 ? `<section><h4>Across outlets</h4>
       <ul class="srcs">${e.lane.map((o, k) => `<li><a class="src" href="${esc(o.link)}" target="_blank" rel="noopener" title="${esc(o.title)}"><abbr class="ab" title="${esc(o.name)}">${abOf(o.source, o.name)}</abbr><span class="t">${esc(o.title)}</span><span class="tm">${k ? gap(o.after_min) : "first"}</span></a></li>`).join("")}</ul></section>` : "")
-    + (rel.length ? `<section><h4>More in this cluster</h4><p>${esc(c.name)}</p>
+    + (opts && opts.earlier && opts.earlier.list.length ? `<section><h4>Earlier ${esc(opts.earlier.asset.name)} moves</h4><p>Last 3 days, newest first.</p>
+      <ul class="srcs rel">${opts.earlier.list.slice(0, 12).map(x => `<li><button type="button" class="src" data-goto="${x.id}" title="${esc(headline(x))}"><span class="rn">${x.outlets}</span><span class="t o${Math.min(x.outlets, 3)}">${esc(headline(x))}</span><span class="tm">${when(lastUpd(x))}</span></button></li>`).join("")}</ul></section>` : "")
+    + (!(opts && opts.pa) && rel.length ? `<section><h4>More in this cluster</h4><p>${esc(c.name)}</p>
       <ul class="srcs rel">${rel.map(x => { const tr = Math.min(x.outlets, 3); return `<li class="t${tr}"><button type="button" class="src" data-goto="${x.id}" title="${esc(headline(x))}"><span class="rn">${x.outlets}</span><span class="t o${tr}">${esc(headline(x))}</span><span class="tm">${when(x.first)}</span></button></li>`; }).join("")}</ul></section>` : "");
   return `<div class="ocard${side ? "" : " solo"}">
     <div class="omain">
-      <div class="otop"><span>${day(e.first)}</span>${badges2(e)}${flagOf(e)}
+      <div class="otop"><span>${day(e.first)}</span>${badges2(e)}${opts && opts.pa ? opts.pa.slice(0, 3).map(m => `<span class="atag${m.listed ? " listed" : ""}">${esc(m.id)}</span>`).join("") : flagOf(e)}
         <button type="button" class="oclose" data-line="${e.id}" aria-expanded="true" aria-label="Close story">${icon("back", 18)}</button></div>
       <a class="oh" href="${esc(L.link)}" target="_blank" rel="noopener">${esc(headline(e))}${icon("ext", 20)}</a>
       ${sum ? `<p class="ex">${esc(sum.summary)}<small>Opening lines from ${esc(sum.name)}’s feed. <a href="${esc(sum.link)}" target="_blank" rel="noopener">Read the full article</a></small></p>` : ""}
@@ -981,12 +995,14 @@ function openCard(e, rank) {
     ${side ? `<aside class="oside">${side}</aside>` : ""}
   </div>`;
 }
-function lineRow(e, rank, why) {
+function lineRow(e, rank, why, opts) {
   const open = st.tl.open.has(e.id), posted = st.posted.includes(e.id), c = clusterOf(e);
-  if (open) return `<li class="line open" id="row-${e.id}">${openCard(e, rank)}</li>`;
+  if (open) return `<li class="line open" id="row-${e.id}">${openCard(e, rank, opts)}</li>`;
   const tier = Math.min(e.outlets, 3);
   const whyChip = why ? (why.kind === "direct" ? `<span class="why dir">Direct</span>` : `<span class="why drv">Driver · ${esc(why.label)}</span>`) : "";
-  const head = `<span class="hl">${whyChip}${flagOf(e)}<span class="h o${tier}">${esc(headline(e))}${posted ? '<span class="posted">Posted</span>' : ""}</span></span>`;
+  const paChips = opts && opts.pa ? opts.pa.slice(0, 3).map(m => `<span class="atag${m.listed ? " listed" : ""}" title="${esc(m.name)}${m.listed ? ", listed on Perpl" : ""}">${esc(m.id)}</span>`).join("")
+    + (opts.earlier && opts.earlier.list.length ? `<span class="earlier" title="Earlier ${esc(opts.earlier.asset.name)} moves in the last 3 days">+${opts.earlier.list.length} earlier</span>` : "") : "";
+  const head = `<span class="hl">${opts && opts.pa ? paChips : whyChip + flagOf(e)}<span class="h o${tier}">${esc(headline(e))}${posted ? '<span class="posted">Posted</span>' : ""}</span></span>`;
   const num = `<span class="num c-out o${tier}"><b>${e.outlets}</b><span>${e.outlets === 1 ? "outlet" : "outlets"}</span></span>`;
   const btn = rank ? `<button type="button" class="lrow hrow" data-line="${e.id}" aria-expanded="false">
       ${badges2(e)}${head}
@@ -1044,6 +1060,51 @@ function marketsView(base) {
     <div class="mfeedhead"><h2>${esc(sel.m.id)} <span>${esc(sel.m.name)}${sel.m.soon ? ", coming soon to Perpl" : ""}</span></h2>
       <div class="seg2" role="group" aria-label="Which stories"><button type="button" data-donly="0" aria-pressed="${!only}">Direct and drivers</button><button type="button" data-donly="1" aria-pressed="${!!only}">Direct only</button></div></div>
     <p class="mexplain">Last 48 hours. <b>Direct</b> stories are about ${esc(sel.m.name)} itself; <b>drivers</b> are subjects that typically move it.</p>${feed}`;
+}
+// ---------- Price action: stories about assets actually moving ----------
+const PA_MOVE = /\b(rises?|rose|rising|jump(s|ed)?|surg(e|es|ed|ing)|soar(s|ed|ing)?|rall(y|ies|ied)|climb(s|ed)?|gain(s|ed)?|higher|record( high)?|all-time high|falls?|fallen|fell|drop(s|ped)?|slides?|slid|slump(s|ed)?|plunge[sd]?|tumble[sd]?|sinks?|sank|dip(s|ped)?|lower|crash(es|ed)?|sell-?off|rebound(s|ed)?|recover(s|ed|y)?|bounce[sd]?|liquidat\w*|volatil\w*|trades? (near|below|above|at)|price|erases?|wipes? out|sheds?|retreats?|extends? (gains|losses)|breaks? (above|below)|hits? \$|eyes \$|(to|above|below|near|toward|towards|under|over) \$\d)\b|\d+(\.\d+)?\s?%/i;
+// analyst notes are not price action
+const PA_NOT = /(price target|reiterat|rating\b|upgrade|downgrade|outperform|initiates|initiated|coverage)/i;
+const PA_CFG = () => (H.markets || []).map(m => ({...m, _d: new RegExp(m.direct, "i"),
+  _t: m.ticker ? new RegExp("(^|[^A-Za-z])\\$?" + m.ticker + "(?![A-Za-z])") : null}));
+const PA_CLASSES = [["crypto", "Crypto"], ["equities", "Equities"], ["commodities", "Commodities"]];
+const GENERIC = {crypto: "CRYPTO", equities: "STOCKS"};
+function paAssets(e, cfg) {
+  const t = [headline(e), e.title].join("  ");
+  if (!PA_MOVE.test(t) || PA_NOT.test(t)) return [];
+  let hit = cfg.filter(m => (e.tickers || []).includes(m.id) || m._d.test(t) || (m._t && m._t.test(t)));
+  for (const [cls, gen] of Object.entries(GENERIC))   // a named asset beats the generic "market" bucket
+    if (hit.some(m => m.class === cls && m.id !== gen)) hit = hit.filter(m => m.id !== gen);
+  return hit.sort((a, b) => (b.listed ? 1 : 0) - (a.listed ? 1 : 0));
+}
+const PA = Object.assign({cls: [], assets: [], open: false}, store.get("pafilter", {}));
+const savePA = () => store.set("pafilter", PA);
+function priceView(base, top, pill) {
+  const cfg = PA_CFG();
+  const all = base.filter(e => ref() - Date.parse(lastUpd(e)) <= 3 * 864e5).map(e => ({e, a: paAssets(e, cfg)})).filter(x => x.a.length);
+  const inCls = x => !PA.cls.length || x.a.some(m => PA.cls.includes(m.class));
+  const inAsset = x => !PA.assets.length || x.a.some(m => PA.assets.includes(m.id));
+  const shown = all.filter(x => inCls(x) && inAsset(x)).sort((a, b) => lastUpd(a.e) < lastUpd(b.e) ? 1 : -1);
+  // clusters: earlier moves of the same (first) asset
+  const byAsset = {};
+  all.slice().sort((a, b) => lastUpd(a.e) < lastUpd(b.e) ? -1 : 1).forEach(x => { const k = x.a[0].id; (byAsset[k] = byAsset[k] || []).push(x.e); });
+  st.tl.paEarlier = {};
+  shown.forEach(x => { const list = byAsset[x.a[0].id]; st.tl.paEarlier[x.e.id] = {asset: x.a[0], list: list.slice(0, list.indexOf(x.e)).reverse()}; });
+  const clsCount = c => all.filter(x => inAsset(x) && x.a.some(m => m.class === c)).length;
+  const assetCount = id => all.filter(x => inCls(x) && x.a.some(m => m.id === id)).length;
+  const assets = cfg.filter(m => (!PA.cls.length || PA.cls.includes(m.class)) && (assetCount(m.id) || PA.assets.includes(m.id)));
+  const any = PA.cls.length || PA.assets.length;
+  const bar = `<div class="fpanel"><div class="fbar" role="group" aria-label="Price action filters">
+      <button type="button" class="fchip" data-paall aria-pressed="${!any}">All</button>
+      ${PA_CLASSES.map(([c, l]) => `<button type="button" class="fchip" data-pacls="${c}" aria-pressed="${PA.cls.includes(c)}">${l}<span class="fc">${clsCount(c)}</span></button>`).join("")}
+      <span class="fsep" aria-hidden="true"></span>
+      <button type="button" class="fchip" data-paopen aria-expanded="${PA.open}" aria-pressed="${!!PA.assets.length}">Assets${PA.assets.length ? `<span class="fc">${PA.assets.length}</span>` : ""}${icon("chev", 14)}</button>
+    </div>${PA.open ? `<div class="fbar sub" role="group" aria-label="Assets">${assets.map(m => `<button type="button" class="fchip asset${m.listed ? " listed" : ""}" data-paasset="${esc(m.id)}" aria-pressed="${PA.assets.includes(m.id)}" title="${esc(m.name)}${m.listed ? ", listed on Perpl" : ""}">${esc(m.id)}<span class="fc">${assetCount(m.id)}</span></button>`).join("")}</div>` : ""}</div>`;
+  let html = "", lastDay = "";
+  shown.slice(0, 200).forEach(x => { const d = dateLabel(lastUpd(x.e)); if (d !== lastDay) { html += `${lastDay ? "</ul>" : ""}<h2 class="dline"><span>${d}</span></h2><ul class="lines">`; lastDay = d; }
+    html += lineRow(x.e, 0, null, {pa: x.a, earlier: st.tl.paEarlier[x.e.id]}); });
+  if (lastDay) html += "</ul>";
+  return top + bar + pill + (shown.length ? `<div>${html}</div>` : all.length ? `<div class="dnote">No price moves match these filters. <button type="button" class="act" data-paall style="margin-left:10px">Clear filters</button></div>` : `<div class="dnote">No price-moving stories in the last 3 days yet.</div>`);
 }
 function brandBar(r) {
   const fh = feedHealth();
@@ -1123,13 +1184,13 @@ function timeline() {
   const nBreaking = base.filter(e => breakingKind(e)).length;
   const top = brandBar("timeline") + `
     <label class="fsearch${st.q ? " filled" : ""}">${icon("search", 20)}<span class="sr">Search</span><span class="caret" aria-hidden="true"></span><input id="q" type="search" placeholder="Search stories, tickers, markets" value="${esc(st.q)}" autocomplete="off"></label>
-    <div class="ftabs" role="tablist" aria-label="View"><button type="button" role="tab" data-tltab="recent" aria-selected="${T.tab === "recent"}"><span class="livedot" aria-hidden="true"></span>Live</button><button type="button" role="tab" data-tltab="breaking" aria-selected="${T.tab === "breaking"}">Breaking${nBreaking ? `<span class="tabn">${nBreaking}</span>` : ""}</button><button type="button" role="tab" data-tltab="hot" aria-selected="${T.tab === "hot"}">Hot 24h</button><button type="button" role="tab" data-tltab="markets" aria-selected="${T.tab === "markets"}">Markets</button></div>`;
+    <div class="ftabs" role="tablist" aria-label="View"><button type="button" role="tab" data-tltab="recent" aria-selected="${T.tab === "recent"}"><span class="livedot" aria-hidden="true"></span>Live</button><button type="button" role="tab" data-tltab="breaking" aria-selected="${T.tab === "breaking"}">Breaking${nBreaking ? `<span class="tabn">${nBreaking}</span>` : ""}</button><button type="button" role="tab" data-tltab="hot" aria-selected="${T.tab === "hot"}">Hot 24h</button><button type="button" role="tab" data-tltab="price" aria-selected="${T.tab === "price"}"><svg class="flame" aria-hidden="true" width="14" height="16" viewBox="0 0 14 16"><path d="M7 0c.6 2.6 3.6 4.2 3.6 7.7A3.6 3.6 0 0 1 7 11.4a2.7 2.7 0 0 1-2.7-2.7c0-1.6 1-2.3 1.4-3.6C4 6 2.3 7.6 2.3 10.1A4.7 4.7 0 0 0 7 16a5.6 5.6 0 0 0 5.6-5.7C12.6 5.4 7.9 3.3 7 0z" fill="url(#fg)"/><defs><linearGradient id="fg" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#FF6B2C"/><stop offset="1" stop-color="#FFD166"/></linearGradient></defs></svg><span class="tl-full">Price action</span><span class="tl-short">Price</span></button></div>`;
   const pill = st.pending ? `<button type="button" class="newpill" data-applynew>${st.pending.n} new or updated ${st.pending.n === 1 ? "story" : "stories"}</button>` : "";
   // Hot = every story with new coverage in the last 24 hours, even if it first broke earlier
   const pool = T.tab === "hot" ? base.filter(e => ref() - Date.parse(lastUpd(e)) <= 864e5)
     : T.tab === "breaking" ? base.filter(e => breakingKind(e)) : base;
   const bar = filterBar(pool), shown = pool.filter(e => passMk(e) && passTp(e) && passMj(e) && passSt(e));
-  if (T.tab === "markets") return top + pill + marketsView(base);
+  if (T.tab === "price") return priceView(base, top, pill);
   if (T.tab === "breaking") {
     const brk = shown.slice().sort((a, b) => a.first < b.first ? 1 : -1);
     const html = `<ol class="lines">${brk.map(e => lineRow(e, 1)).join("")}</ol>`;
@@ -1193,6 +1254,10 @@ document.addEventListener("click", ev => {
     if ("fmajor" in d) { TF.major = !TF.major; saveF(); render(); return; } }
   const d = t.dataset, L = st.lab, F = st.filters, r = route();
   const flip = (arr, v) => arr.includes(v) ? arr.filter(x => x !== v) : [...arr, v];
+  if ("paall" in d) { PA.cls = []; PA.assets = []; savePA(); render(); return; }
+  if (d.pacls) { PA.cls = PA.cls.includes(d.pacls) ? PA.cls.filter(x => x !== d.pacls) : [...PA.cls, d.pacls]; savePA(); render(); return; }
+  if (d.paasset) { PA.assets = PA.assets.includes(d.paasset) ? PA.assets.filter(x => x !== d.paasset) : [...PA.assets, d.paasset]; savePA(); render(); return; }
+  if ("paopen" in d) { PA.open = !PA.open; savePA(); render(); return; }
   if (d.mkt) { st.tl.market = d.mkt; st.tl.open.clear(); render(); return; }
   if (d.donly) { st.tl.directOnly = d.donly === "1"; render(); return; }
   if (d.tltab) { st.tl.tab = d.tltab; store.set("tltab", d.tltab); st.tl.open.clear(); render(); $("fscroll").scrollTop = 0; return; }
