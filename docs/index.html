@@ -524,6 +524,13 @@ body.tl .full{margin:14px}
 .flag.brk.first{background:transparent;color:#FFFFFF;box-shadow:inset 0 0 0 1px rgba(255,255,255,.75),0 0 10px rgba(156,150,255,.35)}
 @media (max-width:640px){ .ftabs button{letter-spacing:.12em;font-size:12px;gap:7px} .ftabs .tabn{display:none} }
 @media (prefers-reduced-motion: reduce){ .ftabs .brkdot{animation:none} }
+
+/* Breaking: crisp white outline, no glow and no pulse, so it reads differently from Hot's neon */
+.ftabs button[data-tltab="breaking"]{box-shadow:inset 0 0 0 1.5px rgba(255,255,255,.75);color:#FFFFFF}
+.ftabs button[data-tltab="breaking"][aria-selected="true"]{background:var(--purple);box-shadow:inset 0 0 0 1.5px #FFFFFF}
+.flag.brk{box-shadow:inset 0 0 0 1px rgba(255,255,255,.85)}
+.flag.brk::before{display:none}
+.flag.brk.first{box-shadow:inset 0 0 0 1px rgba(255,255,255,.75)}
 </style>
 </head>
 <body>
@@ -1040,7 +1047,7 @@ function timeline() {
   const nBreaking = base.filter(e => breakingKind(e)).length;
   const top = brandBar("timeline") + `
     <label class="fsearch${st.q ? " filled" : ""}">${icon("search", 20)}<span class="sr">Search</span><span class="caret" aria-hidden="true"></span><input id="q" type="search" placeholder="Search stories, tickers, markets" value="${esc(st.q)}" autocomplete="off"></label>
-    <div class="ftabs" role="tablist" aria-label="View"><button type="button" role="tab" data-tltab="recent" aria-selected="${T.tab === "recent"}"><span class="livedot" aria-hidden="true"></span>Live</button><button type="button" role="tab" data-tltab="breaking" aria-selected="${T.tab === "breaking"}"><span class="brkdot" aria-hidden="true"></span>Breaking${nBreaking ? `<span class="tabn">${nBreaking}</span>` : ""}</button><button type="button" role="tab" data-tltab="hot" aria-selected="${T.tab === "hot"}">Hot 24h</button></div>`;
+    <div class="ftabs" role="tablist" aria-label="View"><button type="button" role="tab" data-tltab="recent" aria-selected="${T.tab === "recent"}"><span class="livedot" aria-hidden="true"></span>Live</button><button type="button" role="tab" data-tltab="breaking" aria-selected="${T.tab === "breaking"}">Breaking${nBreaking ? `<span class="tabn">${nBreaking}</span>` : ""}</button><button type="button" role="tab" data-tltab="hot" aria-selected="${T.tab === "hot"}">Hot 24h</button></div>`;
   const pill = st.pending ? `<button type="button" class="newpill" data-applynew>${st.pending.n} new or updated ${st.pending.n === 1 ? "story" : "stories"}</button>` : "";
   // Hot = every story with new coverage in the last 24 hours, even if it first broke earlier
   const pool = T.tab === "hot" ? base.filter(e => ref() - Date.parse(lastUpd(e)) <= 864e5)
@@ -1048,10 +1055,7 @@ function timeline() {
   const bar = filterBar(pool), shown = pool.filter(e => passMk(e) && passTp(e) && passMj(e) && passSt(e));
   if (T.tab === "breaking") {
     const brk = shown.slice().sort((a, b) => a.first < b.first ? 1 : -1);
-    const bucket = e => { const h = (ref() - Date.parse(e.first)) / 36e5; return h < 1 ? "Last hour" : h < 3 ? "1 to 3 hours ago" : "3 to 6 hours ago"; };
-    let html = "", lastB = "";
-    brk.forEach(e => { const b = bucket(e); if (b !== lastB) { html += `${lastB ? "</ol>" : ""}<h2 class="dline"><span>${b}</span></h2><ol class="lines">`; lastB = b; } html += lineRow(e, 1); });
-    if (lastB) html += "</ol>";
+    const html = `<ol class="lines">${brk.map(e => lineRow(e, 1)).join("")}</ol>`;
     return top + bar + pill + (brk.length ? `<div>${html}</div>`
       : pool.length ? noneMatch() : `<div class="dnote">Nothing breaking in the last 6 hours. Collector checks every minute, and new stories appear here as soon as two outlets report them or a top source breaks them.</div>`);
   }
