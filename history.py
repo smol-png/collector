@@ -115,7 +115,7 @@ def run():
                        "market": matches[i["id"]].get("market", "Other"),
                        "tickers": matches[i["id"]]["tickers"], "event": matches[i["id"]]["event"]}
                       for i in sorted(items, key=when, reverse=True)],
-        "feeds": [{"id": f["id"], "name": f["name"], "url": f["url"], "unverified": bool(f.get("unverified"))} for f in feeds],
+        "feeds": [{"id": f["id"], "name": f["name"], "url": f["url"], "unverified": bool(f.get("unverified"))} for f in feeds if not f.get("disabled")],
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(out, ensure_ascii=False))

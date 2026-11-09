@@ -23,7 +23,7 @@ ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 UA = "Collector news monitor (github.com/smol-png/collector; collector@users.noreply.github.com)"
 SEEN_DAYS = 14
-GDELT_PER_RUN = 6      # topics per 5-minute run: all 36 refresh about every 30 minutes
+GDELT_PER_RUN = 2      # topics per full pass (every 5 minutes); GDELT throttles shared servers hard
 GDELT_PAUSE = 7        # seconds between GDELT requests
 
 
@@ -204,9 +204,10 @@ def run(include_gdelt=True, write_health=True):
     gd = [f for f in feeds if f.get("kind") == "gdelt" and not f.get("disabled")]
     cur = state.get("_gdelt", {}).get("cursor", 0) % max(len(gd), 1)
     gd_now = {f["id"] for f in (gd[cur:] + gd[:cur])[:GDELT_PER_RUN]}
-    if include_gdelt:
+    pause_until = state.get("_gdelt", {}).get("pause_until", "")
+    gd_blocked = bool(pause_until and pause_until > iso(t))   # still cooling off after a 429
+    if include_gdelt and not gd_blocked:
         state["_gdelt"] = {"cursor": (cur + GDELT_PER_RUN) % max(len(gd), 1)}
-    gd_blocked = False
     for feed in feeds:
         if feed.get("disabled"):
             continue
@@ -246,7 +247,9 @@ def run(include_gdelt=True, write_health=True):
             else:
                 rec["error"] = f"HTTP {r.status_code}"
                 if r.status_code == 429 and feed.get("kind") == "gdelt":
-                    gd_blocked = True   # back off: skip the rest of this run's GDELT topics
+                    gd_blocked = True   # back off: skip the rest, and pause GDELT for 15 minutes
+                    state["_gdelt"] = {"cursor": state.get("_gdelt", {}).get("cursor", 0),
+                                       "pause_until": iso(t + dt.timedelta(minutes=15))}
         except requests.RequestException as ex:
             rec["error"] = type(ex).__name__ + ": " + str(ex)[:200]
         if rec["status"] in ("ok", "unchanged"):

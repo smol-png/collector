@@ -500,6 +500,11 @@ body.tl .full{margin:14px}
 .mark.rings.still .ring{opacity:1}
 @media (prefers-reduced-motion: reduce){ .mark.rings .ring,.mark.rings .core,.mark.rings .ping{animation:none} .mark.rings .ring{opacity:1} }
 .tbrand .brand{gap:12px;font-weight:600;letter-spacing:-.01em}
+
+/* quiet = answering fine, nothing new in 24h */
+.dot.quiet{background:#21D87A;opacity:.5}
+.sst.quiet{color:#9FD9BA}
+.spill.quiet{background:rgba(33,216,122,.08);color:#9FD9BA;box-shadow:inset 0 0 0 1px rgba(33,216,122,.25)}
 </style>
 </head>
 <body>
@@ -600,11 +605,13 @@ const E = id => H.events.find(e => e.id === id);
 function feedHealth() {
   const bySrc = Object.fromEntries((S && S.sources || []).map(s => [s.id, s]));
   const status = f => { const s = bySrc[f.id] || {}, age = s.newest_item ? ref() - Date.parse(s.newest_item) : null;
-    if (s.last_status === "error") return ["Failing", "✕", s.last_error || "Did not answer."];
-    if (!s.last_status) return ["Unchecked", "○", f.unverified ? "New feed. It confirms on its first check." : "Not checked yet."];
-    if (age != null && age > 864e5) return ["Stale", "◐", "No new story in over a day while others posted."];
+    if (s.last_status === "error") return /429|Timeout/.test(s.last_error || "")
+      ? ["Paused", "◐", "Busy or rate-limited. Collector retries automatically."]
+      : ["Failing", "✕", s.last_error || "Did not answer."];
+    if (!s.last_status) return ["Waiting", "○", f.unverified ? "New feed. It confirms on its first check." : "Queued for its first check."];
+    if (age == null || age > 864e5) return ["Quiet", "●", "Answering normally. Nothing new in the last 24 hours."];
     return ["Live", "●", "Answering normally."]; };
-  const live = H.feeds.filter(f => status(f)[0] === "Live").length;
+  const live = H.feeds.filter(f => ["Live", "Quiet"].includes(status(f)[0])).length;
   return {live, total: H.feeds.length, bySrc, status};
 }
 const storyItems = list => list.length ? `<ul class="items">${list.map((e, n) => `<li><button type="button" class="item" data-pick="${e.id}" aria-current="${st.sel[route()] === e.id}">
@@ -726,7 +733,7 @@ V.lab = () => {
 };
 V.sources = () => {
   const fh = feedHealth();
-  return {title: "Sources", sub: `${fh.live} of ${fh.total} feeds live`, items: H.feeds, tools: "",
+  return {title: "Sources", sub: `${fh.live} of ${fh.total} feeds working`, items: H.feeds, tools: "",
     list: `<ul class="items">${H.feeds.map(f => { const [label, sym] = fh.status(f); return `<li><button type="button" class="item" data-pick="${f.id}" aria-current="${st.sel.sources === f.id}"><span class="bot" style="margin:0"><span class="t">${esc(f.name)}</span><span class="cnt" style="display:inline-flex;align-items:center;gap:8px"><span aria-hidden="true" style="color:${label === "Live" ? "var(--peri)" : "var(--faint)"}">${sym}</span>${label}</span></span></button></li>`; }).join("")}</ul>`,
     detail: id => {
       const f = H.feeds.find(x => x.id === id); if (!f) return `<div class="dempty">Pick a feed.</div>`;
@@ -940,7 +947,7 @@ function brandBar(r) {
   const fh = feedHealth();
   return `<header class="tbrand"><a class="brand" href="#timeline">${mark(34)}Collector</a>
     ${r === "sources" ? `<a class="tstat" href="#timeline">${icon("back", 16)}Back to timeline</a>`
-      : `<a class="tstat" href="#sources" title="Open Sources"><span class="dot live"></span>${fh.live} of ${fh.total} feeds live</a>`}</header>`;
+      : `<a class="tstat" href="#sources" title="Open Sources"><span class="dot live"></span>${fh.live} of ${fh.total} feeds working</a>`}</header>`;
 }
 // grade a headline by how many outlets carried its story
 const tierOf = h => { const e = E(h.event); return Math.min(e ? e.outlets : 1, 3); };
@@ -948,14 +955,14 @@ function sourcesPage() {
   const fh = feedHealth(), sel = H.feeds.find(f => f.id === st.sel.sources) || H.feeds[0];
   st.sel.sources = sel.id;
   const [label, , note] = fh.status(sel), s = fh.bySrc[sel.id] || {};
-  const cls = {Live: "live", Stale: "stale", Failing: "fail", Unchecked: "idle"}[label];
+  const cls = {Live: "live", Quiet: "quiet", Paused: "stale", Failing: "fail", Waiting: "idle"}[label];
   const heads = H.headlines.filter(h => (h.via || h.source) === sel.id).slice(0, 12);
   const n24 = H.headlines.filter(h => (h.via || h.source) === sel.id && ref() - Date.parse(h.published) < 864e5).length;
   return brandBar("sources") + `<div class="sgrid">
-    <ul class="slist">${H.feeds.map(f => { const [l] = fh.status(f), c = {Live: "live", Stale: "stale", Failing: "fail", Unchecked: "idle"}[l];
+    <ul class="slist">${H.feeds.map(f => { const [l] = fh.status(f), c = {Live: "live", Quiet: "quiet", Paused: "stale", Failing: "fail", Waiting: "idle"}[l];
       return `<li><button type="button" class="sitem" data-pick="${f.id}" aria-current="${f.id === sel.id}"><span>${esc(f.name)}</span><span class="sst ${c}"><span class="dot ${c}"></span>${l}</span></button></li>`; }).join("")}</ul>
     <section class="sdetail" aria-label="${esc(sel.name)}">
-      <div class="shead"><h1>${esc(sel.name)}</h1><span class="spill ${cls}"><span class="dot ${cls}"></span>${label === "Live" ? "Live, running" : label}</span></div>
+      <div class="shead"><h1>${esc(sel.name)}</h1><span class="spill ${cls}"><span class="dot ${cls}"></span>${label === "Live" ? "Live, running" : label === "Quiet" ? "Working, quiet" : label}</span></div>
       <div class="sbox">${heads.length ? `<ul>${heads.map(h => `<li><span class="tm">${when(h.published)}</span><a class="h o${tierOf(h)}" href="${esc(h.link)}" target="_blank" rel="noopener">${esc(h.title)}</a></li>`).join("")}</ul>` : `<p class="snone">No headlines yet.</p>`}</div>
       <dl class="smeta"><div><dt>Feed</dt><dd class="mono">${esc(sel.url.replace("https://", ""))}</dd></div><div><dt>Newest story</dt><dd>${ago(s.newest_item)}</dd></div><div><dt>Headlines in 24h</dt><dd>${s.last_status ? n24 : "–"}</dd></div>${label !== "Live" ? `<div><dt>Note</dt><dd>${esc(note)}</dd></div>` : ""}</dl>
     </section></div>`;
@@ -1023,7 +1030,7 @@ function render(keepFocus) {
   $("rail").innerHTML = `<a class="brand" href="#timeline">${mark(36)}Collector</a>
     <div class="groups" role="group" aria-label="Sections">${GROUPS.map(([name, ic, rs]) => `<a href="#${rs[0][0]}" aria-current="${name === g}">${icon(ic, 20)}${name}</a>`).join("")}</div>
     <div class="tiles"><h2>${g}</h2>${screens.map(([id, l, ic, d]) => `<a class="tile" href="#${id}"${id === r ? ' aria-current="page"' : ""}><span class="ic">${icon(ic, 20)}</span><b>${l}</b><span class="n">${counts[id] ?? ""}</span><span class="d">${d}</span></a>`).join("")}</div>
-    <a class="health" href="#sources"><span class="dot"></span><span>Collecting every 5 min<small>${fh.live} of ${fh.total} feeds live${fh.total - fh.live ? `, ${fh.total - fh.live} need attention` : ""}</small></span></a>`;
+    <a class="health" href="#sources"><span class="dot"></span><span>Collecting every minute<small>${fh.live} of ${fh.total} feeds live${fh.total - fh.live ? `, ${fh.total - fh.live} need attention` : ""}</small></span></a>`;
   $("mtop").innerHTML = `<a class="brand" href="#timeline" style="font-size:18px">${mark(30)}Collector</a><button type="button" class="pill" data-deskview style="min-height:40px;padding:0 14px;font-size:14px">Desktop view</button>`;
   if (st.desk) $("rail").insertAdjacentHTML("beforeend", `<button type="button" class="pill" data-phoneview style="justify-content:center">Back to phone view</button>`);
   $("mtabs").innerHTML = screens.map(([id, l]) => `<a href="#${id}"${id === r ? ' aria-current="page"' : ""}>${l}</a>`).join("");
