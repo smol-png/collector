@@ -14508,5 +14508,16 @@
   "market": "Other",
   "event": "e1181",
   "by": "rules"
+ },
+ "7fe9e8d0197210c5": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1182",
+  "by": "rules"
  }
 }
