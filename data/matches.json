@@ -18482,5 +18482,17 @@
   "market": "AI",
   "event": "e1457",
   "by": "rules"
+ },
+ "92c1269415528c86": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "BTC",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1458",
+  "by": "rules"
  }
 }
