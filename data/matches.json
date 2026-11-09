@@ -12751,5 +12751,25 @@
   "market": "Crypto",
   "event": "e1051",
   "by": "rules"
+ },
+ "2b330f4b34e583a7": {
+  "type": "explainer",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1052",
+  "by": "rules"
+ },
+ "3b3fc952d41f9fad": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1053",
+  "by": "rules"
  }
 }
