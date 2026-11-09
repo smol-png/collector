@@ -19375,5 +19375,52 @@
   "market": "Other",
   "event": "e1519",
   "by": "rules"
+ },
+ "3e86f4a0ad375bfa": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1520",
+  "by": "rules"
+ },
+ "652b812dcc99a1f5": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1208",
+  "by": "rules"
+ },
+ "21a3e9eab4c6926c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1249",
+  "by": "rules"
+ },
+ "875d6b5bcfdcf47a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1521",
+  "by": "rules"
+ },
+ "1307a94c8cea52a9": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1522",
+  "by": "rules"
  }
 }
