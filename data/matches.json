@@ -14803,5 +14803,44 @@
   "market": "Other",
   "event": "e1202",
   "by": "rules"
+ },
+ "05a8bbee3fa1f31b": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e1203",
+  "by": "rules"
+ },
+ "cebc3486949c5bc8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1204",
+  "by": "rules"
+ },
+ "4b9d5ac644436ddd": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": 188.0,
+  "market": "Crypto",
+  "event": "e1205",
+  "by": "rules"
+ },
+ "4b8a774253ff3cc9": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e1206",
+  "by": "rules"
  }
 }
