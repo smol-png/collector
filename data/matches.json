@@ -13310,5 +13310,43 @@
   "market": "Other",
   "event": "e235",
   "by": "rules"
+ },
+ "c7725095a55936f5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1090",
+  "by": "rules"
+ },
+ "115a49ae4295a83e": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1091",
+  "by": "rules"
+ },
+ "cb033d80ac85cddd": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1092",
+  "by": "rules"
+ },
+ "901114bf2c91efad": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1093",
+  "by": "rules"
  }
 }
