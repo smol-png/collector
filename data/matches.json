@@ -18777,5 +18777,25 @@
   "market": "Other",
   "event": "e1210",
   "by": "rules"
+ },
+ "574d110bb69ad145": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e1478",
+  "by": "rules"
+ },
+ "bd2955eb65267ff9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1371",
+  "by": "rules"
  }
 }
