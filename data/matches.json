@@ -14182,5 +14182,23 @@
   "market": "Other",
   "event": "e1158",
   "by": "rules"
+ },
+ "95e954b0870ad38c": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e1159",
+  "by": "rules"
+ },
+ "34e3804149c585f0": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e957",
+  "by": "rules"
  }
 }
