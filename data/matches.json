@@ -17548,5 +17548,72 @@
   "market": "Other",
   "event": "e1400",
   "by": "rules"
+ },
+ "d6b2308e04ccbf52": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1344",
+  "by": "rules"
+ },
+ "df30f417508c2579": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1401",
+  "by": "rules"
+ },
+ "68288346eb6b1183": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1402",
+  "by": "rules"
+ },
+ "cf59e58a7c2a6be0": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e198",
+  "by": "rules"
+ },
+ "37b97b7f0b330cbb": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e1403",
+  "by": "rules"
+ },
+ "0943aef0e4f76100": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1404",
+  "by": "rules"
+ },
+ "7754b38ba29d3ed9": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1405",
+  "by": "rules"
  }
 }
