@@ -20177,5 +20177,23 @@
   "market": "Other",
   "event": "e1450",
   "by": "rules"
+ },
+ "be4bade84b72eea3": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": 116.0,
+  "market": "Other",
+  "event": "e1568",
+  "by": "rules"
+ },
+ "3a8463e2d0a9584c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 3000.0,
+  "market": "AI",
+  "event": "e1569",
+  "by": "rules"
  }
 }
