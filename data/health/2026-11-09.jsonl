@@ -32,3 +32,13 @@
 {"ts": "2026-11-09T09:21:33Z", "source": "gd-crypto-treasuries", "status": "ok", "http": 200, "ms": 13508, "entries": 0, "new": 0, "error": null}
 {"ts": "2026-11-09T09:21:33Z", "source": "gd-hacks-and-exploits", "status": "error", "http": 429, "ms": 12272, "entries": 0, "new": 0, "error": "HTTP 429"}
 {"ts": "2026-11-09T09:21:33Z", "source": "gd-exchanges", "status": "error", "http": 429, "ms": 10489, "entries": 0, "new": 0, "error": "HTTP 429"}
+{"ts": "2026-11-09T09:54:16Z", "source": "coindesk", "status": "ok", "http": 200, "ms": 172, "entries": 25, "new": 1, "error": null}
+{"ts": "2026-11-09T09:54:16Z", "source": "cointelegraph", "status": "ok", "http": 200, "ms": 86, "entries": 30, "new": 0, "error": null}
+{"ts": "2026-11-09T09:54:16Z", "source": "theblock", "status": "unchanged", "http": 304, "ms": 63, "entries": 0, "new": 0, "error": null}
+{"ts": "2026-11-09T09:54:16Z", "source": "decrypt", "status": "ok", "http": 200, "ms": 66, "entries": 39, "new": 1, "error": null}
+{"ts": "2026-11-09T09:54:16Z", "source": "thedefiant", "status": "unchanged", "http": 304, "ms": 211, "entries": 0, "new": 0, "error": null}
+{"ts": "2026-11-09T09:54:16Z", "source": "bitcoinmagazine", "status": "unchanged", "http": 304, "ms": 234, "entries": 0, "new": 0, "error": null}
+{"ts": "2026-11-09T09:54:16Z", "source": "cryptoslate", "status": "ok", "http": 200, "ms": 275, "entries": 10, "new": 0, "error": null}
+{"ts": "2026-11-09T09:54:16Z", "source": "unchained", "status": "ok", "http": 200, "ms": 209, "entries": 10, "new": 2, "error": null}
+{"ts": "2026-11-09T09:54:16Z", "source": "cryptonews", "status": "ok", "http": 200, "ms": 418, "entries": 50, "new": 1, "error": null}
+{"ts": "2026-11-09T09:54:16Z", "source": "gd-anthropic", "status": "error", "http": 429, "ms": 8623, "entries": 0, "new": 0, "error": "HTTP 429"}

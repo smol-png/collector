@@ -3075,5 +3075,54 @@
   "market": "Crypto",
   "event": "e197",
   "by": "rules"
+ },
+ "2d539187308a32a0": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e255",
+  "by": "rules"
+ },
+ "6d03e91a8a661803": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e256",
+  "by": "rules"
+ },
+ "aad1fcea52af6917": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e257",
+  "by": "rules"
+ },
+ "35124950233c00ca": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e216",
+  "by": "rules"
+ },
+ "72a73b50814ef8dc": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e258",
+  "by": "rules"
  }
 }

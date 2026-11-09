@@ -1,39 +1,42 @@
 {
+ "_gdelt": {
+  "cursor": 5
+ },
  "bitcoinmagazine": {
   "etag": "\"720d7eea96f0b6f8f75ddb73d7c431b9\"",
-  "last_ok": "2026-11-09T09:21:33Z",
+  "last_ok": "2026-11-09T09:54:16Z",
   "modified": "Fri, 06 Nov 2026 22:52:03 GMT",
   "newest_item": "2026-11-06T21:28:56Z"
  },
  "coindesk": {
   "etag": null,
-  "last_ok": "2026-11-09T09:21:33Z",
+  "last_ok": "2026-11-09T09:54:16Z",
   "modified": null,
-  "newest_item": "2026-11-09T06:54:41Z"
+  "newest_item": "2026-11-09T09:33:27Z"
  },
  "cointelegraph": {
   "etag": null,
-  "last_ok": "2026-11-09T09:21:33Z",
-  "modified": "Mon, 09 Nov 2026 09:18:26 GMT",
+  "last_ok": "2026-11-09T09:54:16Z",
+  "modified": "Mon, 09 Nov 2026 09:53:52 GMT",
   "newest_item": "2026-11-09T09:00:17Z"
  },
  "cryptonews": {
-  "etag": "W/\"f12f582f65e334e07dc8499aa71183f7\"",
-  "last_ok": "2026-11-09T09:21:33Z",
-  "modified": "Mon, 09 Nov 2026 09:06:46 GMT",
-  "newest_item": "2026-11-09T09:06:42Z"
+  "etag": "W/\"4c5e4e488a28d2d2d2be6e6f65bc41bd\"",
+  "last_ok": "2026-11-09T09:54:16Z",
+  "modified": "Mon, 09 Nov 2026 09:50:30 GMT",
+  "newest_item": "2026-11-09T09:50:25Z"
  },
  "cryptoslate": {
   "etag": null,
-  "last_ok": "2026-11-09T09:21:33Z",
-  "modified": "Mon, 09 Nov 2026 09:14:56 GMT",
+  "last_ok": "2026-11-09T09:54:16Z",
+  "modified": "Mon, 09 Nov 2026 09:44:22 GMT",
   "newest_item": "2026-11-08T21:30:38Z"
  },
  "decrypt": {
   "etag": null,
-  "last_ok": "2026-11-09T09:21:33Z",
-  "modified": "Mon, 09 Nov 2026 09:21:27 GMT",
-  "newest_item": "2026-11-08T14:01:03Z"
+  "last_ok": "2026-11-09T09:54:16Z",
+  "modified": "Mon, 09 Nov 2026 09:54:09 GMT",
+  "newest_item": "2026-11-09T09:50:21Z"
  },
  "gd-ai-chips-and-data-centres": {},
  "gd-anthropic": {
@@ -88,20 +91,20 @@
  "gd-yields-and-the-dollar": {},
  "theblock": {
   "etag": "W/\"a533997fbf6e6a319b03945f6d8833ed\"",
-  "last_ok": "2026-11-09T09:21:33Z",
+  "last_ok": "2026-11-09T09:54:16Z",
   "modified": "Mon, 09 Nov 2026 09:05:02 GMT",
   "newest_item": "2026-11-09T09:05:02Z"
  },
  "thedefiant": {
   "etag": "W/\"818f34c8abab3df622bf660cd58d1e0e1c4645d474d2d145262b38bc3c3228b6\"",
-  "last_ok": "2026-11-09T09:21:33Z",
+  "last_ok": "2026-11-09T09:54:16Z",
   "modified": null,
   "newest_item": "2026-11-09T08:53:50Z"
  },
  "unchained": {
-  "etag": "W/\"f398320fcccc81e1cd804d0e2b51b480\"",
-  "last_ok": "2026-11-09T09:21:33Z",
-  "modified": "Mon, 09 Nov 2026 09:15:07 GMT",
-  "newest_item": "2026-11-09T09:15:07Z"
+  "etag": "W/\"c93199aa119b26f581f3687503e6a833\"",
+  "last_ok": "2026-11-09T09:54:16Z",
+  "modified": "Mon, 09 Nov 2026 09:45:22 GMT",
+  "newest_item": "2026-11-09T09:45:22Z"
  }
 }
