@@ -255,7 +255,7 @@ select.chip{appearance:none;padding-right:34px;background-color:var(--panel);bac
 .fwrap{gap:0;padding:28px 40px 120px}
 .fsearch{display:flex;align-items:center;gap:12px;min-height:54px;padding:0 18px;border-radius:14px;background:rgba(18,13,36,.75);color:var(--faint)}
 .fsearch input{flex:1;min-width:0;background:transparent;border:0;outline:0;color:#FFFFFF;font-size:16px}
-.ftabs{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin:12px 0 8px;padding:5px;border-radius:16px;background:rgba(18,13,36,.75)}
+.ftabs{display:grid;grid-template-columns:1fr 1fr 1fr;gap:6px;margin:12px 0 8px;padding:5px;border-radius:16px;background:rgba(18,13,36,.75)}
 .ftabs button{min-height:52px;border:0;border-radius:12px;background:transparent;color:var(--muted);font:600 13px var(--mono);letter-spacing:.26em;text-transform:uppercase;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:10px}
 .ftabs button:hover{color:#FFFFFF}
 .ftabs button[aria-selected="true"]{background:var(--purple);color:#FFFFFF}
@@ -516,6 +516,14 @@ body.tl .full{margin:14px}
 .fchip.stage .sdot{width:7px;height:7px;border-radius:50%;background:#FFFFFF;animation:pulse 1.6s ease-out infinite}
 .fchip.stage.brk{box-shadow:var(--neon)}
 @media (prefers-reduced-motion: reduce){ .flag.brk::before,.fchip.stage .sdot{animation:none} }
+
+/* Breaking tab */
+.ftabs .brkdot{width:8px;height:8px;border-radius:50%;background:#FFFFFF;box-shadow:0 0 0 0 rgba(255,255,255,.6);animation:pulse 1.6s ease-out infinite}
+.ftabs button[data-tltab="breaking"][aria-selected="true"]{box-shadow:var(--neon)}
+.ftabs .tabn{margin-left:2px;padding:1px 7px;border-radius:999px;font:700 11px var(--mono);letter-spacing:.04em;background:rgba(255,255,255,.18);color:#FFFFFF}
+.flag.brk.first{background:transparent;color:#FFFFFF;box-shadow:inset 0 0 0 1px rgba(255,255,255,.75),0 0 10px rgba(156,150,255,.35)}
+@media (max-width:640px){ .ftabs button{letter-spacing:.12em;font-size:12px;gap:7px} .ftabs .tabn{display:none} }
+@media (prefers-reduced-motion: reduce){ .ftabs .brkdot{animation:none} }
 </style>
 </head>
 <body>
@@ -949,7 +957,7 @@ function lineRow(e, rank) {
 }
 function gotoEvent(id) {
   const e = E(id); if (!e) return;
-  if (st.tl.tab === "hot" && ref() - Date.parse(e.first) > 864e5) { st.tl.tab = "recent"; store.set("tltab", "recent"); }
+  if ((st.tl.tab === "hot" && ref() - Date.parse(e.first) > 864e5) || (st.tl.tab === "breaking" && !breakingKind(e))) { st.tl.tab = "recent"; store.set("tltab", "recent"); }
   st.q = ""; st.tl.open.add(id); render();
   const el = document.getElementById("row-" + id); if (el) el.scrollIntoView({block: "start", behavior: "smooth"});
 }
@@ -988,11 +996,23 @@ const passTp = e => !TF.topics.length || TF.topics.includes(e.category);
 const passMj = e => !TF.major || e.outlets >= 3;
 // Breaking = a new story (not a continuation) picked up by 2+ outlets in the last 6 hours.
 // Unfolding = a new development in a story that has been running for up to 3 days.
-const stageOf = e => e.unfolding ? "unfolding" : (e.outlets >= 2 && ref() - Date.parse(e.first) <= 6 * 36e5 ? "breaking" : "");
-const passSt = e => !TF.stage || stageOf(e) === TF.stage;
+// Breaking-grade sources: a single report from these is enough to show as a "First report".
+// Everything else needs a second outlet before it counts as Breaking.
+const FIRST_OK = new Set(["fed", "sec", "cftc", "treasury", "whitehouse", "truth-archive", "mw-bulletins", "cnbc-top", "investing-news"]);
+// routine items that are never "breaking": closes, wraps, transcripts, previews, listicles
+const ROUTINE = /(earnings call transcript|\bslides\b|\bat close\b|close of trade|market(s)? wrap|markets? (open|close)\b|stocks to watch|what to watch|morning bid|week ahead|\bpreview\b|\bopinion\b|^analysis|\bexplainer\b|^how |^why |^what |these .* stocks|top \d+|\blive\b|transcript|price prediction|technical analysis)/i;
+// Breaking = a new story (not a continuation) from the last 6 hours, reported as news (not analysis or routine):
+// "confirmed" by 2+ outlets, or a "first" report from a breaking-grade source.
+const breakingKind = e => {
+  if (e.unfolding || ref() - Date.parse(e.first) > 6 * 36e5) return "";
+  if ((e.seed && e.seed.type !== "news") || ROUTINE.test(headline(e)) || ROUTINE.test(e.title)) return "";
+  return e.outlets >= 2 ? "confirmed" : FIRST_OK.has(e.lane[0].source) ? "first" : "";
+};
+const stageOf = e => e.unfolding ? "unfolding" : breakingKind(e) ? "breaking" : "";
+const passSt = e => !TF.stage || st.tl.tab === "breaking" || stageOf(e) === TF.stage;
 const ordinal = n => n + (n % 100 >= 11 && n % 100 <= 13 ? "th" : ["th", "st", "nd", "rd"][n % 10] || "th");
 const flagOf = e => { const s = stageOf(e);
-  return s === "breaking" ? `<span class="flag brk">Breaking</span>`
+  return s === "breaking" ? (breakingKind(e) === "first" ? `<span class="flag brk first" title="Only ${esc(e.lane[0].name)} so far. It turns into Breaking when another outlet confirms it.">First report</span>` : `<span class="flag brk">Breaking</span>`)
     : s === "unfolding" ? `<span class="flag unf" title="Update ${e.update_n || 1} to a story that has been running for up to 3 days">Unfolding<b>· update ${e.update_n || 1}</b></span>` : ""; };
 function filterBar(pool) {
   const mkCount = m => pool.filter(e => passTp(e) && passMj(e) && passSt(e) && marketOf(e) === m).length;
@@ -1007,8 +1027,7 @@ function filterBar(pool) {
       <span class="fsep" aria-hidden="true"></span>
       <button type="button" class="fchip" data-ftopics aria-expanded="${TF.topicsOpen}" aria-pressed="${!!TF.topics.length}">Topics${TF.topics.length ? `<span class="fc">${TF.topics.length}</span>` : ""}${icon("chev", 14)}</button>
       <button type="button" class="fchip major" data-fmajor aria-pressed="${TF.major}">Major only<span class="fc">${pool.filter(e => passMk(e) && passTp(e) && passSt(e) && e.outlets >= 3).length}</span></button>
-      <button type="button" class="fchip stage brk" data-fstage="breaking" aria-pressed="${TF.stage === "breaking"}"><span class="sdot" aria-hidden="true"></span>Breaking<span class="fc">${stCount("breaking")}</span></button>
-      <button type="button" class="fchip stage unf" data-fstage="unfolding" aria-pressed="${TF.stage === "unfolding"}">Unfolding<span class="fc">${stCount("unfolding")}</span></button>
+      ${st.tl.tab === "breaking" ? "" : `<button type="button" class="fchip stage unf" data-fstage="unfolding" aria-pressed="${TF.stage === "unfolding"}">Unfolding<span class="fc">${stCount("unfolding")}</span></button>`}
     </div>
     ${TF.topicsOpen ? `<div class="fbar sub" role="group" aria-label="Topics">${tps.map(c => `<button type="button" class="fchip" data-ft="${esc(c)}" aria-pressed="${TF.topics.includes(c)}">${svgI(TP[c] || TP.Other, 15)}${TOPIC_LABEL[c]}<span class="fc">${tpCount(c)}</span></button>`).join("")}</div>` : ""}</div>`;
 }
@@ -1018,13 +1037,24 @@ function timeline() {
   const base = H.events.filter(e => !st.filters.hideTypes.includes(e.seed.type) && !st.filters.hiddenOutlets.includes(e.first_source)
     && e.outlets >= st.filters.minOutlets
     && matchQ(headline(e) + " " + e.title + " " + e.lane.map(o => o.title + " " + o.name).join(" ") + " " + e.tickers.join(" ") + " " + marketOf(e) + " " + e.category));
+  const nBreaking = base.filter(e => breakingKind(e)).length;
   const top = brandBar("timeline") + `
     <label class="fsearch${st.q ? " filled" : ""}">${icon("search", 20)}<span class="sr">Search</span><span class="caret" aria-hidden="true"></span><input id="q" type="search" placeholder="Search stories, tickers, markets" value="${esc(st.q)}" autocomplete="off"></label>
-    <div class="ftabs" role="tablist" aria-label="View"><button type="button" role="tab" data-tltab="recent" aria-selected="${T.tab === "recent"}"><span class="livedot" aria-hidden="true"></span>Live</button><button type="button" role="tab" data-tltab="hot" aria-selected="${T.tab === "hot"}">Hot 24h</button></div>`;
+    <div class="ftabs" role="tablist" aria-label="View"><button type="button" role="tab" data-tltab="recent" aria-selected="${T.tab === "recent"}"><span class="livedot" aria-hidden="true"></span>Live</button><button type="button" role="tab" data-tltab="breaking" aria-selected="${T.tab === "breaking"}"><span class="brkdot" aria-hidden="true"></span>Breaking${nBreaking ? `<span class="tabn">${nBreaking}</span>` : ""}</button><button type="button" role="tab" data-tltab="hot" aria-selected="${T.tab === "hot"}">Hot 24h</button></div>`;
   const pill = st.pending ? `<button type="button" class="newpill" data-applynew>${st.pending.n} new or updated ${st.pending.n === 1 ? "story" : "stories"}</button>` : "";
   // Hot = every story with new coverage in the last 24 hours, even if it first broke earlier
-  const pool = T.tab === "hot" ? base.filter(e => ref() - Date.parse(lastUpd(e)) <= 864e5) : base;
+  const pool = T.tab === "hot" ? base.filter(e => ref() - Date.parse(lastUpd(e)) <= 864e5)
+    : T.tab === "breaking" ? base.filter(e => breakingKind(e)) : base;
   const bar = filterBar(pool), shown = pool.filter(e => passMk(e) && passTp(e) && passMj(e) && passSt(e));
+  if (T.tab === "breaking") {
+    const brk = shown.slice().sort((a, b) => a.first < b.first ? 1 : -1);
+    const bucket = e => { const h = (ref() - Date.parse(e.first)) / 36e5; return h < 1 ? "Last hour" : h < 3 ? "1 to 3 hours ago" : "3 to 6 hours ago"; };
+    let html = "", lastB = "";
+    brk.forEach(e => { const b = bucket(e); if (b !== lastB) { html += `${lastB ? "</ol>" : ""}<h2 class="dline"><span>${b}</span></h2><ol class="lines">`; lastB = b; } html += lineRow(e, 1); });
+    if (lastB) html += "</ol>";
+    return top + bar + pill + (brk.length ? `<div>${html}</div>`
+      : pool.length ? noneMatch() : `<div class="dnote">Nothing breaking in the last 6 hours. Collector checks every minute, and new stories appear here as soon as two outlets report them or a top source breaks them.</div>`);
+  }
   if (T.tab === "hot") {
     const hot = shown.slice()
       .sort((a, b) => b.outlets - a.outlets || clusterOf(b).n - clusterOf(a).n || (lastUpd(a) < lastUpd(b) ? 1 : -1));
