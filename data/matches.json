@@ -15208,5 +15208,37 @@
   "market": "Crypto",
   "event": "e1229",
   "by": "rules"
+ },
+ "4d1f4d52c744570a": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1240",
+  "by": "rules"
+ },
+ "8236f8398e8e06a1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1239",
+  "by": "rules"
+ },
+ "5ece411d54a2a759": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": 188.0,
+  "market": "Crypto",
+  "event": "e1205",
+  "by": "rules"
  }
 }
