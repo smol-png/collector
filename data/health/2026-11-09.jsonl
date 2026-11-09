@@ -113,3 +113,19 @@
 {"ts": "2026-11-09T10:16:43Z", "source": "whitehouse", "status": "unchanged", "http": 304, "ms": 93, "entries": 0, "new": 0, "error": null}
 {"ts": "2026-11-09T10:16:43Z", "source": "truth-archive", "status": "unchanged", "http": 304, "ms": 327, "entries": 0, "new": 0, "error": null}
 {"ts": "2026-11-09T10:16:43Z", "source": "kraken-blog", "status": "unchanged", "http": 304, "ms": 101, "entries": 0, "new": 0, "error": null}
+{"ts": "2026-11-09T10:21:43Z", "source": "coindesk", "status": "ok", "http": 200, "ms": 173, "entries": 25, "new": 0, "error": null}
+{"ts": "2026-11-09T10:21:43Z", "source": "cointelegraph", "status": "unchanged", "http": 304, "ms": 28, "entries": 0, "new": 0, "error": null}
+{"ts": "2026-11-09T10:21:43Z", "source": "theblock", "status": "unchanged", "http": 304, "ms": 29, "entries": 0, "new": 0, "error": null}
+{"ts": "2026-11-09T10:21:43Z", "source": "decrypt", "status": "ok", "http": 200, "ms": 27, "entries": 39, "new": 0, "error": null}
+{"ts": "2026-11-09T10:21:43Z", "source": "thedefiant", "status": "unchanged", "http": 304, "ms": 229, "entries": 0, "new": 0, "error": null}
+{"ts": "2026-11-09T10:21:43Z", "source": "bitcoinmagazine", "status": "unchanged", "http": 304, "ms": 235, "entries": 0, "new": 0, "error": null}
+{"ts": "2026-11-09T10:21:43Z", "source": "cryptoslate", "status": "unchanged", "http": 304, "ms": 111, "entries": 0, "new": 0, "error": null}
+{"ts": "2026-11-09T10:21:43Z", "source": "unchained", "status": "unchanged", "http": 304, "ms": 141, "entries": 0, "new": 0, "error": null}
+{"ts": "2026-11-09T10:21:43Z", "source": "cryptonews", "status": "unchanged", "http": 304, "ms": 171, "entries": 0, "new": 0, "error": null}
+{"ts": "2026-11-09T10:21:43Z", "source": "fed", "status": "unchanged", "http": 304, "ms": 32, "entries": 0, "new": 0, "error": null}
+{"ts": "2026-11-09T10:21:43Z", "source": "sec", "status": "unchanged", "http": 304, "ms": 85, "entries": 0, "new": 0, "error": null}
+{"ts": "2026-11-09T10:21:43Z", "source": "cftc", "status": "unchanged", "http": 304, "ms": 32, "entries": 0, "new": 0, "error": null}
+{"ts": "2026-11-09T10:21:43Z", "source": "treasury", "status": "error", "http": 404, "ms": 37477, "entries": 0, "new": 0, "error": "HTTP 404"}
+{"ts": "2026-11-09T10:21:43Z", "source": "whitehouse", "status": "unchanged", "http": 304, "ms": 92, "entries": 0, "new": 0, "error": null}
+{"ts": "2026-11-09T10:21:43Z", "source": "truth-archive", "status": "ok", "http": 200, "ms": 285, "entries": 100, "new": 0, "error": null}
+{"ts": "2026-11-09T10:21:43Z", "source": "kraken-blog", "status": "unchanged", "http": 304, "ms": 134, "entries": 0, "new": 0, "error": null}
