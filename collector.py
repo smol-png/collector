@@ -87,7 +87,7 @@ def fetch(feed, state):
     if st.get("modified"):
         headers["If-Modified-Since"] = st["modified"]
     t0 = time.monotonic()
-    r = requests.get(feed["url"], headers=headers, timeout=20)
+    r = requests.get(feed["url"], headers=headers, timeout=feed.get("timeout", 20))
     ms = int((time.monotonic() - t0) * 1000)
     return r, ms
 

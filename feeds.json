@@ -386,7 +386,8 @@
   "url": "https://home.treasury.gov/news/press-releases/feed",
   "group": "Official",
   "kind": "rss",
-  "fast": true
+  "fast": true,
+  "timeout": 45
  },
  {
   "id": "ofac",
@@ -394,7 +395,9 @@
   "url": "https://ofac.treasury.gov/recent-actions/rss.xml",
   "group": "Official",
   "kind": "rss",
-  "fast": true
+  "fast": true,
+  "disabled": true,
+  "note": "No feed at this address (404); Treasury press releases cover OFAC actions."
  },
  {
   "id": "whitehouse",
@@ -410,7 +413,9 @@
   "url": "https://truthsocial.com/@realDonaldTrump.rss",
   "group": "Official",
   "kind": "rss",
-  "fast": true
+  "fast": true,
+  "disabled": true,
+  "note": "Truth Social refuses automated readers (403); the trumpstruth.org archive feed is used instead."
  },
  {
   "id": "truth-archive",
@@ -426,7 +431,9 @@
   "url": "https://www.coinbase.com/blog/rss.xml",
   "group": "Exchanges",
   "kind": "rss",
-  "fast": true
+  "fast": true,
+  "disabled": true,
+  "note": "Coinbase blog refuses automated readers (403)."
  },
  {
   "id": "kraken-blog",
