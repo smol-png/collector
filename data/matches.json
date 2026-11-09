@@ -20408,5 +20408,34 @@
   "market": "Other",
   "event": "e1583",
   "by": "rules"
+ },
+ "e49c07c734941d8b": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1364",
+  "by": "rules"
+ },
+ "d64938988c0c9b6e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1583",
+  "by": "rules"
+ },
+ "1ee59dad6d36e6e0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "HOOD"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1584",
+  "by": "rules"
  }
 }
