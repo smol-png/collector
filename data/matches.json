@@ -16927,5 +16927,16 @@
   "market": "Crypto",
   "event": "e1361",
   "by": "rules"
+ },
+ "066dd4d6f22917b7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e197",
+  "by": "rules"
  }
 }
