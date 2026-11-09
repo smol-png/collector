@@ -19939,5 +19939,16 @@
   "market": "Other",
   "event": "e883",
   "by": "rules"
+ },
+ "688644cb725ffd12": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1553",
+  "by": "rules"
  }
 }
