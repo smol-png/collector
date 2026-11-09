@@ -14112,5 +14112,57 @@
   "market": "AI",
   "event": "e198",
   "by": "rules"
+ },
+ "f699afc4714f156a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1142",
+  "by": "rules"
+ },
+ "23353412f315615d": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1154",
+  "by": "rules"
+ },
+ "8372a7fe4a9b3197": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1155",
+  "by": "rules"
+ },
+ "c2c62ccd414f1b32": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e957",
+  "by": "rules"
+ },
+ "3f70374335c031f7": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1156",
+  "by": "rules"
  }
 }
