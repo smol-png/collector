@@ -442,5 +442,312 @@
   "group": "Exchanges",
   "kind": "rss",
   "fast": true
+ },
+ {
+  "id": "cnbc-top",
+  "name": "CNBC",
+  "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "cnbc-world",
+  "name": "CNBC World",
+  "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business",
+  "gate": "markets"
+ },
+ {
+  "id": "cnbc-economy",
+  "name": "CNBC Economy",
+  "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "cnbc-finance",
+  "name": "CNBC Finance",
+  "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "cnbc-tech",
+  "name": "CNBC Tech",
+  "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "cnbc-politics",
+  "name": "CNBC Politics",
+  "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000113",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business",
+  "gate": "markets"
+ },
+ {
+  "id": "mw-bulletins",
+  "name": "MarketWatch Bulletins",
+  "url": "https://feeds.content.dowjones.io/public/rss/mw_bulletins",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "mw-top",
+  "name": "MarketWatch",
+  "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "wsj-markets",
+  "name": "WSJ Markets",
+  "url": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "wsj-world",
+  "name": "WSJ World",
+  "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business",
+  "gate": "markets"
+ },
+ {
+  "id": "wsj-tech",
+  "name": "WSJ Tech",
+  "url": "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "investing-news",
+  "name": "Investing.com",
+  "url": "https://www.investing.com/rss/news.rss",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "investing-economy",
+  "name": "Investing.com Economy",
+  "url": "https://www.investing.com/rss/news_14.rss",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "yahoo-finance",
+  "name": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/news/rssindex",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "ft-home",
+  "name": "Financial Times",
+  "url": "https://www.ft.com/rss/home",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business",
+  "gate": "markets"
+ },
+ {
+  "id": "ft-companies",
+  "name": "FT Companies",
+  "url": "https://www.ft.com/companies?format=rss",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "bloomberg-markets",
+  "name": "Bloomberg Markets",
+  "url": "https://feeds.bloomberg.com/markets/news.rss",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "bloomberg-politics",
+  "name": "Bloomberg Politics",
+  "url": "https://feeds.bloomberg.com/politics/news.rss",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business",
+  "gate": "markets"
+ },
+ {
+  "id": "bloomberg-tech",
+  "name": "Bloomberg Tech",
+  "url": "https://feeds.bloomberg.com/technology/news.rss",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "bbc-world",
+  "name": "BBC World",
+  "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+  "kind": "rss",
+  "fast": true,
+  "group": "World",
+  "gate": "markets"
+ },
+ {
+  "id": "bbc-business",
+  "name": "BBC Business",
+  "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+  "kind": "rss",
+  "fast": true,
+  "group": "World"
+ },
+ {
+  "id": "bbc-mideast",
+  "name": "BBC Middle East",
+  "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+  "kind": "rss",
+  "fast": true,
+  "group": "World",
+  "gate": "markets"
+ },
+ {
+  "id": "aljazeera",
+  "name": "Al Jazeera",
+  "url": "https://www.aljazeera.com/xml/rss/all.xml",
+  "kind": "rss",
+  "fast": true,
+  "group": "World",
+  "gate": "markets"
+ },
+ {
+  "id": "guardian-world",
+  "name": "The Guardian World",
+  "url": "https://www.theguardian.com/world/rss",
+  "kind": "rss",
+  "fast": true,
+  "group": "World",
+  "gate": "markets"
+ },
+ {
+  "id": "guardian-business",
+  "name": "The Guardian Business",
+  "url": "https://www.theguardian.com/uk/business/rss",
+  "kind": "rss",
+  "fast": true,
+  "group": "World"
+ },
+ {
+  "id": "nyt-world",
+  "name": "NYT World",
+  "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+  "kind": "rss",
+  "fast": true,
+  "group": "World",
+  "gate": "markets"
+ },
+ {
+  "id": "nyt-business",
+  "name": "NYT Business",
+  "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+  "kind": "rss",
+  "fast": true,
+  "group": "World"
+ },
+ {
+  "id": "timesofisrael",
+  "name": "Times of Israel",
+  "url": "https://www.timesofisrael.com/feed/",
+  "kind": "rss",
+  "fast": true,
+  "group": "World",
+  "gate": "markets"
+ },
+ {
+  "id": "politico",
+  "name": "Politico",
+  "url": "https://rss.politico.com/politics-news.xml",
+  "kind": "rss",
+  "fast": true,
+  "group": "Politics",
+  "gate": "markets"
+ },
+ {
+  "id": "thehill",
+  "name": "The Hill",
+  "url": "https://thehill.com/news/feed/",
+  "kind": "rss",
+  "fast": true,
+  "group": "Politics",
+  "gate": "markets"
+ },
+ {
+  "id": "axios",
+  "name": "Axios",
+  "url": "https://api.axios.com/feed/",
+  "kind": "rss",
+  "fast": true,
+  "group": "Politics",
+  "gate": "markets"
+ },
+ {
+  "id": "npr",
+  "name": "NPR",
+  "url": "https://feeds.npr.org/1001/rss.xml",
+  "kind": "rss",
+  "fast": true,
+  "group": "Politics",
+  "gate": "markets"
+ },
+ {
+  "id": "cbs",
+  "name": "CBS News",
+  "url": "https://www.cbsnews.com/latest/rss/main",
+  "kind": "rss",
+  "fast": true,
+  "group": "Politics",
+  "gate": "markets"
+ },
+ {
+  "id": "nbc",
+  "name": "NBC News",
+  "url": "https://feeds.nbcnews.com/nbcnews/public/news",
+  "kind": "rss",
+  "fast": true,
+  "group": "Politics",
+  "gate": "markets"
+ },
+ {
+  "id": "techcrunch",
+  "name": "TechCrunch",
+  "url": "https://techcrunch.com/feed/",
+  "kind": "rss",
+  "fast": true,
+  "group": "Tech",
+  "gate": "markets"
+ },
+ {
+  "id": "theverge",
+  "name": "The Verge",
+  "url": "https://www.theverge.com/rss/index.xml",
+  "kind": "rss",
+  "fast": true,
+  "group": "Tech",
+  "gate": "markets"
  }
 ]

@@ -92,6 +92,25 @@ def fetch(feed, state):
     return r, ms
 
 
+
+# Market-moving subjects. Feeds marked "gate": "markets" (general news) only keep headlines matching one of these.
+MARKETS_RX = re.compile(r"""\b(
+  econom\w*|recession|inflation|cpi|gdp|jobs?\b|payrolls?|unemployment|wages?|consumer|retail\ssales|
+  fed\b|federal\sreserve|central\sbank|interest\srates?|rate\s(hike|cut)s?|powell|ecb|bank\sof\s(japan|england)|yields?|bonds?|treasur\w*|
+  dollar|yuan|yen|euro\b|currenc\w*|stocks?|shares|markets?|wall\sstreet|nasdaq|s&p|dow\b|ipo|earnings|profits?|revenue|
+  tariffs?|trade\s(war|deal|talks|truce)|exports?|imports?|sanctions?|embargo|
+  oil|opec|brent|crude|gas\b|lng|energy|power\sgrid|gold|copper|commodit\w*|
+  war|strikes?|missiles?|drones?|attack\w*|ceasefire|troops|military|pentagon|nato|nuclear|
+  iran|israel\w*|gaza|hezbollah|houthis?|saudi\w*|aramco|qatar\w*|iraq\w*|hormuz|uae|ukraine\w*|russia\w*|putin|china|chinese|beijing|xi\b|taiwan|north\skorea|
+  trump|white\shouse|congress\w*|senate|house\s(vote|republicans|democrats|speaker)|shutdown|budget|debt\sceiling|bill\b|executive\sorder|supreme\scourt|doj|justice\sdepartment|
+  sec\b|cftc|regulat\w*|antitrust|lawsuit|
+  banks?|banking|jpmorgan|goldman|morgan\sstanley|citi\w*|wells\sfargo|hedge\sfunds?|private\scredit|blackrock|
+  ai\b|artificial\sintelligence|superintelligence|openai|anthropic|nvidia|chips?|semiconductor\w*|data\scent(er|re)s?|
+  huang|altman|zuckerberg|nadella|pichai|bezos|dimon|saylor|buffett|berkshire|
+  apple|microsoft|alphabet|google|amazon|meta\b|tesla|spacex|musk|
+  crypto\w*|bitcoin|ethereum|stablecoins?|blockchain|tokens?|binance|coinbase
+)\b""", re.I | re.X)
+
 def norm_title(t):
     """Same story, same title: lower-case words only, used to spot duplicates across feeds."""
     return " ".join(re.findall(r"[a-z0-9$]+", (t or "").lower()))[:160]
@@ -165,6 +184,8 @@ def items_from_entries(feed, entries, seen, t):
             if source_name and title.endswith(" - " + source_name):
                 title = title[: -len(" - " + source_name)].rstrip()
             source = "pub-" + publisher_slug(source_name)
+        if feed.get("gate") == "markets" and not MARKETS_RX.search(title + " " + clean_text(e.get("summary"), 300)):
+            continue   # general-news item with nothing market-moving in it
         key = feed["id"] + "|" + (link or e.get("id") or title)
         tkey = "t|" + norm_title(title)
         published = entry_time(e)
