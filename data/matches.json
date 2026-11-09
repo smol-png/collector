@@ -20141,5 +20141,32 @@
   "market": "Macro",
   "event": "e1565",
   "by": "rules"
+ },
+ "456f5872bb9aca44": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e1566",
+  "by": "rules"
+ },
+ "389cb33f8fbbcec9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1476",
+  "by": "rules"
+ },
+ "ae5f74363841b0f4": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e1567",
+  "by": "rules"
  }
 }
