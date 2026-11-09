@@ -19357,5 +19357,23 @@
   "market": "Stocks",
   "event": "e198",
   "by": "rules"
+ },
+ "d1ed5668e47b197e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1518",
+  "by": "rules"
+ },
+ "009ac97eeaf63bf7": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1519",
+  "by": "rules"
  }
 }
