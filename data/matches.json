@@ -17633,5 +17633,27 @@
   "market": "Other",
   "event": "e1407",
   "by": "rules"
+ },
+ "e21897b6ad2e82e9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1224",
+  "by": "rules"
+ },
+ "a18ac685e4492296": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1408",
+  "by": "rules"
  }
 }
