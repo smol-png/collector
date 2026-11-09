@@ -23,7 +23,7 @@ ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 UA = "crypto-wire-pilot/0.1 (+personal news research; polls every 5 min)"
 SEEN_DAYS = 14
-GDELT_PER_RUN = 5      # topics per 5-minute run: all 25 refresh about every 25 minutes
+GDELT_PER_RUN = 6      # topics per 5-minute run: all 36 refresh about every 30 minutes
 GDELT_PAUSE = 7        # seconds between GDELT requests
 
 

@@ -258,5 +258,93 @@
   "group": "Crypto",
   "query": "(Binance OR Coinbase OR Kraken OR OKX OR Bybit) sourcelang:english",
   "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28Binance%20OR%20Coinbase%20OR%20Kraken%20OR%20OKX%20OR%20Bybit%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-trump-administration",
+  "name": "News: Trump administration",
+  "kind": "gdelt",
+  "group": "Politics",
+  "query": "(\"Trump administration\" OR \"White House\" OR \"Truth Social\" OR \"executive order\") sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22Trump%20administration%22%20OR%20%22White%20House%22%20OR%20%22Truth%20Social%22%20OR%20%22executive%20order%22%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-congress-and-budget",
+  "name": "News: Congress and budget",
+  "kind": "gdelt",
+  "group": "Politics",
+  "query": "(Congress OR Senate OR \"House Republicans\" OR \"House Democrats\") (budget OR bill OR shutdown OR vote) sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28Congress%20OR%20Senate%20OR%20%22House%20Republicans%22%20OR%20%22House%20Democrats%22%29%20%28budget%20OR%20bill%20OR%20shutdown%20OR%20vote%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-defense-and-pentagon",
+  "name": "News: Defense and Pentagon",
+  "kind": "gdelt",
+  "group": "Politics",
+  "query": "(Pentagon OR \"defense budget\" OR \"defense spending\" OR \"Defense Secretary\") sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28Pentagon%20OR%20%22defense%20budget%22%20OR%20%22defense%20spending%22%20OR%20%22Defense%20Secretary%22%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-israel-and-middle-east",
+  "name": "News: Israel and Middle East",
+  "kind": "gdelt",
+  "group": "Politics",
+  "query": "(Israel OR Netanyahu OR Gaza OR Hezbollah OR Houthis) sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28Israel%20OR%20Netanyahu%20OR%20Gaza%20OR%20Hezbollah%20OR%20Houthis%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-gulf-and-energy-security",
+  "name": "News: Gulf and energy security",
+  "kind": "gdelt",
+  "group": "Geopolitics",
+  "query": "(Saudi OR Aramco OR Qatar OR Hormuz OR UAE) (attack OR strike OR talks OR oil) sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28Saudi%20OR%20Aramco%20OR%20Qatar%20OR%20Hormuz%20OR%20UAE%29%20%28attack%20OR%20strike%20OR%20talks%20OR%20oil%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-ai-regulation",
+  "name": "News: AI regulation",
+  "kind": "gdelt",
+  "group": "Policy",
+  "query": "(\"artificial intelligence\" OR superintelligence) (ban OR regulation OR law OR bill OR lawsuit) sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22artificial%20intelligence%22%20OR%20superintelligence%29%20%28ban%20OR%20regulation%20OR%20law%20OR%20bill%20OR%20lawsuit%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-big-banks",
+  "name": "News: Big banks",
+  "kind": "gdelt",
+  "group": "Finance",
+  "query": "(JPMorgan OR \"Goldman Sachs\" OR \"Morgan Stanley\" OR \"Bank of America\" OR Citigroup OR \"Wells Fargo\") sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28JPMorgan%20OR%20%22Goldman%20Sachs%22%20OR%20%22Morgan%20Stanley%22%20OR%20%22Bank%20of%20America%22%20OR%20Citigroup%20OR%20%22Wells%20Fargo%22%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-bank-stress-and-credit",
+  "name": "News: Bank stress and credit",
+  "kind": "gdelt",
+  "group": "Finance",
+  "query": "(\"regional banks\" OR \"private credit\" OR \"bank failure\" OR \"credit markets\" OR \"credit spreads\") sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22regional%20banks%22%20OR%20%22private%20credit%22%20OR%20%22bank%20failure%22%20OR%20%22credit%20markets%22%20OR%20%22credit%20spreads%22%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-global-central-banks",
+  "name": "News: Global central banks",
+  "kind": "gdelt",
+  "group": "Macro",
+  "query": "(ECB OR \"European Central Bank\" OR \"Bank of Japan\" OR \"Bank of England\" OR PBOC) (rates OR policy OR hike OR cut) sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28ECB%20OR%20%22European%20Central%20Bank%22%20OR%20%22Bank%20of%20Japan%22%20OR%20%22Bank%20of%20England%22%20OR%20PBOC%29%20%28rates%20OR%20policy%20OR%20hike%20OR%20cut%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-tariffs-and-trade",
+  "name": "News: Tariffs and trade",
+  "kind": "gdelt",
+  "group": "Macro",
+  "query": "(tariffs OR \"trade deal\" OR \"trade war\" OR \"trade truce\") sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28tariffs%20OR%20%22trade%20deal%22%20OR%20%22trade%20war%22%20OR%20%22trade%20truce%22%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
+ },
+ {
+  "id": "gd-debt-shutdown-and-ratings",
+  "name": "News: Debt, shutdown and ratings",
+  "kind": "gdelt",
+  "group": "Macro",
+  "query": "(\"debt ceiling\" OR \"government shutdown\" OR \"Treasury auction\" OR \"credit rating\" OR downgrade) sourcelang:english",
+  "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22debt%20ceiling%22%20OR%20%22government%20shutdown%22%20OR%20%22Treasury%20auction%22%20OR%20%22credit%20rating%22%20OR%20downgrade%29%20sourcelang%3Aenglish&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=24h"
  }
 ]
