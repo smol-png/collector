@@ -17790,5 +17790,25 @@
   "market": "Other",
   "event": "e1415",
   "by": "rules"
+ },
+ "ee9fd2b51e24f550": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1416",
+  "by": "rules"
+ },
+ "b6896fff45942ca9": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1417",
+  "by": "rules"
  }
 }
