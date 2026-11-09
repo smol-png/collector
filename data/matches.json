@@ -20803,5 +20803,25 @@
   "market": "Other",
   "event": "e1592",
   "by": "rules"
+ },
+ "e047f2fe7ce35fa3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1606",
+  "by": "rules"
+ },
+ "7b15e39a4df6a46f": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1607",
+  "by": "rules"
  }
 }
