@@ -24135,5 +24135,25 @@
   "market": "Other",
   "event": "e1803",
   "by": "rules"
+ },
+ "8bc70f274f25a3e0": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1592",
+  "by": "rules"
+ },
+ "bc7d0ac707399a7e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1692",
+  "by": "rules"
  }
 }
