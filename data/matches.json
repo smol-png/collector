@@ -44609,5 +44609,23 @@
   "market": "Crypto",
   "event": "e1038",
   "by": "rules"
+ },
+ "5d768f81a80b923a": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1180",
+  "by": "rules"
+ },
+ "1dd859cf0c1d485d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1235",
+  "by": "rules"
  }
 }
