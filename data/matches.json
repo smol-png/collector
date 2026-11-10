@@ -39885,5 +39885,25 @@
   "market": "Macro",
   "event": "e2855",
   "by": "rules"
+ },
+ "222f0d293ca23511": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e2834",
+  "by": "rules"
+ },
+ "31aca86144ee87d0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1979",
+  "by": "rules"
  }
 }
