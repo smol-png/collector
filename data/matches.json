@@ -50831,5 +50831,45 @@
   "market": "Other",
   "event": "e3457",
   "by": "rules"
+ },
+ "2145cd037ca9eaf7": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3456",
+  "by": "rules"
+ },
+ "0b5279e8a7da50d2": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3458",
+  "by": "rules"
+ },
+ "0e8ba3c5f84d62f5": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3459",
+  "by": "rules"
+ },
+ "176a8cf76218c4d8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3460",
+  "by": "rules"
  }
 }
