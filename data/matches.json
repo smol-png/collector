@@ -44636,5 +44636,34 @@
   "market": "Other",
   "event": "e3122",
   "by": "rules"
+ },
+ "d39b3a67c06fbabf": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3123",
+  "by": "rules"
+ },
+ "2a6e9110ffbd9796": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e2835",
+  "by": "rules"
+ },
+ "29c716c6d5b64005": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e3108",
+  "by": "rules"
  }
 }
