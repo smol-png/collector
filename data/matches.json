@@ -37830,5 +37830,25 @@
   "market": "AI",
   "event": "e2239",
   "by": "rules"
+ },
+ "c42f1708d63526fa": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2743",
+  "by": "rules"
+ },
+ "71084a419555f063": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1962",
+  "by": "rules"
  }
 }
