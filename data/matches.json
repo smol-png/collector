@@ -43713,5 +43713,54 @@
   "market": "AI",
   "event": "e3050",
   "by": "rules"
+ },
+ "8a433d52e6643f5a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 1400000.0,
+  "market": "AI",
+  "event": "e3082",
+  "by": "rules"
+ },
+ "eb003b8d783d3605": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "HYPE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e3083",
+  "by": "rules"
+ },
+ "dbf293b211aeac8b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2888",
+  "by": "rules"
+ },
+ "d7a9db4f95651b65": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 1800.0,
+  "market": "Prediction markets",
+  "event": "e2788",
+  "by": "rules"
+ },
+ "8b7799dc12e1c672": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.07,
+  "market": "Crypto",
+  "event": "e246",
+  "by": "rules"
  }
 }
