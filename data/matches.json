@@ -49758,5 +49758,32 @@
   "market": "Other",
   "event": "e3404",
   "by": "rules"
+ },
+ "ece3e55fc2994cdd": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3405",
+  "by": "rules"
+ },
+ "cf4e1fd81d6be125": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 10000.0,
+  "market": "AI",
+  "event": "e2232",
+  "by": "rules"
+ },
+ "9ec28420104cbc9d": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3155",
+  "by": "rules"
  }
 }
