@@ -48762,5 +48762,61 @@
   "market": "Macro",
   "event": "e3352",
   "by": "rules"
+ },
+ "293ea698aaaffc26": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3353",
+  "by": "rules"
+ },
+ "20ec27648a752f17": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3354",
+  "by": "rules"
+ },
+ "e6fe50b531af5b15": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e914",
+  "by": "rules"
+ },
+ "293ac29c6a6abb6c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3341",
+  "by": "rules"
+ },
+ "d8513938970367d6": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1251",
+  "by": "rules"
+ },
+ "5da20e1dab5caf87": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2161",
+  "by": "rules"
  }
 }
