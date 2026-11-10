@@ -43216,5 +43216,16 @@
   "market": "Stocks",
   "event": "e3053",
   "by": "rules"
+ },
+ "eaab3b263cc719cb": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e3054",
+  "by": "rules"
  }
 }
