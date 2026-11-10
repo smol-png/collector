@@ -43227,5 +43227,47 @@
   "market": "Crypto",
   "event": "e3054",
   "by": "rules"
+ },
+ "66db2cd2f0a60242": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3055",
+  "by": "rules"
+ },
+ "20a5b3f60d74c4be": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3056",
+  "by": "rules"
+ },
+ "e23cac2bd6e23dc0": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "ETH",
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e3057",
+  "by": "rules"
+ },
+ "61580837d97f7222": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 14.5,
+  "market": "Crypto",
+  "event": "e1119",
+  "by": "rules"
  }
 }
