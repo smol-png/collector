@@ -28189,5 +28189,16 @@
   "market": "Other",
   "event": "e2065",
   "by": "rules"
+ },
+ "e4d14f2a7e632fda": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TRX"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2067",
+  "by": "rules"
  }
 }
