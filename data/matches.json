@@ -24571,5 +24571,14 @@
   "market": "Stocks",
   "event": "e1825",
   "by": "rules"
+ },
+ "5f1c9398ff5b723b": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e976",
+  "by": "rules"
  }
 }
