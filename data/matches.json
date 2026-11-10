@@ -27450,5 +27450,25 @@
   "market": "Other",
   "event": "e1038",
   "by": "rules"
+ },
+ "2a92b15ade479849": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2020",
+  "by": "rules"
+ },
+ "0f53572ab3e60060": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e2021",
+  "by": "rules"
  }
 }
