@@ -44229,5 +44229,32 @@
   "market": "Other",
   "event": "e1567",
   "by": "rules"
+ },
+ "d5fa9d74486deb8e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3106",
+  "by": "rules"
+ },
+ "ffcbe8448ddf3d58": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3107",
+  "by": "rules"
+ },
+ "4d8fdb701e3139a3": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e3108",
+  "by": "rules"
  }
 }
