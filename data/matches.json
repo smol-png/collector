@@ -39905,5 +39905,37 @@
   "market": "Other",
   "event": "e1979",
   "by": "rules"
+ },
+ "31ef5d80d26921c6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2856",
+  "by": "rules"
+ },
+ "748b290689dbee77": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2857",
+  "by": "rules"
+ },
+ "f2b423154d851a44": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2858",
+  "by": "rules"
  }
 }
