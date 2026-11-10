@@ -48439,5 +48439,25 @@
   "market": "Other",
   "event": "e3176",
   "by": "rules"
+ },
+ "94c4895ff282bd10": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1108",
+  "by": "rules"
+ },
+ "100effc1366faaea": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3338",
+  "by": "rules"
  }
 }
