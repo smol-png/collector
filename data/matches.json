@@ -26856,5 +26856,25 @@
   "market": "AI",
   "event": "e1967",
   "by": "rules"
+ },
+ "9dc5d3fdb9b61128": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 1100.0,
+  "market": "Crypto",
+  "event": "e1684",
+  "by": "rules"
+ },
+ "5bcf45711a86131e": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1946",
+  "by": "rules"
  }
 }
