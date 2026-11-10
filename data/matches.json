@@ -50485,5 +50485,32 @@
   "market": "Other",
   "event": "e3439",
   "by": "rules"
+ },
+ "b4e86343010601d1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3440",
+  "by": "rules"
+ },
+ "76d0e1905b5ae943": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3376",
+  "by": "rules"
+ },
+ "28eb141912b76a43": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 90000.0,
+  "market": "AI",
+  "event": "e2735",
+  "by": "rules"
  }
 }
