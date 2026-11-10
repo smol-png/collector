@@ -29281,5 +29281,54 @@
   "market": "Stocks",
   "event": "e1542",
   "by": "rules"
+ },
+ "8156e43dfbd3eb58": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e2112",
+  "by": "rules"
+ },
+ "f3ef424370f3261d": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e2112",
+  "by": "rules"
+ },
+ "130e8b7d0a4f83df": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2121",
+  "by": "rules"
+ },
+ "291f31f9b6686ed1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e1567",
+  "by": "rules"
+ },
+ "842b5a76517f6a74": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 1170.0,
+  "market": "Crypto",
+  "event": "e2122",
+  "by": "rules"
  }
 }
