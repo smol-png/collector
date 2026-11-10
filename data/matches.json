@@ -46754,5 +46754,50 @@
   "market": "Other",
   "event": "e3207",
   "by": "rules"
+ },
+ "21727165fd185cb5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3241",
+  "by": "rules"
+ },
+ "a1992dcd10d88628": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 41.5,
+  "market": "AI",
+  "event": "e3242",
+  "by": "rules"
+ },
+ "b74685acb1431876": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e3243",
+  "by": "rules"
+ },
+ "0e3f29fb8e72eb1d": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3244",
+  "by": "rules"
+ },
+ "9ed36f23d340ed3a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3245",
+  "by": "rules"
  }
 }
