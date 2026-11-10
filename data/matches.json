@@ -26887,5 +26887,23 @@
   "market": "Crypto",
   "event": "e1980",
   "by": "rules"
+ },
+ "a48e1c2f23c86b8d": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1981",
+  "by": "rules"
+ },
+ "185c2bb4ff4309fa": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e1982",
+  "by": "rules"
  }
 }
