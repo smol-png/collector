@@ -42202,5 +42202,32 @@
   "market": "Crypto",
   "event": "e2179",
   "by": "rules"
+ },
+ "766b7da44f086435": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e1567",
+  "by": "rules"
+ },
+ "3f879ff681c854c8": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e2999",
+  "by": "rules"
+ },
+ "746fe9af284439b7": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3000",
+  "by": "rules"
  }
 }
