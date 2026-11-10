@@ -47410,5 +47410,25 @@
   "market": "AI",
   "event": "e2701",
   "by": "rules"
+ },
+ "f28f35135c870544": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3279",
+  "by": "rules"
+ },
+ "c53be02fc7592852": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3283",
+  "by": "rules"
  }
 }
