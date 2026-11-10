@@ -30715,5 +30715,36 @@
   "market": "Macro",
   "event": "e1489",
   "by": "rules"
+ },
+ "c30f74ed800a82e2": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1522",
+  "by": "rules"
+ },
+ "a0c0343479a24edc": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1948",
+  "by": "rules"
+ },
+ "9df1c96d56e863f3": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2205",
+  "by": "rules"
  }
 }
