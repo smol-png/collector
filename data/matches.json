@@ -49444,5 +49444,43 @@
   "market": "Other",
   "event": "e3366",
   "by": "rules"
+ },
+ "ec9c876890845be6": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e3171",
+  "by": "rules"
+ },
+ "29c15741068e37d1": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3377",
+  "by": "rules"
+ },
+ "4bc94a3238b5356f": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
+ },
+ "cc6dc45c831fec6c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3386",
+  "by": "rules"
  }
 }
