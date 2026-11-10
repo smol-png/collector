@@ -51638,5 +51638,16 @@
   "market": "Stocks",
   "event": "e1038",
   "by": "rules"
+ },
+ "c55330a05cc9ff82": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 45.0,
+  "market": "Crypto",
+  "event": "e3496",
+  "by": "rules"
  }
 }
