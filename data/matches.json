@@ -42543,5 +42543,26 @@
   "market": "Stocks",
   "event": "e2640",
   "by": "rules"
+ },
+ "5c20c70c328251b7": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e3014",
+  "by": "rules"
+ },
+ "e65a90714a1f1129": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "META"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3015",
+  "by": "rules"
  }
 }
