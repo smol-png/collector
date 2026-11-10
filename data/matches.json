@@ -30764,5 +30764,25 @@
   "market": "Other",
   "event": "e2207",
   "by": "rules"
+ },
+ "99fc370e7554b57a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2208",
+  "by": "rules"
+ },
+ "42a1ee98f8c7a097": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e234",
+  "by": "rules"
  }
 }
