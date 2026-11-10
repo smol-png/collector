@@ -25161,5 +25161,23 @@
   "market": "Macro",
   "event": "e1851",
   "by": "rules"
+ },
+ "92fafd6ef7871899": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1857",
+  "by": "rules"
+ },
+ "3d22c95aed27a908": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1858",
+  "by": "rules"
  }
 }
