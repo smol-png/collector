@@ -41154,5 +41154,88 @@
   "market": "Crypto",
   "event": "e243",
   "by": "rules"
+ },
+ "7815b4d2b3d9c88c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e2884",
+  "by": "rules"
+ },
+ "cdfc90a05a5a6bf2": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 1000.0,
+  "market": "AI",
+  "event": "e2937",
+  "by": "rules"
+ },
+ "c95e854ecbd271a7": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e2832",
+  "by": "rules"
+ },
+ "c8d08c733b890385": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1149",
+  "by": "rules"
+ },
+ "3c5c9691ab917a7c": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1149",
+  "by": "rules"
+ },
+ "b145e181c55f226e": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2938",
+  "by": "rules"
+ },
+ "1187d3c435bf528c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 2500.0,
+  "market": "AI",
+  "event": "e2939",
+  "by": "rules"
+ },
+ "d34d845a78d4056e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e2940",
+  "by": "rules"
+ },
+ "e48a995d5711c43a": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e2941",
+  "by": "rules"
  }
 }
