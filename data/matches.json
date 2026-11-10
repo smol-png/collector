@@ -46350,5 +46350,16 @@
   "market": "Other",
   "event": "e3219",
   "by": "rules"
+ },
+ "08815192430e3713": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3220",
+  "by": "rules"
  }
 }
