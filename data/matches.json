@@ -44369,5 +44369,32 @@
   "market": "Other",
   "event": "e3043",
   "by": "rules"
+ },
+ "a629a6cc7f66d17c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3113",
+  "by": "rules"
+ },
+ "80227895b767398c": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e3058",
+  "by": "rules"
+ },
+ "dce797fa4edcf562": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e2217",
+  "by": "rules"
  }
 }
