@@ -42146,5 +42146,32 @@
   "market": "Other",
   "event": "e2994",
   "by": "rules"
+ },
+ "5d1804c7a9d97260": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2995",
+  "by": "rules"
+ },
+ "07d23f99897f2c73": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2996",
+  "by": "rules"
+ },
+ "b89ac1b71d4f845a": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2966",
+  "by": "rules"
  }
 }
