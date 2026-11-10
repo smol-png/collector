@@ -37046,5 +37046,72 @@
   "market": "Prediction markets",
   "event": "e2021",
   "by": "rules"
+ },
+ "4edb5eeee6706732": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e2213",
+  "by": "rules"
+ },
+ "bad5ef8159b5a2d6": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1481",
+  "by": "rules"
+ },
+ "c70e84cae53309b3": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1148",
+  "by": "rules"
+ },
+ "ce627af066f90d1a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2699",
+  "by": "rules"
+ },
+ "d9496779b3577f23": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "AI",
+  "event": "e2239",
+  "by": "rules"
+ },
+ "59726688a9f8a8e7": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2700",
+  "by": "rules"
+ },
+ "8c7b2f2a0a3bf7b9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 1300000.0,
+  "market": "AI",
+  "event": "e2701",
+  "by": "rules"
  }
 }
