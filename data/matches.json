@@ -52302,5 +52302,23 @@
   "market": "Other",
   "event": "e3532",
   "by": "rules"
+ },
+ "10cb65e3d0c83c99": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3533",
+  "by": "rules"
+ },
+ "91559b010fe07299": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Macro",
+  "event": "e976",
+  "by": "rules"
  }
 }
