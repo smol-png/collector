@@ -918,7 +918,9 @@
   "kind": "rss",
   "fast": true,
   "group": "World",
-  "gate": "markets"
+  "gate": "markets",
+  "disabled": true,
+  "note": "Cannot be reached from GitHub (connection refused / certificate error)."
  },
  {
   "id": "presstv",
@@ -927,6 +929,8 @@
   "kind": "rss",
   "fast": true,
   "group": "World",
-  "gate": "markets"
+  "gate": "markets",
+  "disabled": true,
+  "note": "Cannot be reached from GitHub (connection refused / certificate error)."
  }
 ]
