@@ -47468,5 +47468,16 @@
   "market": "AI",
   "event": "e3285",
   "by": "rules"
+ },
+ "5179d6011c85230e": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": 1.0,
+  "market": "Crypto",
+  "event": "e2998",
+  "by": "rules"
  }
 }
