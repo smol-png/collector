@@ -27737,5 +27737,50 @@
   "market": "Crypto",
   "event": "e2041",
   "by": "rules"
+ },
+ "df392e4c096e4774": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1609",
+  "by": "rules"
+ },
+ "05a2d4561ac4a0e5": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e887",
+  "by": "rules"
+ },
+ "ab5b4ecbecc185aa": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1910",
+  "by": "rules"
+ },
+ "3ba5993e9d4fc2cb": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e2014",
+  "by": "rules"
+ },
+ "31c366fa23da243c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2013",
+  "by": "rules"
  }
 }
