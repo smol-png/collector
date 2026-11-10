@@ -45541,5 +45541,17 @@
   "market": "Crypto",
   "event": "e3096",
   "by": "rules"
+ },
+ "0e4ad7630753f93a": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "ETH",
+   "XRP"
+  ],
+  "usd_m": 580.0,
+  "market": "Crypto",
+  "event": "e3173",
+  "by": "rules"
  }
 }
