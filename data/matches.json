@@ -40700,5 +40700,59 @@
   "market": "Stocks",
   "event": "e198",
   "by": "rules"
+ },
+ "227ec06b784e31d8": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e883",
+  "by": "rules"
+ },
+ "d7ec7e0a58dec381": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2908",
+  "by": "rules"
+ },
+ "26815b210d231f22": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2909",
+  "by": "rules"
+ },
+ "8163ba47ca6a4a23": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2910",
+  "by": "rules"
+ },
+ "0c0b8deeca0806e2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1001",
+  "by": "rules"
+ },
+ "d154adc8425085e0": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2911",
+  "by": "rules"
  }
 }
