@@ -31286,5 +31286,23 @@
   "market": "AI",
   "event": "e2239",
   "by": "rules"
+ },
+ "b09093903a9b7975": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2051",
+  "by": "rules"
+ },
+ "89373b600fa08483": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 64400.0,
+  "market": "AI",
+  "event": "e2183",
+  "by": "rules"
  }
 }
