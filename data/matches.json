@@ -30328,5 +30328,34 @@
   "market": "Macro",
   "event": "e2180",
   "by": "rules"
+ },
+ "607e867fa2555cc4": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e2110",
+  "by": "rules"
+ },
+ "f64a2eaecd2e9f8f": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e2181",
+  "by": "rules"
+ },
+ "8df2b01ac039b380": {
+  "type": "live",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2112",
+  "by": "rules"
  }
 }
