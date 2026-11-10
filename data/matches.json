@@ -41603,5 +41603,99 @@
   "market": "Stocks",
   "event": "e2961",
   "by": "rules"
+ },
+ "a0e7d6c7d4b17f28": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2955",
+  "by": "rules"
+ },
+ "f6a3279f9a9ab13c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1853",
+  "by": "rules"
+ },
+ "169850944007184e": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e2970",
+  "by": "rules"
+ },
+ "b6048e67339d9003": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2971",
+  "by": "rules"
+ },
+ "a759a786feaa8b41": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1848",
+  "by": "rules"
+ },
+ "cc602746c4667487": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2972",
+  "by": "rules"
+ },
+ "9dc486e94663c591": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2221",
+  "by": "rules"
+ },
+ "c0c86298235ccfd9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2973",
+  "by": "rules"
+ },
+ "16a9d68f88c9787c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2974",
+  "by": "rules"
+ },
+ "c9e29f5a13041f63": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1481",
+  "by": "rules"
  }
 }
