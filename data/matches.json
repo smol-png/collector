@@ -40947,5 +40947,50 @@
   "market": "Crypto",
   "event": "e2924",
   "by": "rules"
+ },
+ "8c864b18411c6bb1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 225.0,
+  "market": "Other",
+  "event": "e2925",
+  "by": "rules"
+ },
+ "2717893dc7261be2": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 48.0,
+  "market": "Crypto",
+  "event": "e2926",
+  "by": "rules"
+ },
+ "1e9de6f60a0dae60": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": 100000.0,
+  "market": "Other",
+  "event": "e2927",
+  "by": "rules"
+ },
+ "896800bc914a75b6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2928",
+  "by": "rules"
+ },
+ "3ec9f77f8c3e8381": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2929",
+  "by": "rules"
  }
 }
