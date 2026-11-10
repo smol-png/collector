@@ -40505,5 +40505,34 @@
   "market": "AI",
   "event": "e2239",
   "by": "rules"
+ },
+ "371b869971ba2fd3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2814",
+  "by": "rules"
+ },
+ "83f308e013335a82": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e2894",
+  "by": "rules"
+ },
+ "d406e5e230d98f77": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "LINK"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2895",
+  "by": "rules"
  }
 }
