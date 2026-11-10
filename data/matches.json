@@ -28209,5 +28209,16 @@
   "market": "Other",
   "event": "e2068",
   "by": "rules"
+ },
+ "324dd2be4be258ca": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e198",
+  "by": "rules"
  }
 }
