@@ -50182,5 +50182,90 @@
   "market": "Other",
   "event": "e3420",
   "by": "rules"
+ },
+ "fb8ecc5e45e297c3": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3384",
+  "by": "rules"
+ },
+ "b81eef3a727a7016": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3377",
+  "by": "rules"
+ },
+ "135684c3973aa799": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2723",
+  "by": "rules"
+ },
+ "26e0fb63c58671f1": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3430",
+  "by": "rules"
+ },
+ "a7cfdf7321998c0c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3133",
+  "by": "rules"
+ },
+ "2249169f6ca1812d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3133",
+  "by": "rules"
+ },
+ "ed2ae61cd836c1c5": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3420",
+  "by": "rules"
+ },
+ "e3e605ef88ea238b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3414",
+  "by": "rules"
+ },
+ "53ccb5b58197e9f9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3414",
+  "by": "rules"
  }
 }
