@@ -43556,5 +43556,23 @@
   "market": "Macro",
   "event": "e3069",
   "by": "rules"
+ },
+ "e79fe859c155e81c": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e2112",
+  "by": "rules"
+ },
+ "42d9904b1b7b19a8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3070",
+  "by": "rules"
  }
 }
