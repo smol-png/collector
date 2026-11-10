@@ -36941,5 +36941,25 @@
   "market": "Other",
   "event": "e2693",
   "by": "rules"
+ },
+ "6a30dee04eacb142": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2694",
+  "by": "rules"
+ },
+ "530c35cc6271b1d2": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 79.0,
+  "market": "Crypto",
+  "event": "e1830",
+  "by": "rules"
  }
 }
