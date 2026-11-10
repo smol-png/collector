@@ -41347,5 +41347,36 @@
   "market": "Crypto",
   "event": "e2926",
   "by": "rules"
+ },
+ "bf6f2eee2f2adbfb": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2951",
+  "by": "rules"
+ },
+ "242c28c0acd68872": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2952",
+  "by": "rules"
+ },
+ "2d6a570b4ce36152": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 100.0,
+  "market": "Crypto",
+  "event": "e2953",
+  "by": "rules"
  }
 }
