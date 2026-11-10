@@ -52058,5 +52058,16 @@
   "market": "Crypto",
   "event": "e3519",
   "by": "rules"
+ },
+ "de254b33d2ce3f5e": {
+  "type": "live",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1000",
+  "by": "rules"
  }
 }
