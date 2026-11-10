@@ -37850,5 +37850,67 @@
   "market": "Crypto",
   "event": "e1962",
   "by": "rules"
+ },
+ "fbc3affd6caca804": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e887",
+  "by": "rules"
+ },
+ "2b616e4db31aa1ad": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2744",
+  "by": "rules"
+ },
+ "ad48ee92a1b91054": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 90000.0,
+  "market": "AI",
+  "event": "e2745",
+  "by": "rules"
+ },
+ "99b612be0be017ee": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1479",
+  "by": "rules"
+ },
+ "8ec65957771f9ac4": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1479",
+  "by": "rules"
+ },
+ "2ae88485b154f936": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1665",
+  "by": "rules"
  }
 }
