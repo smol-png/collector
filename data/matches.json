@@ -38042,5 +38042,61 @@
   "market": "Other",
   "event": "e2753",
   "by": "rules"
+ },
+ "4aea42f6a7f6f8da": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2754",
+  "by": "rules"
+ },
+ "9f4fd654758761ec": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 1400000.0,
+  "market": "AI",
+  "event": "e1455",
+  "by": "rules"
+ },
+ "03848bf11a563bdd": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e2755",
+  "by": "rules"
+ },
+ "2fc248d81879d91a": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e2756",
+  "by": "rules"
+ },
+ "5dcb96f09971fd2c": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1642",
+  "by": "rules"
+ },
+ "f7e4b3bd45c87f09": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2757",
+  "by": "rules"
  }
 }
