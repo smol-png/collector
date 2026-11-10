@@ -41246,5 +41246,16 @@
   "market": "Macro",
   "event": "e1567",
   "by": "rules"
+ },
+ "f0adb7e963a79037": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2942",
+  "by": "rules"
  }
 }
