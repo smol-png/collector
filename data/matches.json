@@ -51171,5 +51171,23 @@
   "market": "Macro",
   "event": "e2877",
   "by": "rules"
+ },
+ "d00a27e229f97596": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1761",
+  "by": "rules"
+ },
+ "7006e7c6005d0188": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e355",
+  "by": "rules"
  }
 }
