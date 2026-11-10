@@ -48189,5 +48189,63 @@
   "market": "Stocks",
   "event": "e198",
   "by": "rules"
+ },
+ "88656a54f7e1c9f3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3325",
+  "by": "rules"
+ },
+ "b762e6e1bb29c7c5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3300",
+  "by": "rules"
+ },
+ "6ee49d390b6e38c2": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1533",
+  "by": "rules"
+ },
+ "07358a91f1ef7d89": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e3326",
+  "by": "rules"
+ },
+ "b956306bc2636353": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAVE"
+  ],
+  "usd_m": 1330.0,
+  "market": "Crypto",
+  "event": "e3327",
+  "by": "rules"
+ },
+ "2d917fed05863073": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3328",
+  "by": "rules"
  }
 }
