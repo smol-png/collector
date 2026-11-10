@@ -37492,5 +37492,52 @@
   "market": "Crypto",
   "event": "e2126",
   "by": "rules"
+ },
+ "a27076982793e4c9": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2643",
+  "by": "rules"
+ },
+ "b49ddafca91d7123": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2722",
+  "by": "rules"
+ },
+ "781f86d4bf7e6117": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2723",
+  "by": "rules"
+ },
+ "b31ba436168dac5f": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1300",
+  "by": "rules"
+ },
+ "1b31d024a3174591": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2724",
+  "by": "rules"
  }
 }
