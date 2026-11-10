@@ -40936,5 +40936,16 @@
   "market": "Other",
   "event": "e1038",
   "by": "rules"
+ },
+ "7cb8642955d1d6fc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2924",
+  "by": "rules"
  }
 }
