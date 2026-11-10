@@ -39525,5 +39525,41 @@
   "market": "Other",
   "event": "e2826",
   "by": "rules"
+ },
+ "71ababb744667022": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2830",
+  "by": "rules"
+ },
+ "3aaadef6684fff32": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2831",
+  "by": "rules"
+ },
+ "0dbf5beac44450e8": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2832",
+  "by": "rules"
+ },
+ "cc9ae7d9ee69a0be": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2833",
+  "by": "rules"
  }
 }
