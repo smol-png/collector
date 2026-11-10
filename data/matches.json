@@ -41414,5 +41414,17 @@
   "market": "Other",
   "event": "e239",
   "by": "rules"
+ },
+ "ff759eb90b59f98d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2956",
+  "by": "rules"
  }
 }
