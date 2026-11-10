@@ -28451,5 +28451,23 @@
   "market": "Macro",
   "event": "e256",
   "by": "rules"
+ },
+ "908e093258da4fd5": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 7000.0,
+  "market": "AI",
+  "event": "e2080",
+  "by": "rules"
+ },
+ "2dfb56035ec73056": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1688",
+  "by": "rules"
  }
 }
