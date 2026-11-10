@@ -43912,5 +43912,45 @@
   "market": "Other",
   "event": "e3092",
   "by": "rules"
+ },
+ "0e19710778c12a21": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1961",
+  "by": "rules"
+ },
+ "eef74721578f395f": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3093",
+  "by": "rules"
+ },
+ "632e946e3d1a4ef3": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3094",
+  "by": "rules"
+ },
+ "d5dfa9403e62ae2d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "HYPE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e3095",
+  "by": "rules"
  }
 }
