@@ -37113,5 +37113,115 @@
   "market": "AI",
   "event": "e2701",
   "by": "rules"
+ },
+ "7ff1dc1e656e3851": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2702",
+  "by": "rules"
+ },
+ "531882e35df25c7b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1980",
+  "by": "rules"
+ },
+ "59876a461f47afe7": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e2112",
+  "by": "rules"
+ },
+ "9a0ccee9ac341560": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e2112",
+  "by": "rules"
+ },
+ "460e9bc2714965cf": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e1197",
+  "by": "rules"
+ },
+ "d151b73cd26687d4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e2703",
+  "by": "rules"
+ },
+ "e0f256986626e4b3": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 300.0,
+  "market": "AI",
+  "event": "e2704",
+  "by": "rules"
+ },
+ "9aa97910e45f6064": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1038",
+  "by": "rules"
+ },
+ "ea11e4a20ce2f5bf": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e1115",
+  "by": "rules"
+ },
+ "acff2c04f6220d58": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2705",
+  "by": "rules"
+ },
+ "858f5e2ead2cbe92": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2700",
+  "by": "rules"
+ },
+ "f4eb8aaf9fb623f3": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 1300000.0,
+  "market": "AI",
+  "event": "e2701",
+  "by": "rules"
  }
 }
