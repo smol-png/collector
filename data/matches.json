@@ -25517,5 +25517,23 @@
   "market": "AI",
   "event": "e1884",
   "by": "rules"
+ },
+ "8ae73c6edb237988": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e216",
+  "by": "rules"
+ },
+ "1d569461b4e74ca1": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1885",
+  "by": "rules"
  }
 }
