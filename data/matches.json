@@ -25134,5 +25134,32 @@
   "market": "Macro",
   "event": "e1851",
   "by": "rules"
+ },
+ "0037a81f1cc6506b": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1856",
+  "by": "rules"
+ },
+ "72ad4255e37aa68c": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e1851",
+  "by": "rules"
+ },
+ "3a8b84ae021c548e": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e1851",
+  "by": "rules"
  }
 }
