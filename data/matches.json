@@ -40002,5 +40002,23 @@
   "market": "Macro",
   "event": "e1979",
   "by": "rules"
+ },
+ "d3d9cc0f93cdb36c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2862",
+  "by": "rules"
+ },
+ "78b54e9cc9e7d297": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1329",
+  "by": "rules"
  }
 }
