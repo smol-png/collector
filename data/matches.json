@@ -30923,5 +30923,25 @@
   "market": "Other",
   "event": "e2218",
   "by": "rules"
+ },
+ "491e51d16457c1b5": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2207",
+  "by": "rules"
+ },
+ "fb7c0912a2a34bac": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 500.0,
+  "market": "Crypto",
+  "event": "e1684",
+  "by": "rules"
  }
 }
