@@ -51095,5 +51095,25 @@
   "market": "Other",
   "event": "e2780",
   "by": "rules"
+ },
+ "4278219186e42752": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3474",
+  "by": "rules"
+ },
+ "967c96316dfc67a2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 750.0,
+  "market": "Crypto",
+  "event": "e3475",
+  "by": "rules"
  }
 }
