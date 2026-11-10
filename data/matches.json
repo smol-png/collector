@@ -27944,5 +27944,16 @@
   "market": "Other",
   "event": "e2034",
   "by": "rules"
+ },
+ "d8e9f14b8e01cae9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 4.6,
+  "market": "Crypto",
+  "event": "e2052",
+  "by": "rules"
  }
 }
