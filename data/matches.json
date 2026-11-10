@@ -51384,5 +51384,32 @@
   "market": "AI",
   "event": "e3486",
   "by": "rules"
+ },
+ "e1f4ac600f080dbc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3487",
+  "by": "rules"
+ },
+ "eb10ec80bae51853": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3306",
+  "by": "rules"
+ },
+ "d9cca05ffc2d7932": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 600000.0,
+  "market": "AI",
+  "event": "e2987",
+  "by": "rules"
  }
 }
