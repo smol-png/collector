@@ -24598,5 +24598,23 @@
   "market": "Crypto",
   "event": "e1827",
   "by": "rules"
+ },
+ "5649e313d03c97a5": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1828",
+  "by": "rules"
+ },
+ "8c64267fcc03298e": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1464",
+  "by": "rules"
  }
 }
