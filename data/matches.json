@@ -28641,5 +28641,25 @@
   "market": "Crypto",
   "event": "e2089",
   "by": "rules"
+ },
+ "3581655714433b2d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1961",
+  "by": "rules"
+ },
+ "e0087ab70b628dc1": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2021",
+  "by": "rules"
  }
 }
