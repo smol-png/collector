@@ -44123,5 +44123,73 @@
   "market": "Crypto",
   "event": "e3103",
   "by": "rules"
+ },
+ "7ae66e9140057ed2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1287",
+  "by": "rules"
+ },
+ "8f370788e854569e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3101",
+  "by": "rules"
+ },
+ "acca01d5ae32e92f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3104",
+  "by": "rules"
+ },
+ "a941d0c211ec24a9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1115",
+  "by": "rules"
+ },
+ "cc644664ba7e46fb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3040",
+  "by": "rules"
+ },
+ "c5b91fc63b0e17f8": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "COIN",
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1371",
+  "by": "rules"
+ },
+ "e9c3397d7e235639": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1376",
+  "by": "rules"
  }
 }
