@@ -39836,5 +39836,54 @@
   "market": "Stocks",
   "event": "e198",
   "by": "rules"
+ },
+ "6f4a42727f35925b": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e2851",
+  "by": "rules"
+ },
+ "6bb1316b17b615ab": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e2852",
+  "by": "rules"
+ },
+ "708904237e9f384b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 12.5,
+  "market": "AI",
+  "event": "e2853",
+  "by": "rules"
+ },
+ "80ee44e89b86777a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 1500.0,
+  "market": "AI",
+  "event": "e2854",
+  "by": "rules"
+ },
+ "6a396372e33c09c4": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e2855",
+  "by": "rules"
  }
 }
