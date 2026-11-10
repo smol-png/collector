@@ -41132,5 +41132,27 @@
   "market": "Crypto",
   "event": "e2935",
   "by": "rules"
+ },
+ "ece2c8faa8a68822": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e2936",
+  "by": "rules"
+ },
+ "158ea3062f5bcec6": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.07,
+  "market": "Crypto",
+  "event": "e243",
+  "by": "rules"
  }
 }
