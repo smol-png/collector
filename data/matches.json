@@ -25390,5 +25390,132 @@
   "market": "Other",
   "event": "e882",
   "by": "rules"
+ },
+ "059df4c7fbe3f969": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 350.0,
+  "market": "AI",
+  "event": "e1874",
+  "by": "rules"
+ },
+ "d5b1a6c5b03897a3": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1875",
+  "by": "rules"
+ },
+ "4338a8d9e8fb4b5b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1876",
+  "by": "rules"
+ },
+ "2d7d91d4975aee80": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1877",
+  "by": "rules"
+ },
+ "af14bb44b50fa7ac": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1878",
+  "by": "rules"
+ },
+ "f66c68e85e6a7beb": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e1879",
+  "by": "rules"
+ },
+ "55528c8edf77e5ec": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1103",
+  "by": "rules"
+ },
+ "9fe7e3e1cdba1fa6": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1880",
+  "by": "rules"
+ },
+ "319cba4ddc1a13f2": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1549",
+  "by": "rules"
+ },
+ "17e1522cd7064800": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1881",
+  "by": "rules"
+ },
+ "5e08da8951144b0f": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1882",
+  "by": "rules"
+ },
+ "1be16559b4acac49": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1883",
+  "by": "rules"
+ },
+ "a088e812fdc8920e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1884",
+  "by": "rules"
  }
 }
