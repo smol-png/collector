@@ -37801,5 +37801,34 @@
   "market": "Crypto",
   "event": "e2740",
   "by": "rules"
+ },
+ "68a966a0b4650c92": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2741",
+  "by": "rules"
+ },
+ "ae9053607b527830": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": 10000.0,
+  "market": "AI",
+  "event": "e2742",
+  "by": "rules"
+ },
+ "08640a1fb6859906": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "AI",
+  "event": "e2239",
+  "by": "rules"
  }
 }
