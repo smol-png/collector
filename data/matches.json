@@ -44748,5 +44748,16 @@
   "market": "Other",
   "event": "e3131",
   "by": "rules"
+ },
+ "703df3fbbd5f0c51": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2179",
+  "by": "rules"
  }
 }
