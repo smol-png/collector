@@ -27201,5 +27201,16 @@
   "market": "Other",
   "event": "e2003",
   "by": "rules"
+ },
+ "10ec8fefe3bc228a": {
+  "type": "explainer",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.07,
+  "market": "Crypto",
+  "event": "e211",
+  "by": "rules"
  }
 }
