@@ -28312,5 +28312,25 @@
   "market": "Prediction markets",
   "event": "e2021",
   "by": "rules"
+ },
+ "db94df9d387b3d7a": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e858",
+  "by": "rules"
+ },
+ "bc2973a3df6fda85": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e198",
+  "by": "rules"
  }
 }
