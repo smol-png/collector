@@ -45163,5 +45163,25 @@
   "market": "Stocks",
   "event": "e219",
   "by": "rules"
+ },
+ "199b1f498dfa91df": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1667",
+  "by": "rules"
+ },
+ "e80359c0f06bfd83": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3156",
+  "by": "rules"
  }
 }
