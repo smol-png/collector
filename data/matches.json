@@ -42780,5 +42780,41 @@
   "market": "AI",
   "event": "e3032",
   "by": "rules"
+ },
+ "bb7a8a425ab0cad7": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3033",
+  "by": "rules"
+ },
+ "f5199d54815605fd": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3034",
+  "by": "rules"
+ },
+ "654d412401c533df": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 1400000.0,
+  "market": "AI",
+  "event": "e2701",
+  "by": "rules"
+ },
+ "f4ca94c4c43e0de2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3035",
+  "by": "rules"
  }
 }
