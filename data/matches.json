@@ -45935,5 +45935,41 @@
   "market": "Macro",
   "event": "e3191",
   "by": "rules"
+ },
+ "15034f9f8525704b": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3192",
+  "by": "rules"
+ },
+ "26b033ebeec451de": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1208",
+  "by": "rules"
+ },
+ "fa10425232362e5e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3193",
+  "by": "rules"
+ },
+ "f5f713bc73ca133f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3194",
+  "by": "rules"
  }
 }
