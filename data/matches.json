@@ -44256,5 +44256,23 @@
   "market": "Macro",
   "event": "e3108",
   "by": "rules"
+ },
+ "4626296cd3366f46": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3106",
+  "by": "rules"
+ },
+ "68b658079a58ad06": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e1567",
+  "by": "rules"
  }
 }
