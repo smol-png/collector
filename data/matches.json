@@ -30429,5 +30429,25 @@
   "market": "Macro",
   "event": "e2189",
   "by": "rules"
+ },
+ "1583386b46f758f1": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2190",
+  "by": "rules"
+ },
+ "dd74fe6bf932d5ec": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2191",
+  "by": "rules"
  }
 }
