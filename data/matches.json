@@ -40992,5 +40992,34 @@
   "market": "Other",
   "event": "e2929",
   "by": "rules"
+ },
+ "a6f1a22838ebada4": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1395",
+  "by": "rules"
+ },
+ "5c34eee46a7e930c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2930",
+  "by": "rules"
+ },
+ "8f714364f3240e30": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2931",
+  "by": "rules"
  }
 }
