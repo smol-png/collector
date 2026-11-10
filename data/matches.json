@@ -26030,5 +26030,23 @@
   "market": "Other",
   "event": "e1922",
   "by": "rules"
+ },
+ "7c5024acc9dddf3a": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1923",
+  "by": "rules"
+ },
+ "c386ca78b80051eb": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1924",
+  "by": "rules"
  }
 }
