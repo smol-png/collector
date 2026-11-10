@@ -49130,5 +49130,34 @@
   "market": "Other",
   "event": "e3370",
   "by": "rules"
+ },
+ "4077d0a956d7f48a": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3314",
+  "by": "rules"
+ },
+ "593ee3966a32dd44": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3371",
+  "by": "rules"
+ },
+ "048f0ea8e41c8b4b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3372",
+  "by": "rules"
  }
 }
