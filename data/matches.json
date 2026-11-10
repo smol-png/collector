@@ -43829,5 +43829,32 @@
   "market": "Crypto",
   "event": "e2926",
   "by": "rules"
+ },
+ "34d59f98f208e73e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 1400000.0,
+  "market": "AI",
+  "event": "e3082",
+  "by": "rules"
+ },
+ "05e7bad35909124e": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3088",
+  "by": "rules"
+ },
+ "dda0943a96b7f201": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e3089",
+  "by": "rules"
  }
 }
