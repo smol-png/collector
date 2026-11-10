@@ -753,5 +753,180 @@
   "fast": true,
   "group": "Tech",
   "gate": "markets"
+ },
+ {
+  "id": "wsj-business",
+  "name": "WSJ Business",
+  "url": "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "wsj-politics",
+  "name": "WSJ Politics",
+  "url": "https://feeds.content.dowjones.io/public/rss/socialpoliticsfeed",
+  "kind": "rss",
+  "fast": true,
+  "group": "Politics",
+  "gate": "markets"
+ },
+ {
+  "id": "wsj-economy",
+  "name": "WSJ Economy",
+  "url": "https://feeds.content.dowjones.io/public/rss/socialeconomyfeed",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "mw-marketpulse",
+  "name": "MarketWatch Market Pulse",
+  "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "mw-realtime",
+  "name": "MarketWatch Real-time",
+  "url": "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "bloomberg-economics",
+  "name": "Bloomberg Economics",
+  "url": "https://feeds.bloomberg.com/economics/news.rss",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "bloomberg-industries",
+  "name": "Bloomberg Industries",
+  "url": "https://feeds.bloomberg.com/industries/news.rss",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "bloomberg-business",
+  "name": "Bloomberg Business",
+  "url": "https://feeds.bloomberg.com/business/news.rss",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "bloomberg-crypto",
+  "name": "Bloomberg Crypto",
+  "url": "https://feeds.bloomberg.com/crypto/news.rss",
+  "kind": "rss",
+  "fast": true,
+  "group": "Crypto"
+ },
+ {
+  "id": "cnbc-earnings",
+  "name": "CNBC Earnings",
+  "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "cnbc-investing",
+  "name": "CNBC Investing",
+  "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839069",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "cnbc-business",
+  "name": "CNBC Business",
+  "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "investing-stocks",
+  "name": "Investing.com Stocks",
+  "url": "https://www.investing.com/rss/news_25.rss",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "theinformation",
+  "name": "The Information",
+  "url": "https://www.theinformation.com/feed",
+  "kind": "rss",
+  "fast": true,
+  "group": "Tech"
+ },
+ {
+  "id": "semafor",
+  "name": "Semafor",
+  "url": "https://www.semafor.com/rss.xml",
+  "kind": "rss",
+  "fast": true,
+  "group": "Politics",
+  "gate": "markets"
+ },
+ {
+  "id": "businessinsider",
+  "name": "Business Insider",
+  "url": "https://feeds.businessinsider.com/custom/all",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business",
+  "gate": "markets"
+ },
+ {
+  "id": "fortune",
+  "name": "Fortune",
+  "url": "https://fortune.com/feed/",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business",
+  "gate": "markets"
+ },
+ {
+  "id": "benzinga",
+  "name": "Benzinga",
+  "url": "https://www.benzinga.com/feed",
+  "kind": "rss",
+  "fast": true,
+  "group": "Business"
+ },
+ {
+  "id": "iranintl",
+  "name": "Iran International",
+  "url": "https://www.iranintl.com/en/feed",
+  "kind": "rss",
+  "fast": true,
+  "group": "World",
+  "gate": "markets"
+ },
+ {
+  "id": "tasnim",
+  "name": "Tasnim (Iran)",
+  "url": "https://www.tasnimnews.com/en/rss/feed/0/7/0/all",
+  "kind": "rss",
+  "fast": true,
+  "group": "World",
+  "gate": "markets"
+ },
+ {
+  "id": "presstv",
+  "name": "Press TV (Iran)",
+  "url": "https://www.presstv.ir/rss.xml",
+  "kind": "rss",
+  "fast": true,
+  "group": "World",
+  "gate": "markets"
  }
 ]
