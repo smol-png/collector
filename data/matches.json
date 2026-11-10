@@ -27342,5 +27342,32 @@
   "market": "Crypto",
   "event": "e239",
   "by": "rules"
+ },
+ "b9399d52ccac4c85": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2013",
+  "by": "rules"
+ },
+ "707a94e151eb96fd": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e2014",
+  "by": "rules"
+ },
+ "ceee3417901361a3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2015",
+  "by": "rules"
  }
 }
