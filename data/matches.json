@@ -37975,5 +37975,25 @@
   "market": "Other",
   "event": "e2750",
   "by": "rules"
+ },
+ "49f8e1820e8901ed": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1692",
+  "by": "rules"
+ },
+ "71f5758dcdc21c2b": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2751",
+  "by": "rules"
  }
 }
