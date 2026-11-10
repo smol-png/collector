@@ -26762,5 +26762,32 @@
   "market": "Crypto",
   "event": "e1975",
   "by": "rules"
+ },
+ "6b2befa3b8161255": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1976",
+  "by": "rules"
+ },
+ "c05976aa0dd0e972": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1977",
+  "by": "rules"
+ },
+ "0c93d3b7fbff1235": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1001",
+  "by": "rules"
  }
 }
