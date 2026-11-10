@@ -38307,5 +38307,16 @@
   "market": "Other",
   "event": "e2766",
   "by": "rules"
+ },
+ "e843beb6b27b93d7": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2767",
+  "by": "rules"
  }
 }
