@@ -47343,5 +47343,34 @@
   "market": "Other",
   "event": "e1038",
   "by": "rules"
+ },
+ "be8009449741cf00": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1000.0,
+  "market": "Other",
+  "event": "e3278",
+  "by": "rules"
+ },
+ "c70e050ed98b90d8": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e3279",
+  "by": "rules"
+ },
+ "7da1aca7d65db125": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3218",
+  "by": "rules"
  }
 }
