@@ -38848,5 +38848,43 @@
   "market": "Other",
   "event": "e2791",
   "by": "rules"
+ },
+ "20f534e57cd32da1": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e198",
+  "by": "rules"
+ },
+ "03c58ab85bbef0f4": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e2792",
+  "by": "rules"
+ },
+ "d9040c2b46e2c4fa": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1142",
+  "by": "rules"
+ },
+ "563838859fc9107c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2198",
+  "by": "rules"
  }
 }
