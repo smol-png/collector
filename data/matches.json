@@ -50404,5 +50404,32 @@
   "market": "AI",
   "event": "e875",
   "by": "rules"
+ },
+ "81e13c295f3c0267": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1891",
+  "by": "rules"
+ },
+ "cb8a9ecfdea07d94": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3435",
+  "by": "rules"
+ },
+ "33ac352a1f4ee5bd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3416",
+  "by": "rules"
  }
 }
