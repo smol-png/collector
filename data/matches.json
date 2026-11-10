@@ -42742,5 +42742,16 @@
   "market": "Stocks",
   "event": "e3028",
   "by": "rules"
+ },
+ "3c4365f733de3cb2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e3029",
+  "by": "rules"
  }
 }
