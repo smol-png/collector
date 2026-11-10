@@ -29144,5 +29144,16 @@
   "market": "Other",
   "event": "e2113",
   "by": "rules"
+ },
+ "b40ff8e6c8173f6b": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e2021",
+  "by": "rules"
  }
 }
