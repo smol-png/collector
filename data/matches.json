@@ -26943,5 +26943,99 @@
   "market": "AI",
   "event": "e1909",
   "by": "rules"
+ },
+ "c9ffe4c3f92e5b38": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1984",
+  "by": "rules"
+ },
+ "75e986d44ee8572d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1985",
+  "by": "rules"
+ },
+ "9d456f23da97aa94": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1986",
+  "by": "rules"
+ },
+ "b5ea4876fa967605": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1987",
+  "by": "rules"
+ },
+ "7401fceee6c93e99": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1988",
+  "by": "rules"
+ },
+ "e14b3f9bd0ff9f17": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1989",
+  "by": "rules"
+ },
+ "f6014006c983f24e": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1990",
+  "by": "rules"
+ },
+ "6dee3de537fba589": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1991",
+  "by": "rules"
+ },
+ "d2165fe7cf65de3a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1992",
+  "by": "rules"
+ },
+ "bdba4dcab303a11a": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e887",
+  "by": "rules"
  }
 }
