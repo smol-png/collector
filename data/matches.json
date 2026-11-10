@@ -37781,5 +37781,25 @@
   "market": "Crypto",
   "event": "e2739",
   "by": "rules"
+ },
+ "a8fba93c4e737de1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1826",
+  "by": "rules"
+ },
+ "289f93c326b0d546": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "USDC"
+  ],
+  "usd_m": 0.6,
+  "market": "Crypto",
+  "event": "e2740",
+  "by": "rules"
  }
 }
