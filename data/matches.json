@@ -49594,5 +49594,23 @@
   "market": "Macro",
   "event": "e2112",
   "by": "rules"
+ },
+ "45832bc2e4139399": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3375",
+  "by": "rules"
+ },
+ "cc687dd1ad3c15a4": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3394",
+  "by": "rules"
  }
 }
