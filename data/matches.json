@@ -46009,5 +46009,25 @@
   "market": "Other",
   "event": "e3197",
   "by": "rules"
+ },
+ "a771b97cebdf655b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3198",
+  "by": "rules"
+ },
+ "8d14f812ec5a308d": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": 1.0,
+  "market": "Crypto",
+  "event": "e2998",
+  "by": "rules"
  }
 }
