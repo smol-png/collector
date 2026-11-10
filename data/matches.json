@@ -41527,5 +41527,63 @@
   "market": "Crypto",
   "event": "e1684",
   "by": "rules"
+ },
+ "a5c820b5c4e3d9be": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2964",
+  "by": "rules"
+ },
+ "6387052ebb85e9c6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2965",
+  "by": "rules"
+ },
+ "c7fe7f4cae53fd2b": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2966",
+  "by": "rules"
+ },
+ "a487db186bcbd903": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2967",
+  "by": "rules"
+ },
+ "1223f34aaf093b5d": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2968",
+  "by": "rules"
+ },
+ "2daf7b3da7922f43": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "LINK"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e2895",
+  "by": "rules"
  }
 }
