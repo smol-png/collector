@@ -45625,5 +45625,17 @@
   "market": "Other",
   "event": "e3179",
   "by": "rules"
+ },
+ "ab1e973f37e5e98e": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "GOOGL",
+   "MSFT"
+  ],
+  "usd_m": 10000.0,
+  "market": "AI",
+  "event": "e2742",
+  "by": "rules"
  }
 }
