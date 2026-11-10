@@ -50521,5 +50521,25 @@
   "market": "Other",
   "event": "e3441",
   "by": "rules"
+ },
+ "19bb1a6c177d8060": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 410.0,
+  "market": "Crypto",
+  "event": "e3150",
+  "by": "rules"
+ },
+ "e0c705686f9c6afb": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3442",
+  "by": "rules"
  }
 }
