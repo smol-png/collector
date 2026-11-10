@@ -45357,5 +45357,43 @@
   "market": "Other",
   "event": "e1667",
   "by": "rules"
+ },
+ "104b6b3661a5a83b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3160",
+  "by": "rules"
+ },
+ "8a6da4bbeac09b11": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e3161",
+  "by": "rules"
+ },
+ "9efd23e2abfb2341": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": 13.1,
+  "market": "Crypto",
+  "event": "e3162",
+  "by": "rules"
+ },
+ "93777e23d63ebcbb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1142",
+  "by": "rules"
  }
 }
