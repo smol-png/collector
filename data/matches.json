@@ -40449,5 +40449,61 @@
   "market": "Crypto",
   "event": "e2888",
   "by": "rules"
+ },
+ "c4ea2088d69e0748": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2889",
+  "by": "rules"
+ },
+ "9e918d1ff98a3e77": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2890",
+  "by": "rules"
+ },
+ "2e0157d7d4e51a39": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 2500.0,
+  "market": "Other",
+  "event": "e2891",
+  "by": "rules"
+ },
+ "b17b833a26dcc95d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2892",
+  "by": "rules"
+ },
+ "a52b76d8222cfbb2": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2893",
+  "by": "rules"
+ },
+ "64388ee317d6e5f0": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 1404000.0,
+  "market": "AI",
+  "event": "e2239",
+  "by": "rules"
  }
 }
