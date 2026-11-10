@@ -27127,5 +27127,16 @@
   "market": "Other",
   "event": "e1997",
   "by": "rules"
+ },
+ "3faa952d868a1fb7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1998",
+  "by": "rules"
  }
 }
