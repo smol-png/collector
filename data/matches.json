@@ -46047,5 +46047,63 @@
   "market": "AI",
   "event": "e3200",
   "by": "rules"
+ },
+ "63f79584adad528c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3201",
+  "by": "rules"
+ },
+ "d616da81fee44b97": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3123",
+  "by": "rules"
+ },
+ "98fc8e7f5d59f1ce": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3202",
+  "by": "rules"
+ },
+ "d3b1f415f01b9fb7": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3203",
+  "by": "rules"
+ },
+ "f154005f17722b42": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 18000.0,
+  "market": "AI",
+  "event": "e3200",
+  "by": "rules"
+ },
+ "4a733e15c910be5c": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3156",
+  "by": "rules"
  }
 }
