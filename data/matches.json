@@ -57278,5 +57278,25 @@
   "market": "Other",
   "event": "e3809",
   "by": "rules"
+ },
+ "e3b7ddd36dbf4a5c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3810",
+  "by": "rules"
+ },
+ "75f3f4cea3075c2f": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e3811",
+  "by": "rules"
  }
 }
