@@ -65769,5 +65769,27 @@
   "market": "Other",
   "event": "e4318",
   "by": "rules"
+ },
+ "513a8123f9f1681d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4319",
+  "by": "rules"
+ },
+ "03052d766bde1b93": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": 1000.0,
+  "market": "Stocks",
+  "event": "e4320",
+  "by": "rules"
  }
 }
