@@ -65975,5 +65975,16 @@
   "market": "Stocks",
   "event": "e4333",
   "by": "rules"
+ },
+ "cf65e64429c8d139": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "ADA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4334",
+  "by": "rules"
  }
 }
