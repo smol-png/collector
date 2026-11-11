@@ -54965,5 +54965,155 @@
   "market": "Other",
   "event": "e3603",
   "by": "rules"
+ },
+ "e554b7aa022a1d46": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1946",
+  "by": "rules"
+ },
+ "69736d975cfa3b89": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.09,
+  "market": "Stocks",
+  "event": "e1581",
+  "by": "rules"
+ },
+ "8feb9ddaf9db90f8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.08,
+  "market": "Stocks",
+  "event": "e1931",
+  "by": "rules"
+ },
+ "cc98ed42c6ee542a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 11.3,
+  "market": "Stocks",
+  "event": "e3616",
+  "by": "rules"
+ },
+ "65f91333ef377bff": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.07,
+  "market": "Stocks",
+  "event": "e1906",
+  "by": "rules"
+ },
+ "a6f520afcc30a910": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e3677",
+  "by": "rules"
+ },
+ "1d1cf0c68bf3a0f6": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3678",
+  "by": "rules"
+ },
+ "dbf654318031f0c1": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3678",
+  "by": "rules"
+ },
+ "891506cb65101197": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.02,
+  "market": "Stocks",
+  "event": "e1581",
+  "by": "rules"
+ },
+ "9564fb821774a64f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.12,
+  "market": "Stocks",
+  "event": "e3679",
+  "by": "rules"
+ },
+ "e671d03b8811641f": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1149",
+  "by": "rules"
+ },
+ "47662c9e045da6d4": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1149",
+  "by": "rules"
+ },
+ "d4fa4ca5e8e7fe13": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3680",
+  "by": "rules"
+ },
+ "131d628cc5d0ccef": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3680",
+  "by": "rules"
+ },
+ "0c99722acbead29e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3681",
+  "by": "rules"
+ },
+ "3f1ffaaf20628228": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "TRX"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e1361",
+  "by": "rules"
  }
 }
