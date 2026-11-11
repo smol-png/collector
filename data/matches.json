@@ -53420,5 +53420,44 @@
   "market": "Other",
   "event": "e3590",
   "by": "rules"
+ },
+ "2c1c4e24023d119d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3591",
+  "by": "rules"
+ },
+ "c630f2d70aaff28b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3591",
+  "by": "rules"
+ },
+ "ca483c0e8c7abc88": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e2211",
+  "by": "rules"
+ },
+ "b8c66108317998c5": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "AMZN",
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2742",
+  "by": "rules"
  }
 }
