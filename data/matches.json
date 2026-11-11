@@ -52875,5 +52875,27 @@
   "market": "Other",
   "event": "e3567",
   "by": "rules"
+ },
+ "065734b41b8f8ac5": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2735",
+  "by": "rules"
+ },
+ "eb5bd48f2a776b4b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e219",
+  "by": "rules"
  }
 }
