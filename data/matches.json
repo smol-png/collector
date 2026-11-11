@@ -61062,5 +61062,23 @@
   "market": "Prediction markets",
   "event": "e3549",
   "by": "rules"
+ },
+ "11628eebce1e2fa9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4047",
+  "by": "rules"
+ },
+ "5e3f4023283b8cfa": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e4048",
+  "by": "rules"
  }
 }
