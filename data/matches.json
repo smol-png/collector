@@ -64301,5 +64301,16 @@
   "market": "AI",
   "event": "e3129",
   "by": "rules"
+ },
+ "5f27876090dbf4c7": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.07,
+  "market": "Crypto",
+  "event": "e3018",
+  "by": "rules"
  }
 }
