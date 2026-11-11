@@ -71241,5 +71241,23 @@
   "market": "Prediction markets",
   "event": "e4618",
   "by": "rules"
+ },
+ "b816be9c45b1fd2a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4619",
+  "by": "rules"
+ },
+ "abde89a2054b7b66": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4620",
+  "by": "rules"
  }
 }
