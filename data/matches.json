@@ -71600,5 +71600,47 @@
   "market": "Other",
   "event": "e4637",
   "by": "rules"
+ },
+ "9ae17c21cc8be3c5": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4638",
+  "by": "rules"
+ },
+ "a0049ba78bf77856": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4639",
+  "by": "rules"
+ },
+ "5693af17347f6a18": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4640",
+  "by": "rules"
+ },
+ "7af0df358b21fc6e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4641",
+  "by": "rules"
  }
 }
