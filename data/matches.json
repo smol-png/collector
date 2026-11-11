@@ -61035,5 +61035,32 @@
   "market": "Other",
   "event": "e4044",
   "by": "rules"
+ },
+ "26a950233ff279c5": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4045",
+  "by": "rules"
+ },
+ "6f42996655e34c5a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4046",
+  "by": "rules"
+ },
+ "d00779b7c0cd5307": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e3549",
+  "by": "rules"
  }
 }
