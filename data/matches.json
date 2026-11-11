@@ -70630,5 +70630,25 @@
   "market": "AI",
   "event": "e1023",
   "by": "rules"
+ },
+ "4e8fc48d8a114417": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4585",
+  "by": "rules"
+ },
+ "aadfe54e6d12a085": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4586",
+  "by": "rules"
  }
 }
