@@ -59056,5 +59056,23 @@
   "market": "AI",
   "event": "e3905",
   "by": "rules"
+ },
+ "fc2123bbed9a3c22": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 25000.0,
+  "market": "Other",
+  "event": "e3826",
+  "by": "rules"
+ },
+ "4ebac186e6125bbf": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3906",
+  "by": "rules"
  }
 }
