@@ -63087,5 +63087,36 @@
   "market": "Other",
   "event": "e4084",
   "by": "rules"
+ },
+ "a97dabd01d5430a0": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e2110",
+  "by": "rules"
+ },
+ "f554b79efea88b83": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4176",
+  "by": "rules"
+ },
+ "550306ef79e45acf": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1177",
+  "by": "rules"
  }
 }
