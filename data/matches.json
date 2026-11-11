@@ -61421,5 +61421,16 @@
   "market": "AI",
   "event": "e4073",
   "by": "rules"
+ },
+ "060973e73c1e8f96": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e4074",
+  "by": "rules"
  }
 }
