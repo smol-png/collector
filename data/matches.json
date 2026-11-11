@@ -58394,5 +58394,26 @@
   "market": "Crypto",
   "event": "e3876",
   "by": "rules"
+ },
+ "1d82caeee6c62acf": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": 10000.0,
+  "market": "Other",
+  "event": "e3516",
+  "by": "rules"
+ },
+ "5150d328645cba35": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e3877",
+  "by": "rules"
  }
 }
