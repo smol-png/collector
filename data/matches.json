@@ -53706,5 +53706,101 @@
   "market": "AI",
   "event": "e3386",
   "by": "rules"
+ },
+ "d0493c5c47f74d87": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": 0.16,
+  "market": "Stocks",
+  "event": "e1783",
+  "by": "rules"
+ },
+ "f49cbf67e8a34b62": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3608",
+  "by": "rules"
+ },
+ "aa4817d353fb5ab7": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1846",
+  "by": "rules"
+ },
+ "a75870c56e9fce5e": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e2047",
+  "by": "rules"
+ },
+ "4570520d20129f79": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e2047",
+  "by": "rules"
+ },
+ "4e8562117ff7a69f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.06,
+  "market": "Stocks",
+  "event": "e3609",
+  "by": "rules"
+ },
+ "a926533e45b313b9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.81,
+  "market": "Stocks",
+  "event": "e3610",
+  "by": "rules"
+ },
+ "4cfbc5df6b0f272c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 0.13,
+  "market": "AI",
+  "event": "e3611",
+  "by": "rules"
+ },
+ "fbcaddc68d8b5a07": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3612",
+  "by": "rules"
+ },
+ "05b792e1b6aac646": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3533",
+  "by": "rules"
  }
 }
