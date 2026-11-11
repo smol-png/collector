@@ -70949,5 +70949,25 @@
   "market": "Other",
   "event": "e3665",
   "by": "rules"
+ },
+ "8f47e10c86f7a5ba": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2207",
+  "by": "rules"
+ },
+ "fe927f3185c68561": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4603",
+  "by": "rules"
  }
 }
