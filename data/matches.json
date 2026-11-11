@@ -57931,5 +57931,32 @@
   "market": "Other",
   "event": "e3849",
   "by": "rules"
+ },
+ "cf7992827226d153": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3850",
+  "by": "rules"
+ },
+ "cc0d998b8f1d5719": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e3851",
+  "by": "rules"
+ },
+ "5783286e9c0379b6": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3852",
+  "by": "rules"
  }
 }
