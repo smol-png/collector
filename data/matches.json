@@ -54567,5 +54567,65 @@
   "market": "Other",
   "event": "e1596",
   "by": "rules"
+ },
+ "6b3a803babc512d9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e2612",
+  "by": "rules"
+ },
+ "504c9e8314873cd4": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3430",
+  "by": "rules"
+ },
+ "fa4a6cb4f92f4aa3": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e3120",
+  "by": "rules"
+ },
+ "0f8fe8bcfcf4428c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1200.0,
+  "market": "Other",
+  "event": "e3657",
+  "by": "rules"
+ },
+ "8bcf3ea4393fdc6f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2780",
+  "by": "rules"
+ },
+ "722c012fcca09252": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2780",
+  "by": "rules"
  }
 }
