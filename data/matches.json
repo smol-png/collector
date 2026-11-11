@@ -67682,5 +67682,43 @@
   "market": "AI",
   "event": "e4416",
   "by": "rules"
+ },
+ "2c15ab7434292a37": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4417",
+  "by": "rules"
+ },
+ "b1793a1f5c0515ee": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4418",
+  "by": "rules"
+ },
+ "b671c28e27ef03d8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4190",
+  "by": "rules"
+ },
+ "a7bde12ffc31ee28": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4419",
+  "by": "rules"
  }
 }
