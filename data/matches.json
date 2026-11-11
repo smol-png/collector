@@ -71288,5 +71288,23 @@
   "market": "Stocks",
   "event": "e4556",
   "by": "rules"
+ },
+ "848d2fd01ef27c73": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4623",
+  "by": "rules"
+ },
+ "5959a5ff23c1815d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4624",
+  "by": "rules"
  }
 }
