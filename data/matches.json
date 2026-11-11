@@ -74168,5 +74168,25 @@
   "market": "Other",
   "event": "e4778",
   "by": "rules"
+ },
+ "efca8ddb8f473d3d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4779",
+  "by": "rules"
+ },
+ "2f1c230ed69f34e5": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e3054",
+  "by": "rules"
  }
 }
