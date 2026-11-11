@@ -65580,5 +65580,32 @@
   "market": "Prediction markets",
   "event": "e4311",
   "by": "rules"
+ },
+ "570c0c7d6360716f": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4312",
+  "by": "rules"
+ },
+ "4c37704db88efef2": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 300.0,
+  "market": "AI",
+  "event": "e4313",
+  "by": "rules"
+ },
+ "5f567b68b7cb34d1": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4288",
+  "by": "rules"
  }
 }
