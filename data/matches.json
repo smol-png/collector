@@ -59146,5 +59146,23 @@
   "market": "AI",
   "event": "e3913",
   "by": "rules"
+ },
+ "361ed317f0afb998": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3892",
+  "by": "rules"
+ },
+ "113c5384b5ef4c60": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": 24000.0,
+  "market": "Other",
+  "event": "e3914",
+  "by": "rules"
  }
 }
