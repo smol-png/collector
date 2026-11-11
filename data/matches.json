@@ -54049,5 +54049,25 @@
   "market": "Other",
   "event": "e3536",
   "by": "rules"
+ },
+ "e7b39422900bfec7": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e2855",
+  "by": "rules"
+ },
+ "15e43af60f04fe71": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e198",
+  "by": "rules"
  }
 }
