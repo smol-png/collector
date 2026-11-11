@@ -69973,5 +69973,26 @@
   "market": "Other",
   "event": "e4544",
   "by": "rules"
+ },
+ "daf7f582a8978dd3": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4545",
+  "by": "rules"
+ },
+ "9af0a67d6f7aae92": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN",
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4546",
+  "by": "rules"
  }
 }
