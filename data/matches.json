@@ -63897,5 +63897,17 @@
   "market": "AI",
   "event": "e1201",
   "by": "rules"
+ },
+ "92d4e72ad3703c94": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1201",
+  "by": "rules"
  }
 }
