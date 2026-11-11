@@ -69591,5 +69591,25 @@
   "market": "AI",
   "event": "e4518",
   "by": "rules"
+ },
+ "a3ac02e5f5ef7f16": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e4508",
+  "by": "rules"
+ },
+ "c16c5176768d5408": {
+  "type": "analysis",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4518",
+  "by": "rules"
  }
 }
