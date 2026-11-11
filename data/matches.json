@@ -52578,5 +52578,23 @@
   "market": "AI",
   "event": "e1765",
   "by": "rules"
+ },
+ "7ebb02c9b57fe666": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e3549",
+  "by": "rules"
+ },
+ "3e4e590c0fda5e31": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e3531",
+  "by": "rules"
  }
 }
