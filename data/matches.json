@@ -55313,5 +55313,16 @@
   "market": "Other",
   "event": "e3533",
   "by": "rules"
+ },
+ "c51b80b379863682": {
+  "type": "explainer",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 723.0,
+  "market": "Crypto",
+  "event": "e3690",
+  "by": "rules"
  }
 }
