@@ -65809,5 +65809,32 @@
   "market": "AI",
   "event": "e4322",
   "by": "rules"
+ },
+ "c564e60dd9305ae5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4323",
+  "by": "rules"
+ },
+ "6bdb7703dc6ae850": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4324",
+  "by": "rules"
+ },
+ "87aa3fe23f8fc1d9": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e4325",
+  "by": "rules"
  }
 }
