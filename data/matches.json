@@ -69868,5 +69868,16 @@
   "market": "Crypto",
   "event": "e4536",
   "by": "rules"
+ },
+ "48ecb0ab579f02d0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4537",
+  "by": "rules"
  }
 }
