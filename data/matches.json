@@ -69088,5 +69088,25 @@
   "market": "Other",
   "event": "e4493",
   "by": "rules"
+ },
+ "07d509243773a4ba": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4146",
+  "by": "rules"
+ },
+ "0b4b2495ac04481d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4331",
+  "by": "rules"
  }
 }
