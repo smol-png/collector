@@ -67273,5 +67273,32 @@
   "market": "Other",
   "event": "e4397",
   "by": "rules"
+ },
+ "6dc6dd88b17d7aae": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4398",
+  "by": "rules"
+ },
+ "85b915df03ebb24e": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4399",
+  "by": "rules"
+ },
+ "c26260bfa63514ca": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 10000.0,
+  "market": "AI",
+  "event": "e4400",
+  "by": "rules"
  }
 }
