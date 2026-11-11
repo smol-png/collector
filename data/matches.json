@@ -68372,5 +68372,52 @@
   "market": "Stocks",
   "event": "e4456",
   "by": "rules"
+ },
+ "9e19854f981f930a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4457",
+  "by": "rules"
+ },
+ "12f746be0ebc60a3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3684",
+  "by": "rules"
+ },
+ "db22236b0b627ff3": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4458",
+  "by": "rules"
+ },
+ "172befd47dba79c5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4459",
+  "by": "rules"
+ },
+ "9110b941a6979882": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4460",
+  "by": "rules"
  }
 }
