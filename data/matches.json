@@ -57018,5 +57018,27 @@
   "market": "Other",
   "event": "e3765",
   "by": "rules"
+ },
+ "707452ccfaf8a689": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3306",
+  "by": "rules"
+ },
+ "e79a95d2051dfb51": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "ETH",
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e3795",
+  "by": "rules"
  }
 }
