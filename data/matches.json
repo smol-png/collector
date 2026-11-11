@@ -56193,5 +56193,32 @@
   "market": "Crypto",
   "event": "e3749",
   "by": "rules"
+ },
+ "cfe272bca07a16c7": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e3750",
+  "by": "rules"
+ },
+ "1b92cd42ae26078f": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e3751",
+  "by": "rules"
+ },
+ "cd1388c5255152fe": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2701",
+  "by": "rules"
  }
 }
