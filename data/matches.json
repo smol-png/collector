@@ -66474,5 +66474,153 @@
   "market": "Other",
   "event": "e1219",
   "by": "rules"
+ },
+ "435da7f6f850071d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3388",
+  "by": "rules"
+ },
+ "f852e95151401ee7": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3506",
+  "by": "rules"
+ },
+ "0ad663984b903f50": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2701",
+  "by": "rules"
+ },
+ "3ec9fe1430a1faef": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3433",
+  "by": "rules"
+ },
+ "8e976aef9801cafe": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 1000.0,
+  "market": "AI",
+  "event": "e2937",
+  "by": "rules"
+ },
+ "49b0cff48174beb0": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4355",
+  "by": "rules"
+ },
+ "af580a092e778935": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3516",
+  "by": "rules"
+ },
+ "1911f6c1cb1d6808": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4356",
+  "by": "rules"
+ },
+ "8845f2fecb4968f1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4357",
+  "by": "rules"
+ },
+ "43df21cc9830731f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1001",
+  "by": "rules"
+ },
+ "1416dce785feab01": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4358",
+  "by": "rules"
+ },
+ "40a57047b7228d80": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e4359",
+  "by": "rules"
+ },
+ "f308523e0bce5009": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4360",
+  "by": "rules"
+ },
+ "3b4a7b7766dfe87e": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e4361",
+  "by": "rules"
+ },
+ "9a257155ae0cb7bd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3932",
+  "by": "rules"
+ },
+ "2a10c51081ccc516": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4362",
+  "by": "rules"
  }
 }
