@@ -61350,5 +61350,25 @@
   "market": "Other",
   "event": "e3516",
   "by": "rules"
+ },
+ "5338cc28300d6be2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4068",
+  "by": "rules"
+ },
+ "1b9f153775c2432a": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4069",
+  "by": "rules"
  }
 }
