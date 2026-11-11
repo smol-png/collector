@@ -64366,5 +64366,91 @@
   "market": "Other",
   "event": "e4248",
   "by": "rules"
+ },
+ "92fbc899fdfa8451": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4120",
+  "by": "rules"
+ },
+ "625c9931380cae00": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4130",
+  "by": "rules"
+ },
+ "a08a4624a6bda466": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4163",
+  "by": "rules"
+ },
+ "31be5c718d49efbc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4179",
+  "by": "rules"
+ },
+ "b8c2a39feb268426": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1177",
+  "by": "rules"
+ },
+ "a54b351cbc650346": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1201",
+  "by": "rules"
+ },
+ "39ef77f9d95dffed": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4043",
+  "by": "rules"
+ },
+ "289d7949d0a5939b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4249",
+  "by": "rules"
+ },
+ "56ea6df76e0a589d": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3536",
+  "by": "rules"
  }
 }
