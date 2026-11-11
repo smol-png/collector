@@ -71533,5 +71533,36 @@
   "market": "AI",
   "event": "e4611",
   "by": "rules"
+ },
+ "992acc70be07503b": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3423",
+  "by": "rules"
+ },
+ "8218a2a6ebdd492d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4634",
+  "by": "rules"
+ },
+ "b5e36a56e1ea2e94": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4393",
+  "by": "rules"
  }
 }
