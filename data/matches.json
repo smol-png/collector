@@ -70570,5 +70570,27 @@
   "market": "Prediction markets",
   "event": "e4555",
   "by": "rules"
+ },
+ "994868c70f015b4d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4573",
+  "by": "rules"
+ },
+ "5828ee5e05b30d6e": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3423",
+  "by": "rules"
  }
 }
