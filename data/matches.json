@@ -74188,5 +74188,16 @@
   "market": "Crypto",
   "event": "e3054",
   "by": "rules"
+ },
+ "fac226e41b500364": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e887",
+  "by": "rules"
  }
 }
