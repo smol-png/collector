@@ -57121,5 +57121,108 @@
   "market": "Other",
   "event": "e3512",
   "by": "rules"
+ },
+ "1f37f1043c663177": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3802",
+  "by": "rules"
+ },
+ "ce81ea3990b6e039": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e2016",
+  "by": "rules"
+ },
+ "47c0470c61bb0af7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3756",
+  "by": "rules"
+ },
+ "cdc9fcf9c3e31927": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3803",
+  "by": "rules"
+ },
+ "bb4ecd21a7f19f3e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3803",
+  "by": "rules"
+ },
+ "f216292528f7c83c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e2011",
+  "by": "rules"
+ },
+ "9718d3dcb3c9c8df": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3804",
+  "by": "rules"
+ },
+ "4918f0a97e8a3d33": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1035",
+  "by": "rules"
+ },
+ "bc76139b2a648712": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1035",
+  "by": "rules"
+ },
+ "e02a07ad57ac43d6": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1219",
+  "by": "rules"
+ },
+ "226b5b6b2f213b00": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.06,
+  "market": "Stocks",
+  "event": "e1410",
+  "by": "rules"
  }
 }
