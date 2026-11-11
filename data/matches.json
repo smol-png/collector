@@ -62248,5 +62248,81 @@
   "market": "Other",
   "event": "e4125",
   "by": "rules"
+ },
+ "42d965ac47c4caae": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3961",
+  "by": "rules"
+ },
+ "318a694a6f4740ce": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4126",
+  "by": "rules"
+ },
+ "cfe28a641f28e7df": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4127",
+  "by": "rules"
+ },
+ "cac547d8a9fe1f50": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4120",
+  "by": "rules"
+ },
+ "78302e8c507c6ecc": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e4128",
+  "by": "rules"
+ },
+ "54d9a31f34e07b88": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4129",
+  "by": "rules"
+ },
+ "2d364552a81b4960": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2640",
+  "by": "rules"
+ },
+ "73fcc9ab9eaede45": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4130",
+  "by": "rules"
  }
 }
