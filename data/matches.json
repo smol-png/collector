@@ -60464,5 +60464,52 @@
   "market": "Other",
   "event": "e4012",
   "by": "rules"
+ },
+ "3fbefcdb37bb1baf": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4013",
+  "by": "rules"
+ },
+ "a96780817aa80d1a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4014",
+  "by": "rules"
+ },
+ "be87d3fe01c48862": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4014",
+  "by": "rules"
+ },
+ "df2286ab521a3fbb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4015",
+  "by": "rules"
+ },
+ "d2ae16fb30adc1a2": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4016",
+  "by": "rules"
  }
 }
