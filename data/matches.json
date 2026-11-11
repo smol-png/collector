@@ -60684,5 +60684,32 @@
   "market": "Other",
   "event": "e4024",
   "by": "rules"
+ },
+ "4b084a057e3f37b6": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4025",
+  "by": "rules"
+ },
+ "d056569ca0605fba": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 30.0,
+  "market": "Other",
+  "event": "e3050",
+  "by": "rules"
+ },
+ "bd6d528fef5fdc50": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3454",
+  "by": "rules"
  }
 }
