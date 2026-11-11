@@ -70402,5 +70402,72 @@
   "market": "Prediction markets",
   "event": "e4570",
   "by": "rules"
+ },
+ "84d235e128ac5cff": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4571",
+  "by": "rules"
+ },
+ "3e71e016713e5d2a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4528",
+  "by": "rules"
+ },
+ "1365fda1d6c651e8": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4572",
+  "by": "rules"
+ },
+ "38bedb1d906bf286": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4573",
+  "by": "rules"
+ },
+ "9ccdd9c41dca61c9": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4573",
+  "by": "rules"
+ },
+ "659f019d3eb15646": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 2220.0,
+  "market": "Crypto",
+  "event": "e4574",
+  "by": "rules"
  }
 }
