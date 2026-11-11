@@ -60630,5 +60630,41 @@
   "market": "AI",
   "event": "e4019",
   "by": "rules"
+ },
+ "89a91083b595c4c9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1961",
+  "by": "rules"
+ },
+ "2f93c77c6d5b09ee": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4007",
+  "by": "rules"
+ },
+ "6efddc7ca9ff82b3": {
+  "type": "explainer",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e4022",
+  "by": "rules"
+ },
+ "3e3c7397f2f35634": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 1400000.0,
+  "market": "AI",
+  "event": "e2701",
+  "by": "rules"
  }
 }
