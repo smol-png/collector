@@ -69994,5 +69994,27 @@
   "market": "Stocks",
   "event": "e4546",
   "by": "rules"
+ },
+ "1bba38fb62a0dd49": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4547",
+  "by": "rules"
+ },
+ "481c587ed45ea46a": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "HYPE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4548",
+  "by": "rules"
  }
 }
