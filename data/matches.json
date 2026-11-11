@@ -70990,5 +70990,25 @@
   "market": "Crypto",
   "event": "e3904",
   "by": "rules"
+ },
+ "6f7b743c06deb654": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4605",
+  "by": "rules"
+ },
+ "a93584a5e12fb979": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4606",
+  "by": "rules"
  }
 }
