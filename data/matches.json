@@ -61323,5 +61323,32 @@
   "market": "Other",
   "event": "e4065",
   "by": "rules"
+ },
+ "41b277396cec9968": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4066",
+  "by": "rules"
+ },
+ "9aafbbc79ea25de0": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4067",
+  "by": "rules"
+ },
+ "4851c411eec1d78c": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3516",
+  "by": "rules"
  }
 }
