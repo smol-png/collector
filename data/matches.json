@@ -67010,5 +67010,25 @@
   "market": "Stocks",
   "event": "e1038",
   "by": "rules"
+ },
+ "445dc0ad7c7909f9": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4376",
+  "by": "rules"
+ },
+ "673a4d75f6033601": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4377",
+  "by": "rules"
  }
 }
