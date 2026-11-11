@@ -68334,5 +68334,32 @@
   "market": "Other",
   "event": "e3533",
   "by": "rules"
+ },
+ "a6872be663cc5ab1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4454",
+  "by": "rules"
+ },
+ "2cdc70316e416679": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1180",
+  "by": "rules"
+ },
+ "715634c99df374a4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e4455",
+  "by": "rules"
  }
 }
