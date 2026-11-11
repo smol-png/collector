@@ -54500,5 +54500,36 @@
   "market": "Other",
   "event": "e3652",
   "by": "rules"
+ },
+ "990bc12cffc9369e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3653",
+  "by": "rules"
+ },
+ "aca834f346a49b55": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3654",
+  "by": "rules"
+ },
+ "a442e52cb7659f38": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3654",
+  "by": "rules"
  }
 }
