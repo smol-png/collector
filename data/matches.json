@@ -64144,5 +64144,43 @@
   "market": "Stocks",
   "event": "e4146",
   "by": "rules"
+ },
+ "fa251da61e96503d": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3271",
+  "by": "rules"
+ },
+ "f992b35190330c35": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4227",
+  "by": "rules"
+ },
+ "4db6af99791db367": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "BNB"
+  ],
+  "usd_m": 100.0,
+  "market": "Crypto",
+  "event": "e4237",
+  "by": "rules"
+ },
+ "c1e71eb7e9f3a16d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4238",
+  "by": "rules"
  }
 }
