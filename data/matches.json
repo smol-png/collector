@@ -59804,5 +59804,61 @@
   "market": "Other",
   "event": "e3956",
   "by": "rules"
+ },
+ "98fb88f3f7ae10a6": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3957",
+  "by": "rules"
+ },
+ "ef43eb785cae1d83": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 2000.0,
+  "market": "Other",
+  "event": "e3889",
+  "by": "rules"
+ },
+ "69d0115813e5c335": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3954",
+  "by": "rules"
+ },
+ "fae6232411e1b2c0": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3946",
+  "by": "rules"
+ },
+ "8a7dff47c0d4dab3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3676",
+  "by": "rules"
+ },
+ "2da270e647246b2f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3958",
+  "by": "rules"
  }
 }
