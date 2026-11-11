@@ -64133,5 +64133,16 @@
   "market": "Stocks",
   "event": "e4236",
   "by": "rules"
+ },
+ "31b9cd69e2a3a2b5": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4146",
+  "by": "rules"
  }
 }
