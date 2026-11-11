@@ -52848,5 +52848,32 @@
   "market": "Other",
   "event": "e1471",
   "by": "rules"
+ },
+ "bc406c58f144a06a": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e322",
+  "by": "rules"
+ },
+ "5f1f1ae16c494c51": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e322",
+  "by": "rules"
+ },
+ "7498bbce727fe012": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3567",
+  "by": "rules"
  }
 }
