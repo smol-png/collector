@@ -64452,5 +64452,41 @@
   "market": "AI",
   "event": "e3536",
   "by": "rules"
+ },
+ "26a9f6801bd2df70": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 7000.0,
+  "market": "Other",
+  "event": "e4250",
+  "by": "rules"
+ },
+ "4e4d1c7d669b001a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4251",
+  "by": "rules"
+ },
+ "d081d31ed338f675": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 126000.0,
+  "market": "Stocks",
+  "event": "e4252",
+  "by": "rules"
+ },
+ "cfd64e407b3f2314": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 4000.0,
+  "market": "Stocks",
+  "event": "e4253",
+  "by": "rules"
  }
 }
