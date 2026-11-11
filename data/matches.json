@@ -70469,5 +70469,52 @@
   "market": "Crypto",
   "event": "e4574",
   "by": "rules"
+ },
+ "aa65897e212adff4": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4575",
+  "by": "rules"
+ },
+ "71557c58e0c4e388": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4576",
+  "by": "rules"
+ },
+ "d1c43399bb44b99c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e3904",
+  "by": "rules"
+ },
+ "b2530aea0c102f01": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4577",
+  "by": "rules"
+ },
+ "4904e9cc552900e5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAVE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4463",
+  "by": "rules"
  }
 }
