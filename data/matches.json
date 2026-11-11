@@ -70175,5 +70175,25 @@
   "market": "Other",
   "event": "e4554",
   "by": "rules"
+ },
+ "cad264b2601ce960": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e4555",
+  "by": "rules"
+ },
+ "1da07f854b882a56": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4556",
+  "by": "rules"
  }
 }
