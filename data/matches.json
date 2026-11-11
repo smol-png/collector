@@ -68495,5 +68495,63 @@
   "market": "Other",
   "event": "e4466",
   "by": "rules"
+ },
+ "68607e25bf7e1235": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4467",
+  "by": "rules"
+ },
+ "5a30008bab43a3c8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4468",
+  "by": "rules"
+ },
+ "697918e32c8c10f7": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4227",
+  "by": "rules"
+ },
+ "0b6c86026621e47c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4469",
+  "by": "rules"
+ },
+ "df12a2b83b2bd33b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4470",
+  "by": "rules"
+ },
+ "9e1a0678ab437c7f": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4471",
+  "by": "rules"
  }
 }
