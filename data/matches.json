@@ -91681,5 +91681,50 @@
   "market": "Other",
   "event": "e5700",
   "by": "rules"
+ },
+ "6f174f492e22232b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5701",
+  "by": "rules"
+ },
+ "6e621d9900ca9803": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5321",
+  "by": "rules"
+ },
+ "01fb57ffbfc836d9": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e5702",
+  "by": "rules"
+ },
+ "d18d202aa9ad1860": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5703",
+  "by": "rules"
+ },
+ "4c38cdbc2272a683": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5704",
+  "by": "rules"
  }
 }
