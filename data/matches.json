@@ -87556,5 +87556,34 @@
   "market": "Other",
   "event": "e5495",
   "by": "rules"
+ },
+ "37f6849f72903a5a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
+ },
+ "c5837cabfd98ec0f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5496",
+  "by": "rules"
+ },
+ "a2a3e9d916e72f59": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": 2000.0,
+  "market": "Other",
+  "event": "e5497",
+  "by": "rules"
  }
 }
