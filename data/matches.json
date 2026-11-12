@@ -89683,5 +89683,36 @@
   "market": "Crypto",
   "event": "e5602",
   "by": "rules"
+ },
+ "92790cc35dacff92": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": 30.0,
+  "market": "Other",
+  "event": "e5591",
+  "by": "rules"
+ },
+ "c5e5abc12a6721fb": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5585",
+  "by": "rules"
+ },
+ "b7c4008de42fc610": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.07,
+  "market": "Crypto",
+  "event": "e4308",
+  "by": "rules"
  }
 }
