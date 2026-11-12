@@ -78320,5 +78320,16 @@
   "market": "Other",
   "event": "e5009",
   "by": "rules"
+ },
+ "f55ea1f79f77be88": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": 1.0,
+  "market": "Crypto",
+  "event": "e2998",
+  "by": "rules"
  }
 }
