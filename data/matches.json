@@ -88014,5 +88014,47 @@
   "market": "Macro",
   "event": "e5520",
   "by": "rules"
+ },
+ "4e997b8f8aa485d7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5521",
+  "by": "rules"
+ },
+ "f302fced3cd342eb": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC",
+   "MSTR",
+   "NVDA"
+  ],
+  "usd_m": 0.07,
+  "market": "Crypto",
+  "event": "e219",
+  "by": "rules"
+ },
+ "325830b509dc8d76": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5522",
+  "by": "rules"
+ },
+ "97d3827244230b03": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4446",
+  "by": "rules"
  }
 }
