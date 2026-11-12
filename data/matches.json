@@ -85019,5 +85019,16 @@
   "market": "Macro",
   "event": "e5379",
   "by": "rules"
+ },
+ "acac5821730e7980": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5380",
+  "by": "rules"
  }
 }
