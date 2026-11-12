@@ -89361,5 +89361,16 @@
   "market": "Other",
   "event": "e5499",
   "by": "rules"
+ },
+ "7f8a6ed87d6af4eb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5525",
+  "by": "rules"
  }
 }
