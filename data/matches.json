@@ -91158,5 +91158,14 @@
   "market": "Stocks",
   "event": "e5463",
   "by": "rules"
+ },
+ "62d4e931f45ec21e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 12100.0,
+  "market": "Other",
+  "event": "e5668",
+  "by": "rules"
  }
 }
