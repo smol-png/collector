@@ -89857,5 +89857,26 @@
   "market": "Stocks",
   "event": "e3129",
   "by": "rules"
+ },
+ "d4505eef98256358": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "AAPL",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5609",
+  "by": "rules"
+ },
+ "44319d48f92f4fda": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4167",
+  "by": "rules"
  }
 }
