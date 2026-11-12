@@ -80629,5 +80629,16 @@
   "market": "Other",
   "event": "e5110",
   "by": "rules"
+ },
+ "303d172c8c0b08d9": {
+  "type": "explainer",
+  "category": "Macro & rates",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5124",
+  "by": "rules"
  }
 }
