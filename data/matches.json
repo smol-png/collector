@@ -92583,5 +92583,17 @@
   "market": "AI",
   "event": "e4973",
   "by": "rules"
+ },
+ "84c3296e6f09c590": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5171",
+  "by": "rules"
  }
 }
