@@ -80241,5 +80241,32 @@
   "market": "Other",
   "event": "e5107",
   "by": "rules"
+ },
+ "e24234857caffff4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5108",
+  "by": "rules"
+ },
+ "756c6c2fd318be30": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5109",
+  "by": "rules"
+ },
+ "e3c2a3169f3e15fc": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e3853",
+  "by": "rules"
  }
 }
