@@ -97058,5 +97058,47 @@
   "market": "AI",
   "event": "e4880",
   "by": "rules"
+ },
+ "127a30c450ed81b9": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5973",
+  "by": "rules"
+ },
+ "a152d32238a19574": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5974",
+  "by": "rules"
+ },
+ "38e49fd5be7de93b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4734",
+  "by": "rules"
+ },
+ "c3c335b0255585bf": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "HOOD"
+  ],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e5975",
+  "by": "rules"
  }
 }
