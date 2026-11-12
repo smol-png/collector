@@ -99541,5 +99541,37 @@
   "market": "Other",
   "event": "e1848",
   "by": "rules"
+ },
+ "dd5acc01e30535c5": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6074",
+  "by": "rules"
+ },
+ "a0a89ee4ad26c566": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e914",
+  "by": "rules"
+ },
+ "fa3219d0c16f97f5": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "AAPL",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
  }
 }
