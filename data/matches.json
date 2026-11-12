@@ -88885,5 +88885,56 @@
   "market": "Crypto",
   "event": "e5171",
   "by": "rules"
+ },
+ "442954cc5ebec85c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5567",
+  "by": "rules"
+ },
+ "cfed3af08615c6ac": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
+ },
+ "ae405cb3670e3fac": {
+  "type": "live",
+  "category": "Hacks & security",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
+ },
+ "7067c53a71480f30": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5568",
+  "by": "rules"
+ },
+ "b53d7df408d701e9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3247",
+  "by": "rules"
  }
 }
