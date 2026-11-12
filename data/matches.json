@@ -79765,5 +79765,27 @@
   "market": "Other",
   "event": "e5075",
   "by": "rules"
+ },
+ "08a804569b401e2d": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3545",
+  "by": "rules"
+ },
+ "40c5d68c816ffa4a": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5076",
+  "by": "rules"
  }
 }
