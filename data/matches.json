@@ -85816,5 +85816,25 @@
   "market": "Other",
   "event": "e5423",
   "by": "rules"
+ },
+ "385ddddb6cb36426": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5424",
+  "by": "rules"
+ },
+ "ee6f661e715bb391": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5079",
+  "by": "rules"
  }
 }
