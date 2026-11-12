@@ -84416,5 +84416,34 @@
   "market": "Other",
   "event": "e5351",
   "by": "rules"
+ },
+ "fb341aba27635891": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 7000.0,
+  "market": "Other",
+  "event": "e5352",
+  "by": "rules"
+ },
+ "e289ac269ed9815a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5353",
+  "by": "rules"
+ },
+ "c6ee7104e714de3e": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5354",
+  "by": "rules"
  }
 }
