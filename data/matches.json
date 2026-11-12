@@ -90626,5 +90626,39 @@
   "market": "Stocks",
   "event": "e1038",
   "by": "rules"
+ },
+ "dfc0cedaee5524c0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5644",
+  "by": "rules"
+ },
+ "0041d257e1201d22": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5645",
+  "by": "rules"
+ },
+ "1e273bc51ea18208": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": 540.0,
+  "market": "Crypto",
+  "event": "e5646",
+  "by": "rules"
  }
 }
