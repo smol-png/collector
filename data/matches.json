@@ -99613,5 +99613,27 @@
   "market": "AI",
   "event": "e1787",
   "by": "rules"
+ },
+ "766c34d18f437daf": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5750",
+  "by": "rules"
+ },
+ "3f60f6aea7a9a1b6": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.07,
+  "market": "Crypto",
+  "event": "e6096",
+  "by": "rules"
  }
 }
