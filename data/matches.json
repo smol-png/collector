@@ -80324,5 +80324,16 @@
   "market": "Stocks",
   "event": "e5113",
   "by": "rules"
+ },
+ "233258db1b133d14": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 3.1,
+  "market": "Crypto",
+  "event": "e5114",
+  "by": "rules"
  }
 }
