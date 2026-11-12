@@ -98405,5 +98405,27 @@
   "market": "Crypto",
   "event": "e6030",
   "by": "rules"
+ },
+ "f989461aea816691": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6047",
+  "by": "rules"
+ },
+ "a6170f1dfa7a4cf3": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e887",
+  "by": "rules"
  }
 }
