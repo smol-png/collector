@@ -94302,5 +94302,37 @@
   "market": "Other",
   "event": "e5822",
   "by": "rules"
+ },
+ "b85aebe6a54ae648": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5823",
+  "by": "rules"
+ },
+ "770af32883e69a18": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5824",
+  "by": "rules"
+ },
+ "612936143a8fddc9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5825",
+  "by": "rules"
  }
 }
