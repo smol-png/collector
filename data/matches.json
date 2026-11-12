@@ -83785,5 +83785,25 @@
   "market": "Macro",
   "event": "e2112",
   "by": "rules"
+ },
+ "da454fb28d0f313b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5315",
+  "by": "rules"
+ },
+ "f9a1b2355d23a267": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5316",
+  "by": "rules"
  }
 }
