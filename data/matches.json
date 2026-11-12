@@ -98102,5 +98102,17 @@
   "market": "AI",
   "event": "e5756",
   "by": "rules"
+ },
+ "26128f9ea9837d1f": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA",
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5871",
+  "by": "rules"
  }
 }
