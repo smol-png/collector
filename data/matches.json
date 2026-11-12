@@ -84273,5 +84273,26 @@
   "market": "Crypto",
   "event": "e5079",
   "by": "rules"
+ },
+ "c91083a4cf98717a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5342",
+  "by": "rules"
+ },
+ "350552b6a8c14b1a": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "TRX",
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5274",
+  "by": "rules"
  }
 }
