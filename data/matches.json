@@ -95143,5 +95143,16 @@
   "market": "Stocks",
   "event": "e4877",
   "by": "rules"
+ },
+ "974d1b6cf68de950": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5871",
+  "by": "rules"
  }
 }
