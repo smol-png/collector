@@ -98906,5 +98906,34 @@
   "market": "Stocks",
   "event": "e5871",
   "by": "rules"
+ },
+ "25e6f507953b48f2": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5372",
+  "by": "rules"
+ },
+ "c2ba89260762f498": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4146",
+  "by": "rules"
+ },
+ "9e67c52d8672c9d8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6067",
+  "by": "rules"
  }
 }
