@@ -80059,5 +80059,16 @@
   "market": "Other",
   "event": "e5101",
   "by": "rules"
+ },
+ "cd11a54248d2200c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e219",
+  "by": "rules"
  }
 }
