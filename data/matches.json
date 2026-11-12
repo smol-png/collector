@@ -83205,5 +83205,17 @@
   "market": "Other",
   "event": "e5278",
   "by": "rules"
+ },
+ "399dc69f7299e4fb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TRX",
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5274",
+  "by": "rules"
  }
 }
