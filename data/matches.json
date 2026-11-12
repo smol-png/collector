@@ -88343,5 +88343,34 @@
   "market": "Other",
   "event": "e5539",
   "by": "rules"
+ },
+ "b5f7e2601969fece": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5540",
+  "by": "rules"
+ },
+ "69364180a0f6a00c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5541",
+  "by": "rules"
+ },
+ "be6016a78d7e5ff7": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5463",
+  "by": "rules"
  }
 }
