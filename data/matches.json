@@ -81636,5 +81636,34 @@
   "market": "Other",
   "event": "e4912",
   "by": "rules"
+ },
+ "d5f0ed06a52b8821": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5179",
+  "by": "rules"
+ },
+ "fa92aa2c3a42eab5": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5180",
+  "by": "rules"
+ },
+ "5128c5d859121721": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAVE"
+  ],
+  "usd_m": 279.0,
+  "market": "Crypto",
+  "event": "e5181",
+  "by": "rules"
  }
 }
