@@ -90401,5 +90401,36 @@
   "market": "Other",
   "event": "e5636",
   "by": "rules"
+ },
+ "7a8094c8464c34a6": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5637",
+  "by": "rules"
+ },
+ "6f144555a0bb7489": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5463",
+  "by": "rules"
+ },
+ "b7fdadd5a356dd9b": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5609",
+  "by": "rules"
  }
 }
