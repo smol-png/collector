@@ -96599,5 +96599,34 @@
   "market": "Other",
   "event": "e5946",
   "by": "rules"
+ },
+ "97ecf9126ef6add7": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5947",
+  "by": "rules"
+ },
+ "182cdcf5b93b241d": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": 19500.0,
+  "market": "Stocks",
+  "event": "e5948",
+  "by": "rules"
+ },
+ "906c1d059ca6ff9d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 40000.0,
+  "market": "Other",
+  "event": "e5949",
+  "by": "rules"
  }
 }
