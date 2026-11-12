@@ -99229,5 +99229,36 @@
   "market": "AI",
   "event": "e6077",
   "by": "rules"
+ },
+ "6f292ea659fa80c3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6078",
+  "by": "rules"
+ },
+ "7e64aa39de4c9bbd": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6079",
+  "by": "rules"
+ },
+ "4921375247c6d515": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5646",
+  "by": "rules"
  }
 }
