@@ -89714,5 +89714,25 @@
   "market": "Crypto",
   "event": "e4308",
   "by": "rules"
+ },
+ "b3ed2b4d4bf9201f": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3039",
+  "by": "rules"
+ },
+ "024aad8b9e63fa77": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e2087",
+  "by": "rules"
  }
 }
