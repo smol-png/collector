@@ -97729,5 +97729,17 @@
   "market": "Crypto",
   "event": "e6007",
   "by": "rules"
+ },
+ "8de669240660ff2a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "MSTR",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1765",
+  "by": "rules"
  }
 }
