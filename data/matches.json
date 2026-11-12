@@ -97885,5 +97885,34 @@
   "market": "Other",
   "event": "e6017",
   "by": "rules"
+ },
+ "cd3191c3545a77cc": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e5787",
+  "by": "rules"
+ },
+ "1b82a70fd79d0177": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 400.0,
+  "market": "Crypto",
+  "event": "e6018",
+  "by": "rules"
+ },
+ "5229051d61af3732": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2640",
+  "by": "rules"
  }
 }
