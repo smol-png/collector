@@ -80344,5 +80344,34 @@
   "market": "Other",
   "event": "e5115",
   "by": "rules"
+ },
+ "af5013f1ae40200b": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 2000.0,
+  "market": "Crypto",
+  "event": "e5116",
+  "by": "rules"
+ },
+ "c419ff6ce5c9797b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4825",
+  "by": "rules"
+ },
+ "277e684ccb20e928": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2066",
+  "by": "rules"
  }
 }
