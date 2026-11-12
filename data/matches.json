@@ -87585,5 +87585,83 @@
   "market": "Other",
   "event": "e5497",
   "by": "rules"
+ },
+ "d0c89c51d4c1df6a": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5498",
+  "by": "rules"
+ },
+ "064d82cf5ff0fef3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 100.0,
+  "market": "Other",
+  "event": "e5499",
+  "by": "rules"
+ },
+ "ab9b2c052a306072": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5469",
+  "by": "rules"
+ },
+ "a7ef9ea732616e3a": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5490",
+  "by": "rules"
+ },
+ "21c50da7b3ddfd09": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5496",
+  "by": "rules"
+ },
+ "e0ba4432f227a163": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5398",
+  "by": "rules"
+ },
+ "6552af4001fde944": {
+  "type": "live",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
+ },
+ "44a7904806c858fe": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5500",
+  "by": "rules"
  }
 }
