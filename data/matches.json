@@ -76692,5 +76692,16 @@
   "market": "AI",
   "event": "e4914",
   "by": "rules"
+ },
+ "1e9b5ee720c251f4": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 6000.0,
+  "market": "Crypto",
+  "event": "e3391",
+  "by": "rules"
  }
 }
