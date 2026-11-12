@@ -98010,5 +98010,50 @@
   "market": "Macro",
   "event": "e2114",
   "by": "rules"
+ },
+ "faec91ae59eb87e3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6026",
+  "by": "rules"
+ },
+ "1890caf5e338f48d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6027",
+  "by": "rules"
+ },
+ "eee901e107179fad": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6028",
+  "by": "rules"
+ },
+ "2aaebe96c438d061": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 41.0,
+  "market": "Other",
+  "event": "e6029",
+  "by": "rules"
+ },
+ "37956f39fc3da934": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6030",
+  "by": "rules"
  }
 }
