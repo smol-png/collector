@@ -91283,5 +91283,16 @@
   "market": "AI",
   "event": "e5675",
   "by": "rules"
+ },
+ "6e1bd91ef013757c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e2640",
+  "by": "rules"
  }
 }
