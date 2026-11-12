@@ -79615,5 +79615,23 @@
   "market": "Other",
   "event": "e5080",
   "by": "rules"
+ },
+ "c4e9018fd6e2160b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5081",
+  "by": "rules"
+ },
+ "81dfd3d1ecc87e52": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5082",
+  "by": "rules"
  }
 }
