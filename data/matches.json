@@ -77765,5 +77765,34 @@
   "market": "AI",
   "event": "e4967",
   "by": "rules"
+ },
+ "42fc09e8a3f7a35f": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4968",
+  "by": "rules"
+ },
+ "458ca6b419db6ac8": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": 6300.0,
+  "market": "Crypto",
+  "event": "e4969",
+  "by": "rules"
+ },
+ "deec4538262151dd": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4970",
+  "by": "rules"
  }
 }
