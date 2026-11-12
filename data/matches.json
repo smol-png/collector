@@ -97246,5 +97246,37 @@
   "market": "Other",
   "event": "e5983",
   "by": "rules"
+ },
+ "c3bc84f02b8c7613": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5984",
+  "by": "rules"
+ },
+ "c503a6c39d6b3f60": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5941",
+  "by": "rules"
+ },
+ "77d7330fd3b81533": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL",
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5914",
+  "by": "rules"
  }
 }
