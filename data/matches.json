@@ -80844,5 +80844,41 @@
   "market": "Stocks",
   "event": "e4923",
   "by": "rules"
+ },
+ "94b4728f6c0498d2": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 30.0,
+  "market": "Other",
+  "event": "e5133",
+  "by": "rules"
+ },
+ "ae0715fb5395c789": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": 166000.0,
+  "market": "Other",
+  "event": "e5134",
+  "by": "rules"
+ },
+ "89c7ea02417306a8": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5135",
+  "by": "rules"
+ },
+ "1072739fad7580f0": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e5136",
+  "by": "rules"
  }
 }
