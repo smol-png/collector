@@ -76661,5 +76661,25 @@
   "market": "Other",
   "event": "e4912",
   "by": "rules"
+ },
+ "ee8b8b90fcaf6864": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4913",
+  "by": "rules"
+ },
+ "4ed3a0b01750f289": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e219",
+  "by": "rules"
  }
 }
