@@ -96141,5 +96141,26 @@
   "market": "Other",
   "event": "e5916",
   "by": "rules"
+ },
+ "2b5bd6cc49314c2a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5917",
+  "by": "rules"
+ },
+ "e299c3fd5b57b441": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL",
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5914",
+  "by": "rules"
  }
 }
