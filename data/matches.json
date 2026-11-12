@@ -85010,5 +85010,14 @@
   "market": "Stocks",
   "event": "e4091",
   "by": "rules"
+ },
+ "a5def168f5f69470": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e5379",
+  "by": "rules"
  }
 }
