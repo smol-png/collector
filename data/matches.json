@@ -96859,5 +96859,34 @@
   "market": "Other",
   "event": "e5957",
   "by": "rules"
+ },
+ "099ba3fd0c32c579": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5958",
+  "by": "rules"
+ },
+ "1dfa247f453c881c": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5941",
+  "by": "rules"
+ },
+ "cc4d40525e2d548b": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5959",
+  "by": "rules"
  }
 }
