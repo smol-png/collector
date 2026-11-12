@@ -95744,5 +95744,41 @@
   "market": "Crypto",
   "event": "e5890",
   "by": "rules"
+ },
+ "63925ce0c6c690d7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5891",
+  "by": "rules"
+ },
+ "7eedd7f9acda82a9": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": 350000.0,
+  "market": "Other",
+  "event": "e5892",
+  "by": "rules"
+ },
+ "fe64753045f9d0dc": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5893",
+  "by": "rules"
+ },
+ "b0f013b7088042ca": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5894",
+  "by": "rules"
  }
 }
