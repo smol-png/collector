@@ -86754,5 +86754,68 @@
   "market": "Other",
   "event": "e5468",
   "by": "rules"
+ },
+ "30b8272f42889b87": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5469",
+  "by": "rules"
+ },
+ "1955313e92fa9da5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5470",
+  "by": "rules"
+ },
+ "b99489169b844b31": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL",
+   "META"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5471",
+  "by": "rules"
+ },
+ "976ab7a138b754e6": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5472",
+  "by": "rules"
+ },
+ "0981b5f0c9003453": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5473",
+  "by": "rules"
+ },
+ "8d89dbb335f34213": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5474",
+  "by": "rules"
  }
 }
