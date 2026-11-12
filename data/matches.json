@@ -96407,5 +96407,27 @@
   "market": "Other",
   "event": "e5931",
   "by": "rules"
+ },
+ "254a5eceac181178": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5932",
+  "by": "rules"
+ },
+ "1a7659f72219e1a0": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5933",
+  "by": "rules"
  }
 }
