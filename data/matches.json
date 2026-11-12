@@ -92962,5 +92962,49 @@
   "market": "Other",
   "event": "e5769",
   "by": "rules"
+ },
+ "2b5538e626105e2c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5756",
+  "by": "rules"
+ },
+ "2cb6ded0309a0c35": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4493",
+  "by": "rules"
+ },
+ "ca2a06700bc196bb": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4952",
+  "by": "rules"
+ },
+ "19d1bd864a69668e": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e5114",
+  "by": "rules"
  }
 }
