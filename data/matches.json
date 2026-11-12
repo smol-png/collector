@@ -85383,5 +85383,26 @@
   "market": "Other",
   "event": "e5396",
   "by": "rules"
+ },
+ "9e24df61ed001a7c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5397",
+  "by": "rules"
+ },
+ "e53a97abf3f811b3": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1201",
+  "by": "rules"
  }
 }
