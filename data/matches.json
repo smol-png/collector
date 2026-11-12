@@ -95384,5 +95384,32 @@
   "market": "Crypto",
   "event": "e5878",
   "by": "rules"
+ },
+ "d8bd7c0c5ece5c13": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5879",
+  "by": "rules"
+ },
+ "12be861603ea7274": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5880",
+  "by": "rules"
+ },
+ "76a0c3c6cdaa6504": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.2,
+  "market": "Other",
+  "event": "e5881",
+  "by": "rules"
  }
 }
