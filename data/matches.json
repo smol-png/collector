@@ -83854,5 +83854,17 @@
   "market": "Prediction markets",
   "event": "e5319",
   "by": "rules"
+ },
+ "0d3e392347bd4bc7": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4087",
+  "by": "rules"
  }
 }
