@@ -92615,5 +92615,45 @@
   "market": "AI",
   "event": "e5747",
   "by": "rules"
+ },
+ "25f1d2e75eb2a638": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5748",
+  "by": "rules"
+ },
+ "4ea842af30fbf897": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4885",
+  "by": "rules"
+ },
+ "d0456738c7a6ed27": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": 6300.0,
+  "market": "Crypto",
+  "event": "e5749",
+  "by": "rules"
+ },
+ "16c972058e881c66": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5750",
+  "by": "rules"
  }
 }
