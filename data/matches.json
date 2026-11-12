@@ -88936,5 +88936,26 @@
   "market": "Other",
   "event": "e3247",
   "by": "rules"
+ },
+ "5217dda88233f2f1": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "HYPE",
+   "NVDA"
+  ],
+  "usd_m": 9.35,
+  "market": "Crypto",
+  "event": "e5569",
+  "by": "rules"
+ },
+ "317a7726f270f810": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5570",
+  "by": "rules"
  }
 }
