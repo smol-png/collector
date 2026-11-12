@@ -91205,5 +91205,34 @@
   "market": "Crypto",
   "event": "e4536",
   "by": "rules"
+ },
+ "1449e9b0ccbe724a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5672",
+  "by": "rules"
+ },
+ "ce19f81eed7fa014": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5673",
+  "by": "rules"
+ },
+ "3bb070d99f28ff61": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5674",
+  "by": "rules"
  }
 }
