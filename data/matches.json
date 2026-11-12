@@ -90750,5 +90750,16 @@
   "market": "Other",
   "event": "e5499",
   "by": "rules"
+ },
+ "730f12e16b73ce3d": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5585",
+  "by": "rules"
  }
 }
