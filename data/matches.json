@@ -77843,5 +77843,115 @@
   "market": "Other",
   "event": "e4975",
   "by": "rules"
+ },
+ "27c74e376147242d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 6300.0,
+  "market": "Crypto",
+  "event": "e3774",
+  "by": "rules"
+ },
+ "30a1bcc9efff78f7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4976",
+  "by": "rules"
+ },
+ "d32775ba54bd1f2b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4976",
+  "by": "rules"
+ },
+ "d78b5b147a1857a0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4977",
+  "by": "rules"
+ },
+ "9f73cbaed1c3743e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4977",
+  "by": "rules"
+ },
+ "b1cf8014f2d61d27": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4978",
+  "by": "rules"
+ },
+ "9bd73aafd033856b": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4978",
+  "by": "rules"
+ },
+ "4d63a92743e07247": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.03,
+  "market": "Stocks",
+  "event": "e4979",
+  "by": "rules"
+ },
+ "0a6a184fa02f4c64": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.03,
+  "market": "Stocks",
+  "event": "e4979",
+  "by": "rules"
+ },
+ "e88a8202c89bfbcd": {
+  "type": "analysis",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4980",
+  "by": "rules"
+ },
+ "10891e3697f614d8": {
+  "type": "analysis",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4980",
+  "by": "rules"
+ },
+ "f37a5900bbc0cc95": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4981",
+  "by": "rules"
  }
 }
