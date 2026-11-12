@@ -95802,5 +95802,16 @@
   "market": "AI",
   "event": "e5896",
   "by": "rules"
+ },
+ "0340766a255c2403": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5897",
+  "by": "rules"
  }
 }
