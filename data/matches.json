@@ -79586,5 +79586,25 @@
   "market": "Other",
   "event": "e4936",
   "by": "rules"
+ },
+ "9a6344caf1196580": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5078",
+  "by": "rules"
+ },
+ "b87f6afbb86a6155": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5079",
+  "by": "rules"
  }
 }
