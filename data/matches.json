@@ -91545,5 +91545,54 @@
   "market": "Stocks",
   "event": "e4556",
   "by": "rules"
+ },
+ "74e34551826f30b1": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5689",
+  "by": "rules"
+ },
+ "8432cb332868b56f": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5690",
+  "by": "rules"
+ },
+ "a2b5b84a49685d7f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5691",
+  "by": "rules"
+ },
+ "66e420fd29ee5ebe": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5692",
+  "by": "rules"
+ },
+ "bb63aac53da4f037": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5693",
+  "by": "rules"
  }
 }
