@@ -92729,5 +92729,25 @@
   "market": "Crypto",
   "event": "e5562",
   "by": "rules"
+ },
+ "4bc335f391f43676": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4920",
+  "by": "rules"
+ },
+ "9a587a71ce37e20f": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5755",
+  "by": "rules"
  }
 }
