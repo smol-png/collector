@@ -86501,5 +86501,109 @@
   "market": "Stocks",
   "event": "e216",
   "by": "rules"
+ },
+ "e0b745c1469931a6": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1038",
+  "by": "rules"
+ },
+ "e6bfe64fb790c5c5": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1038",
+  "by": "rules"
+ },
+ "d26ea076680eb049": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1038",
+  "by": "rules"
+ },
+ "8f5ffc29e1398fe7": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1038",
+  "by": "rules"
+ },
+ "47154e08d56ef20d": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1038",
+  "by": "rules"
+ },
+ "f119678f54c4c8a3": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1038",
+  "by": "rules"
+ },
+ "b2f1359e55ba21bd": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1038",
+  "by": "rules"
+ },
+ "04f06c43fa00ce2c": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5423",
+  "by": "rules"
+ },
+ "7f884aeb54d809b6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5462",
+  "by": "rules"
+ },
+ "7ba95966e62e36e2": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": 600000.0,
+  "market": "Stocks",
+  "event": "e4845",
+  "by": "rules"
+ },
+ "a3c73d825ec05c78": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e4074",
+  "by": "rules"
  }
 }
