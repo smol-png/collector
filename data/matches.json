@@ -74644,5 +74644,32 @@
   "market": "Stocks",
   "event": "e4805",
   "by": "rules"
+ },
+ "d5b345e593bd46b1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4806",
+  "by": "rules"
+ },
+ "167f1c5c6cdaa2a3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4807",
+  "by": "rules"
+ },
+ "24a9a76b461f25d8": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4808",
+  "by": "rules"
  }
 }
