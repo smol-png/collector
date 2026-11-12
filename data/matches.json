@@ -86659,5 +86659,60 @@
   "market": "Crypto",
   "event": "e5464",
   "by": "rules"
+ },
+ "ec5a08854cca1c78": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5465",
+  "by": "rules"
+ },
+ "d513f198a039f9aa": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5465",
+  "by": "rules"
+ },
+ "33a401176d945bad": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4228",
+  "by": "rules"
+ },
+ "1e82aadbd9a700a0": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e219",
+  "by": "rules"
+ },
+ "2da7cae32347947c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5466",
+  "by": "rules"
  }
 }
