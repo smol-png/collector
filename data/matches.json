@@ -90149,5 +90149,32 @@
   "market": "Other",
   "event": "e5622",
   "by": "rules"
+ },
+ "b4f39f1cfba5d292": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5623",
+  "by": "rules"
+ },
+ "5b611905f79c87e5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5624",
+  "by": "rules"
+ },
+ "3c505389b68497e4": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e5625",
+  "by": "rules"
  }
 }
