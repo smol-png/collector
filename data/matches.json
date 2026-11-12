@@ -81402,5 +81402,17 @@
   "market": "AI",
   "event": "e5166",
   "by": "rules"
+ },
+ "ec894c87b9759ded": {
+  "type": "live",
+  "category": "AI",
+  "tickers": [
+   "MSTR",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5167",
+  "by": "rules"
  }
 }
