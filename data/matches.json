@@ -96438,5 +96438,74 @@
   "market": "Stocks",
   "event": "e4345",
   "by": "rules"
+ },
+ "a3650b5fb3f7f9aa": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1710",
+  "by": "rules"
+ },
+ "5c0db6beaee6fb78": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5934",
+  "by": "rules"
+ },
+ "541d1906a90757ac": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5935",
+  "by": "rules"
+ },
+ "29a23c1e9a584b7a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5936",
+  "by": "rules"
+ },
+ "dc9b19080b3d40c1": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5937",
+  "by": "rules"
+ },
+ "616b85ed7fb99847": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5938",
+  "by": "rules"
+ },
+ "dfd2df1b63c4488c": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5871",
+  "by": "rules"
  }
 }
