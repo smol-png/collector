@@ -82649,5 +82649,52 @@
   "market": "Other",
   "event": "e5240",
   "by": "rules"
+ },
+ "a3dae602262c3a5e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5100",
+  "by": "rules"
+ },
+ "cbc5a63d48c96063": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5241",
+  "by": "rules"
+ },
+ "8e6e0ae54744e264": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5242",
+  "by": "rules"
+ },
+ "e194b3add7bd5663": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5243",
+  "by": "rules"
+ },
+ "56f88f3c51561ccd": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5079",
+  "by": "rules"
  }
 }
