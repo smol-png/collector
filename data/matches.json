@@ -94334,5 +94334,23 @@
   "market": "Crypto",
   "event": "e5825",
   "by": "rules"
+ },
+ "9f793c022f2f76d6": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 1000.0,
+  "market": "Other",
+  "event": "e5826",
+  "by": "rules"
+ },
+ "90bdf43fc4fd961c": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e3120",
+  "by": "rules"
  }
 }
