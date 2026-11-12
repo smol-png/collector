@@ -82095,5 +82095,41 @@
   "market": "Crypto",
   "event": "e5193",
   "by": "rules"
+ },
+ "bf655bbf9bd033b7": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5205",
+  "by": "rules"
+ },
+ "74368252e6bdf374": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5206",
+  "by": "rules"
+ },
+ "5544e08e28d4e829": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 4000.0,
+  "market": "Other",
+  "event": "e5207",
+  "by": "rules"
+ },
+ "aabfada95942bc88": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5208",
+  "by": "rules"
  }
 }
