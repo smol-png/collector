@@ -83135,5 +83135,39 @@
   "market": "Macro",
   "event": "e5273",
   "by": "rules"
+ },
+ "0e56e801c92d2662": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1829",
+  "by": "rules"
+ },
+ "19d3bb9491264630": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e2637",
+  "by": "rules"
+ },
+ "36611b068aa727ea": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "TRX",
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5274",
+  "by": "rules"
  }
 }
