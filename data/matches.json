@@ -81088,5 +81088,23 @@
   "market": "Stocks",
   "event": "e219",
   "by": "rules"
+ },
+ "74fe9ff57b84ce13": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 70.0,
+  "market": "Stocks",
+  "event": "e5147",
+  "by": "rules"
+ },
+ "d1cbe164c3c98274": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5148",
+  "by": "rules"
  }
 }
