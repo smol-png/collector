@@ -97695,5 +97695,39 @@
   "market": "AI",
   "event": "e4716",
   "by": "rules"
+ },
+ "f76b609b2cfa72cc": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5035",
+  "by": "rules"
+ },
+ "6afbbf075ae23c36": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e219",
+  "by": "rules"
+ },
+ "7f2df2ec56850985": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6007",
+  "by": "rules"
  }
 }
