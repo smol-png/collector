@@ -95945,5 +95945,23 @@
   "market": "Other",
   "event": "e5906",
   "by": "rules"
+ },
+ "e7a73e56995e8d99": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4710",
+  "by": "rules"
+ },
+ "5a72ec45fd6ec0ca": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5907",
+  "by": "rules"
  }
 }
