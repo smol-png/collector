@@ -93987,5 +93987,47 @@
   "market": "Stocks",
   "event": "e5807",
   "by": "rules"
+ },
+ "eff6ab9dc0c44b85": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5808",
+  "by": "rules"
+ },
+ "a7beed7cbb085d9a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e875",
+  "by": "rules"
+ },
+ "a5652ce04a68b38b": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5809",
+  "by": "rules"
+ },
+ "b6adef64671ae063": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5810",
+  "by": "rules"
  }
 }
