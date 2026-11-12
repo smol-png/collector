@@ -91089,5 +91089,43 @@
   "market": "Other",
   "event": "e5663",
   "by": "rules"
+ },
+ "531a776b6ba0f3de": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5664",
+  "by": "rules"
+ },
+ "c91fbb1455b43412": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5665",
+  "by": "rules"
+ },
+ "703476b0747fa113": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e219",
+  "by": "rules"
+ },
+ "50e1ceddca9c54f3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5666",
+  "by": "rules"
  }
 }
