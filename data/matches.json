@@ -92682,5 +92682,52 @@
   "market": "Macro",
   "event": "e5752",
   "by": "rules"
+ },
+ "00a70ebe16c9fde9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2622",
+  "by": "rules"
+ },
+ "7a2e7babca0905d3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5753",
+  "by": "rules"
+ },
+ "8fc7c3e4cecb7aa1": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5754",
+  "by": "rules"
+ },
+ "4595939944b3a72e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e5007",
+  "by": "rules"
+ },
+ "8c4fa23679064a04": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5562",
+  "by": "rules"
  }
 }
