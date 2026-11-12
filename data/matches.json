@@ -83567,5 +83567,16 @@
   "market": "AI",
   "event": "e5300",
   "by": "rules"
+ },
+ "c75b009e871e2e09": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 1400.0,
+  "market": "Crypto",
+  "event": "e5301",
+  "by": "rules"
  }
 }
