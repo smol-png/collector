@@ -88189,5 +88189,43 @@
   "market": "AI",
   "event": "e5529",
   "by": "rules"
+ },
+ "8aeab02360498319": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e5060",
+  "by": "rules"
+ },
+ "de59a0f56f991071": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5530",
+  "by": "rules"
+ },
+ "fd48e1128ee3fa7c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5355",
+  "by": "rules"
+ },
+ "4dddaf3f17236029": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5531",
+  "by": "rules"
  }
 }
