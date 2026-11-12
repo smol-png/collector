@@ -89774,5 +89774,27 @@
   "market": "AI",
   "event": "e2700",
   "by": "rules"
+ },
+ "c33469c004de00f9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5606",
+  "by": "rules"
+ },
+ "078870eef5c2fd76": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5431",
+  "by": "rules"
  }
 }
