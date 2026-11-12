@@ -82497,5 +82497,108 @@
   "market": "Stocks",
   "event": "e5088",
   "by": "rules"
+ },
+ "d3b20eeb7ae941cd": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5234",
+  "by": "rules"
+ },
+ "00569642156784b3": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1038",
+  "by": "rules"
+ },
+ "7303a25659f83643": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": 1700.0,
+  "market": "Stocks",
+  "event": "e5187",
+  "by": "rules"
+ },
+ "65235e4ac2a19d4f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1219",
+  "by": "rules"
+ },
+ "e5aee3c82508a698": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1038",
+  "by": "rules"
+ },
+ "7e3db35b7ffe7856": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3804",
+  "by": "rules"
+ },
+ "2563db45446f0215": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1219",
+  "by": "rules"
+ },
+ "31d5127f0d6b5c8f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1038",
+  "by": "rules"
+ },
+ "3707b0850d067c63": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5235",
+  "by": "rules"
+ },
+ "83ba61eca909caaa": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5236",
+  "by": "rules"
+ },
+ "066fbfb899021c1f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4160",
+  "by": "rules"
  }
 }
