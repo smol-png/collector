@@ -76841,5 +76841,25 @@
   "market": "Other",
   "event": "e1926",
   "by": "rules"
+ },
+ "aaf8400f817243a4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3039",
+  "by": "rules"
+ },
+ "54b69fca4a5d8083": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4923",
+  "by": "rules"
  }
 }
