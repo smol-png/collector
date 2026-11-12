@@ -95154,5 +95154,25 @@
   "market": "Stocks",
   "event": "e5871",
   "by": "rules"
+ },
+ "a9b02cd1a38f57b9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5846",
+  "by": "rules"
+ },
+ "468dd51312275cb2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5872",
+  "by": "rules"
  }
 }
