@@ -82992,5 +82992,45 @@
   "market": "AI",
   "event": "e5261",
   "by": "rules"
+ },
+ "9ede1426eb1f33ac": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5262",
+  "by": "rules"
+ },
+ "884144d3aa4c4862": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5263",
+  "by": "rules"
+ },
+ "c24d13f4f73da3e7": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 25000.0,
+  "market": "Crypto",
+  "event": "e5264",
+  "by": "rules"
+ },
+ "3616a525a29839df": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5265",
+  "by": "rules"
  }
 }
