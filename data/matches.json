@@ -78548,5 +78548,26 @@
   "market": "AI",
   "event": "e5017",
   "by": "rules"
+ },
+ "40d3200d692bf79a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 500.0,
+  "market": "Other",
+  "event": "e5018",
+  "by": "rules"
+ },
+ "22458cf4c57a1995": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4809",
+  "by": "rules"
  }
 }
