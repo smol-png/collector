@@ -86125,5 +86125,16 @@
   "market": "Other",
   "event": "e5437",
   "by": "rules"
+ },
+ "499e6110993727dc": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5438",
+  "by": "rules"
  }
 }
