@@ -78695,5 +78695,16 @@
   "market": "Other",
   "event": "e5025",
   "by": "rules"
+ },
+ "35d588e0fb6ac9ed": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5026",
+  "by": "rules"
  }
 }
