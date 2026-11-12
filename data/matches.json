@@ -93068,5 +93068,25 @@
   "market": "Stocks",
   "event": "e4167",
   "by": "rules"
+ },
+ "7d65dd7a650d9285": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5771",
+  "by": "rules"
+ },
+ "ba13540eb377df67": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": 2200.0,
+  "market": "Crypto",
+  "event": "e5772",
+  "by": "rules"
  }
 }
