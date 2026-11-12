@@ -77041,5 +77041,117 @@
   "market": "Other",
   "event": "e4932",
   "by": "rules"
+ },
+ "51698524bc8622ec": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.26,
+  "market": "Stocks",
+  "event": "e4933",
+  "by": "rules"
+ },
+ "2f2bebb0bb48812e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1.36,
+  "market": "Stocks",
+  "event": "e3663",
+  "by": "rules"
+ },
+ "bf818ec376ff6761": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4879",
+  "by": "rules"
+ },
+ "5018c21bafdb979d": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4879",
+  "by": "rules"
+ },
+ "7cd19021e172c6b7": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4903",
+  "by": "rules"
+ },
+ "2cf24b034999f255": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4903",
+  "by": "rules"
+ },
+ "72534a61a8d97c0b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4816",
+  "by": "rules"
+ },
+ "aa706c35d0ccbdc1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.31,
+  "market": "Stocks",
+  "event": "e1931",
+  "by": "rules"
+ },
+ "5108605bdd93f69a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.04,
+  "market": "Stocks",
+  "event": "e1802",
+  "by": "rules"
+ },
+ "f3c1c37ff25f6b87": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.38,
+  "market": "Stocks",
+  "event": "e3538",
+  "by": "rules"
+ },
+ "ae37a87d3e8915ba": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 500.0,
+  "market": "Other",
+  "event": "e4934",
+  "by": "rules"
+ },
+ "38b502e309fde045": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1038",
+  "by": "rules"
  }
 }
