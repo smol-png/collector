@@ -92137,5 +92137,61 @@
   "market": "Other",
   "event": "e5721",
   "by": "rules"
+ },
+ "9547ad7047338e5e": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5722",
+  "by": "rules"
+ },
+ "77b824915d07666d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2622",
+  "by": "rules"
+ },
+ "0547df5b3fbc2cd5": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5723",
+  "by": "rules"
+ },
+ "cb8841a19d1a0d93": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1142",
+  "by": "rules"
+ },
+ "81ef3a741759746f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1142",
+  "by": "rules"
+ },
+ "7b8e42ec05dc9bd9": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ADA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5724",
+  "by": "rules"
  }
 }
