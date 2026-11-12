@@ -79559,5 +79559,23 @@
   "market": "Macro",
   "event": "e5076",
   "by": "rules"
+ },
+ "0f027953b1332829": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5077",
+  "by": "rules"
+ },
+ "7e91543d8c64428c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5074",
+  "by": "rules"
  }
 }
