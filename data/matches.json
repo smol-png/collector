@@ -87349,5 +87349,39 @@
   "market": "Other",
   "event": "e957",
   "by": "rules"
+ },
+ "4f4b6181841eecc9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
+ },
+ "42eff6e0a804c736": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC",
+   "NVDA"
+  ],
+  "usd_m": 0.07,
+  "market": "Crypto",
+  "event": "e219",
+  "by": "rules"
+ },
+ "f300fbecfae3be89": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5489",
+  "by": "rules"
  }
 }
