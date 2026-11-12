@@ -86636,5 +86636,28 @@
   "market": "AI",
   "event": "e219",
   "by": "rules"
+ },
+ "3c2d565a44ce6a89": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5463",
+  "by": "rules"
+ },
+ "642ff82d864252b8": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "TRX",
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5464",
+  "by": "rules"
  }
 }
