@@ -88957,5 +88957,27 @@
   "market": "AI",
   "event": "e5570",
   "by": "rules"
+ },
+ "d5c5b2df36c58ec5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "HYPE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5571",
+  "by": "rules"
+ },
+ "f285ce37513905b2": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2149",
+  "by": "rules"
  }
 }
