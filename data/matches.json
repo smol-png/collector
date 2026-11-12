@@ -79258,5 +79258,23 @@
   "market": "AI",
   "event": "e4364",
   "by": "rules"
+ },
+ "875aed8a5ccdd5f4": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e5060",
+  "by": "rules"
+ },
+ "e23521974721ca7e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5061",
+  "by": "rules"
  }
 }
