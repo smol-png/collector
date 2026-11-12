@@ -75659,5 +75659,88 @@
   "market": "Other",
   "event": "e4637",
   "by": "rules"
+ },
+ "3fcf9ee30b2a715f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1038",
+  "by": "rules"
+ },
+ "e8c5552e8f099260": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1040",
+  "by": "rules"
+ },
+ "17cbcd58b097f412": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4870",
+  "by": "rules"
+ },
+ "2054d7c62f5dfbb6": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4870",
+  "by": "rules"
+ },
+ "bff62bbba42342ab": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4782",
+  "by": "rules"
+ },
+ "ae690df5a84c6a81": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4782",
+  "by": "rules"
+ },
+ "716a9cc50b171e72": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": 0.01,
+  "market": "Stocks",
+  "event": "e4871",
+  "by": "rules"
+ },
+ "02e01abbd5269b96": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "HOOD"
+  ],
+  "usd_m": 1.27,
+  "market": "Stocks",
+  "event": "e3866",
+  "by": "rules"
+ },
+ "44f4a26e03f95e15": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1038",
+  "by": "rules"
  }
 }
