@@ -94448,5 +94448,36 @@
   "market": "Other",
   "event": "e5831",
   "by": "rules"
+ },
+ "3e9303e032fbcb3d": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5832",
+  "by": "rules"
+ },
+ "5026f97598148532": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5719",
+  "by": "rules"
+ },
+ "5d7545f0d5f4f004": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4973",
+  "by": "rules"
  }
 }
