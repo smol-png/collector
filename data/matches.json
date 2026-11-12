@@ -98510,5 +98510,16 @@
   "market": "Other",
   "event": "e6052",
   "by": "rules"
+ },
+ "5f86e01c929acb54": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6053",
+  "by": "rules"
  }
 }
