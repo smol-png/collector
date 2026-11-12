@@ -78282,5 +78282,34 @@
   "market": "AI",
   "event": "e5005",
   "by": "rules"
+ },
+ "e1366be0081ed424": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5006",
+  "by": "rules"
+ },
+ "8dc893a6bf3e544f": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5007",
+  "by": "rules"
+ },
+ "35bd003862683682": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5008",
+  "by": "rules"
  }
 }
