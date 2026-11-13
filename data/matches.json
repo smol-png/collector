@@ -117656,5 +117656,54 @@
   "market": "Crypto",
   "event": "e6465",
   "by": "rules"
+ },
+ "fa5406453f628c91": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6410",
+  "by": "rules"
+ },
+ "4e67bafc308c2218": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7056",
+  "by": "rules"
+ },
+ "2016c12a15495013": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7057",
+  "by": "rules"
+ },
+ "57d2a5ef7267f5aa": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e7058",
+  "by": "rules"
+ },
+ "00d14a52847ce7c9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "HOOD"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7059",
+  "by": "rules"
  }
 }
