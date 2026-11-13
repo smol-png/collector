@@ -103904,5 +103904,74 @@
   "market": "Crypto",
   "event": "e6315",
   "by": "rules"
+ },
+ "a64ac41d29f4a685": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6316",
+  "by": "rules"
+ },
+ "fdebfb56091d834e": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6317",
+  "by": "rules"
+ },
+ "3ce571dfde42a30d": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6318",
+  "by": "rules"
+ },
+ "4af88f4f7133df56": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e914",
+  "by": "rules"
+ },
+ "ae5a01efe17e07f3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6294",
+  "by": "rules"
+ },
+ "b6238d91439eaf6b": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6319",
+  "by": "rules"
+ },
+ "d5bcb20de14a4421": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6320",
+  "by": "rules"
  }
 }
