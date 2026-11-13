@@ -100842,5 +100842,81 @@
   "market": "Other",
   "event": "e6161",
   "by": "rules"
+ },
+ "560f324658e53a2b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1.24,
+  "market": "Stocks",
+  "event": "e4933",
+  "by": "rules"
+ },
+ "4867dd29a061f484": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 2.2,
+  "market": "Stocks",
+  "event": "e6162",
+  "by": "rules"
+ },
+ "1bc4165167563293": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 2.25,
+  "market": "Stocks",
+  "event": "e6162",
+  "by": "rules"
+ },
+ "2249fa2ae7ff59d4": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1846",
+  "by": "rules"
+ },
+ "1288e18e84658572": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Macro",
+  "event": "e3595",
+  "by": "rules"
+ },
+ "1effb63fec8f21a2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3608",
+  "by": "rules"
+ },
+ "942c4ba0653eda34": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6135",
+  "by": "rules"
+ },
+ "de25ccbc2059924a": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1829",
+  "by": "rules"
  }
 }
