@@ -109595,5 +109595,16 @@
   "market": "AI",
   "event": "e6611",
   "by": "rules"
+ },
+ "f6cafa043e462bec": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6612",
+  "by": "rules"
  }
 }
