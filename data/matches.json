@@ -119796,5 +119796,16 @@
   "market": "Other",
   "event": "e6900",
   "by": "rules"
+ },
+ "4af8baecc51b4927": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e7110",
+  "by": "rules"
  }
 }
