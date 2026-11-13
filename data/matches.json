@@ -119397,5 +119397,25 @@
   "market": "Other",
   "event": "e7146",
   "by": "rules"
+ },
+ "4b6ef94ca5d81a29": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7147",
+  "by": "rules"
+ },
+ "8d4a2f9ca346969d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e875",
+  "by": "rules"
  }
 }
