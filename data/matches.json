@@ -120044,5 +120044,34 @@
   "market": "AI",
   "event": "e6911",
   "by": "rules"
+ },
+ "75af9e5a952614fb": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5541",
+  "by": "rules"
+ },
+ "143b14947200a7d4": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6062",
+  "by": "rules"
+ },
+ "90490714a169d637": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3129",
+  "by": "rules"
  }
 }
