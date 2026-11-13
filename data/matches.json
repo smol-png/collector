@@ -118800,5 +118800,50 @@
   "market": "Other",
   "event": "e7115",
   "by": "rules"
+ },
+ "06474a17a02bf54e": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7008",
+  "by": "rules"
+ },
+ "fc0b6732b9173463": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e1115",
+  "by": "rules"
+ },
+ "68f662fc6d5f75b8": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.02,
+  "market": "Stocks",
+  "event": "e7116",
+  "by": "rules"
+ },
+ "bab729ebc1a3ac1e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7117",
+  "by": "rules"
+ },
+ "c6a2a17e421e3042": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7114",
+  "by": "rules"
  }
 }
