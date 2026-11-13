@@ -106337,5 +106337,36 @@
   "market": "Prediction markets",
   "event": "e6431",
   "by": "rules"
+ },
+ "8f9f6b7ce2b2d61c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6432",
+  "by": "rules"
+ },
+ "2e1656e961a31309": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6383",
+  "by": "rules"
+ },
+ "e66b1389bedbef8a": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e5114",
+  "by": "rules"
  }
 }
