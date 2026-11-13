@@ -109516,5 +109516,23 @@
   "market": "Stocks",
   "event": "e6608",
   "by": "rules"
+ },
+ "2dd2d9b802ec7851": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6609",
+  "by": "rules"
+ },
+ "24562b9e21f6c504": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6607",
+  "by": "rules"
  }
 }
