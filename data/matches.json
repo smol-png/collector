@@ -115394,5 +115394,43 @@
   "market": "Crypto",
   "event": "e6241",
   "by": "rules"
+ },
+ "2dd2a2d320c8f454": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6924",
+  "by": "rules"
+ },
+ "bb3ad2fa02396d13": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6925",
+  "by": "rules"
+ },
+ "4760381ca0539a9a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6926",
+  "by": "rules"
+ },
+ "4464d87a84204f58": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 1.0,
+  "market": "Crypto",
+  "event": "e6927",
+  "by": "rules"
  }
 }
