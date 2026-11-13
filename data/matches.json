@@ -100497,5 +100497,23 @@
   "market": "Stocks",
   "event": "e914",
   "by": "rules"
+ },
+ "f0c72a478507d0e3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6143",
+  "by": "rules"
+ },
+ "60b549f7bcf62fdc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 400000.0,
+  "market": "Stocks",
+  "event": "e6144",
+  "by": "rules"
  }
 }
