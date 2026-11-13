@@ -107333,5 +107333,23 @@
   "market": "AI",
   "event": "e5984",
   "by": "rules"
+ },
+ "8b0285ceea1ae99b": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6489",
+  "by": "rules"
+ },
+ "e5a5064b708b53b7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.15,
+  "market": "Crypto",
+  "event": "e5459",
+  "by": "rules"
  }
 }
