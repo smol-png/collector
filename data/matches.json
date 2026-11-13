@@ -107286,5 +107286,43 @@
   "market": "Macro",
   "event": "e6486",
   "by": "rules"
+ },
+ "3592708c63183907": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6487",
+  "by": "rules"
+ },
+ "f37c159da62c5413": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e914",
+  "by": "rules"
+ },
+ "62313d28d3d1a4dd": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e6486",
+  "by": "rules"
+ },
+ "2b027d58aae01b1b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6488",
+  "by": "rules"
  }
 }
