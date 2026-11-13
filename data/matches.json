@@ -103166,5 +103166,17 @@
   "market": "Crypto",
   "event": "e6271",
   "by": "rules"
+ },
+ "766f4fb0bfa1366d": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "BTC",
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e5871",
+  "by": "rules"
  }
 }
