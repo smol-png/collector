@@ -111072,5 +111072,27 @@
   "market": "Other",
   "event": "e6695",
   "by": "rules"
+ },
+ "a9ca263744c0dc3f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "GOOGL",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6651",
+  "by": "rules"
+ },
+ "e60554abbbdfec5f": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6696",
+  "by": "rules"
  }
 }
