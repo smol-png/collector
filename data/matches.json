@@ -113267,5 +113267,32 @@
   "market": "Macro",
   "event": "e6814",
   "by": "rules"
+ },
+ "1960a7d5e257de8c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6682",
+  "by": "rules"
+ },
+ "9b3a294c6dbcc420": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e6815",
+  "by": "rules"
+ },
+ "72499e131635c50d": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6816",
+  "by": "rules"
  }
 }
