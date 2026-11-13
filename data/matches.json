@@ -122121,5 +122121,16 @@
   "market": "Other",
   "event": "e7256",
   "by": "rules"
+ },
+ "26e75ebb356b7150": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7287",
+  "by": "rules"
  }
 }
