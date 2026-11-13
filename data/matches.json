@@ -113713,5 +113713,25 @@
   "market": "Other",
   "event": "e6835",
   "by": "rules"
+ },
+ "fdd83618a9f24180": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e6804",
+  "by": "rules"
+ },
+ "6cc1fce2e1b1d778": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6836",
+  "by": "rules"
  }
 }
