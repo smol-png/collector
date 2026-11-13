@@ -116881,5 +116881,43 @@
   "market": "Stocks",
   "event": "e6312",
   "by": "rules"
+ },
+ "283ecdf2cca7a6eb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6312",
+  "by": "rules"
+ },
+ "ff59a0c98d221b38": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4493",
+  "by": "rules"
+ },
+ "200386b84d1740c4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3129",
+  "by": "rules"
+ },
+ "2f223d8476cb3090": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7011",
+  "by": "rules"
  }
 }
