@@ -118668,5 +118668,36 @@
   "market": "Stocks",
   "event": "e7110",
   "by": "rules"
+ },
+ "2461e873a9cfd530": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7111",
+  "by": "rules"
+ },
+ "9f704a7474bd4ebf": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7110",
+  "by": "rules"
+ },
+ "3df638f1b6c8e97b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7112",
+  "by": "rules"
  }
 }
