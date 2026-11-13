@@ -103110,5 +103110,25 @@
   "market": "Other",
   "event": "e6266",
   "by": "rules"
+ },
+ "e4591fb1fe20df2b": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6267",
+  "by": "rules"
+ },
+ "106a44e647431286": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e5114",
+  "by": "rules"
  }
 }
