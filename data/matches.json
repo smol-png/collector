@@ -106765,5 +106765,35 @@
   "market": "Stocks",
   "event": "e5746",
   "by": "rules"
+ },
+ "008e326904775d34": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": 540.0,
+  "market": "Crypto",
+  "event": "e5646",
+  "by": "rules"
+ },
+ "69ec91a4a98ba62e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6458",
+  "by": "rules"
+ },
+ "9e558b44ccdd2586": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6459",
+  "by": "rules"
  }
 }
