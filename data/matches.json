@@ -106711,5 +106711,48 @@
   "market": "Other",
   "event": "e6454",
   "by": "rules"
+ },
+ "657b1d4466332b86": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6455",
+  "by": "rules"
+ },
+ "f5e9fa68657a96af": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6312",
+  "by": "rules"
+ },
+ "985123ab6c645099": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 1000.0,
+  "market": "Stocks",
+  "event": "e6456",
+  "by": "rules"
+ },
+ "f1dea1347caa4d5d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "MSFT",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6457",
+  "by": "rules"
  }
 }
