@@ -109201,5 +109201,36 @@
   "market": "Other",
   "event": "e6592",
   "by": "rules"
+ },
+ "fafb25f464dfd396": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6312",
+  "by": "rules"
+ },
+ "cebce2d404fccc1c": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 870.0,
+  "market": "Crypto",
+  "event": "e4308",
+  "by": "rules"
+ },
+ "c8e9ec27e91c4a56": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6593",
+  "by": "rules"
  }
 }
