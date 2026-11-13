@@ -109708,5 +109708,36 @@
   "market": "Crypto",
   "event": "e6617",
   "by": "rules"
+ },
+ "7a4449ad0f179177": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6618",
+  "by": "rules"
+ },
+ "a53d53f6c9c8b974": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6614",
+  "by": "rules"
+ },
+ "d1ac56edcb8d136e": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6618",
+  "by": "rules"
  }
 }
