@@ -107050,5 +107050,61 @@
   "market": "Other",
   "event": "e6476",
   "by": "rules"
+ },
+ "e645f809a79e087e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5566",
+  "by": "rules"
+ },
+ "f8d469fba4ed9c7a": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": 1200.0,
+  "market": "Crypto",
+  "event": "e6477",
+  "by": "rules"
+ },
+ "3688a67499113747": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e6478",
+  "by": "rules"
+ },
+ "8e6712e361696054": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6479",
+  "by": "rules"
+ },
+ "4347fc058eef729d": {
+  "type": "explainer",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6480",
+  "by": "rules"
+ },
+ "473483ccaa4e9636": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6481",
+  "by": "rules"
  }
 }
