@@ -106880,5 +106880,25 @@
   "market": "Prediction markets",
   "event": "e6467",
   "by": "rules"
+ },
+ "83a27db4a887b89f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6468",
+  "by": "rules"
+ },
+ "b8b84dfb777b77ee": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6469",
+  "by": "rules"
  }
 }
