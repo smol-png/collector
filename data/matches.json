@@ -120716,5 +120716,16 @@
   "market": "AI",
   "event": "e5356",
   "by": "rules"
+ },
+ "0d7a1830d0fc064a": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7208",
+  "by": "rules"
  }
 }
