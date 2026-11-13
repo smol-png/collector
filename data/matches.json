@@ -108328,5 +108328,16 @@
   "market": "Other",
   "event": "e6546",
   "by": "rules"
+ },
+ "2d190cb51432665d": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6547",
+  "by": "rules"
  }
 }
