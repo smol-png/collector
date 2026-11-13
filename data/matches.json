@@ -107911,5 +107911,23 @@
   "market": "Other",
   "event": "e6520",
   "by": "rules"
+ },
+ "10648667c2ec192c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6521",
+  "by": "rules"
+ },
+ "afae652e3fe71287": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": 1200.0,
+  "market": "Crypto",
+  "event": "e6522",
+  "by": "rules"
  }
 }
