@@ -104605,5 +104605,25 @@
   "market": "Stocks",
   "event": "e5871",
   "by": "rules"
+ },
+ "fbae3fc7f8ec3bc7": {
+  "type": "explainer",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5609",
+  "by": "rules"
+ },
+ "32694dfe05b86013": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6343",
+  "by": "rules"
  }
 }
