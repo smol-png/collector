@@ -113616,5 +113616,55 @@
   "market": "Crypto",
   "event": "e6827",
   "by": "rules"
+ },
+ "6020ec8bd85095c1": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6828",
+  "by": "rules"
+ },
+ "91877e3a1f805f2c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6829",
+  "by": "rules"
+ },
+ "19cc132ec95a58e0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6830",
+  "by": "rules"
+ },
+ "a892d06b211cde53": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "ETH",
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6831",
+  "by": "rules"
+ },
+ "a686c92c72529d74": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6832",
+  "by": "rules"
  }
 }
