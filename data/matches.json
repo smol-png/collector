@@ -112776,5 +112776,43 @@
   "market": "Crypto",
   "event": "e6793",
   "by": "rules"
+ },
+ "fb98ee7a6fe857b0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1276",
+  "by": "rules"
+ },
+ "0faf402494ea67b8": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4644",
+  "by": "rules"
+ },
+ "eb57da74b28da5b5": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": 37500.0,
+  "market": "Stocks",
+  "event": "e6794",
+  "by": "rules"
+ },
+ "6c91b321ffc04a24": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6795",
+  "by": "rules"
  }
 }
