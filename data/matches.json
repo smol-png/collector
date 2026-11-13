@@ -108339,5 +108339,54 @@
   "market": "Crypto",
   "event": "e6547",
   "by": "rules"
+ },
+ "cca6773055ffc78e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6548",
+  "by": "rules"
+ },
+ "5f1a2e942d1d0f54": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6549",
+  "by": "rules"
+ },
+ "b93e0ca956c363b1": {
+  "type": "live",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5914",
+  "by": "rules"
+ },
+ "f7799222ef3420b8": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6550",
+  "by": "rules"
+ },
+ "b2461d3d5dd52813": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6551",
+  "by": "rules"
  }
 }
