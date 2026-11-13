@@ -116275,5 +116275,34 @@
   "market": "AI",
   "event": "e6957",
   "by": "rules"
+ },
+ "f9fdaa6862961e50": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6979",
+  "by": "rules"
+ },
+ "d8761462bad00eea": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6469",
+  "by": "rules"
+ },
+ "2029d12f75a6224b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6608",
+  "by": "rules"
  }
 }
