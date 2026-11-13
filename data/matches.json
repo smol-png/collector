@@ -100428,5 +100428,16 @@
   "market": "Macro",
   "event": "e6139",
   "by": "rules"
+ },
+ "284e2caf2af98586": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4885",
+  "by": "rules"
  }
 }
