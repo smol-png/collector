@@ -103527,5 +103527,88 @@
   "market": "Crypto",
   "event": "e6296",
   "by": "rules"
+ },
+ "18fecaabbdc64f33": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3119",
+  "by": "rules"
+ },
+ "022a39fda514a96b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 8.4,
+  "market": "Stocks",
+  "event": "e6297",
+  "by": "rules"
+ },
+ "7730ca13a7694f1d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6298",
+  "by": "rules"
+ },
+ "dafbdf236eaba9fd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6298",
+  "by": "rules"
+ },
+ "cdc820601af0d52c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6299",
+  "by": "rules"
+ },
+ "17b6742a7807cbe7": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6299",
+  "by": "rules"
+ },
+ "364395760e8e3b01": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6300",
+  "by": "rules"
+ },
+ "92850e24b7ec6e57": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6294",
+  "by": "rules"
+ },
+ "f116011d5354d319": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e6295",
+  "by": "rules"
  }
 }
