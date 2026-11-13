@@ -118310,5 +118310,23 @@
   "market": "AI",
   "event": "e7089",
   "by": "rules"
+ },
+ "447d9bc7d5618951": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7090",
+  "by": "rules"
+ },
+ "613e0955e90dc3f9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 400.0,
+  "market": "Crypto",
+  "event": "e7091",
+  "by": "rules"
  }
 }
