@@ -108625,5 +108625,34 @@
   "market": "Prediction markets",
   "event": "e6431",
   "by": "rules"
+ },
+ "5e6253449c526e38": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6566",
+  "by": "rules"
+ },
+ "78a92144fa3b9d46": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6567",
+  "by": "rules"
+ },
+ "1f84a4a59943477d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.07,
+  "market": "Crypto",
+  "event": "e4308",
+  "by": "rules"
  }
 }
