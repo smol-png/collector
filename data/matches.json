@@ -102169,5 +102169,16 @@
   "market": "Other",
   "event": "e6216",
   "by": "rules"
+ },
+ "9f61760f6bbc8a2d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6217",
+  "by": "rules"
  }
 }
