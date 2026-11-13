@@ -110102,5 +110102,25 @@
   "market": "Other",
   "event": "e6640",
   "by": "rules"
+ },
+ "0cf673f781ce5135": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6008",
+  "by": "rules"
+ },
+ "136457e2e161f0bd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6641",
+  "by": "rules"
  }
 }
