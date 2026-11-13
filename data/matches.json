@@ -117950,5 +117950,25 @@
   "market": "Other",
   "event": "e7057",
   "by": "rules"
+ },
+ "816bed9b7ef53a24": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6708",
+  "by": "rules"
+ },
+ "3f06ee8ba9c7b3d4": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7071",
+  "by": "rules"
  }
 }
