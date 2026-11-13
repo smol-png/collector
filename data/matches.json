@@ -100557,5 +100557,17 @@
   "market": "Other",
   "event": "e6142",
   "by": "rules"
+ },
+ "179ff082b39a7632": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA",
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5871",
+  "by": "rules"
  }
 }
