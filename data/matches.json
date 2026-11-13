@@ -107380,5 +107380,25 @@
   "market": "Stocks",
   "event": "e6492",
   "by": "rules"
+ },
+ "6c107f95dc275896": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6493",
+  "by": "rules"
+ },
+ "3234b6e86cb95f34": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4074",
+  "by": "rules"
  }
 }
