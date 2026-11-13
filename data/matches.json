@@ -111014,5 +111014,27 @@
   "market": "AI",
   "event": "e1201",
   "by": "rules"
+ },
+ "55f38f15474abc8c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6249",
+  "by": "rules"
+ },
+ "7a4667411fe4dcd3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6693",
+  "by": "rules"
  }
 }
