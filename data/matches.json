@@ -100609,5 +100609,133 @@
   "market": "Crypto",
   "event": "e6149",
   "by": "rules"
+ },
+ "0e189f089e3d7070": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6150",
+  "by": "rules"
+ },
+ "f4a931cdcff8e753": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6151",
+  "by": "rules"
+ },
+ "d044f0a96a8ae86f": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6151",
+  "by": "rules"
+ },
+ "4b70f2fe2f27e3ec": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1038",
+  "by": "rules"
+ },
+ "c6d3574e364e7fa4": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1224",
+  "by": "rules"
+ },
+ "917324db75adc81c": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1224",
+  "by": "rules"
+ },
+ "b111b48ab9276ac2": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1148",
+  "by": "rules"
+ },
+ "9a28f08e376f73ef": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1148",
+  "by": "rules"
+ },
+ "8556229ea814556c": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.03,
+  "market": "Stocks",
+  "event": "e6152",
+  "by": "rules"
+ },
+ "61094afb15478185": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 3.01,
+  "market": "Stocks",
+  "event": "e6153",
+  "by": "rules"
+ },
+ "0ff7692a098b54bb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.61,
+  "market": "Stocks",
+  "event": "e6120",
+  "by": "rules"
+ },
+ "547fbf0f8731b981": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1219",
+  "by": "rules"
+ },
+ "30a3f2f7abe6c455": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3678",
+  "by": "rules"
+ },
+ "55f9d95ce8ac1b1d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6154",
+  "by": "rules"
  }
 }
