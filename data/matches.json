@@ -109334,5 +109334,25 @@
   "market": "Crypto",
   "event": "e6599",
   "by": "rules"
+ },
+ "f97dca2542745adc": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2640",
+  "by": "rules"
+ },
+ "10d22cbd8f8e3a17": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": 1200.0,
+  "market": "Crypto",
+  "event": "e6522",
+  "by": "rules"
  }
 }
