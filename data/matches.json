@@ -113569,5 +113569,34 @@
   "market": "AI",
   "event": "e6822",
   "by": "rules"
+ },
+ "c01c5f495c80c310": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6823",
+  "by": "rules"
+ },
+ "03cbb21e012b9e84": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6824",
+  "by": "rules"
+ },
+ "f596013391b8b7d5": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6825",
+  "by": "rules"
  }
 }
