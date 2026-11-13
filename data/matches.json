@@ -107929,5 +107929,25 @@
   "market": "Crypto",
   "event": "e6522",
   "by": "rules"
+ },
+ "fdc1f0a65124d594": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6523",
+  "by": "rules"
+ },
+ "6242999a6fe080a6": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2637",
+  "by": "rules"
  }
 }
