@@ -99806,5 +99806,16 @@
   "market": "Crypto",
   "event": "e5431",
   "by": "rules"
+ },
+ "a46d3de45b87a32b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4167",
+  "by": "rules"
  }
 }
