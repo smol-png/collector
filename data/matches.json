@@ -101936,5 +101936,23 @@
   "market": "Other",
   "event": "e6204",
   "by": "rules"
+ },
+ "b82c9ac961e07efb": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e6205",
+  "by": "rules"
+ },
+ "a570f2062e134f05": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6206",
+  "by": "rules"
  }
 }
