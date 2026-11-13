@@ -111844,5 +111844,35 @@
   "market": "Other",
   "event": "e6739",
   "by": "rules"
+ },
+ "fe5f2434ec6b0d08": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6740",
+  "by": "rules"
+ },
+ "83f1db9bcee42963": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e6725",
+  "by": "rules"
+ },
+ "03544592719a8f1e": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "MSFT",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6741",
+  "by": "rules"
  }
 }
