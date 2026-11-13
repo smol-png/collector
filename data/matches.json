@@ -114092,5 +114092,16 @@
   "market": "Stocks",
   "event": "e6857",
   "by": "rules"
+ },
+ "8376e80b00bf9207": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6312",
+  "by": "rules"
  }
 }
