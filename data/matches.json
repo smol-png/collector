@@ -112834,5 +112834,34 @@
   "market": "Macro",
   "event": "e6797",
   "by": "rules"
+ },
+ "282e2830e6b4165a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6798",
+  "by": "rules"
+ },
+ "8490026ef946ac22": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6799",
+  "by": "rules"
+ },
+ "956805b5a61a726a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6800",
+  "by": "rules"
  }
 }
