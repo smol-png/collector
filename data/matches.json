@@ -117870,5 +117870,27 @@
   "market": "AI",
   "event": "e7065",
   "by": "rules"
+ },
+ "27f5247346f8b2cc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7066",
+  "by": "rules"
+ },
+ "6c78afed1825c5b1": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7067",
+  "by": "rules"
  }
 }
