@@ -110732,5 +110732,52 @@
   "market": "Stocks",
   "event": "e6673",
   "by": "rules"
+ },
+ "237c1475d64a7c73": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6675",
+  "by": "rules"
+ },
+ "4ed1219b0612c164": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6676",
+  "by": "rules"
+ },
+ "a86f8c592127d810": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e6677",
+  "by": "rules"
+ },
+ "84ea4ca4c0660a4b": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6678",
+  "by": "rules"
+ },
+ "4f5d929febdad3f8": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 3500.0,
+  "market": "Other",
+  "event": "e6679",
+  "by": "rules"
  }
 }
