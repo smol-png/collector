@@ -112903,5 +112903,32 @@
   "market": "Other",
   "event": "e6802",
   "by": "rules"
+ },
+ "02687954eaf93e93": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6803",
+  "by": "rules"
+ },
+ "abf35ef97ce9e280": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e6804",
+  "by": "rules"
+ },
+ "e55ba05081848baa": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6051",
+  "by": "rules"
  }
 }
