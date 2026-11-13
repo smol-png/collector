@@ -105752,5 +105752,28 @@
   "market": "Macro",
   "event": "e6399",
   "by": "rules"
+ },
+ "ca85a086b6aa79ef": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "MSFT",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6312",
+  "by": "rules"
+ },
+ "784891ec67431f35": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6400",
+  "by": "rules"
  }
 }
