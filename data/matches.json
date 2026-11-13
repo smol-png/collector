@@ -103710,5 +103710,115 @@
   "market": "Crypto",
   "event": "e6307",
   "by": "rules"
+ },
+ "44accbb90a70e537": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": 1.0,
+  "market": "Stocks",
+  "event": "e6087",
+  "by": "rules"
+ },
+ "ddece6f2fb6c7256": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 8.7,
+  "market": "Stocks",
+  "event": "e3582",
+  "by": "rules"
+ },
+ "1516ced61fb3873f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1035",
+  "by": "rules"
+ },
+ "337be6539e150395": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1035",
+  "by": "rules"
+ },
+ "82e9c572c73f976f": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6241",
+  "by": "rules"
+ },
+ "11aea2338a13a312": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.03,
+  "market": "Stocks",
+  "event": "e6308",
+  "by": "rules"
+ },
+ "0ff799cc82337dd4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1.44,
+  "market": "Stocks",
+  "event": "e1802",
+  "by": "rules"
+ },
+ "c29e74ab8872ca67": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.55,
+  "market": "Stocks",
+  "event": "e1801",
+  "by": "rules"
+ },
+ "01d09519e93d851e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 8.5,
+  "market": "Stocks",
+  "event": "e6102",
+  "by": "rules"
+ },
+ "d554cf1316d427fe": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6309",
+  "by": "rules"
+ },
+ "77d0d9841979c22c": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6309",
+  "by": "rules"
+ },
+ "182b86288f9e4858": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e2194",
+  "by": "rules"
  }
 }
