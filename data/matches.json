@@ -119285,5 +119285,41 @@
   "market": "AI",
   "event": "e7139",
   "by": "rules"
+ },
+ "50a199bd679f41e9": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e7140",
+  "by": "rules"
+ },
+ "2f3de55fe39c0895": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6816",
+  "by": "rules"
+ },
+ "bbc18c35264ab7af": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e7070",
+  "by": "rules"
+ },
+ "b84a4b12f4dfbb84": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7141",
+  "by": "rules"
  }
 }
