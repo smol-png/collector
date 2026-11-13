@@ -115179,5 +115179,133 @@
   "market": "AI",
   "event": "e6911",
   "by": "rules"
+ },
+ "08ee9af3a6f661be": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6912",
+  "by": "rules"
+ },
+ "9aadc519f325b0e6": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1038",
+  "by": "rules"
+ },
+ "d7c28d86cbd8035a": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6913",
+  "by": "rules"
+ },
+ "6dede8711073deff": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6913",
+  "by": "rules"
+ },
+ "57b9a632eb14b05a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1038",
+  "by": "rules"
+ },
+ "339c74553993b8dc": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e6804",
+  "by": "rules"
+ },
+ "ed912e27abede4c3": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e6804",
+  "by": "rules"
+ },
+ "6ec9394f4be3acc5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1035",
+  "by": "rules"
+ },
+ "f5011055c9815a54": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1035",
+  "by": "rules"
+ },
+ "9be9e4de7c5413be": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6810",
+  "by": "rules"
+ },
+ "929e8e7eb631b76f": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6810",
+  "by": "rules"
+ },
+ "324eb13f46b29a3d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6914",
+  "by": "rules"
+ },
+ "2e789872bbe9c5d4": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6914",
+  "by": "rules"
+ },
+ "f8569743f58a9f73": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 1090.0,
+  "market": "Crypto",
+  "event": "e6915",
+  "by": "rules"
  }
 }
