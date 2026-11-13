@@ -100963,5 +100963,25 @@
   "market": "Other",
   "event": "e6165",
   "by": "rules"
+ },
+ "6301910d79262f33": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e6114",
+  "by": "rules"
+ },
+ "294dee0f6f367237": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5807",
+  "by": "rules"
  }
 }
