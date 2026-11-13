@@ -104583,5 +104583,27 @@
   "market": "AI",
   "event": "e6229",
   "by": "rules"
+ },
+ "4e6f5743dd652bf7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6342",
+  "by": "rules"
+ },
+ "93d4d2f400ce24eb": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5871",
+  "by": "rules"
  }
 }
