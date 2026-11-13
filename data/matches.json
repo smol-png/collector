@@ -115569,5 +115569,34 @@
   "market": "Other",
   "event": "e6939",
   "by": "rules"
+ },
+ "0db98bb762239656": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6940",
+  "by": "rules"
+ },
+ "992f2f663abf07bf": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6941",
+  "by": "rules"
+ },
+ "d0cd0adb34f57fe5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6942",
+  "by": "rules"
  }
 }
