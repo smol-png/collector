@@ -102945,5 +102945,53 @@
   "market": "Other",
   "event": "e5223",
   "by": "rules"
+ },
+ "30ee1c96b1c38be8": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4764",
+  "by": "rules"
+ },
+ "4f39796f369f32c8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6258",
+  "by": "rules"
+ },
+ "d9889aae7956154b": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6259",
+  "by": "rules"
+ },
+ "3c629310b92bd8ba": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6260",
+  "by": "rules"
+ },
+ "3008fd0f17cac120": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6261",
+  "by": "rules"
  }
 }
