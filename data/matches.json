@@ -104005,5 +104005,99 @@
   "market": "Crypto",
   "event": "e5542",
   "by": "rules"
+ },
+ "342535fec5e54955": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1200.0,
+  "market": "Other",
+  "event": "e6322",
+  "by": "rules"
+ },
+ "8dc6f4b74373e269": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2149",
+  "by": "rules"
+ },
+ "02da81a7ce979d0c": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2149",
+  "by": "rules"
+ },
+ "51481d6ab49502d4": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e1115",
+  "by": "rules"
+ },
+ "050087f97e516bec": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.38,
+  "market": "Stocks",
+  "event": "e6323",
+  "by": "rules"
+ },
+ "7b4ee0a273fa75d1": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e1197",
+  "by": "rules"
+ },
+ "89bac7458cb299e9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1059",
+  "by": "rules"
+ },
+ "b12a5dec2b189586": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6324",
+  "by": "rules"
+ },
+ "e4757ca14f446d68": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e1115",
+  "by": "rules"
+ },
+ "7fc2e8d7ca4372eb": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e1115",
+  "by": "rules"
  }
 }
