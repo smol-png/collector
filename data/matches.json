@@ -110529,5 +110529,54 @@
   "market": "Stocks",
   "event": "e5807",
   "by": "rules"
+ },
+ "fb6ee1a7b32f1ac7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6312",
+  "by": "rules"
+ },
+ "bb1033e6f9a7d289": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
+ },
+ "c9040cf673581bcd": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4644",
+  "by": "rules"
+ },
+ "18e1d1d09d5b764b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6663",
+  "by": "rules"
+ },
+ "e1eed3ffa41cbbf9": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6664",
+  "by": "rules"
  }
 }
