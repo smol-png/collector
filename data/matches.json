@@ -111443,5 +111443,25 @@
   "market": "Crypto",
   "event": "e6719",
   "by": "rules"
+ },
+ "68cf629cdcab0f51": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ADA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6720",
+  "by": "rules"
+ },
+ "2e52683fd4456054": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6714",
+  "by": "rules"
  }
 }
