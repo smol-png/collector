@@ -102767,5 +102767,107 @@
   "market": "Other",
   "event": "e6250",
   "by": "rules"
+ },
+ "78deaf17cbcba910": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e1115",
+  "by": "rules"
+ },
+ "986694a0316db792": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1197",
+  "by": "rules"
+ },
+ "a62711540150f176": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1115",
+  "by": "rules"
+ },
+ "49efc7686f7ce6f8": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 34.0,
+  "market": "Stocks",
+  "event": "e6224",
+  "by": "rules"
+ },
+ "2a0486b0a1aa7208": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 5.1,
+  "market": "Stocks",
+  "event": "e6251",
+  "by": "rules"
+ },
+ "9567235ce60bd559": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 5.0,
+  "market": "Stocks",
+  "event": "e4862",
+  "by": "rules"
+ },
+ "2194f033b55f1130": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.31,
+  "market": "Stocks",
+  "event": "e6252",
+  "by": "rules"
+ },
+ "9b915f753f658441": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "AI",
+  "event": "e1115",
+  "by": "rules"
+ },
+ "5573ab432e62af35": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e1115",
+  "by": "rules"
+ },
+ "fcfd2968e5eb268b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e1115",
+  "by": "rules"
+ },
+ "e522b5dc0d8ac579": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA",
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5871",
+  "by": "rules"
  }
 }
