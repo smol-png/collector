@@ -117923,5 +117923,32 @@
   "market": "Stocks",
   "event": "e6616",
   "by": "rules"
+ },
+ "101766ddd32e51b3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5846",
+  "by": "rules"
+ },
+ "16967ac90b808cf0": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e7070",
+  "by": "rules"
+ },
+ "ab99932ddc4ecf48": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7057",
+  "by": "rules"
  }
 }
