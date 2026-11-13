@@ -101718,5 +101718,117 @@
   "market": "Other",
   "event": "e6054",
   "by": "rules"
+ },
+ "07acc587066cf80c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e6195",
+  "by": "rules"
+ },
+ "99438c6960ff447a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
+ },
+ "1186f11b6c3af4a5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": 0.99,
+  "market": "Stocks",
+  "event": "e6196",
+  "by": "rules"
+ },
+ "8bb378c2a8ef88d5": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.07,
+  "market": "Crypto",
+  "event": "e6197",
+  "by": "rules"
+ },
+ "8856e73c471aec67": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 2000.0,
+  "market": "Stocks",
+  "event": "e5504",
+  "by": "rules"
+ },
+ "016f83a4966fe7fc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e6198",
+  "by": "rules"
+ },
+ "292e6fe75d165e8d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e6198",
+  "by": "rules"
+ },
+ "31a72e9737736e5b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6199",
+  "by": "rules"
+ },
+ "a027654a24a28f56": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6199",
+  "by": "rules"
+ },
+ "f8ca59e5d7d38b0d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.17,
+  "market": "Stocks",
+  "event": "e1463",
+  "by": "rules"
+ },
+ "b9dc1b3eaea196a0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1.07,
+  "market": "Stocks",
+  "event": "e6200",
+  "by": "rules"
+ },
+ "77e4827a4cf14f31": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1.5,
+  "market": "Stocks",
+  "event": "e6201",
+  "by": "rules"
  }
 }
