@@ -103083,5 +103083,23 @@
   "market": "Crypto",
   "event": "e6099",
   "by": "rules"
+ },
+ "57ee17f370469de6": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 35000.0,
+  "market": "Stocks",
+  "event": "e6249",
+  "by": "rules"
+ },
+ "385932857c44b20c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6265",
+  "by": "rules"
  }
 }
