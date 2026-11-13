@@ -109574,5 +109574,26 @@
   "market": "AI",
   "event": "e6610",
   "by": "rules"
+ },
+ "1bddccf55d0b81ae": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "MSFT",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5329",
+  "by": "rules"
+ },
+ "5ee0a8582620c6dd": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6611",
+  "by": "rules"
  }
 }
