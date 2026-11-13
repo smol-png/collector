@@ -110264,5 +110264,51 @@
   "market": "AI",
   "event": "e6649",
   "by": "rules"
+ },
+ "e74d231510d796f1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6312",
+  "by": "rules"
+ },
+ "802425af198edab2": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "GOOGL",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6651",
+  "by": "rules"
+ },
+ "e4a9d30c76a68a99": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6652",
+  "by": "rules"
+ },
+ "7da491a152392872": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6653",
+  "by": "rules"
  }
 }
