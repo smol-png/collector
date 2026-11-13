@@ -110817,5 +110817,106 @@
   "market": "Crypto",
   "event": "e5171",
   "by": "rules"
+ },
+ "fae74f34e2f05c44": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e6576",
+  "by": "rules"
+ },
+ "35ee3a52dc72c52d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6435",
+  "by": "rules"
+ },
+ "de9121b73cc29299": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e6683",
+  "by": "rules"
+ },
+ "fca544a758c8e626": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6684",
+  "by": "rules"
+ },
+ "5c6c4f00aa16ced8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3608",
+  "by": "rules"
+ },
+ "df9fef661c7434e7": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1197",
+  "by": "rules"
+ },
+ "8c5a2f8532c97856": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6685",
+  "by": "rules"
+ },
+ "4ec2a0b0208b965c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1219",
+  "by": "rules"
+ },
+ "a52a3f7b2b2b7f1b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6686",
+  "by": "rules"
+ },
+ "b1ea4661c11055bc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6687",
+  "by": "rules"
+ },
+ "f2ef8e87b96a26f4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6687",
+  "by": "rules"
  }
 }
