@@ -108672,5 +108672,36 @@
   "market": "Other",
   "event": "e6363",
   "by": "rules"
+ },
+ "68ad0f1a8ca1c093": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6457",
+  "by": "rules"
+ },
+ "5443371cbeca810a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.07,
+  "market": "Crypto",
+  "event": "e4074",
+  "by": "rules"
+ },
+ "6b1c230fa2dc3c5a": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6569",
+  "by": "rules"
  }
 }
