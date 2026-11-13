@@ -99918,5 +99918,45 @@
   "market": "Macro",
   "event": "e6109",
   "by": "rules"
+ },
+ "ed2f68d5f7dd2e02": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e6059",
+  "by": "rules"
+ },
+ "b8901fe31d298865": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6065",
+  "by": "rules"
+ },
+ "923467cf44cc805c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6090",
+  "by": "rules"
+ },
+ "99585b5378f34545": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4733",
+  "by": "rules"
  }
 }
