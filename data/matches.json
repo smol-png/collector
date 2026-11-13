@@ -117081,5 +117081,34 @@
   "market": "Other",
   "event": "e7018",
   "by": "rules"
+ },
+ "49925a464b9cb076": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5390",
+  "by": "rules"
+ },
+ "5a62555e5b735543": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6823",
+  "by": "rules"
+ },
+ "7a51739b0c4e7fa6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7019",
+  "by": "rules"
  }
 }
