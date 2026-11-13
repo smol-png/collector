@@ -116841,5 +116841,25 @@
   "market": "Other",
   "event": "e7008",
   "by": "rules"
+ },
+ "19e88e2ec9f440c2": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7009",
+  "by": "rules"
+ },
+ "91a72e7eb6ff6234": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7010",
+  "by": "rules"
  }
 }
