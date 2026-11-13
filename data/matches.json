@@ -101388,5 +101388,35 @@
   "market": "AI",
   "event": "e6186",
   "by": "rules"
+ },
+ "183894b6dc8b9a4e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4734",
+  "by": "rules"
+ },
+ "090ad38def1993b8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e236",
+  "by": "rules"
+ },
+ "8be0a5c617ed1155": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA",
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5871",
+  "by": "rules"
  }
 }
