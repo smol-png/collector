@@ -100244,5 +100244,25 @@
   "market": "Stocks",
   "event": "e6129",
   "by": "rules"
+ },
+ "8a074ecf554bc3bb": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6130",
+  "by": "rules"
+ },
+ "436dffe3dab836e5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAVE"
+  ],
+  "usd_m": 0.3,
+  "market": "Crypto",
+  "event": "e6131",
+  "by": "rules"
  }
 }
