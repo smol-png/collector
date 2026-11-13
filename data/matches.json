@@ -107351,5 +107351,34 @@
   "market": "Crypto",
   "event": "e5459",
   "by": "rules"
+ },
+ "61e0f225b2d81c02": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6490",
+  "by": "rules"
+ },
+ "a8a42e5bac4a7d0a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6491",
+  "by": "rules"
+ },
+ "2bd1bde89d798ff5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6492",
+  "by": "rules"
  }
 }
