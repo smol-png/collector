@@ -104128,5 +104128,45 @@
   "market": "AI",
   "event": "e6327",
   "by": "rules"
+ },
+ "6227a55ed33bf311": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e5788",
+  "by": "rules"
+ },
+ "b7b0fe1fce404453": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
+ },
+ "3b5d2b4757a6fe52": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6328",
+  "by": "rules"
+ },
+ "16e27d67e9aa6987": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5339",
+  "by": "rules"
  }
 }
