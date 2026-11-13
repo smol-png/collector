@@ -116716,5 +116716,25 @@
   "market": "Other",
   "event": "e6999",
   "by": "rules"
+ },
+ "d9f8bcac9d6c4d0e": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7000",
+  "by": "rules"
+ },
+ "a2b7b66160c20b59": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6584",
+  "by": "rules"
  }
 }
