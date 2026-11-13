@@ -111094,5 +111094,34 @@
   "market": "Crypto",
   "event": "e6696",
   "by": "rules"
+ },
+ "fc9d259ff99c1330": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6697",
+  "by": "rules"
+ },
+ "312e51061f7a656e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6698",
+  "by": "rules"
+ },
+ "4dfb370e71b63f10": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e4973",
+  "by": "rules"
  }
 }
