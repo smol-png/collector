@@ -108885,5 +108885,26 @@
   "market": "Other",
   "event": "e6576",
   "by": "rules"
+ },
+ "d179c9699d27904c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "MSFT",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5807",
+  "by": "rules"
+ },
+ "1c556df6b49d12cb": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6577",
+  "by": "rules"
  }
 }
