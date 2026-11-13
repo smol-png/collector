@@ -110026,5 +110026,45 @@
   "market": "Other",
   "event": "e6633",
   "by": "rules"
+ },
+ "336c2c800e9531fe": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": 4000000.0,
+  "market": "AI",
+  "event": "e5532",
+  "by": "rules"
+ },
+ "102a9ebb12ed3417": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6634",
+  "by": "rules"
+ },
+ "d7e7689dec06192f": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6635",
+  "by": "rules"
+ },
+ "0b471ab23978ead1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6636",
+  "by": "rules"
  }
 }
