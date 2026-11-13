@@ -106831,5 +106831,54 @@
   "market": "Other",
   "event": "e6463",
   "by": "rules"
+ },
+ "f7a453961357a622": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6464",
+  "by": "rules"
+ },
+ "76cda2b7dc2cf7a2": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": 1400000.0,
+  "market": "AI",
+  "event": "e5645",
+  "by": "rules"
+ },
+ "7a5375461e60f157": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.41,
+  "market": "AI",
+  "event": "e6465",
+  "by": "rules"
+ },
+ "78aec295e969b8d6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6466",
+  "by": "rules"
+ },
+ "41e9df610a7d0f44": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e6467",
+  "by": "rules"
  }
 }
