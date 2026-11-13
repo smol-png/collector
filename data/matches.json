@@ -117352,5 +117352,65 @@
   "market": "Other",
   "event": "e7038",
   "by": "rules"
+ },
+ "1a79058e4d16b747": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7039",
+  "by": "rules"
+ },
+ "29b88bb47598791e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7040",
+  "by": "rules"
+ },
+ "25ec2a5c3a1cecd3": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 170.0,
+  "market": "Crypto",
+  "event": "e7041",
+  "by": "rules"
+ },
+ "b05b8908d037f87a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7042",
+  "by": "rules"
+ },
+ "2747bc503dee047c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAVE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7043",
+  "by": "rules"
+ },
+ "efc6af5b1ad346b8": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7044",
+  "by": "rules"
  }
 }
