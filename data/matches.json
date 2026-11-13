@@ -118916,5 +118916,25 @@
   "market": "AI",
   "event": "e7122",
   "by": "rules"
+ },
+ "caa42fa047515f7c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
+ },
+ "0beb2a2fe85cb46b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7123",
+  "by": "rules"
  }
 }
