@@ -104625,5 +104625,16 @@
   "market": "Other",
   "event": "e6343",
   "by": "rules"
+ },
+ "003673dbba37910b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1023",
+  "by": "rules"
  }
 }
