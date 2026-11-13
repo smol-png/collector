@@ -121158,5 +121158,28 @@
   "market": "AI",
   "event": "e4734",
   "by": "rules"
+ },
+ "caf7340164a8a5c6": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7235",
+  "by": "rules"
+ },
+ "6c22ebd3e9228c60": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "MSFT",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e2640",
+  "by": "rules"
  }
 }
