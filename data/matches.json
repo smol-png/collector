@@ -114600,5 +114600,45 @@
   "market": "Stocks",
   "event": "e6881",
   "by": "rules"
+ },
+ "9b717e2a68ec0322": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5448",
+  "by": "rules"
+ },
+ "8ed72cb2796e5170": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5448",
+  "by": "rules"
+ },
+ "62e8b2f64a6a6d0c": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e6725",
+  "by": "rules"
+ },
+ "7e1f0cff6f589718": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6882",
+  "by": "rules"
  }
 }
