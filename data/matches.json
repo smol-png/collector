@@ -111903,5 +111903,35 @@
   "market": "Crypto",
   "event": "e6744",
   "by": "rules"
+ },
+ "e095487404e30c7b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "MSFT",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6745",
+  "by": "rules"
+ },
+ "dfed6a1be7743c25": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6746",
+  "by": "rules"
+ },
+ "82a8b1a01614ffdc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6747",
+  "by": "rules"
  }
 }
