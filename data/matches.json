@@ -109810,5 +109810,17 @@
   "market": "Stocks",
   "event": "e6620",
   "by": "rules"
+ },
+ "1d1b3f08184f71f1": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "MSFT",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e1177",
+  "by": "rules"
  }
 }
