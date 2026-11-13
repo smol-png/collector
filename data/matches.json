@@ -121536,5 +121536,90 @@
   "market": "Other",
   "event": "e7170",
   "by": "rules"
+ },
+ "665d03fd26b9863f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 800.0,
+  "market": "Other",
+  "event": "e7252",
+  "by": "rules"
+ },
+ "98e563d665da12b5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6806",
+  "by": "rules"
+ },
+ "b2e3dfa897864d0b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6806",
+  "by": "rules"
+ },
+ "d33d34f595347b3a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6013",
+  "by": "rules"
+ },
+ "db37af732d9dd38e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7253",
+  "by": "rules"
+ },
+ "7807d9c0253caaf1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.47,
+  "market": "Stocks",
+  "event": "e1931",
+  "by": "rules"
+ },
+ "3995f2dfb454c90b": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7254",
+  "by": "rules"
+ },
+ "ac932fd7478e9cb8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7255",
+  "by": "rules"
+ },
+ "2bc618847ae7d7b8": {
+  "type": "analysis",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4734",
+  "by": "rules"
  }
 }
