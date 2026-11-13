@@ -115327,5 +115327,41 @@
   "market": "Crypto",
   "event": "e6917",
   "by": "rules"
+ },
+ "585684ca83a3234f": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e6918",
+  "by": "rules"
+ },
+ "3889a3bb490047ff": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6919",
+  "by": "rules"
+ },
+ "383d66bc9e3ba0f2": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6920",
+  "by": "rules"
+ },
+ "4cd3cda5cc35d516": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6921",
+  "by": "rules"
  }
 }
