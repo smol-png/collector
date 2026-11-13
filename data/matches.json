@@ -121630,5 +121630,16 @@
   "market": "Other",
   "event": "e7256",
   "by": "rules"
+ },
+ "490f218d2e31678c": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7257",
+  "by": "rules"
  }
 }
