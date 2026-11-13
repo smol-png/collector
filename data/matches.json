@@ -107647,5 +107647,16 @@
   "market": "Stocks",
   "event": "e6507",
   "by": "rules"
+ },
+ "d84f470e352f1355": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6508",
+  "by": "rules"
  }
 }
