@@ -104636,5 +104636,28 @@
   "market": "AI",
   "event": "e1023",
   "by": "rules"
+ },
+ "fb589b2b768e357e": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "AAVE",
+   "ETH"
+  ],
+  "usd_m": 64.0,
+  "market": "Crypto",
+  "event": "e6344",
+  "by": "rules"
+ },
+ "68a79890486eec36": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e5756",
+  "by": "rules"
  }
 }
