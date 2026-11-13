@@ -121419,5 +121419,23 @@
   "market": "AI",
   "event": "e6438",
   "by": "rules"
+ },
+ "5cb179434ae970e7": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6596",
+  "by": "rules"
+ },
+ "e9cc2dc9d39a1b64": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7249",
+  "by": "rules"
  }
 }
