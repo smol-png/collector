@@ -110196,5 +110196,37 @@
   "market": "Other",
   "event": "e6008",
   "by": "rules"
+ },
+ "d8dcbab3476f6a55": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "MSFT",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6356",
+  "by": "rules"
+ },
+ "26d3e1f15dc7beaa": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6647",
+  "by": "rules"
+ },
+ "c8ca77dbcf5df7f9": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6648",
+  "by": "rules"
  }
 }
