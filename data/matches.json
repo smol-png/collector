@@ -118289,5 +118289,26 @@
   "market": "Other",
   "event": "e6958",
   "by": "rules"
+ },
+ "f82e9fd576ea5675": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 5.0,
+  "market": "Crypto",
+  "event": "e6617",
+  "by": "rules"
+ },
+ "38865139ae64bcfe": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "MSTR",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7089",
+  "by": "rules"
  }
 }
