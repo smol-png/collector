@@ -101517,5 +101517,121 @@
   "market": "Other",
   "event": "e6189",
   "by": "rules"
+ },
+ "2804156c8dcab1e0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1358",
+  "by": "rules"
+ },
+ "a33f58c5c14746de": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6190",
+  "by": "rules"
+ },
+ "7d5ec55970b07bc2": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6190",
+  "by": "rules"
+ },
+ "c15ea07ad1f01050": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1.06,
+  "market": "Stocks",
+  "event": "e1918",
+  "by": "rules"
+ },
+ "ecfcef5353f48c04": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 156.0,
+  "market": "Other",
+  "event": "e6191",
+  "by": "rules"
+ },
+ "782c4098e224d647": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e3595",
+  "by": "rules"
+ },
+ "d4b739f23acd8aaa": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e3595",
+  "by": "rules"
+ },
+ "c98f19f04af04f43": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6192",
+  "by": "rules"
+ },
+ "a9e3e7a6ec27726a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4860",
+  "by": "rules"
+ },
+ "8c8bc98215562cf8": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5463",
+  "by": "rules"
+ },
+ "44510936d63a4438": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5463",
+  "by": "rules"
+ },
+ "fe6135058a78cece": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e4644",
+  "by": "rules"
  }
 }
