@@ -120622,5 +120622,34 @@
   "market": "Other",
   "event": "e7205",
   "by": "rules"
+ },
+ "0a597acdbc0064f0": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7158",
+  "by": "rules"
+ },
+ "fd23bfcf3a88b3e7": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5920",
+  "by": "rules"
+ },
+ "2f338dfa5297b217": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7193",
+  "by": "rules"
  }
 }
