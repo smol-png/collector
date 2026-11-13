@@ -119001,5 +119001,52 @@
   "market": "AI",
   "event": "e7129",
   "by": "rules"
+ },
+ "f1fac0257ad21c47": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e7130",
+  "by": "rules"
+ },
+ "196531986e16d6e4": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6175",
+  "by": "rules"
+ },
+ "1031c0b6931c3d41": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5494",
+  "by": "rules"
+ },
+ "45d010cb6d212e2b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7131",
+  "by": "rules"
+ },
+ "f1a7aca0e8028b70": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5390",
+  "by": "rules"
  }
 }
