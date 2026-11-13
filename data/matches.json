@@ -117450,5 +117450,91 @@
   "market": "AI",
   "event": "e7047",
   "by": "rules"
+ },
+ "ecfb5ca914e49cde": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1219",
+  "by": "rules"
+ },
+ "995c9469c6f97255": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "MSFT",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6745",
+  "by": "rules"
+ },
+ "4f3811b17ee47c53": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e1115",
+  "by": "rules"
+ },
+ "5d0009dd99b35120": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7048",
+  "by": "rules"
+ },
+ "cd45ee5aec4d661a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7048",
+  "by": "rules"
+ },
+ "b4e52dc52d486e18": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7049",
+  "by": "rules"
+ },
+ "5274d8cb7bb445b3": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7049",
+  "by": "rules"
+ },
+ "f91bcc513e3e24b5": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7050",
+  "by": "rules"
+ },
+ "59182b49f504f8b7": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6387",
+  "by": "rules"
  }
 }
