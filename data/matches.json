@@ -104282,5 +104282,27 @@
   "market": "Other",
   "event": "e1038",
   "by": "rules"
+ },
+ "2f802d55ef98e1cb": {
+  "type": "explainer",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6313",
+  "by": "rules"
+ },
+ "101a1f96ffb035d7": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4796",
+  "by": "rules"
  }
 }
