@@ -112290,5 +112290,72 @@
   "market": "Other",
   "event": "e5639",
   "by": "rules"
+ },
+ "389882aacb26ab02": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6768",
+  "by": "rules"
+ },
+ "f37aa8e15ae06155": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e2784",
+  "by": "rules"
+ },
+ "333cde9e0d7248a4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 6300.0,
+  "market": "Crypto",
+  "event": "e6769",
+  "by": "rules"
+ },
+ "18488de5a634396f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5463",
+  "by": "rules"
+ },
+ "155966d0e012429a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6770",
+  "by": "rules"
+ },
+ "5abbb096e8fe2ce4": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6771",
+  "by": "rules"
+ },
+ "cef8fbbccb8243ca": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.07,
+  "market": "Crypto",
+  "event": "e6772",
+  "by": "rules"
  }
 }
