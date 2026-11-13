@@ -118328,5 +118328,23 @@
   "market": "Crypto",
   "event": "e7091",
   "by": "rules"
+ },
+ "aafb0a0a9bd7e6a6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7092",
+  "by": "rules"
+ },
+ "7f7ae675d4412221": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7057",
+  "by": "rules"
  }
 }
