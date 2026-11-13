@@ -117045,5 +117045,32 @@
   "market": "Stocks",
   "event": "e5846",
   "by": "rules"
+ },
+ "563f5db28ec8ca29": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6235",
+  "by": "rules"
+ },
+ "7f070e49ff2078d0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7016",
+  "by": "rules"
+ },
+ "6776d3e8921d7e77": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7017",
+  "by": "rules"
  }
 }
