@@ -105029,5 +105029,18 @@
   "market": "Stocks",
   "event": "e6361",
   "by": "rules"
+ },
+ "163816d59548a2fb": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "ETH",
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6362",
+  "by": "rules"
  }
 }
