@@ -111942,5 +111942,34 @@
   "market": "Other",
   "event": "e6748",
   "by": "rules"
+ },
+ "0d282bca07c3c141": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6749",
+  "by": "rules"
+ },
+ "ed6a63b5c5a76733": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e6750",
+  "by": "rules"
+ },
+ "5f6bbd2128bdf9c3": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6751",
+  "by": "rules"
  }
 }
