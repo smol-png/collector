@@ -110237,5 +110237,32 @@
   "market": "AI",
   "event": "e6649",
   "by": "rules"
+ },
+ "ab827270591b4a7f": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6650",
+  "by": "rules"
+ },
+ "e8c5cb02c50b9779": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6602",
+  "by": "rules"
+ },
+ "e0a1789fdcd04dca": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6649",
+  "by": "rules"
  }
 }
