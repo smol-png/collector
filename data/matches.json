@@ -117137,5 +117137,16 @@
   "market": "Other",
   "event": "e7021",
   "by": "rules"
+ },
+ "a19559ced88538db": {
+  "type": "explainer",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7022",
+  "by": "rules"
  }
 }
