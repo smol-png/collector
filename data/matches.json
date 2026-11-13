@@ -122092,5 +122092,16 @@
   "market": "Other",
   "event": "e7285",
   "by": "rules"
+ },
+ "4d3e3d9858b8f77b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6559",
+  "by": "rules"
  }
 }
