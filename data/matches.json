@@ -119671,5 +119671,25 @@
   "market": "Stocks",
   "event": "e4796",
   "by": "rules"
+ },
+ "6a8c70c14738c5f4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7157",
+  "by": "rules"
+ },
+ "01722969ac386181": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7158",
+  "by": "rules"
  }
 }
