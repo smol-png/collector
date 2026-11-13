@@ -102481,5 +102481,16 @@
   "market": "Other",
   "event": "e6236",
   "by": "rules"
+ },
+ "c5ac7f0b85663d67": {
+  "type": "explainer",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6237",
+  "by": "rules"
  }
 }
