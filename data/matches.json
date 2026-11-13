@@ -114522,5 +114522,63 @@
   "market": "Crypto",
   "event": "e6876",
   "by": "rules"
+ },
+ "47b39f6f888129b8": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e5439",
+  "by": "rules"
+ },
+ "c76523c25a4fab31": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6877",
+  "by": "rules"
+ },
+ "0e199a6631b9d268": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6878",
+  "by": "rules"
+ },
+ "1f6c416f25c033f6": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6879",
+  "by": "rules"
+ },
+ "596f58c20de88579": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4974",
+  "by": "rules"
+ },
+ "0c6ebcd10f4e5094": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5448",
+  "by": "rules"
  }
 }
