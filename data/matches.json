@@ -118699,5 +118699,17 @@
   "market": "AI",
   "event": "e7112",
   "by": "rules"
+ },
+ "0a9c618574418f06": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "MSTR",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7089",
+  "by": "rules"
  }
 }
