@@ -101882,5 +101882,41 @@
   "market": "Stocks",
   "event": "e5871",
   "by": "rules"
+ },
+ "7fd7d773406ea43c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.17,
+  "market": "Stocks",
+  "event": "e6202",
+  "by": "rules"
+ },
+ "2b47e765d8af6004": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 4.37,
+  "market": "Stocks",
+  "event": "e6118",
+  "by": "rules"
+ },
+ "062d484ee2a234c3": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.36,
+  "market": "Stocks",
+  "event": "e6203",
+  "by": "rules"
+ },
+ "4c47f9b7f99c7929": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.05,
+  "market": "Stocks",
+  "event": "e6086",
+  "by": "rules"
  }
 }
