@@ -119731,5 +119731,70 @@
   "market": "Stocks",
   "event": "e7161",
   "by": "rules"
+ },
+ "300a1a8969f6363c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 140.0,
+  "market": "Other",
+  "event": "e7003",
+  "by": "rules"
+ },
+ "1d81362016f18b06": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7162",
+  "by": "rules"
+ },
+ "b2e82b813f6654df": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7163",
+  "by": "rules"
+ },
+ "cdfac49fc49d790d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7163",
+  "by": "rules"
+ },
+ "188153076cfd9d3e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7161",
+  "by": "rules"
+ },
+ "33f9900562e24bee": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
+ },
+ "6da365219d0c6b53": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6900",
+  "by": "rules"
  }
 }
