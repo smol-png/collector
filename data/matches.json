@@ -119834,5 +119834,38 @@
   "market": "AI",
   "event": "e5419",
   "by": "rules"
+ },
+ "a0792c2da4e40fda": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7160",
+  "by": "rules"
+ },
+ "8d2192f313992ac5": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7166",
+  "by": "rules"
+ },
+ "f5d4ea099ebb8c04": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6078",
+  "by": "rules"
  }
 }
