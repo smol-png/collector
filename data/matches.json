@@ -114139,5 +114139,41 @@
   "market": "Macro",
   "event": "e6859",
   "by": "rules"
+ },
+ "977e634bfea5cc45": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6860",
+  "by": "rules"
+ },
+ "d888d349d599dd32": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6861",
+  "by": "rules"
+ },
+ "a3f453f620aaa891": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6862",
+  "by": "rules"
+ },
+ "c1834573335ee5f3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6863",
+  "by": "rules"
  }
 }
