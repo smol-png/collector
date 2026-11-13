@@ -105328,5 +105328,16 @@
   "market": "Stocks",
   "event": "e6381",
   "by": "rules"
+ },
+ "20ca48450e503b05": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6382",
+  "by": "rules"
  }
 }
