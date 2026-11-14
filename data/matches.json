@@ -125351,5 +125351,50 @@
   "market": "Other",
   "event": "e7479",
   "by": "rules"
+ },
+ "96fe049d40bc175f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e1038",
+  "by": "rules"
+ },
+ "11ee30c119167424": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.06,
+  "market": "Stocks",
+  "event": "e1801",
+  "by": "rules"
+ },
+ "5324610de7628fac": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7480",
+  "by": "rules"
+ },
+ "02fd496cbd8d0663": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7480",
+  "by": "rules"
+ },
+ "c738022d7fbf0df0": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7481",
+  "by": "rules"
  }
 }
