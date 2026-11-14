@@ -125454,5 +125454,16 @@
   "market": "AI",
   "event": "e5419",
   "by": "rules"
+ },
+ "089e7d0516c56dc6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7486",
+  "by": "rules"
  }
 }
