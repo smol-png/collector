@@ -123431,5 +123431,14 @@
   "market": "Stocks",
   "event": "e7359",
   "by": "rules"
+ },
+ "f9bfda4e13d0f3ef": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7360",
+  "by": "rules"
  }
 }
