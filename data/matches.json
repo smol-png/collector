@@ -124815,5 +124815,115 @@
   "market": "Crypto",
   "event": "e7449",
   "by": "rules"
+ },
+ "cb7161d8453691d8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.42,
+  "market": "Stocks",
+  "event": "e1799",
+  "by": "rules"
+ },
+ "a4f0f293e304f597": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": 1.59,
+  "market": "Stocks",
+  "event": "e6087",
+  "by": "rules"
+ },
+ "e146255a48669acb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7450",
+  "by": "rules"
+ },
+ "a5490f0682036c08": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7450",
+  "by": "rules"
+ },
+ "7ce941758bc7f405": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 20.0,
+  "market": "Other",
+  "event": "e7451",
+  "by": "rules"
+ },
+ "488ed0ba7c7f45ef": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 20.0,
+  "market": "Other",
+  "event": "e7451",
+  "by": "rules"
+ },
+ "f90b429cfa352a38": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e3804",
+  "by": "rules"
+ },
+ "b759e618ec192359": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5807",
+  "by": "rules"
+ },
+ "64df293c738e5f3c": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.45,
+  "market": "Stocks",
+  "event": "e7452",
+  "by": "rules"
+ },
+ "bf2ab128b8e4aa09": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 78.9,
+  "market": "Stocks",
+  "event": "e7202",
+  "by": "rules"
+ },
+ "36b4e5b9f275e3be": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1.26,
+  "market": "Stocks",
+  "event": "e7453",
+  "by": "rules"
+ },
+ "1d15ff068f89d2a3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 2.7,
+  "market": "Stocks",
+  "event": "e7454",
+  "by": "rules"
  }
 }
