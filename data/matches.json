@@ -128027,5 +128027,25 @@
   "market": "Other",
   "event": "e7648",
   "by": "rules"
+ },
+ "b0b25ef742c8e2ee": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6813",
+  "by": "rules"
+ },
+ "8308d915f7ebfb46": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7649",
+  "by": "rules"
  }
 }
