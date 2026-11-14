@@ -129055,5 +129055,43 @@
   "market": "Other",
   "event": "e7706",
   "by": "rules"
+ },
+ "03da09121dc8b171": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7707",
+  "by": "rules"
+ },
+ "0e852413be34f3ae": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "LTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7708",
+  "by": "rules"
+ },
+ "65875a67e282c807": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7709",
+  "by": "rules"
+ },
+ "1fe14f8489658491": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7256",
+  "by": "rules"
  }
 }
