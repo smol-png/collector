@@ -128784,5 +128784,16 @@
   "market": "Stocks",
   "event": "e198",
   "by": "rules"
+ },
+ "8c44210544d14180": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e7319",
+  "by": "rules"
  }
 }
