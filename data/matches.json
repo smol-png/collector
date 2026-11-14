@@ -124925,5 +124925,28 @@
   "market": "Stocks",
   "event": "e7454",
   "by": "rules"
+ },
+ "cbc1826b938fe0fc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7371",
+  "by": "rules"
+ },
+ "f7dcc88eac3c250c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": 7700.0,
+  "market": "Crypto",
+  "event": "e7455",
+  "by": "rules"
  }
 }
