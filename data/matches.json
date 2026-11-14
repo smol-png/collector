@@ -126774,5 +126774,23 @@
   "market": "Stocks",
   "event": "e7573",
   "by": "rules"
+ },
+ "47735a28b5bfee1b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6791",
+  "by": "rules"
+ },
+ "01472821ae9bd14c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7574",
+  "by": "rules"
  }
 }
