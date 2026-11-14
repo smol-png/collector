@@ -122585,5 +122585,45 @@
   "market": "Stocks",
   "event": "e6102",
   "by": "rules"
+ },
+ "1871728b96265164": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6294",
+  "by": "rules"
+ },
+ "f56575fe5da4376e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6312",
+  "by": "rules"
+ },
+ "50c536d3721e9a30": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7284",
+  "by": "rules"
+ },
+ "b7aeac9c7065b60a": {
+  "type": "live",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7210",
+  "by": "rules"
  }
 }
