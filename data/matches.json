@@ -123449,5 +123449,18 @@
   "market": "Crypto",
   "event": "e6852",
   "by": "rules"
+ },
+ "dec6abefd51ede12": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "AAVE",
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7361",
+  "by": "rules"
  }
 }
