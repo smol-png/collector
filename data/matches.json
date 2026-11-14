@@ -127587,5 +127587,65 @@
   "market": "Other",
   "event": "e7170",
   "by": "rules"
+ },
+ "246d5038187619a2": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7194",
+  "by": "rules"
+ },
+ "ffa512fd8e29457e": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e6944",
+  "by": "rules"
+ },
+ "d5c9107c6c912207": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e6944",
+  "by": "rules"
+ },
+ "29f42fb89d558c9a": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7619",
+  "by": "rules"
+ },
+ "a69dafe145b5cfad": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7619",
+  "by": "rules"
+ },
+ "a088950782c8d128": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7620",
+  "by": "rules"
  }
 }
