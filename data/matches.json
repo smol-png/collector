@@ -124466,5 +124466,25 @@
   "market": "Stocks",
   "event": "e7429",
   "by": "rules"
+ },
+ "40f79eadd4736ef5": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e7297",
+  "by": "rules"
+ },
+ "fa94794c295832b2": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 2350.0,
+  "market": "Crypto",
+  "event": "e7430",
+  "by": "rules"
  }
 }
