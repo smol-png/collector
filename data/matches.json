@@ -123804,5 +123804,41 @@
   "market": "Other",
   "event": "e7381",
   "by": "rules"
+ },
+ "1166cef9da88e725": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 9.78,
+  "market": "Stocks",
+  "event": "e7382",
+  "by": "rules"
+ },
+ "5ba0fc34b11c5e9b": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.15,
+  "market": "Stocks",
+  "event": "e7383",
+  "by": "rules"
+ },
+ "7e942c31cf8d245a": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.44,
+  "market": "Other",
+  "event": "e7384",
+  "by": "rules"
+ },
+ "61827605f33bf865": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.15,
+  "market": "Stocks",
+  "event": "e1799",
+  "by": "rules"
  }
 }
