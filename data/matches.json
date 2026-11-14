@@ -125711,5 +125711,23 @@
   "market": "Stocks",
   "event": "e7500",
   "by": "rules"
+ },
+ "104845c30706182b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7501",
+  "by": "rules"
+ },
+ "de03170fa38515b2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 9.0,
+  "market": "Other",
+  "event": "e7502",
+  "by": "rules"
  }
 }
