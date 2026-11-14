@@ -125268,5 +125268,41 @@
   "market": "Other",
   "event": "e7475",
   "by": "rules"
+ },
+ "cf26122c87c99a87": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e6704",
+  "by": "rules"
+ },
+ "057bd418d1a99b06": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e6704",
+  "by": "rules"
+ },
+ "ebc74847b2d89bec": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 0.13,
+  "market": "AI",
+  "event": "e7476",
+  "by": "rules"
+ },
+ "166622516d857237": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e1038",
+  "by": "rules"
  }
 }
