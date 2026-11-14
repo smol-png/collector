@@ -126319,5 +126319,16 @@
   "market": "Other",
   "event": "e7542",
   "by": "rules"
+ },
+ "f61d31434d914a49": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7544",
+  "by": "rules"
  }
 }
