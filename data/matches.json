@@ -126936,5 +126936,34 @@
   "market": "Macro",
   "event": "e7551",
   "by": "rules"
+ },
+ "fe9331832aac63f3": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6282",
+  "by": "rules"
+ },
+ "28b7bc47b661c770": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7583",
+  "by": "rules"
+ },
+ "4d2cbfa1f801fe18": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7584",
+  "by": "rules"
  }
 }
