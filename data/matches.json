@@ -125098,5 +125098,63 @@
   "market": "AI",
   "event": "e7088",
   "by": "rules"
+ },
+ "e15fa465c84839f6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7319",
+  "by": "rules"
+ },
+ "5983299edc76e5da": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7319",
+  "by": "rules"
+ },
+ "df43c669adfe101e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7465",
+  "by": "rules"
+ },
+ "286b8cef8a334d74": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7466",
+  "by": "rules"
+ },
+ "379e084764db0ad2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7466",
+  "by": "rules"
+ },
+ "21b1cb514ed058a7": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7467",
+  "by": "rules"
  }
 }
