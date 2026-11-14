@@ -128927,5 +128927,16 @@
   "market": "Stocks",
   "event": "e7568",
   "by": "rules"
+ },
+ "f3804ee17e84e218": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": 35.0,
+  "market": "Crypto",
+  "event": "e7701",
+  "by": "rules"
  }
 }
