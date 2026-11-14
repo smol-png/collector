@@ -127315,5 +127315,25 @@
   "market": "Other",
   "event": "e7603",
   "by": "rules"
+ },
+ "89710b9f4a287e17": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7604",
+  "by": "rules"
+ },
+ "d947fd820c3b1b7b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7605",
+  "by": "rules"
  }
 }
