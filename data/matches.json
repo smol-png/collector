@@ -124785,5 +124785,17 @@
   "market": "Other",
   "event": "e7448",
   "by": "rules"
+ },
+ "72dc38999b63fbb0": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": 0.07,
+  "market": "Crypto",
+  "event": "e4074",
+  "by": "rules"
  }
 }
