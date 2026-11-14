@@ -123227,5 +123227,25 @@
   "market": "AI",
   "event": "e7170",
   "by": "rules"
+ },
+ "9d82d124df4688ef": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7349",
+  "by": "rules"
+ },
+ "a0ce31a07ba3ac63": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7350",
+  "by": "rules"
  }
 }
