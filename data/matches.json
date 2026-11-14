@@ -128228,5 +128228,23 @@
   "market": "AI",
   "event": "e2622",
   "by": "rules"
+ },
+ "150b39504aa7a738": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7662",
+  "by": "rules"
+ },
+ "ad15ec68c027d6cc": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7663",
+  "by": "rules"
  }
 }
