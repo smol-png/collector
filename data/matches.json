@@ -127373,5 +127373,25 @@
   "market": "AI",
   "event": "e7608",
   "by": "rules"
+ },
+ "8700e5a78af81eb2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7568",
+  "by": "rules"
+ },
+ "fb5e2bf74f5c63af": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6434",
+  "by": "rules"
  }
 }
