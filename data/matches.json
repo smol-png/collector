@@ -126685,5 +126685,16 @@
   "market": "Crypto",
   "event": "e7567",
   "by": "rules"
+ },
+ "7711868bf4caaa38": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": 887.0,
+  "market": "Stocks",
+  "event": "e7568",
+  "by": "rules"
  }
 }
