@@ -123077,5 +123077,16 @@
   "market": "Stocks",
   "event": "e7340",
   "by": "rules"
+ },
+ "a01ee17d08e41533": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e2149",
+  "by": "rules"
  }
 }
