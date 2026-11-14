@@ -122538,5 +122538,52 @@
   "market": "Stocks",
   "event": "e7311",
   "by": "rules"
+ },
+ "71b79a9b8d0262d0": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7311",
+  "by": "rules"
+ },
+ "54992f855aa5187c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.08,
+  "market": "Stocks",
+  "event": "e7312",
+  "by": "rules"
+ },
+ "68747ed8ec9c2511": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.09,
+  "market": "Stocks",
+  "event": "e7313",
+  "by": "rules"
+ },
+ "0b9b781572b9a4d8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 3.93,
+  "market": "Stocks",
+  "event": "e7314",
+  "by": "rules"
+ },
+ "a9a5cdc7529ecefe": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 2.73,
+  "market": "Stocks",
+  "event": "e6102",
+  "by": "rules"
  }
 }
