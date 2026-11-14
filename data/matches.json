@@ -126810,5 +126810,17 @@
   "market": "Other",
   "event": "e7576",
   "by": "rules"
+ },
+ "ee2c25f42f66c685": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN",
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7577",
+  "by": "rules"
  }
 }
