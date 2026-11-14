@@ -126422,5 +126422,23 @@
   "market": "Macro",
   "event": "e7551",
   "by": "rules"
+ },
+ "bdd56625fb2daa0e": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": 4.6,
+  "market": "Other",
+  "event": "e7542",
+  "by": "rules"
+ },
+ "068846d77d0f4679": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7546",
+  "by": "rules"
  }
 }
