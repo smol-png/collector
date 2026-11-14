@@ -126840,5 +126840,36 @@
   "market": "Other",
   "event": "e7578",
   "by": "rules"
+ },
+ "f8b00484c31110f4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7579",
+  "by": "rules"
+ },
+ "1d784dc02ef46e74": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": 887.0,
+  "market": "Stocks",
+  "event": "e7568",
+  "by": "rules"
+ },
+ "083f3cd553caeb0c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": 887.0,
+  "market": "Stocks",
+  "event": "e7568",
+  "by": "rules"
  }
 }
