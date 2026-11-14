@@ -126674,5 +126674,16 @@
   "market": "AI",
   "event": "e7566",
   "by": "rules"
+ },
+ "75ee4e2573cbc3fd": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 1000.0,
+  "market": "Crypto",
+  "event": "e7567",
+  "by": "rules"
  }
 }
