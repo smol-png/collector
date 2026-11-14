@@ -129185,5 +129185,34 @@
   "market": "Other",
   "event": "e7714",
   "by": "rules"
+ },
+ "6e12102cce71a9ac": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7715",
+  "by": "rules"
+ },
+ "46409697160eb106": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.13,
+  "market": "Stocks",
+  "event": "e1835",
+  "by": "rules"
+ },
+ "20c54468cd966482": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.56,
+  "market": "Stocks",
+  "event": "e7292",
+  "by": "rules"
  }
 }
