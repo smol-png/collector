@@ -124652,5 +124652,16 @@
   "market": "AI",
   "event": "e7442",
   "by": "rules"
+ },
+ "8ac4a9faca190a06": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e6806",
+  "by": "rules"
  }
 }
