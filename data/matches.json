@@ -125174,5 +125174,34 @@
   "market": "Crypto",
   "event": "e7469",
   "by": "rules"
+ },
+ "361a1a3d48cae0df": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7450",
+  "by": "rules"
+ },
+ "9065b9a7dcd8ab7e": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7450",
+  "by": "rules"
+ },
+ "fa158e7b1e6297ec": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 1530.0,
+  "market": "Crypto",
+  "event": "e7470",
+  "by": "rules"
  }
 }
