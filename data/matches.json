@@ -126763,5 +126763,16 @@
   "market": "AI",
   "event": "e7572",
   "by": "rules"
+ },
+ "0c7e549c4807176c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7573",
+  "by": "rules"
  }
 }
