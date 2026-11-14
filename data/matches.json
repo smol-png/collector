@@ -124692,5 +124692,17 @@
   "market": "Other",
   "event": "e7444",
   "by": "rules"
+ },
+ "aa927848cab2ddc5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e6831",
+  "by": "rules"
  }
 }
