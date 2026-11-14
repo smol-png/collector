@@ -127402,5 +127402,25 @@
   "market": "Other",
   "event": "e7609",
   "by": "rules"
+ },
+ "bc014e826495044e": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e322",
+  "by": "rules"
+ },
+ "cba596da63692227": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7610",
+  "by": "rules"
  }
 }
