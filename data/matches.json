@@ -122828,5 +122828,16 @@
   "market": "Macro",
   "event": "e7323",
   "by": "rules"
+ },
+ "6f1277752698b1b2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7160",
+  "by": "rules"
  }
 }
