@@ -127971,5 +127971,23 @@
   "market": "Stocks",
   "event": "e7643",
   "by": "rules"
+ },
+ "c124243952286bf6": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e6944",
+  "by": "rules"
+ },
+ "3ccfa2d63ad6c793": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7644",
+  "by": "rules"
  }
 }
