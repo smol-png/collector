@@ -123321,5 +123321,16 @@
   "market": "AI",
   "event": "e7170",
   "by": "rules"
+ },
+ "c6bf6ade113ca427": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7355",
+  "by": "rules"
  }
 }
