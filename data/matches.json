@@ -125013,5 +125013,16 @@
   "market": "Stocks",
   "event": "e7024",
   "by": "rules"
+ },
+ "18d0c1ab79ba5518": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7459",
+  "by": "rules"
  }
 }
