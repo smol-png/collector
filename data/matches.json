@@ -128403,5 +128403,23 @@
   "market": "Stocks",
   "event": "e7671",
   "by": "rules"
+ },
+ "473d06ce8a47dc77": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7672",
+  "by": "rules"
+ },
+ "a49ea670cc4443f4": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 5700000.0,
+  "market": "AI",
+  "event": "e7673",
+  "by": "rules"
  }
 }
