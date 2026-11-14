@@ -123088,5 +123088,68 @@
   "market": "Stocks",
   "event": "e2149",
   "by": "rules"
+ },
+ "28feb67a59212ce9": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e7338",
+  "by": "rules"
+ },
+ "ab57c74cccd4eb16": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.58,
+  "market": "Stocks",
+  "event": "e7341",
+  "by": "rules"
+ },
+ "7d0ad5d5b5795942": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 6.26,
+  "market": "Stocks",
+  "event": "e7341",
+  "by": "rules"
+ },
+ "40f612ea88a10395": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1.05,
+  "market": "Stocks",
+  "event": "e7342",
+  "by": "rules"
+ },
+ "405d6b8b9f6ad87f": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.3,
+  "market": "Stocks",
+  "event": "e7343",
+  "by": "rules"
+ },
+ "17ac8763777bbe62": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.18,
+  "market": "Stocks",
+  "event": "e1835",
+  "by": "rules"
+ },
+ "b18e693c023eef35": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6542",
+  "by": "rules"
  }
 }
