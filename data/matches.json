@@ -128255,5 +128255,16 @@
   "market": "AI",
   "event": "e7376",
   "by": "rules"
+ },
+ "7cc4e86b1fe9c19c": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 1000.0,
+  "market": "Crypto",
+  "event": "e7137",
+  "by": "rules"
  }
 }
