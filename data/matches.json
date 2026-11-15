@@ -130234,5 +130234,53 @@
   "market": "Other",
   "event": "e7779",
   "by": "rules"
+ },
+ "139c31e83216556b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6682",
+  "by": "rules"
+ },
+ "0bd2692ffa39401a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6682",
+  "by": "rules"
+ },
+ "764e9957566a7de8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6682",
+  "by": "rules"
+ },
+ "82bbdfde43cc8f96": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e6682",
+  "by": "rules"
+ },
+ "fe7243939e6e954f": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "COIN",
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7777",
+  "by": "rules"
  }
 }
