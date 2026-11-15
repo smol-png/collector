@@ -131258,5 +131258,23 @@
   "market": "Crypto",
   "event": "e7847",
   "by": "rules"
+ },
+ "925c139cca9c50ba": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 2.35,
+  "market": "AI",
+  "event": "e7848",
+  "by": "rules"
+ },
+ "8a13dd3d6fae613a": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": 11.7,
+  "market": "Stocks",
+  "event": "e7849",
+  "by": "rules"
  }
 }
