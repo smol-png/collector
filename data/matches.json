@@ -130309,5 +130309,16 @@
   "market": "Other",
   "event": "e7782",
   "by": "rules"
+ },
+ "7e4de678bc8c42fb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAVE"
+  ],
+  "usd_m": 39.0,
+  "market": "Crypto",
+  "event": "e7783",
+  "by": "rules"
  }
 }
