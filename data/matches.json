@@ -133720,5 +133720,16 @@
   "market": "Other",
   "event": "e8031",
   "by": "rules"
+ },
+ "b7e11e7b165381ff": {
+  "type": "live",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8032",
+  "by": "rules"
  }
 }
