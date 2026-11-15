@@ -131422,5 +131422,83 @@
   "market": "AI",
   "event": "e7435",
   "by": "rules"
+ },
+ "d5a4346d92b04576": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e7837",
+  "by": "rules"
+ },
+ "b46fb81d7ec0103b": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e7837",
+  "by": "rules"
+ },
+ "0bf41dba7b03d357": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7863",
+  "by": "rules"
+ },
+ "cf5163fd8c24f719": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7863",
+  "by": "rules"
+ },
+ "6492e99a56d4c8eb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7864",
+  "by": "rules"
+ },
+ "a7833d9f1782053a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7845",
+  "by": "rules"
+ },
+ "bae084cd2c499a4a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7845",
+  "by": "rules"
+ },
+ "b8aaafbd047c07b5": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e7853",
+  "by": "rules"
  }
 }
