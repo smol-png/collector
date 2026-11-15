@@ -135738,5 +135738,16 @@
   "market": "AI",
   "event": "e8173",
   "by": "rules"
+ },
+ "e5f8cc91a19a1bc2": {
+  "type": "analysis",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8173",
+  "by": "rules"
  }
 }
