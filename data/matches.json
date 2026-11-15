@@ -131114,5 +131114,23 @@
   "market": "Other",
   "event": "e7836",
   "by": "rules"
+ },
+ "a91f975bac6c099e": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e7837",
+  "by": "rules"
+ },
+ "2fbe464310923d37": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7838",
+  "by": "rules"
  }
 }
