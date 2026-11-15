@@ -134755,5 +134755,59 @@
   "market": "Stocks",
   "event": "e8067",
   "by": "rules"
+ },
+ "25f2c23c6705fe22": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.03,
+  "market": "Stocks",
+  "event": "e8115",
+  "by": "rules"
+ },
+ "b4a7f695daefafe5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.27,
+  "market": "Stocks",
+  "event": "e7024",
+  "by": "rules"
+ },
+ "adc25672cceb727b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 1.35,
+  "market": "Stocks",
+  "event": "e8034",
+  "by": "rules"
+ },
+ "32b6815cfd735886": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8116",
+  "by": "rules"
+ },
+ "d7adbcfebcecb8af": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8117",
+  "by": "rules"
+ },
+ "6a7f3655bb7dc1b1": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8117",
+  "by": "rules"
  }
 }
