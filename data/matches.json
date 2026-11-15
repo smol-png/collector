@@ -136744,5 +136744,32 @@
   "market": "AI",
   "event": "e8240",
   "by": "rules"
+ },
+ "d5d77d863f94ecd5": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8241",
+  "by": "rules"
+ },
+ "9517c10288a51f01": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8242",
+  "by": "rules"
+ },
+ "d41c3285141bbc08": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8242",
+  "by": "rules"
  }
 }
