@@ -134260,5 +134260,25 @@
   "market": "Other",
   "event": "e8078",
   "by": "rules"
+ },
+ "ec3f4f07baab3a73": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e8079",
+  "by": "rules"
+ },
+ "9ccf01d4794dbc83": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8080",
+  "by": "rules"
  }
 }
