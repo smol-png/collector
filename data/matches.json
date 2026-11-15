@@ -135143,5 +135143,36 @@
   "market": "Other",
   "event": "e8137",
   "by": "rules"
+ },
+ "906d71a7b8ad2a6f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8138",
+  "by": "rules"
+ },
+ "d7cf8b21f99d820f": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8139",
+  "by": "rules"
+ },
+ "fba12b9a91d141c0": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7170",
+  "by": "rules"
  }
 }
