@@ -131323,5 +131323,23 @@
   "market": "Other",
   "event": "e7845",
   "by": "rules"
+ },
+ "a40472f35f57aed8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.04,
+  "market": "Stocks",
+  "event": "e7854",
+  "by": "rules"
+ },
+ "09fdf2c56e6568ca": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.11,
+  "market": "Stocks",
+  "event": "e7855",
+  "by": "rules"
  }
 }
