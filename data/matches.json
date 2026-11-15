@@ -130131,5 +130131,16 @@
   "market": "Macro",
   "event": "e7720",
   "by": "rules"
+ },
+ "fa9f36584a7333fb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7774",
+  "by": "rules"
  }
 }
