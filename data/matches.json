@@ -132497,5 +132497,79 @@
   "market": "Other",
   "event": "e7794",
   "by": "rules"
+ },
+ "d21c5849783b9639": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7939",
+  "by": "rules"
+ },
+ "f5fa093811da6ae1": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.01,
+  "market": "Stocks",
+  "event": "e1801",
+  "by": "rules"
+ },
+ "f77198a04fe174e2": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": 0.3,
+  "market": "Stocks",
+  "event": "e7940",
+  "by": "rules"
+ },
+ "13fd20239b855218": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 1.08,
+  "market": "Stocks",
+  "event": "e7941",
+  "by": "rules"
+ },
+ "5c29da0dfecbe895": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.66,
+  "market": "Stocks",
+  "event": "e7942",
+  "by": "rules"
+ },
+ "7fae2c9e1c971fcc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 9.39,
+  "market": "Stocks",
+  "event": "e1463",
+  "by": "rules"
+ },
+ "717d8c3f03d20a84": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.03,
+  "market": "Stocks",
+  "event": "e7943",
+  "by": "rules"
+ },
+ "694ca3085569a2f2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 8830.0,
+  "market": "Crypto",
+  "event": "e7944",
+  "by": "rules"
  }
 }
