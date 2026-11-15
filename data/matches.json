@@ -131893,5 +131893,16 @@
   "market": "Other",
   "event": "e7882",
   "by": "rules"
+ },
+ "a30ac59e6df5c7a2": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7895",
+  "by": "rules"
  }
 }
