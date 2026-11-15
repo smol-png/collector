@@ -130643,5 +130643,23 @@
   "market": "Other",
   "event": "e7800",
   "by": "rules"
+ },
+ "688c769223137697": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7801",
+  "by": "rules"
+ },
+ "d2a878aa6dfc23e7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 560.0,
+  "market": "Other",
+  "event": "e7802",
+  "by": "rules"
  }
 }
