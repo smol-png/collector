@@ -130383,5 +130383,25 @@
   "market": "Other",
   "event": "e7784",
   "by": "rules"
+ },
+ "914b38ced7d5c4b4": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e7383",
+  "by": "rules"
+ },
+ "dd1149414fab16ea": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": 0.41,
+  "market": "Stocks",
+  "event": "e7785",
+  "by": "rules"
  }
 }
