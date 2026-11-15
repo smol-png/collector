@@ -133607,5 +133607,34 @@
   "market": "Crypto",
   "event": "e8020",
   "by": "rules"
+ },
+ "7cfe5bfbc24917f6": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8021",
+  "by": "rules"
+ },
+ "4615e5a3043cfdf9": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8022",
+  "by": "rules"
+ },
+ "fdb1a65d0a8a67a4": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8023",
+  "by": "rules"
  }
 }
