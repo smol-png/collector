@@ -129954,5 +129954,32 @@
   "market": "AI",
   "event": "e7760",
   "by": "rules"
+ },
+ "5a1a3495f9adabd1": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 1.97,
+  "market": "Stocks",
+  "event": "e7312",
+  "by": "rules"
+ },
+ "d6aef91bf5f2d08f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e7765",
+  "by": "rules"
+ },
+ "d352d8f033ad8920": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.01,
+  "market": "Stocks",
+  "event": "e7352",
+  "by": "rules"
  }
 }
