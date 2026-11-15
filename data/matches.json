@@ -134222,5 +134222,16 @@
   "market": "Other",
   "event": "e8074",
   "by": "rules"
+ },
+ "3c77587f0c3934b9": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e8075",
+  "by": "rules"
  }
 }
