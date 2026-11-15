@@ -131601,5 +131601,32 @@
   "market": "Other",
   "event": "e7871",
   "by": "rules"
+ },
+ "e7de70fe5922b92b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7872",
+  "by": "rules"
+ },
+ "bffa7e40bba8c0be": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7873",
+  "by": "rules"
+ },
+ "aec9f1cffbdcbbf0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 92.0,
+  "market": "Crypto",
+  "event": "e7874",
+  "by": "rules"
  }
 }
