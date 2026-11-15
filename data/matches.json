@@ -130448,5 +130448,16 @@
   "market": "Other",
   "event": "e7788",
   "by": "rules"
+ },
+ "440178ec6013f613": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7789",
+  "by": "rules"
  }
 }
