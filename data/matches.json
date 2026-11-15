@@ -136048,5 +136048,43 @@
   "market": "AI",
   "event": "e4734",
   "by": "rules"
+ },
+ "38b02d394fae711f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8193",
+  "by": "rules"
+ },
+ "19f200f46e67254b": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8194",
+  "by": "rules"
+ },
+ "a38926b8d389e5a8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8195",
+  "by": "rules"
+ },
+ "dd8b862c49fa129a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8196",
+  "by": "rules"
  }
 }
