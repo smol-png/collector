@@ -131040,5 +131040,16 @@
   "market": "Stocks",
   "event": "e1802",
   "by": "rules"
+ },
+ "1394c50ee0c11b50": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "ADA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7829",
+  "by": "rules"
  }
 }
