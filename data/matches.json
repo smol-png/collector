@@ -136178,5 +136178,36 @@
   "market": "Stocks",
   "event": "e8189",
   "by": "rules"
+ },
+ "bc394dccada770f5": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8164",
+  "by": "rules"
+ },
+ "8e3087d381d50d6d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8203",
+  "by": "rules"
+ },
+ "17f4196f23f6e647": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8204",
+  "by": "rules"
  }
 }
