@@ -130320,5 +130320,41 @@
   "market": "Crypto",
   "event": "e7783",
   "by": "rules"
+ },
+ "c6e5d59d99967b48": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 11.7,
+  "market": "Stocks",
+  "event": "e7305",
+  "by": "rules"
+ },
+ "3bcc9ec25b7f4fb7": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e7765",
+  "by": "rules"
+ },
+ "27fb873ffdc3a5c0": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e7765",
+  "by": "rules"
+ },
+ "ea8879b752c6959f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7782",
+  "by": "rules"
  }
 }
