@@ -133558,5 +133558,16 @@
   "market": "Other",
   "event": "e7858",
   "by": "rules"
+ },
+ "d17d83457ce1ab18": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8018",
+  "by": "rules"
  }
 }
