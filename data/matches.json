@@ -130744,5 +130744,79 @@
   "market": "Other",
   "event": "e7810",
   "by": "rules"
+ },
+ "ff8db12c8a3f4968": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7811",
+  "by": "rules"
+ },
+ "50e1d6022b7c37d1": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 700.0,
+  "market": "Other",
+  "event": "e7812",
+  "by": "rules"
+ },
+ "9f06f7731971fc02": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7813",
+  "by": "rules"
+ },
+ "105831e055dcc17d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7814",
+  "by": "rules"
+ },
+ "bfc61bdc7e9d46e2": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7815",
+  "by": "rules"
+ },
+ "88837f21df4b6dc8": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 4200000.0,
+  "market": "AI",
+  "event": "e7795",
+  "by": "rules"
+ },
+ "7e81ebe458e9b7b5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7799",
+  "by": "rules"
+ },
+ "28ea2a3dbf7d3b4a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7485",
+  "by": "rules"
  }
 }
