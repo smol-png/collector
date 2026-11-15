@@ -134589,5 +134589,23 @@
   "market": "Other",
   "event": "e8101",
   "by": "rules"
+ },
+ "d226b75cb70155a2": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8102",
+  "by": "rules"
+ },
+ "0450b0e0306b9722": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7356",
+  "by": "rules"
  }
 }
