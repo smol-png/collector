@@ -136142,5 +136142,14 @@
   "market": "Stocks",
   "event": "e8201",
   "by": "rules"
+ },
+ "444c3de9f97e47a3": {
+  "type": "analysis",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8202",
+  "by": "rules"
  }
 }
