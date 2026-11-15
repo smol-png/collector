@@ -133936,5 +133936,56 @@
   "market": "AI",
   "event": "e8051",
   "by": "rules"
+ },
+ "570d58e32b470c23": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8052",
+  "by": "rules"
+ },
+ "beb3e571b3ae9ed6": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8053",
+  "by": "rules"
+ },
+ "30117d230afceb08": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8054",
+  "by": "rules"
+ },
+ "17989590a850caf9": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8055",
+  "by": "rules"
+ },
+ "1070627c221aa921": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8056",
+  "by": "rules"
  }
 }
