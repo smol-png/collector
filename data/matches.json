@@ -133830,5 +133830,17 @@
   "market": "Other",
   "event": "e8040",
   "by": "rules"
+ },
+ "ed555aaf2ac8218b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH",
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8041",
+  "by": "rules"
  }
 }
