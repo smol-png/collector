@@ -131538,5 +131538,50 @@
   "market": "Other",
   "event": "e7866",
   "by": "rules"
+ },
+ "c8dc2fa0c9924199": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.05,
+  "market": "Stocks",
+  "event": "e7867",
+  "by": "rules"
+ },
+ "bfe56253cc833787": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.2,
+  "market": "Stocks",
+  "event": "e3538",
+  "by": "rules"
+ },
+ "0a817b24010b0bf5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 2.2,
+  "market": "Stocks",
+  "event": "e7868",
+  "by": "rules"
+ },
+ "1f568fe0fb59b5e1": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 4.77,
+  "market": "Stocks",
+  "event": "e7869",
+  "by": "rules"
+ },
+ "22921434b42c296f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.29,
+  "market": "Stocks",
+  "event": "e7830",
+  "by": "rules"
  }
 }
