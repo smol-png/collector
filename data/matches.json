@@ -135091,5 +135091,16 @@
   "market": "Stocks",
   "event": "e8067",
   "by": "rules"
+ },
+ "2b557b4c38fa58df": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8134",
+  "by": "rules"
  }
 }
