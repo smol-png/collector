@@ -134072,5 +134072,34 @@
   "market": "Other",
   "event": "e8060",
   "by": "rules"
+ },
+ "f37f2db3289eb8ee": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8061",
+  "by": "rules"
+ },
+ "54625fbb483d9418": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8062",
+  "by": "rules"
+ },
+ "0aae51f7c2d4e796": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8063",
+  "by": "rules"
  }
 }
