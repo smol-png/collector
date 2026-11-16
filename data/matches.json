@@ -137603,5 +137603,25 @@
   "market": "Macro",
   "event": "e8296",
   "by": "rules"
+ },
+ "a22d8449b4c38de4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8297",
+  "by": "rules"
+ },
+ "601aef244e135d61": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8298",
+  "by": "rules"
  }
 }
