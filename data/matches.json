@@ -157439,5 +157439,25 @@
   "market": "Other",
   "event": "e9460",
   "by": "rules"
+ },
+ "bac91097bbfcecf8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e9333",
+  "by": "rules"
+ },
+ "23cd51e375b7e015": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": 1400.0,
+  "market": "Stocks",
+  "event": "e9461",
+  "by": "rules"
  }
 }
