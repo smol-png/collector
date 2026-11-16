@@ -146764,5 +146764,17 @@
   "market": "AI",
   "event": "e8868",
   "by": "rules"
+ },
+ "3f06d87154bb3303": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA",
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8868",
+  "by": "rules"
  }
 }
