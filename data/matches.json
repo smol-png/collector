@@ -145793,5 +145793,34 @@
   "market": "Other",
   "event": "e8431",
   "by": "rules"
+ },
+ "22e28d19f0b4d6e4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8437",
+  "by": "rules"
+ },
+ "fcffe8e8a6982f58": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8806",
+  "by": "rules"
+ },
+ "26dbc9dcd56ecc95": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8807",
+  "by": "rules"
  }
 }
