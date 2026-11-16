@@ -144372,5 +144372,34 @@
   "market": "AI",
   "event": "e8725",
   "by": "rules"
+ },
+ "729770b1071f390d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8726",
+  "by": "rules"
+ },
+ "1dbac55621659651": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8727",
+  "by": "rules"
+ },
+ "1aabcdaf7dad162e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8728",
+  "by": "rules"
  }
 }
