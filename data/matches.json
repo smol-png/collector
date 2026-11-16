@@ -145831,5 +145831,58 @@
   "market": "Other",
   "event": "e8808",
   "by": "rules"
+ },
+ "8ac089b39f6226b9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8809",
+  "by": "rules"
+ },
+ "94a9aa6745883bad": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8178",
+  "by": "rules"
+ },
+ "205060bf41fb97f6": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e8810",
+  "by": "rules"
+ },
+ "d9e70049e719c0bc": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e8811",
+  "by": "rules"
+ },
+ "e3131ae607fbb34a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e8812",
+  "by": "rules"
  }
 }
