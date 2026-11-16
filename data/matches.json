@@ -153716,5 +153716,34 @@
   "market": "AI",
   "event": "e9244",
   "by": "rules"
+ },
+ "f378313fc84a048f": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9245",
+  "by": "rules"
+ },
+ "0ebe438c01460b73": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9246",
+  "by": "rules"
+ },
+ "8f01a96dbbfd5726": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9082",
+  "by": "rules"
  }
 }
