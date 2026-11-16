@@ -149010,5 +149010,25 @@
   "market": "Stocks",
   "event": "e8996",
   "by": "rules"
+ },
+ "f75ef6ce4d517a25": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9001",
+  "by": "rules"
+ },
+ "633ebe5a8393997b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
  }
 }
