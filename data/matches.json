@@ -140214,5 +140214,23 @@
   "market": "Crypto",
   "event": "e8459",
   "by": "rules"
+ },
+ "dc0b7b45cf2b295d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8424",
+  "by": "rules"
+ },
+ "0ecd29e4ab0570d3": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8460",
+  "by": "rules"
  }
 }
