@@ -153065,5 +153065,16 @@
   "market": "Other",
   "event": "e9010",
   "by": "rules"
+ },
+ "8063d7d5c5dbf4d7": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": 3000.0,
+  "market": "Stocks",
+  "event": "e9211",
+  "by": "rules"
  }
 }
