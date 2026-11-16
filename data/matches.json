@@ -147205,5 +147205,25 @@
   "market": "Stocks",
   "event": "e8899",
   "by": "rules"
+ },
+ "e4a7b4e45cbc8fa3": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8900",
+  "by": "rules"
+ },
+ "e2a342cbc60c0f57": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8901",
+  "by": "rules"
  }
 }
