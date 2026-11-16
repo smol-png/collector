@@ -154086,5 +154086,25 @@
   "market": "Other",
   "event": "e9262",
   "by": "rules"
+ },
+ "7b7a839bc77acb13": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9263",
+  "by": "rules"
+ },
+ "0dc1e6803e430cdb": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9264",
+  "by": "rules"
  }
 }
