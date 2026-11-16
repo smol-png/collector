@@ -143845,5 +143845,32 @@
   "market": "AI",
   "event": "e8301",
   "by": "rules"
+ },
+ "984fd452e4e123bf": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8692",
+  "by": "rules"
+ },
+ "f650c54a6f7768c8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7892",
+  "by": "rules"
+ },
+ "96967d42d1e71d66": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8693",
+  "by": "rules"
  }
 }
