@@ -138456,5 +138456,72 @@
   "market": "Other",
   "event": "e7834",
   "by": "rules"
+ },
+ "4c7f55c25128ee8d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 3400.0,
+  "market": "Other",
+  "event": "e8349",
+  "by": "rules"
+ },
+ "5fde50a3560287a8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 3400.0,
+  "market": "Other",
+  "event": "e8349",
+  "by": "rules"
+ },
+ "9f4df061b791e23e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.02,
+  "market": "Stocks",
+  "event": "e7698",
+  "by": "rules"
+ },
+ "14a8fccaa8780e4e": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8350",
+  "by": "rules"
+ },
+ "48d72457aac9b6a5": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8350",
+  "by": "rules"
+ },
+ "9c4c9ecc4b2ce647": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8188",
+  "by": "rules"
+ },
+ "132ae1408ffacfd3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8188",
+  "by": "rules"
  }
 }
