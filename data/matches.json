@@ -148138,5 +148138,26 @@
   "market": "Crypto",
   "event": "e8954",
   "by": "rules"
+ },
+ "7b1afffb22f0ad64": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "BTC",
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8613",
+  "by": "rules"
+ },
+ "2b22336b0551ddd3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8955",
+  "by": "rules"
  }
 }
