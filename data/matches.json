@@ -142416,5 +142416,16 @@
   "market": "Other",
   "event": "e7765",
   "by": "rules"
+ },
+ "c489c8ee8ed93770": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8596",
+  "by": "rules"
  }
 }
