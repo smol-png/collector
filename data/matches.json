@@ -150613,5 +150613,61 @@
   "market": "Other",
   "event": "e9088",
   "by": "rules"
+ },
+ "950ac54972631c18": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8113",
+  "by": "rules"
+ },
+ "c44d22468e1ecccb": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9089",
+  "by": "rules"
+ },
+ "9ff214b5ee5e9d0f": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9090",
+  "by": "rules"
+ },
+ "2e2602fde99af312": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8190",
+  "by": "rules"
+ },
+ "9bf548bfb64e670a": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8998",
+  "by": "rules"
+ },
+ "0c319cae501d233f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9091",
+  "by": "rules"
  }
 }
