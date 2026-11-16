@@ -144128,5 +144128,72 @@
   "market": "Stocks",
   "event": "e8707",
   "by": "rules"
+ },
+ "48edba560ee2c20c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8708",
+  "by": "rules"
+ },
+ "16fd04383afd4695": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8709",
+  "by": "rules"
+ },
+ "de53f5b16fa4fc7c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8710",
+  "by": "rules"
+ },
+ "096aeb1b4bbae741": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8706",
+  "by": "rules"
+ },
+ "af702ff2a6d10140": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8698",
+  "by": "rules"
+ },
+ "8bd2855ebd2d13f8": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8711",
+  "by": "rules"
+ },
+ "70c5590a8b3816ab": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e6828",
+  "by": "rules"
  }
 }
