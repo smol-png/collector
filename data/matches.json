@@ -139538,5 +139538,36 @@
   "market": "Other",
   "event": "e8417",
   "by": "rules"
+ },
+ "555eba50fe459b9c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7845",
+  "by": "rules"
+ },
+ "fbf340106b25e3cd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8418",
+  "by": "rules"
+ },
+ "63ac3eb20b94802a": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e8419",
+  "by": "rules"
  }
 }
