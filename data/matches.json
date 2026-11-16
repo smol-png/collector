@@ -151130,5 +151130,23 @@
   "market": "Prediction markets",
   "event": "e9109",
   "by": "rules"
+ },
+ "67dd385bc46fe090": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9017",
+  "by": "rules"
+ },
+ "30294cf64628824b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9110",
+  "by": "rules"
  }
 }
