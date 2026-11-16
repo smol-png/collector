@@ -138604,5 +138604,25 @@
   "market": "Other",
   "event": "e6682",
   "by": "rules"
+ },
+ "adb9d69f54b534b2": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8354",
+  "by": "rules"
+ },
+ "c0caf54b8b65e342": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7756",
+  "by": "rules"
  }
 }
