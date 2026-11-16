@@ -149050,5 +149050,25 @@
   "market": "Other",
   "event": "e9007",
   "by": "rules"
+ },
+ "511a8825527209b3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9008",
+  "by": "rules"
+ },
+ "639babcc7dc022f0": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9009",
+  "by": "rules"
  }
 }
