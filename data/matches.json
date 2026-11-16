@@ -147097,5 +147097,38 @@
   "market": "Other",
   "event": "e8892",
   "by": "rules"
+ },
+ "a5123eb54972f6a7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BNB",
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8893",
+  "by": "rules"
+ },
+ "06de30c211776ee9": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8894",
+  "by": "rules"
+ },
+ "c834806917f7afd5": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8895",
+  "by": "rules"
  }
 }
