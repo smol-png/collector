@@ -150765,5 +150765,117 @@
   "market": "Other",
   "event": "e9095",
   "by": "rules"
+ },
+ "f7a72533ee0cb7ad": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8914",
+  "by": "rules"
+ },
+ "966e90b9b777138b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8520",
+  "by": "rules"
+ },
+ "502caec90a5ceb68": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9080",
+  "by": "rules"
+ },
+ "7b406faffafa572e": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9080",
+  "by": "rules"
+ },
+ "bce526fcc75b7313": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8326",
+  "by": "rules"
+ },
+ "7e023b628b59770c": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8326",
+  "by": "rules"
+ },
+ "533de012bcba07dc": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8325",
+  "by": "rules"
+ },
+ "4aff72fd9382b2cd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8683",
+  "by": "rules"
+ },
+ "d847aedce9fa1a65": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8326",
+  "by": "rules"
+ },
+ "5e122c495a802094": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9096",
+  "by": "rules"
+ },
+ "fd27611e9703d41a": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8551",
+  "by": "rules"
+ },
+ "b340b1c29cf7918d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9097",
+  "by": "rules"
  }
 }
