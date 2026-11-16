@@ -150519,5 +150519,52 @@
   "market": "Crypto",
   "event": "e9082",
   "by": "rules"
+ },
+ "f151f4dc8425b2e5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9083",
+  "by": "rules"
+ },
+ "5a7ac286a5a83090": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8992",
+  "by": "rules"
+ },
+ "8b85e8f92e959e6c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8921",
+  "by": "rules"
+ },
+ "64cef8f834558dca": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9084",
+  "by": "rules"
+ },
+ "6e492dabef8cc0db": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9085",
+  "by": "rules"
  }
 }
