@@ -142145,5 +142145,14 @@
   "market": "Stocks",
   "event": "e8515",
   "by": "rules"
+ },
+ "bbbd445e2cc7e0c6": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8578",
+  "by": "rules"
  }
 }
