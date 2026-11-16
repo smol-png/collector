@@ -148771,5 +148771,34 @@
   "market": "Other",
   "event": "e8676",
   "by": "rules"
+ },
+ "7948e3023ce29152": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8999",
+  "by": "rules"
+ },
+ "6450fdcdd2268a2b": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8805",
+  "by": "rules"
+ },
+ "350e16585f458c50": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8641",
+  "by": "rules"
  }
 }
