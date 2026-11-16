@@ -144401,5 +144401,17 @@
   "market": "Other",
   "event": "e8728",
   "by": "rules"
+ },
+ "aa64a180946d93d0": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA",
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8716",
+  "by": "rules"
  }
 }
