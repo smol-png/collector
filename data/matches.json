@@ -144667,5 +144667,34 @@
   "market": "Stocks",
   "event": "e8746",
   "by": "rules"
+ },
+ "7cab125eb6e8ba8c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8747",
+  "by": "rules"
+ },
+ "ddb3c2e9d9bb0788": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4074",
+  "by": "rules"
+ },
+ "307c9f3f084bec72": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8748",
+  "by": "rules"
  }
 }
