@@ -143785,5 +143785,27 @@
   "market": "AI",
   "event": "e8690",
   "by": "rules"
+ },
+ "47e71986792abd51": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8328",
+  "by": "rules"
+ },
+ "be14acc13a7e4f0e": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ETH",
+   "USDC",
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8565",
+  "by": "rules"
  }
 }
