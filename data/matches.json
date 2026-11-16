@@ -157015,5 +157015,17 @@
   "market": "Prediction markets",
   "event": "e9333",
   "by": "rules"
+ },
+ "be27f4551801df95": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "COIN",
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9434",
+  "by": "rules"
  }
 }
