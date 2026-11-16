@@ -151733,5 +151733,27 @@
   "market": "Other",
   "event": "e8540",
   "by": "rules"
+ },
+ "f3421a5bc0d9ed4b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9133",
+  "by": "rules"
+ },
+ "d7f4ae6e22378d8e": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8190",
+  "by": "rules"
  }
 }
