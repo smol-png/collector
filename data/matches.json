@@ -140856,5 +140856,25 @@
   "market": "Other",
   "event": "e8077",
   "by": "rules"
+ },
+ "31a13181921ab2eb": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8497",
+  "by": "rules"
+ },
+ "cd426c4022f96b37": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8498",
+  "by": "rules"
  }
 }
