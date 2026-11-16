@@ -155076,5 +155076,52 @@
   "market": "AI",
   "event": "e8042",
   "by": "rules"
+ },
+ "2351efa61db96d1c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9324",
+  "by": "rules"
+ },
+ "d05a9322b7652195": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9325",
+  "by": "rules"
+ },
+ "0bc78ee11c145d3e": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e8436",
+  "by": "rules"
+ },
+ "c00f55d9c7c40755": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e9313",
+  "by": "rules"
+ },
+ "3877d5528adaeab5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9326",
+  "by": "rules"
  }
 }
