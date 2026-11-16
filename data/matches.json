@@ -143895,5 +143895,25 @@
   "market": "Crypto",
   "event": "e8695",
   "by": "rules"
+ },
+ "e49f08c0ec2c1218": {
+  "type": "explainer",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8696",
+  "by": "rules"
+ },
+ "ded3db66530f043b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8697",
+  "by": "rules"
  }
 }
