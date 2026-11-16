@@ -151110,5 +151110,25 @@
   "market": "Other",
   "event": "e9107",
   "by": "rules"
+ },
+ "a9149dca2d5a1bd1": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9108",
+  "by": "rules"
+ },
+ "f982f62a379a6359": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "HYPE"
+  ],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e9109",
+  "by": "rules"
  }
 }
