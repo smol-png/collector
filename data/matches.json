@@ -153745,5 +153745,26 @@
   "market": "Crypto",
   "event": "e9082",
   "by": "rules"
+ },
+ "99541b31debf9f84": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "BTC",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9247",
+  "by": "rules"
+ },
+ "2c25aee937362cfd": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8879",
+  "by": "rules"
  }
 }
