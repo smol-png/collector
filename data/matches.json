@@ -143509,5 +143509,32 @@
   "market": "Crypto",
   "event": "e8472",
   "by": "rules"
+ },
+ "fafdaa8aa34ee98d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8006",
+  "by": "rules"
+ },
+ "3ef8ac8f8dc0736e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8676",
+  "by": "rules"
+ },
+ "bbf335fa217fbd04": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e8677",
+  "by": "rules"
  }
 }
