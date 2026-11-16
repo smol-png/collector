@@ -147625,5 +147625,25 @@
   "market": "Stocks",
   "event": "e8707",
   "by": "rules"
+ },
+ "2124b69aeac5c509": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 17.5,
+  "market": "Crypto",
+  "event": "e8921",
+  "by": "rules"
+ },
+ "b6b662676443f390": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8922",
+  "by": "rules"
  }
 }
