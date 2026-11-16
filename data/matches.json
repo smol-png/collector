@@ -151979,5 +151979,16 @@
   "market": "AI",
   "event": "e9148",
   "by": "rules"
+ },
+ "07831ad302ee7888": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9149",
+  "by": "rules"
  }
 }
