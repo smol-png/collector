@@ -143480,5 +143480,34 @@
   "market": "Other",
   "event": "e8673",
   "by": "rules"
+ },
+ "ffb4d4e1b9046fec": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8674",
+  "by": "rules"
+ },
+ "841fb0696c85d88b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8675",
+  "by": "rules"
+ },
+ "3a824a8036ae9576": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8472",
+  "by": "rules"
  }
 }
