@@ -141069,5 +141069,23 @@
   "market": "AI",
   "event": "e219",
   "by": "rules"
+ },
+ "edfb39b82cb124fc": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8510",
+  "by": "rules"
+ },
+ "509d6910ab97e881": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8511",
+  "by": "rules"
  }
 }
