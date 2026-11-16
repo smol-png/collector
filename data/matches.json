@@ -139883,5 +139883,65 @@
   "market": "Other",
   "event": "e8438",
   "by": "rules"
+ },
+ "8137be9566d5753a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8439",
+  "by": "rules"
+ },
+ "6b2551a40e920448": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8439",
+  "by": "rules"
+ },
+ "a8355aea132b07f2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8440",
+  "by": "rules"
+ },
+ "eff31c3e6c3cf5cb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8440",
+  "by": "rules"
+ },
+ "117f6de4e33df732": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7827",
+  "by": "rules"
+ },
+ "19bb61a29f375eb2": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8441",
+  "by": "rules"
  }
 }
