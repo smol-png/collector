@@ -158082,5 +158082,32 @@
   "market": "Other",
   "event": "e7170",
   "by": "rules"
+ },
+ "8698d0931268618e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9462",
+  "by": "rules"
+ },
+ "85aa427cae0e5b6d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9500",
+  "by": "rules"
+ },
+ "048e147ecf10b3f8": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9501",
+  "by": "rules"
  }
 }
