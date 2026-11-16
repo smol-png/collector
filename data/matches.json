@@ -147057,5 +147057,16 @@
   "market": "Other",
   "event": "e7170",
   "by": "rules"
+ },
+ "7548335c3777a0a0": {
+  "type": "roundup",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8889",
+  "by": "rules"
  }
 }
