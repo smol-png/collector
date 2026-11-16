@@ -155410,5 +155410,27 @@
   "market": "Other",
   "event": "e9195",
   "by": "rules"
+ },
+ "cc90f6c96da25cbb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9347",
+  "by": "rules"
+ },
+ "f01cb90b0bc62bec": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9348",
+  "by": "rules"
  }
 }
