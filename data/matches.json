@@ -149360,5 +149360,52 @@
   "market": "Crypto",
   "event": "e8136",
   "by": "rules"
+ },
+ "53b0238dad470fc2": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e322",
+  "by": "rules"
+ },
+ "fa0793ea786e239c": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e8156",
+  "by": "rules"
+ },
+ "1e87c2e5ad296a81": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8996",
+  "by": "rules"
+ },
+ "3fe4d43dd7eaa11e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9030",
+  "by": "rules"
+ },
+ "5d715612d08b4244": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9031",
+  "by": "rules"
  }
 }
