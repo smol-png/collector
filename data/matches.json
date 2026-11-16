@@ -152075,5 +152075,27 @@
   "market": "Other",
   "event": "e8834",
   "by": "rules"
+ },
+ "5548796bb0c84ea9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1500.0,
+  "market": "Other",
+  "event": "e8784",
+  "by": "rules"
+ },
+ "3ec0ab3fde31b85d": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC",
+   "ETH",
+   "XRP"
+  ],
+  "usd_m": 1490.0,
+  "market": "Crypto",
+  "event": "e9156",
+  "by": "rules"
  }
 }
