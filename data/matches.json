@@ -149319,5 +149319,46 @@
   "market": "Other",
   "event": "e9026",
   "by": "rules"
+ },
+ "8f0d50e65a9f6492": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9027",
+  "by": "rules"
+ },
+ "13bfbfd03177750d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9028",
+  "by": "rules"
+ },
+ "8b07b7c94b40e55b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9029",
+  "by": "rules"
+ },
+ "885d8cc89cf08967": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8136",
+  "by": "rules"
  }
 }
