@@ -142761,5 +142761,104 @@
   "market": "Crypto",
   "event": "e8541",
   "by": "rules"
+ },
+ "f919138ddb879003": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 2300.0,
+  "market": "Other",
+  "event": "e8616",
+  "by": "rules"
+ },
+ "f2fe3a728255446c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8617",
+  "by": "rules"
+ },
+ "f31325f99c9d1760": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8618",
+  "by": "rules"
+ },
+ "e2bfa358dbaf9ac0": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.01,
+  "market": "Stocks",
+  "event": "e8312",
+  "by": "rules"
+ },
+ "f86aa1fd84d7096f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 4.8,
+  "market": "Stocks",
+  "event": "e1799",
+  "by": "rules"
+ },
+ "8ce4c0085a733eeb": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7229",
+  "by": "rules"
+ },
+ "72d733cfb0957a2d": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e7229",
+  "by": "rules"
+ },
+ "706db389c5439c39": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e8619",
+  "by": "rules"
+ },
+ "239972387b837f30": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8241",
+  "by": "rules"
+ },
+ "e566e3e0c9690f54": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8620",
+  "by": "rules"
+ },
+ "1af7c09c1b53df9c": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8621",
+  "by": "rules"
  }
 }
