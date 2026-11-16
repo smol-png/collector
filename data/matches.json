@@ -158282,5 +158282,64 @@
   "market": "Stocks",
   "event": "e8256",
   "by": "rules"
+ },
+ "508c9843711033e0": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9509",
+  "by": "rules"
+ },
+ "c270850e8b3e0ce7": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9510",
+  "by": "rules"
+ },
+ "5ab805a308dd50c0": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9511",
+  "by": "rules"
+ },
+ "b94b4cca73f72788": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9512",
+  "by": "rules"
+ },
+ "2621eabe63abc324": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9513",
+  "by": "rules"
+ },
+ "962d74bd800b99d0": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "MSFT",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9514",
+  "by": "rules"
  }
 }
