@@ -140125,5 +140125,38 @@
   "market": "Other",
   "event": "e8423",
   "by": "rules"
+ },
+ "47e1cc77df9c7fc1": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8453",
+  "by": "rules"
+ },
+ "5b4253eb9b3f0ae7": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8453",
+  "by": "rules"
+ },
+ "d7c269ad3935c846": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8454",
+  "by": "rules"
  }
 }
