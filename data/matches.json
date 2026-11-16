@@ -153638,5 +153638,23 @@
   "market": "Crypto",
   "event": "e9050",
   "by": "rules"
+ },
+ "5d740ba84a75e3de": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9238",
+  "by": "rules"
+ },
+ "9d4fa849c558ebbc": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9239",
+  "by": "rules"
  }
 }
