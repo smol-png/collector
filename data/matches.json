@@ -151990,5 +151990,34 @@
   "market": "Crypto",
   "event": "e9149",
   "by": "rules"
+ },
+ "210802df7f3da1e6": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9150",
+  "by": "rules"
+ },
+ "06bb483d75ec618c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
+ },
+ "618b72ec328cd21c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9151",
+  "by": "rules"
  }
 }
