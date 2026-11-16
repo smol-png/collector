@@ -153364,5 +153364,17 @@
   "market": "Other",
   "event": "e9220",
   "by": "rules"
+ },
+ "7466fb25c58dc3bd": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "COIN",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8807",
+  "by": "rules"
  }
 }
