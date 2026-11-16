@@ -156997,5 +156997,23 @@
   "market": "Stocks",
   "event": "e8554",
   "by": "rules"
+ },
+ "f218acace20a2306": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9274",
+  "by": "rules"
+ },
+ "5e9ff058863df6ee": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e9333",
+  "by": "rules"
  }
 }
