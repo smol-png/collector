@@ -143872,5 +143872,28 @@
   "market": "AI",
   "event": "e8693",
   "by": "rules"
+ },
+ "e26af0cefed2c63f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8694",
+  "by": "rules"
+ },
+ "72997da4778d97ea": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8695",
+  "by": "rules"
  }
 }
