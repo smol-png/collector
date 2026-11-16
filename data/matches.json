@@ -157745,5 +157745,16 @@
   "market": "Other",
   "event": "e9194",
   "by": "rules"
+ },
+ "349aaf6dd869eae4": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": 24000.0,
+  "market": "Stocks",
+  "event": "e9479",
+  "by": "rules"
  }
 }
