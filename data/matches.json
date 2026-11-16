@@ -142741,5 +142741,25 @@
   "market": "Stocks",
   "event": "e8178",
   "by": "rules"
+ },
+ "cdb20f7c293af70d": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e8615",
+  "by": "rules"
+ },
+ "57b41ff2b1f69e96": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8541",
+  "by": "rules"
  }
 }
