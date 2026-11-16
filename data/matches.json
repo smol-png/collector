@@ -153328,5 +153328,23 @@
   "market": "Stocks",
   "event": "e219",
   "by": "rules"
+ },
+ "116be6c9abc0b4a4": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9158",
+  "by": "rules"
+ },
+ "48f1c6968c70d60a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 2000000.0,
+  "market": "Other",
+  "event": "e9218",
+  "by": "rules"
  }
 }
