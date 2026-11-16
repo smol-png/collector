@@ -156685,5 +156685,135 @@
   "market": "Other",
   "event": "e9414",
   "by": "rules"
+ },
+ "13e27a42354b2885": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9415",
+  "by": "rules"
+ },
+ "fb5cd1b1c00fba07": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9416",
+  "by": "rules"
+ },
+ "79327e9dcc59cb3e": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9417",
+  "by": "rules"
+ },
+ "78e9a254b216c572": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9040",
+  "by": "rules"
+ },
+ "d3b816f1f8a0d969": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9040",
+  "by": "rules"
+ },
+ "47e23bf4434bfa20": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9037",
+  "by": "rules"
+ },
+ "e45c89ff28fa723a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1.76,
+  "market": "Stocks",
+  "event": "e9418",
+  "by": "rules"
+ },
+ "d7e7d6caa883266d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 5.0,
+  "market": "Other",
+  "event": "e9419",
+  "by": "rules"
+ },
+ "4a9d0509f003c64b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.7,
+  "market": "Other",
+  "event": "e9379",
+  "by": "rules"
+ },
+ "e7f861771d9f951f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 251.0,
+  "market": "Stocks",
+  "event": "e9420",
+  "by": "rules"
+ },
+ "a042b6e8433d87bf": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1.2,
+  "market": "Other",
+  "event": "e8928",
+  "by": "rules"
+ },
+ "04a4ab5c0c1700a3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9421",
+  "by": "rules"
+ },
+ "78baac26483c4b4a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9422",
+  "by": "rules"
+ },
+ "3173b07f6376ca94": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 1.5,
+  "market": "Other",
+  "event": "e9423",
+  "by": "rules"
  }
 }
