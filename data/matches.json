@@ -149070,5 +149070,34 @@
   "market": "Crypto",
   "event": "e9009",
   "by": "rules"
+ },
+ "37008be1ff895e5e": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e7804",
+  "by": "rules"
+ },
+ "e3a41fb7c987f42d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9010",
+  "by": "rules"
+ },
+ "01cefb454a7d4472": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9011",
+  "by": "rules"
  }
 }
