@@ -155653,5 +155653,146 @@
   "market": "AI",
   "event": "e9278",
   "by": "rules"
+ },
+ "e5fc56ec547c20d6": {
+  "type": "explainer",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9361",
+  "by": "rules"
+ },
+ "425335e46838d149": {
+  "type": "explainer",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9361",
+  "by": "rules"
+ },
+ "7aa01a50e7e6278a": {
+  "type": "explainer",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9361",
+  "by": "rules"
+ },
+ "2d4ee9bab466ec18": {
+  "type": "explainer",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9361",
+  "by": "rules"
+ },
+ "82b3c552c98877ad": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9362",
+  "by": "rules"
+ },
+ "e6664597ad650ea3": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9362",
+  "by": "rules"
+ },
+ "c91d6ba12b453144": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9362",
+  "by": "rules"
+ },
+ "6a4d40a6fc863dae": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9362",
+  "by": "rules"
+ },
+ "9f8eb70250b690ab": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9311",
+  "by": "rules"
+ },
+ "aeda937e9ff488f5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9311",
+  "by": "rules"
+ },
+ "9cb8027b22e88a36": {
+  "type": "explainer",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9361",
+  "by": "rules"
+ },
+ "f9ee9517add13228": {
+  "type": "explainer",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9361",
+  "by": "rules"
+ },
+ "08b41f5427f33d28": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9363",
+  "by": "rules"
+ },
+ "f166d36375ddb622": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9364",
+  "by": "rules"
+ },
+ "a5f44ab555c7cade": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9365",
+  "by": "rules"
  }
 }
