@@ -155955,5 +155955,16 @@
   "market": "Stocks",
   "event": "e8515",
   "by": "rules"
+ },
+ "d62b5fc11964bd31": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": 15.0,
+  "market": "Crypto",
+  "event": "e9375",
+  "by": "rules"
  }
 }
