@@ -150178,5 +150178,25 @@
   "market": "Other",
   "event": "e9067",
   "by": "rules"
+ },
+ "a7f8945fda8d8110": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "DOGE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9068",
+  "by": "rules"
+ },
+ "de1cdeccc31fa4eb": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9069",
+  "by": "rules"
  }
 }
