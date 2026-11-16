@@ -154980,5 +154980,70 @@
   "market": "Other",
   "event": "e9321",
   "by": "rules"
+ },
+ "f9bf4015c0c78815": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9077",
+  "by": "rules"
+ },
+ "6cb8cfc1f21ff46b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e9037",
+  "by": "rules"
+ },
+ "478c7c86af34cb07": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9318",
+  "by": "rules"
+ },
+ "601e16f6b3e3481a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9076",
+  "by": "rules"
+ },
+ "96e2113ee5314f57": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9302",
+  "by": "rules"
+ },
+ "e0cb1ece39f65cc5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 38000.0,
+  "market": "Other",
+  "event": "e9321",
+  "by": "rules"
+ },
+ "cc9db3f5f04707d2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9037",
+  "by": "rules"
  }
 }
