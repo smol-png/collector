@@ -149654,5 +149654,16 @@
   "market": "Other",
   "event": "e9044",
   "by": "rules"
+ },
+ "0f33e3ad09386ba7": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9045",
+  "by": "rules"
  }
 }
