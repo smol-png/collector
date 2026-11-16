@@ -141625,5 +141625,43 @@
   "market": "Other",
   "event": "e8547",
   "by": "rules"
+ },
+ "76b141cd2296586b": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8548",
+  "by": "rules"
+ },
+ "86b8eed056d7aaa4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8361",
+  "by": "rules"
+ },
+ "ca9f892e75ce53f0": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8549",
+  "by": "rules"
+ },
+ "d890edf6a9ff1b24": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8550",
+  "by": "rules"
  }
 }
