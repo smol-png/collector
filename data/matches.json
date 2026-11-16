@@ -154416,5 +154416,25 @@
   "market": "Other",
   "event": "e9281",
   "by": "rules"
+ },
+ "ea25ff8b7c04f9b4": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9282",
+  "by": "rules"
+ },
+ "07546c3aa289f700": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9283",
+  "by": "rules"
  }
 }
