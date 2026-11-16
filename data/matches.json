@@ -148159,5 +148159,63 @@
   "market": "Other",
   "event": "e8955",
   "by": "rules"
+ },
+ "084f0c1a18621547": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e8956",
+  "by": "rules"
+ },
+ "4ee9d75fda1981d4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8957",
+  "by": "rules"
+ },
+ "4bf8ed0c6e701f76": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8958",
+  "by": "rules"
+ },
+ "ee973030253dda63": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 45.0,
+  "market": "AI",
+  "event": "e8959",
+  "by": "rules"
+ },
+ "411b4f0050c9a6b6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8960",
+  "by": "rules"
+ },
+ "41d6481056acaa62": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8961",
+  "by": "rules"
  }
 }
