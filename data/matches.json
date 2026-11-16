@@ -158386,5 +158386,45 @@
   "market": "Other",
   "event": "e9517",
   "by": "rules"
+ },
+ "dd66496c22d90430": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 22000.0,
+  "market": "Other",
+  "event": "e9518",
+  "by": "rules"
+ },
+ "e8281e2ebc594504": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8970",
+  "by": "rules"
+ },
+ "0144fdb8bb204d9a": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9519",
+  "by": "rules"
+ },
+ "61a6cdf0bf328d49": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9520",
+  "by": "rules"
  }
 }
