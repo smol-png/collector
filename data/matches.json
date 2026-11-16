@@ -143637,5 +143637,126 @@
   "market": "Stocks",
   "event": "e8509",
   "by": "rules"
+ },
+ "aac96f2ede254c56": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8046",
+  "by": "rules"
+ },
+ "1e326f3365b54a59": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8682",
+  "by": "rules"
+ },
+ "9c1d271b7cf477c1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8683",
+  "by": "rules"
+ },
+ "ecbc64761cf3ab8e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 2.47,
+  "market": "Stocks",
+  "event": "e8684",
+  "by": "rules"
+ },
+ "55e06c18acc381e0": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8423",
+  "by": "rules"
+ },
+ "a898e149777b8180": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8685",
+  "by": "rules"
+ },
+ "90c6574a98ff2a19": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8686",
+  "by": "rules"
+ },
+ "f58b196acf309be0": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e8687",
+  "by": "rules"
+ },
+ "99b28455002a5c2c": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8501",
+  "by": "rules"
+ },
+ "43ea2401387ce6f1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8688",
+  "by": "rules"
+ },
+ "149215bf702d7aad": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8689",
+  "by": "rules"
+ },
+ "4df391370e739200": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8689",
+  "by": "rules"
+ },
+ "905caedcbcd0f550": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8688",
+  "by": "rules"
  }
 }
