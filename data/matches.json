@@ -147068,5 +147068,34 @@
   "market": "Crypto",
   "event": "e8889",
   "by": "rules"
+ },
+ "7d193a53d0d340b2": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8890",
+  "by": "rules"
+ },
+ "3df6f9b1ce292946": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8891",
+  "by": "rules"
+ },
+ "cd5b934b0893472f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 15.0,
+  "market": "Other",
+  "event": "e8892",
+  "by": "rules"
  }
 }
