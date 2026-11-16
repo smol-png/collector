@@ -147509,5 +147509,23 @@
   "market": "Crypto",
   "event": "e8874",
   "by": "rules"
+ },
+ "9e72c7ebddcafbb6": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e8914",
+  "by": "rules"
+ },
+ "9da9eafc1a41f758": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8915",
+  "by": "rules"
  }
 }
