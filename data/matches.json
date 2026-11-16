@@ -146685,5 +146685,16 @@
   "market": "Other",
   "event": "e8863",
   "by": "rules"
+ },
+ "2446bfe0152d8349": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8745",
+  "by": "rules"
  }
 }
