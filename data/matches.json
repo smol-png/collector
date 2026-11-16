@@ -140425,5 +140425,113 @@
   "market": "Other",
   "event": "e8474",
   "by": "rules"
+ },
+ "a304ee2ae93010bc": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8475",
+  "by": "rules"
+ },
+ "37d96b024fe8fbf1": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8241",
+  "by": "rules"
+ },
+ "45a42a36bda32a46": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8476",
+  "by": "rules"
+ },
+ "ba68534eacdc836c": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8476",
+  "by": "rules"
+ },
+ "ba7f2a8143a50edc": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.02,
+  "market": "Stocks",
+  "event": "e8477",
+  "by": "rules"
+ },
+ "5d6816dccbca4907": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8478",
+  "by": "rules"
+ },
+ "4d3542a04ecae8ad": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8479",
+  "by": "rules"
+ },
+ "1317e34c4e3ca1a7": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8376",
+  "by": "rules"
+ },
+ "4cf4b8884cbc908c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8423",
+  "by": "rules"
+ },
+ "edc93a232368b0a4": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8376",
+  "by": "rules"
+ },
+ "7f1d919c9f325b4e": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e8478",
+  "by": "rules"
+ },
+ "0cad6f32f9d34564": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8241",
+  "by": "rules"
  }
 }
