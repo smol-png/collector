@@ -146550,5 +146550,25 @@
   "market": "Other",
   "event": "e8521",
   "by": "rules"
+ },
+ "1296c18eddededb5": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e7827",
+  "by": "rules"
+ },
+ "618454e1802e2ef6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8854",
+  "by": "rules"
  }
 }
