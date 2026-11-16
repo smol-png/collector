@@ -159001,5 +159001,25 @@
   "market": "Other",
   "event": "e9553",
   "by": "rules"
+ },
+ "1cf4870a6cc21e91": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "HOOD"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9476",
+  "by": "rules"
+ },
+ "bba9eca3eed2e2de": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8006",
+  "by": "rules"
  }
 }
