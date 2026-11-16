@@ -146776,5 +146776,34 @@
   "market": "AI",
   "event": "e8868",
   "by": "rules"
+ },
+ "56d959eecb26ee90": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8869",
+  "by": "rules"
+ },
+ "121a88e06c671f20": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e8870",
+  "by": "rules"
+ },
+ "6802c11a9fae9ebd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8859",
+  "by": "rules"
  }
 }
