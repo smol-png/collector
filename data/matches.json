@@ -154135,5 +154135,38 @@
   "market": "Macro",
   "event": "e9266",
   "by": "rules"
+ },
+ "dcf4dc42114e5e06": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": 2.6,
+  "market": "Crypto",
+  "event": "e9267",
+  "by": "rules"
+ },
+ "49b6571ca25396fc": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9268",
+  "by": "rules"
+ },
+ "c8d94d9891e17704": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8056",
+  "by": "rules"
  }
 }
