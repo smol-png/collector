@@ -145904,5 +145904,25 @@
   "market": "AI",
   "event": "e8814",
   "by": "rules"
+ },
+ "222aad05035a95cd": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8745",
+  "by": "rules"
+ },
+ "b3bf29941e0d9195": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8815",
+  "by": "rules"
  }
 }
