@@ -151588,5 +151588,27 @@
   "market": "Crypto",
   "event": "e9129",
   "by": "rules"
+ },
+ "ead7b3e2010cde04": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9130",
+  "by": "rules"
+ },
+ "1f5e4cd8ba4a0ae9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8682",
+  "by": "rules"
  }
 }
