@@ -154875,5 +154875,25 @@
   "market": "AI",
   "event": "e9314",
   "by": "rules"
+ },
+ "c564c7cea5d4294a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9315",
+  "by": "rules"
+ },
+ "d3892f31cbb1a9b6": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9274",
+  "by": "rules"
  }
 }
