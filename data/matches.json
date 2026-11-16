@@ -146725,5 +146725,44 @@
   "market": "AI",
   "event": "e8864",
   "by": "rules"
+ },
+ "0514108c712f12cf": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8865",
+  "by": "rules"
+ },
+ "3f388227a7e9efe7": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8866",
+  "by": "rules"
+ },
+ "b881c0260d5a8bb3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8867",
+  "by": "rules"
+ },
+ "38b7dffcd384c464": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA",
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8868",
+  "by": "rules"
  }
 }
