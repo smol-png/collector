@@ -157045,5 +157045,70 @@
   "market": "Prediction markets",
   "event": "e8093",
   "by": "rules"
+ },
+ "2f49a78c5ed4bae0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9436",
+  "by": "rules"
+ },
+ "7227d6cfe1ac05d5": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9437",
+  "by": "rules"
+ },
+ "1113b382fdf99814": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8855",
+  "by": "rules"
+ },
+ "b2e39af30de2c04d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8515",
+  "by": "rules"
+ },
+ "9acf38f80d2e5965": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8981",
+  "by": "rules"
+ },
+ "08e38e4cf8760785": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9438",
+  "by": "rules"
+ },
+ "bda3dbbd4c317912": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9439",
+  "by": "rules"
  }
 }
