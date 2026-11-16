@@ -140194,5 +140194,25 @@
   "market": "AI",
   "event": "e8457",
   "by": "rules"
+ },
+ "d97cbde69f6b9b24": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8458",
+  "by": "rules"
+ },
+ "6257092920238247": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ADA"
+  ],
+  "usd_m": 5.0,
+  "market": "Crypto",
+  "event": "e8459",
+  "by": "rules"
  }
 }
