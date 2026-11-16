@@ -154378,5 +154378,25 @@
   "market": "AI",
   "event": "e9274",
   "by": "rules"
+ },
+ "5a6cc4d5c761e24a": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9278",
+  "by": "rules"
+ },
+ "1e7d7de8b47be416": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9279",
+  "by": "rules"
  }
 }
