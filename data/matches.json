@@ -157245,5 +157245,74 @@
   "market": "Other",
   "event": "e8498",
   "by": "rules"
+ },
+ "8b0c6be2b33d0cfb": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9445",
+  "by": "rules"
+ },
+ "35c35aa8da3e68e5": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9446",
+  "by": "rules"
+ },
+ "1198516ea0cc5402": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9447",
+  "by": "rules"
+ },
+ "e10fcd77d17a87cd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9448",
+  "by": "rules"
+ },
+ "b388da539644b22f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH",
+   "USDC",
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8565",
+  "by": "rules"
+ },
+ "a30f9f905c4e85a0": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9449",
+  "by": "rules"
+ },
+ "140f7d01e41af500": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9450",
+  "by": "rules"
  }
 }
