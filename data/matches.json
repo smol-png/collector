@@ -154618,5 +154618,34 @@
   "market": "Stocks",
   "event": "e9037",
   "by": "rules"
+ },
+ "2213d4a7adb4466b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9295",
+  "by": "rules"
+ },
+ "c65d93c54acf2f7d": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9296",
+  "by": "rules"
+ },
+ "d4d0d89ed49002c0": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e4734",
+  "by": "rules"
  }
 }
