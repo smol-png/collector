@@ -147497,5 +147497,17 @@
   "market": "Other",
   "event": "e8349",
   "by": "rules"
+ },
+ "3fa631159682acab": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": 228.0,
+  "market": "Crypto",
+  "event": "e8874",
+  "by": "rules"
  }
 }
