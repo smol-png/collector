@@ -155045,5 +155045,36 @@
   "market": "Stocks",
   "event": "e9037",
   "by": "rules"
+ },
+ "e3d7cd82b686415f": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e9322",
+  "by": "rules"
+ },
+ "1196da07ee6be4a6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TRX"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9323",
+  "by": "rules"
+ },
+ "5ad228bd7a726e2f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8042",
+  "by": "rules"
  }
 }
