@@ -147166,5 +147166,44 @@
   "market": "Other",
   "event": "e8352",
   "by": "rules"
+ },
+ "61da5848b2de73b7": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": 228.0,
+  "market": "Crypto",
+  "event": "e8897",
+  "by": "rules"
+ },
+ "0a95a7821f7cac22": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 2200.0,
+  "market": "Other",
+  "event": "e8898",
+  "by": "rules"
+ },
+ "5060d0916fbc0b19": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8899",
+  "by": "rules"
+ },
+ "f08e2fe583b2fd63": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8899",
+  "by": "rules"
  }
 }
