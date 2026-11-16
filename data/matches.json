@@ -143433,5 +143433,25 @@
   "market": "Crypto",
   "event": "e8669",
   "by": "rules"
+ },
+ "55b6c69cc4364bcf": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8670",
+  "by": "rules"
+ },
+ "fba244d5072b5311": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8671",
+  "by": "rules"
  }
 }
