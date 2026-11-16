@@ -155830,5 +155830,27 @@
   "market": "Crypto",
   "event": "e9056",
   "by": "rules"
+ },
+ "7c685d058f0a2ab6": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9367",
+  "by": "rules"
+ },
+ "09ea5cd5947b4c22": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9368",
+  "by": "rules"
  }
 }
