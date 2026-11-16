@@ -144348,5 +144348,18 @@
   "market": "AI",
   "event": "e8723",
   "by": "rules"
+ },
+ "35c55c279608455c": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "AAPL",
+   "GOOGL",
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8724",
+  "by": "rules"
  }
 }
