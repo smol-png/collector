@@ -168676,5 +168676,34 @@
   "market": "Other",
   "event": "e9899",
   "by": "rules"
+ },
+ "de15cd0b849f2c02": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10090",
+  "by": "rules"
+ },
+ "5c987690e84af89d": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10091",
+  "by": "rules"
+ },
+ "5eeb8722242ab4d5": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10032",
+  "by": "rules"
  }
 }
