@@ -165363,5 +165363,19 @@
   "market": "Other",
   "event": "e8334",
   "by": "rules"
+ },
+ "1fc54fb4add02d53": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC",
+   "ETH",
+   "SOL",
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9156",
+  "by": "rules"
  }
 }
