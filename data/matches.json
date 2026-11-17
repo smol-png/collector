@@ -174109,5 +174109,25 @@
   "market": "AI",
   "event": "e10428",
   "by": "rules"
+ },
+ "0712b0cf84b73c9b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10429",
+  "by": "rules"
+ },
+ "5db9e872b202faf3": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10430",
+  "by": "rules"
  }
 }
