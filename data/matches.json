@@ -173383,5 +173383,16 @@
   "market": "Other",
   "event": "e10374",
   "by": "rules"
+ },
+ "e7520e11ea3c4248": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10375",
+  "by": "rules"
  }
 }
