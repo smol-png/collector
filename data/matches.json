@@ -179767,5 +179767,16 @@
   "market": "Other",
   "event": "e9037",
   "by": "rules"
+ },
+ "249f9a91a97d1bf5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10744",
+  "by": "rules"
  }
 }
