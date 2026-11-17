@@ -180989,5 +180989,23 @@
   "market": "AI",
   "event": "e10825",
   "by": "rules"
+ },
+ "0e6f5567c47e4cf0": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10522",
+  "by": "rules"
+ },
+ "493afae69e4e1b89": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8303",
+  "by": "rules"
  }
 }
