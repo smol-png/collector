@@ -167828,5 +167828,34 @@
   "market": "Crypto",
   "event": "e4074",
   "by": "rules"
+ },
+ "99bfdecafaac9318": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10043",
+  "by": "rules"
+ },
+ "0289782c400ff64a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10044",
+  "by": "rules"
+ },
+ "4707c6dd0cd89377": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9689",
+  "by": "rules"
  }
 }
