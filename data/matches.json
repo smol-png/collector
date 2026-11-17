@@ -162874,5 +162874,137 @@
   "market": "Macro",
   "event": "e9773",
   "by": "rules"
+ },
+ "6aec56dff6489524": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9774",
+  "by": "rules"
+ },
+ "c11c8a3a3a10c67e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": 17000.0,
+  "market": "AI",
+  "event": "e9775",
+  "by": "rules"
+ },
+ "1caccc18aaaf9932": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9776",
+  "by": "rules"
+ },
+ "1ebad639ef2de3bb": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 900000.0,
+  "market": "AI",
+  "event": "e9777",
+  "by": "rules"
+ },
+ "4c794f9ed3d6727c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9604",
+  "by": "rules"
+ },
+ "051a43961f00c1dd": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9778",
+  "by": "rules"
+ },
+ "ecc9876df701ec8f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9779",
+  "by": "rules"
+ },
+ "ed7900a1f6dbd410": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9780",
+  "by": "rules"
+ },
+ "c32a78973abcb38f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9781",
+  "by": "rules"
+ },
+ "6f160686d050627b": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 700.0,
+  "market": "Other",
+  "event": "e9782",
+  "by": "rules"
+ },
+ "5ed40fb7df9f2f4a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9783",
+  "by": "rules"
+ },
+ "865833b928746e2d": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9784",
+  "by": "rules"
+ },
+ "258f415e64555289": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9785",
+  "by": "rules"
+ },
+ "7099eb6011813799": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9786",
+  "by": "rules"
  }
 }
