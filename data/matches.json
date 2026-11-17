@@ -169619,5 +169619,25 @@
   "market": "Stocks",
   "event": "e8042",
   "by": "rules"
+ },
+ "3c22de065a3d9906": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10145",
+  "by": "rules"
+ },
+ "c157824b533ad5b9": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8157",
+  "by": "rules"
  }
 }
