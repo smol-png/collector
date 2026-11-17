@@ -174925,5 +174925,41 @@
   "market": "Stocks",
   "event": "e8535",
   "by": "rules"
+ },
+ "4aee3929fb15575b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10477",
+  "by": "rules"
+ },
+ "d999fe4d7ce5e0cd": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e10389",
+  "by": "rules"
+ },
+ "5030c09f9ebbf25f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 30.0,
+  "market": "Crypto",
+  "event": "e10466",
+  "by": "rules"
+ },
+ "df8ca3f59fb92068": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e10478",
+  "by": "rules"
  }
 }
