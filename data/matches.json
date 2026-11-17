@@ -172963,5 +172963,32 @@
   "market": "Other",
   "event": "e10168",
   "by": "rules"
+ },
+ "b905a81323301046": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e10351",
+  "by": "rules"
+ },
+ "de5aeea18c692e44": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": 2300.0,
+  "market": "Other",
+  "event": "e10010",
+  "by": "rules"
+ },
+ "d71711312948fcfc": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "AI",
+  "event": "e9011",
+  "by": "rules"
  }
 }
