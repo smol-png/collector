@@ -179377,5 +179377,16 @@
   "market": "AI",
   "event": "e10718",
   "by": "rules"
+ },
+ "2ebeec4a5d041550": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10719",
+  "by": "rules"
  }
 }
