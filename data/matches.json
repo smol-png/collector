@@ -167286,5 +167286,23 @@
   "market": "Macro",
   "event": "e10012",
   "by": "rules"
+ },
+ "3d2731a879729117": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9866",
+  "by": "rules"
+ },
+ "7483b806ce4a7b79": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10013",
+  "by": "rules"
  }
 }
