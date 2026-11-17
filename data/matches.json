@@ -170374,5 +170374,23 @@
   "market": "AI",
   "event": "e8807",
   "by": "rules"
+ },
+ "a028e060d3e27ebb": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10190",
+  "by": "rules"
+ },
+ "30dbe5625f43b846": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10170",
+  "by": "rules"
  }
 }
