@@ -172656,5 +172656,32 @@
   "market": "Crypto",
   "event": "e10328",
   "by": "rules"
+ },
+ "10a7d1bf6f947194": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8845",
+  "by": "rules"
+ },
+ "ced97caf01a5665f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10329",
+  "by": "rules"
+ },
+ "2b5d64492beecddb": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9217",
+  "by": "rules"
  }
 }
