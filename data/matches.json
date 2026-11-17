@@ -171726,5 +171726,32 @@
   "market": "Other",
   "event": "e10278",
   "by": "rules"
+ },
+ "50081915276e5d0a": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e8973",
+  "by": "rules"
+ },
+ "21cf11052884ca57": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10279",
+  "by": "rules"
+ },
+ "418ed35a9bcb6328": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10280",
+  "by": "rules"
  }
 }
