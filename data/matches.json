@@ -164089,5 +164089,16 @@
   "market": "Stocks",
   "event": "e9716",
   "by": "rules"
+ },
+ "7fb15982a3165a6f": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": 85.0,
+  "market": "Crypto",
+  "event": "e9698",
+  "by": "rules"
  }
 }
