@@ -171984,5 +171984,37 @@
   "market": "Other",
   "event": "e9194",
   "by": "rules"
+ },
+ "22058e948dfa2d28": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10290",
+  "by": "rules"
+ },
+ "d44e525aede1ba4b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e4074",
+  "by": "rules"
+ },
+ "54502d297ffee119": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": 1280.0,
+  "market": "Crypto",
+  "event": "e10291",
+  "by": "rules"
  }
 }
