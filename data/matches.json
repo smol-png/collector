@@ -164176,5 +164176,28 @@
   "market": "AI",
   "event": "e9845",
   "by": "rules"
+ },
+ "c5d95c9e70dcadae": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "HOOD",
+   "HYPE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9476",
+  "by": "rules"
+ },
+ "5217bec23e841148": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9846",
+  "by": "rules"
  }
 }
