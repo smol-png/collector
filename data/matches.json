@@ -170539,5 +170539,14 @@
   "market": "Other",
   "event": "e10200",
   "by": "rules"
+ },
+ "240f0b07753ffb25": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10201",
+  "by": "rules"
  }
 }
