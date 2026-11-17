@@ -170508,5 +170508,18 @@
   "market": "Other",
   "event": "e10198",
   "by": "rules"
+ },
+ "63e053642e72ee3b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "ETH",
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10199",
+  "by": "rules"
  }
 }
