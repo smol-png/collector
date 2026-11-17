@@ -165880,5 +165880,32 @@
   "market": "Other",
   "event": "e9934",
   "by": "rules"
+ },
+ "05169636f336d20d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9935",
+  "by": "rules"
+ },
+ "48e08d602869decd": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9936",
+  "by": "rules"
+ },
+ "324fa19e5ef782ca": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9821",
+  "by": "rules"
  }
 }
