@@ -169250,5 +169250,25 @@
   "market": "Crypto",
   "event": "e10127",
   "by": "rules"
+ },
+ "0828cea8627c05bd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10128",
+  "by": "rules"
+ },
+ "b36e66f059b681bc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 3000.0,
+  "market": "Other",
+  "event": "e10129",
+  "by": "rules"
  }
 }
