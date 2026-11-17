@@ -171955,5 +171955,25 @@
   "market": "Other",
   "event": "e10287",
   "by": "rules"
+ },
+ "34cffc18c051594a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10288",
+  "by": "rules"
+ },
+ "eaa8292ecf9b2f29": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10289",
+  "by": "rules"
  }
 }
