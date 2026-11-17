@@ -177954,5 +177954,126 @@
   "market": "AI",
   "event": "e10327",
   "by": "rules"
+ },
+ "61249a4c8f173272": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10629",
+  "by": "rules"
+ },
+ "3f771c0e5aa0eb4b": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 26000.0,
+  "market": "Other",
+  "event": "e10549",
+  "by": "rules"
+ },
+ "5d8515ca7ba2bbb9": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 26000.0,
+  "market": "Other",
+  "event": "e10549",
+  "by": "rules"
+ },
+ "1911349106bc1544": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10630",
+  "by": "rules"
+ },
+ "43118223fa31c083": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10440",
+  "by": "rules"
+ },
+ "43d271979623b44a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8688",
+  "by": "rules"
+ },
+ "ea874007ee6d905e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8688",
+  "by": "rules"
+ },
+ "76be5381f0491a85": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10631",
+  "by": "rules"
+ },
+ "53df4ce69a5fb3d2": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10631",
+  "by": "rules"
+ },
+ "dddeaacdabb72c9c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10632",
+  "by": "rules"
+ },
+ "65237993e9f1008b": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10633",
+  "by": "rules"
+ },
+ "b736bdcdac4723ee": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10633",
+  "by": "rules"
+ },
+ "fb0d086df08aebef": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8498",
+  "by": "rules"
  }
 }
