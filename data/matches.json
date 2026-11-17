@@ -173354,5 +173354,25 @@
   "market": "Stocks",
   "event": "e8241",
   "by": "rules"
+ },
+ "54bffb0978a27c23": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8335",
+  "by": "rules"
+ },
+ "2ecf82aae926b54e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10373",
+  "by": "rules"
  }
 }
