@@ -183810,5 +183810,117 @@
   "market": "Other",
   "event": "e10971",
   "by": "rules"
+ },
+ "4f841ab6e428eac6": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10972",
+  "by": "rules"
+ },
+ "67b76acc5f09d78a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10973",
+  "by": "rules"
+ },
+ "9ee7a4bb11b3df67": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10973",
+  "by": "rules"
+ },
+ "5a679246d7c88ba4": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10974",
+  "by": "rules"
+ },
+ "03eaaba835cc36f4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10975",
+  "by": "rules"
+ },
+ "5666420198068d14": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.11,
+  "market": "Stocks",
+  "event": "e10976",
+  "by": "rules"
+ },
+ "048eb8723d6ee029": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10977",
+  "by": "rules"
+ },
+ "3c5deade91d34445": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10977",
+  "by": "rules"
+ },
+ "88d603317dfd54fa": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8241",
+  "by": "rules"
+ },
+ "5c208ee0f98ec5d4": {
+  "type": "live",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10978",
+  "by": "rules"
+ },
+ "1b9145bf1e3ece2e": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8256",
+  "by": "rules"
+ },
+ "cb4621d844fbaf0d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10979",
+  "by": "rules"
  }
 }
