@@ -175706,5 +175706,45 @@
   "market": "Other",
   "event": "e10516",
   "by": "rules"
+ },
+ "5b4293ec4976aa29": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10517",
+  "by": "rules"
+ },
+ "e10d6bdb46a3fa9e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10518",
+  "by": "rules"
+ },
+ "aa87f398f5856590": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9094",
+  "by": "rules"
+ },
+ "15d5de4509eecb7f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10519",
+  "by": "rules"
  }
 }
