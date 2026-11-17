@@ -166467,5 +166467,25 @@
   "market": "Crypto",
   "event": "e9965",
   "by": "rules"
+ },
+ "8ce284c51c7897e4": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 1220.0,
+  "market": "Crypto",
+  "event": "e9956",
+  "by": "rules"
+ },
+ "aaf9f777433d9aa8": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9966",
+  "by": "rules"
  }
 }
