@@ -173468,5 +173468,41 @@
   "market": "Other",
   "event": "e10381",
   "by": "rules"
+ },
+ "f7c59ee923bce030": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10382",
+  "by": "rules"
+ },
+ "3e1b639b1af5d96d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10383",
+  "by": "rules"
+ },
+ "d70822d9a6fc81cb": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 500.0,
+  "market": "AI",
+  "event": "e10323",
+  "by": "rules"
+ },
+ "7295c08789b6490d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10384",
+  "by": "rules"
  }
 }
