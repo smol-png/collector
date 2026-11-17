@@ -174760,5 +174760,56 @@
   "market": "AI",
   "event": "e10465",
   "by": "rules"
+ },
+ "2ab6a562133437fa": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10468",
+  "by": "rules"
+ },
+ "9a1af4eda28623ac": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9648",
+  "by": "rules"
+ },
+ "a48b2387b32165d7": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10469",
+  "by": "rules"
+ },
+ "a7123ef37df54cad": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
+ },
+ "ae57b54846e9a84d": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10470",
+  "by": "rules"
  }
 }
