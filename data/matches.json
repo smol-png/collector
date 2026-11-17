@@ -162807,5 +162807,16 @@
   "market": "Other",
   "event": "e9770",
   "by": "rules"
+ },
+ "2fc7b201a26f5280": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9771",
+  "by": "rules"
  }
 }
