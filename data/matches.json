@@ -167666,5 +167666,32 @@
   "market": "Macro",
   "event": "e10012",
   "by": "rules"
+ },
+ "f469c6a7f601d551": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8691",
+  "by": "rules"
+ },
+ "8013dac143a0458f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9119",
+  "by": "rules"
+ },
+ "9342e1db6587d069": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10035",
+  "by": "rules"
  }
 }
