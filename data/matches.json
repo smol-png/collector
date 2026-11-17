@@ -166132,5 +166132,26 @@
   "market": "Crypto",
   "event": "e9947",
   "by": "rules"
+ },
+ "03307e7bffde5e80": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9880",
+  "by": "rules"
+ },
+ "2317a8402c14fd96": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9948",
+  "by": "rules"
  }
 }
