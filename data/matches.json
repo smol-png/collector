@@ -181985,5 +181985,25 @@
   "market": "Other",
   "event": "e10823",
   "by": "rules"
+ },
+ "32349505e8a82e07": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10866",
+  "by": "rules"
+ },
+ "f29a8c873a0d2c88": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
  }
 }
