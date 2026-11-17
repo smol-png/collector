@@ -168097,5 +168097,27 @@
   "market": "Crypto",
   "event": "e10057",
   "by": "rules"
+ },
+ "97d223c3e09d7879": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10058",
+  "by": "rules"
+ },
+ "dc7c50e18aaf27f0": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10058",
+  "by": "rules"
  }
 }
