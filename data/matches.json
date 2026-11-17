@@ -169228,5 +169228,27 @@
   "market": "AI",
   "event": "e10032",
   "by": "rules"
+ },
+ "f95885d10466a901": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9947",
+  "by": "rules"
+ },
+ "d8536e961d0ecc82": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10127",
+  "by": "rules"
  }
 }
