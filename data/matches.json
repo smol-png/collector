@@ -178963,5 +178963,25 @@
   "market": "Other",
   "event": "e10687",
   "by": "rules"
+ },
+ "b5a7c059092ca5ba": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 764.0,
+  "market": "Crypto",
+  "event": "e10688",
+  "by": "rules"
+ },
+ "d12b9f1c78b8cf32": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10689",
+  "by": "rules"
  }
 }
