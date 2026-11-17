@@ -168723,5 +168723,210 @@
   "market": "AI",
   "event": "e10093",
   "by": "rules"
+ },
+ "e36f1aec08e9591d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10094",
+  "by": "rules"
+ },
+ "a97da7ac40ad179b": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8463",
+  "by": "rules"
+ },
+ "cccb031aedd76ca5": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10061",
+  "by": "rules"
+ },
+ "317309f95cfea94b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10095",
+  "by": "rules"
+ },
+ "fcbb826633499918": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e1115",
+  "by": "rules"
+ },
+ "ec5978e87893576a": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10032",
+  "by": "rules"
+ },
+ "487e4b9a9f0eb6b6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10096",
+  "by": "rules"
+ },
+ "151ba2203141b821": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10097",
+  "by": "rules"
+ },
+ "983baf7e28ed9953": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10098",
+  "by": "rules"
+ },
+ "f096d61b82af7ff7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10098",
+  "by": "rules"
+ },
+ "264b67dc00af0d67": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10099",
+  "by": "rules"
+ },
+ "417ff1eee47ee7f4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10100",
+  "by": "rules"
+ },
+ "5e101d25c2a6e370": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "AMZN",
+   "GOOGL",
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10101",
+  "by": "rules"
+ },
+ "04fb83723601f3b9": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "AMZN",
+   "GOOGL",
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10101",
+  "by": "rules"
+ },
+ "d929d6a02ab67227": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10102",
+  "by": "rules"
+ },
+ "2acd641a0c634069": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10102",
+  "by": "rules"
+ },
+ "268bbec92c2a29f7": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": 335000.0,
+  "market": "Stocks",
+  "event": "e8178",
+  "by": "rules"
+ },
+ "c2b3691460553036": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": 335000.0,
+  "market": "Stocks",
+  "event": "e8178",
+  "by": "rules"
+ },
+ "ee800b228b5811f4": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8811",
+  "by": "rules"
+ },
+ "c9288a3cf9af558f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10103",
+  "by": "rules"
+ },
+ "dae24117299238e1": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10104",
+  "by": "rules"
  }
 }
