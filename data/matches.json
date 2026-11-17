@@ -175900,5 +175900,52 @@
   "market": "AI",
   "event": "e4734",
   "by": "rules"
+ },
+ "01e20692a06fa7d1": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e10532",
+  "by": "rules"
+ },
+ "b4217202ae87e2c6": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10533",
+  "by": "rules"
+ },
+ "2eadeca2fe98289a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10534",
+  "by": "rules"
+ },
+ "a9755d703a6a9132": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
+ },
+ "7db169b692b635fc": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9689",
+  "by": "rules"
  }
 }
