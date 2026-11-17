@@ -171607,5 +171607,43 @@
   "market": "AI",
   "event": "e8868",
   "by": "rules"
+ },
+ "7cf962300f9a7e96": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10270",
+  "by": "rules"
+ },
+ "aedcbe66ce335d83": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10271",
+  "by": "rules"
+ },
+ "8a2490b4a84cd3f1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e10272",
+  "by": "rules"
+ },
+ "53a67090a10d666c": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10273",
+  "by": "rules"
  }
 }
