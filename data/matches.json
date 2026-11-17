@@ -180138,5 +180138,27 @@
   "market": "Other",
   "event": "e10769",
   "by": "rules"
+ },
+ "fae58b5aa07348c3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10770",
+  "by": "rules"
+ },
+ "dcae3cf4484cbc14": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10243",
+  "by": "rules"
  }
 }
