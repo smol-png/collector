@@ -176562,5 +176562,23 @@
   "market": "Prediction markets",
   "event": "e10556",
   "by": "rules"
+ },
+ "33a322abdf9e3cd9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9010",
+  "by": "rules"
+ },
+ "60676498dd68c213": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 10000.0,
+  "market": "Other",
+  "event": "e10557",
+  "by": "rules"
  }
 }
