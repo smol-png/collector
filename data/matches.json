@@ -173062,5 +173062,16 @@
   "market": "Other",
   "event": "e10355",
   "by": "rules"
+ },
+ "2875ba75295cc31f": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": 5000.0,
+  "market": "AI",
+  "event": "e10346",
+  "by": "rules"
  }
 }
