@@ -169270,5 +169270,25 @@
   "market": "Other",
   "event": "e10129",
   "by": "rules"
+ },
+ "121b0e9a315d6bbf": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10130",
+  "by": "rules"
+ },
+ "fba82077fa291650": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10131",
+  "by": "rules"
  }
 }
