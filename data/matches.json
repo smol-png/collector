@@ -164246,5 +164246,23 @@
   "market": "AI",
   "event": "e9765",
   "by": "rules"
+ },
+ "8f6180bca17b2a76": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9848",
+  "by": "rules"
+ },
+ "d6dc33e2742d4d94": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8330",
+  "by": "rules"
  }
 }
