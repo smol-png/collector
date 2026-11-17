@@ -169881,5 +169881,34 @@
   "market": "Crypto",
   "event": "e10160",
   "by": "rules"
+ },
+ "ffd4e6e13d38645a": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10161",
+  "by": "rules"
+ },
+ "46b5b8dedb2ed762": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "HYPE"
+  ],
+  "usd_m": 5700.0,
+  "market": "Crypto",
+  "event": "e10162",
+  "by": "rules"
+ },
+ "dbbb3319e6d898ec": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8983",
+  "by": "rules"
  }
 }
