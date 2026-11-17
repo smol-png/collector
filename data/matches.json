@@ -160242,5 +160242,16 @@
   "market": "AI",
   "event": "e9627",
   "by": "rules"
+ },
+ "12eabb7a19f7607e": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
  }
 }
