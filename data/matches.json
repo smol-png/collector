@@ -172458,5 +172458,16 @@
   "market": "Macro",
   "event": "e10316",
   "by": "rules"
+ },
+ "7e750f1f4cc2efbd": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e219",
+  "by": "rules"
  }
 }
