@@ -176775,5 +176775,17 @@
   "market": "Stocks",
   "event": "e8178",
   "by": "rules"
+ },
+ "e3151b1bb12d6e80": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "BTC",
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10479",
+  "by": "rules"
  }
 }
