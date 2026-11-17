@@ -184073,5 +184073,27 @@
   "market": "Stocks",
   "event": "e10987",
   "by": "rules"
+ },
+ "88e4a25d20b67ba5": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8178",
+  "by": "rules"
+ },
+ "910758a492409add": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9177",
+  "by": "rules"
  }
 }
