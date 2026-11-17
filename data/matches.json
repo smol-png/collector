@@ -180883,5 +180883,16 @@
   "market": "Crypto",
   "event": "e10816",
   "by": "rules"
+ },
+ "35cac7af0b87fafc": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10817",
+  "by": "rules"
  }
 }
