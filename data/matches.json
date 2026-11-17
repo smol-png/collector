@@ -168086,5 +168086,16 @@
   "market": "Other",
   "event": "e10056",
   "by": "rules"
+ },
+ "847014e6e7c79e59": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 19.2,
+  "market": "Crypto",
+  "event": "e10057",
+  "by": "rules"
  }
 }
