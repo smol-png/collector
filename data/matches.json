@@ -181630,5 +181630,16 @@
   "market": "Crypto",
   "event": "e10850",
   "by": "rules"
+ },
+ "18aa7fdfab490453": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10849",
+  "by": "rules"
  }
 }
