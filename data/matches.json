@@ -169205,5 +169205,28 @@
   "market": "AI",
   "event": "e10125",
   "by": "rules"
+ },
+ "9a9dae4d99357eae": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10126",
+  "by": "rules"
+ },
+ "4a7e335ef195aee3": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10032",
+  "by": "rules"
  }
 }
