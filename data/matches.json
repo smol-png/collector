@@ -170421,5 +170421,27 @@
   "market": "Stocks",
   "event": "e9985",
   "by": "rules"
+ },
+ "5cac97a74ff16a3d": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10192",
+  "by": "rules"
+ },
+ "782b659bc4049f79": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8983",
+  "by": "rules"
  }
 }
