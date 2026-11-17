@@ -184192,5 +184192,142 @@
   "market": "Other",
   "event": "e10994",
   "by": "rules"
+ },
+ "3a16153f50c6cbd3": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8355",
+  "by": "rules"
+ },
+ "ba496e7c447472b6": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10995",
+  "by": "rules"
+ },
+ "1e848fc1b08aec20": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8256",
+  "by": "rules"
+ },
+ "ddcb6fe2e8d3383b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9379",
+  "by": "rules"
+ },
+ "52eba30fd3aa7e86": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8468",
+  "by": "rules"
+ },
+ "9a08b11e7a9f7ae9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 7.89,
+  "market": "Stocks",
+  "event": "e1802",
+  "by": "rules"
+ },
+ "57c686f6b844e892": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1.03,
+  "market": "Stocks",
+  "event": "e10996",
+  "by": "rules"
+ },
+ "9b3d90b31de3b393": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10997",
+  "by": "rules"
+ },
+ "ee1a511a9a781486": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10931",
+  "by": "rules"
+ },
+ "c4e930489633a326": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10931",
+  "by": "rules"
+ },
+ "1003ac57a7b62904": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10998",
+  "by": "rules"
+ },
+ "41ea812e262db4dc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10998",
+  "by": "rules"
+ },
+ "481acb1c1d926907": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 100.0,
+  "market": "Crypto",
+  "event": "e10999",
+  "by": "rules"
+ },
+ "b85402050508c0c3": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10887",
+  "by": "rules"
+ },
+ "5c43e6d789641a06": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8241",
+  "by": "rules"
  }
 }
