@@ -175180,5 +175180,34 @@
   "market": "AI",
   "event": "e10485",
   "by": "rules"
+ },
+ "6827799ca0e6af48": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9635",
+  "by": "rules"
+ },
+ "c9064181bf33e2cf": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10486",
+  "by": "rules"
+ },
+ "30b9d28a0c4f7044": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10487",
+  "by": "rules"
  }
 }
