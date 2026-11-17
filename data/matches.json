@@ -163024,5 +163024,25 @@
   "market": "Other",
   "event": "e9788",
   "by": "rules"
+ },
+ "90636900ea2c0a4e": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9770",
+  "by": "rules"
+ },
+ "2c69609dbe79b8c2": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9789",
+  "by": "rules"
  }
 }
