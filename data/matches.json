@@ -170354,5 +170354,14 @@
   "market": "Stocks",
   "event": "e9604",
   "by": "rules"
+ },
+ "912566cfdbb7c20d": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10189",
+  "by": "rules"
  }
 }
