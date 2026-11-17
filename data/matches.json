@@ -171418,5 +171418,45 @@
   "market": "Other",
   "event": "e10233",
   "by": "rules"
+ },
+ "9f895e8ed92817a6": {
+  "type": "live",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7485",
+  "by": "rules"
+ },
+ "d21a286503758e8a": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e10260",
+  "by": "rules"
+ },
+ "ee713ec6842d542d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10193",
+  "by": "rules"
+ },
+ "a5edbead4ea79343": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8320",
+  "by": "rules"
  }
 }
