@@ -166530,5 +166530,34 @@
   "market": "Crypto",
   "event": "e9947",
   "by": "rules"
+ },
+ "cdc423e74a7bf393": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9968",
+  "by": "rules"
+ },
+ "24b04fc370da6c21": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e9941",
+  "by": "rules"
+ },
+ "0d1b7ab223551143": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9915",
+  "by": "rules"
  }
 }
