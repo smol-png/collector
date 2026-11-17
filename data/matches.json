@@ -180378,5 +180378,25 @@
   "market": "Other",
   "event": "e10785",
   "by": "rules"
+ },
+ "7ae9c5ced714d26d": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9540",
+  "by": "rules"
+ },
+ "e7f7ff8a165e0da0": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10786",
+  "by": "rules"
  }
 }
