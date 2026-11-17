@@ -183644,5 +183644,16 @@
   "market": "Other",
   "event": "e10962",
   "by": "rules"
+ },
+ "1537173e0686ef78": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "HOOD"
+  ],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e10963",
+  "by": "rules"
  }
 }
