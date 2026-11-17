@@ -179332,5 +179332,32 @@
   "market": "AI",
   "event": "e10674",
   "by": "rules"
+ },
+ "15b487324b70aa53": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10715",
+  "by": "rules"
+ },
+ "37edf644efcdc2b8": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": 3000000.0,
+  "market": "AI",
+  "event": "e10716",
+  "by": "rules"
+ },
+ "6c805f029e74d007": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10717",
+  "by": "rules"
  }
 }
