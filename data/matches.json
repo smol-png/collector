@@ -166559,5 +166559,16 @@
   "market": "Stocks",
   "event": "e9915",
   "by": "rules"
+ },
+ "1b572088861324fc": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 25.0,
+  "market": "Crypto",
+  "event": "e9392",
+  "by": "rules"
  }
 }
