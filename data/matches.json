@@ -168523,5 +168523,32 @@
   "market": "Other",
   "event": "e8691",
   "by": "rules"
+ },
+ "745920b48a81d0da": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8983",
+  "by": "rules"
+ },
+ "3ac2d57e5b315005": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9899",
+  "by": "rules"
+ },
+ "219a7bfab8cbc248": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10078",
+  "by": "rules"
  }
 }
