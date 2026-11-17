@@ -183562,5 +183562,27 @@
   "market": "Other",
   "event": "e10957",
   "by": "rules"
+ },
+ "2f0a73cc110028a7": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10895",
+  "by": "rules"
+ },
+ "d1ea952eec71c203": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8178",
+  "by": "rules"
  }
 }
