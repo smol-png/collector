@@ -174376,5 +174376,23 @@
   "market": "Other",
   "event": "e10228",
   "by": "rules"
+ },
+ "02fb7e7c5e862c61": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 480.0,
+  "market": "Other",
+  "event": "e10444",
+  "by": "rules"
+ },
+ "1775177cf2d2aaba": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10445",
+  "by": "rules"
  }
 }
