@@ -167250,5 +167250,41 @@
   "market": "AI",
   "event": "e10009",
   "by": "rules"
+ },
+ "eb619002b76b34c7": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10010",
+  "by": "rules"
+ },
+ "ecddc91b3aad51df": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e9880",
+  "by": "rules"
+ },
+ "b2549faf958b3fbf": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10011",
+  "by": "rules"
+ },
+ "9af9d9c95cf59840": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e10012",
+  "by": "rules"
  }
 }
