@@ -177192,5 +177192,32 @@
   "market": "Other",
   "event": "e10154",
   "by": "rules"
+ },
+ "deab7dbd1a449013": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9635",
+  "by": "rules"
+ },
+ "8f9295953cf7f9a5": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10589",
+  "by": "rules"
+ },
+ "8240443e6c2e65e5": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e10363",
+  "by": "rules"
  }
 }
