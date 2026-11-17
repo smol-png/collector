@@ -180830,5 +180830,47 @@
   "market": "Crypto",
   "event": "e10812",
   "by": "rules"
+ },
+ "25f34f8d77b832f4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10622",
+  "by": "rules"
+ },
+ "117f8b410ddf471b": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10813",
+  "by": "rules"
+ },
+ "3b63580ab57ae026": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10814",
+  "by": "rules"
+ },
+ "2940cd99e3906252": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10815",
+  "by": "rules"
  }
 }
