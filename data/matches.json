@@ -166487,5 +166487,26 @@
   "market": "AI",
   "event": "e9966",
   "by": "rules"
+ },
+ "dd14246927106f7c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9944",
+  "by": "rules"
+ },
+ "3126fd0ac562b90d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9899",
+  "by": "rules"
  }
 }
