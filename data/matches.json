@@ -174724,5 +174724,41 @@
   "market": "AI",
   "event": "e10465",
   "by": "rules"
+ },
+ "71b817d2841488f2": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 30.0,
+  "market": "Other",
+  "event": "e10466",
+  "by": "rules"
+ },
+ "360b157425ed0985": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10467",
+  "by": "rules"
+ },
+ "7b2dfaa57af86236": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e9548",
+  "by": "rules"
+ },
+ "3fa791caf9b4bae6": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10465",
+  "by": "rules"
  }
 }
