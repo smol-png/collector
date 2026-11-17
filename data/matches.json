@@ -179639,5 +179639,36 @@
   "market": "Stocks",
   "event": "e10736",
   "by": "rules"
+ },
+ "ca7cb17dea5bd79d": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10737",
+  "by": "rules"
+ },
+ "30355b3add5ab625": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10696",
+  "by": "rules"
+ },
+ "b185ecceda8fb0b1": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10738",
+  "by": "rules"
  }
 }
