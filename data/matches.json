@@ -182158,5 +182158,25 @@
   "market": "Other",
   "event": "e10874",
   "by": "rules"
+ },
+ "28965c0d262b2d46": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10875",
+  "by": "rules"
+ },
+ "96c75abc3773c0ed": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10876",
+  "by": "rules"
  }
 }
