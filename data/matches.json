@@ -160778,5 +160778,23 @@
   "market": "Prediction markets",
   "event": "e9654",
   "by": "rules"
+ },
+ "def427799e7fc2ba": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9655",
+  "by": "rules"
+ },
+ "8173fa1ff8c957f9": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9586",
+  "by": "rules"
  }
 }
