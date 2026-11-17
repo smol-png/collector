@@ -168047,5 +168047,35 @@
   "market": "Other",
   "event": "e10039",
   "by": "rules"
+ },
+ "7f43e5d1722f9e36": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9944",
+  "by": "rules"
+ },
+ "79464d28ba561d0a": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10054",
+  "by": "rules"
+ },
+ "85f404ef36c8153d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10055",
+  "by": "rules"
  }
 }
