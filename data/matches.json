@@ -168184,5 +168184,34 @@
   "market": "Other",
   "event": "e10061",
   "by": "rules"
+ },
+ "3b42f3538d9745fe": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10039",
+  "by": "rules"
+ },
+ "28b3002414ce4562": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "HOOD"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9476",
+  "by": "rules"
+ },
+ "ae7d0f1bbf5d5fe3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10063",
+  "by": "rules"
  }
 }
