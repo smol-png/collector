@@ -174129,5 +174129,34 @@
   "market": "AI",
   "event": "e10430",
   "by": "rules"
+ },
+ "caeb0ca8ea461340": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10431",
+  "by": "rules"
+ },
+ "23575cb9e359f96a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10432",
+  "by": "rules"
+ },
+ "19431f686579caf9": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10433",
+  "by": "rules"
  }
 }
