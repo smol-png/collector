@@ -175379,5 +175379,25 @@
   "market": "Other",
   "event": "e10500",
   "by": "rules"
+ },
+ "6b604d2a0718f024": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e10501",
+  "by": "rules"
+ },
+ "8ab6f47e25727691": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10502",
+  "by": "rules"
  }
 }
