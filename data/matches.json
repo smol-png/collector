@@ -174896,5 +174896,34 @@
   "market": "AI",
   "event": "e9648",
   "by": "rules"
+ },
+ "61b063464652f238": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10221",
+  "by": "rules"
+ },
+ "33e9f420c02e7a7c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8286",
+  "by": "rules"
+ },
+ "a68484c851b00b7d": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8535",
+  "by": "rules"
  }
 }
