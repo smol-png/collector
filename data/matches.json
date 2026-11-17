@@ -167610,5 +167610,34 @@
   "market": "AI",
   "event": "e10032",
   "by": "rules"
+ },
+ "00106e774a6f42d6": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10033",
+  "by": "rules"
+ },
+ "02d1c3d3cca84809": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10034",
+  "by": "rules"
+ },
+ "036e52aca84006ca": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": 15.0,
+  "market": "Crypto",
+  "event": "e9375",
+  "by": "rules"
  }
 }
