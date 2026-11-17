@@ -179977,5 +179977,34 @@
   "market": "Prediction markets",
   "event": "e10755",
   "by": "rules"
+ },
+ "56ef93396db122bb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10756",
+  "by": "rules"
+ },
+ "08e54e4fa78b7d64": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e10532",
+  "by": "rules"
+ },
+ "7578757edbd518e7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10757",
+  "by": "rules"
  }
 }
