@@ -180169,5 +180169,17 @@
   "market": "Crypto",
   "event": "e10771",
   "by": "rules"
+ },
+ "e93835ccd1c4c75e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10772",
+  "by": "rules"
  }
 }
