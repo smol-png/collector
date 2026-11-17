@@ -172469,5 +172469,52 @@
   "market": "AI",
   "event": "e219",
   "by": "rules"
+ },
+ "b6c73d4d5523d50e": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10168",
+  "by": "rules"
+ },
+ "ab558f419e36d8d8": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e10316",
+  "by": "rules"
+ },
+ "cf4211b1cc2847da": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10317",
+  "by": "rules"
+ },
+ "540e66cbeb707f06": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e10316",
+  "by": "rules"
+ },
+ "392b7af251fef39c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10318",
+  "by": "rules"
  }
 }
