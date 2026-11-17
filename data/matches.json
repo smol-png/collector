@@ -181343,5 +181343,43 @@
   "market": "Crypto",
   "event": "e10842",
   "by": "rules"
+ },
+ "2dae0d9d63efd739": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9736",
+  "by": "rules"
+ },
+ "9d957ba1c9f2d773": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e10556",
+  "by": "rules"
+ },
+ "4c36397746a14e22": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8355",
+  "by": "rules"
+ },
+ "b5f8de8f81ecd1ed": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10843",
+  "by": "rules"
  }
 }
