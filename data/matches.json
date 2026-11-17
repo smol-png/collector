@@ -172536,5 +172536,50 @@
   "market": "Crypto",
   "event": "e10320",
   "by": "rules"
+ },
+ "183a0ee033a9e8e0": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10321",
+  "by": "rules"
+ },
+ "a87c8825bc30209a": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10322",
+  "by": "rules"
+ },
+ "67e3d645e1bdcde2": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 500.0,
+  "market": "AI",
+  "event": "e10323",
+  "by": "rules"
+ },
+ "2c88f114ca1e21ef": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 500.0,
+  "market": "AI",
+  "event": "e10323",
+  "by": "rules"
+ },
+ "b5b18140b85bf089": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8723",
+  "by": "rules"
  }
 }
