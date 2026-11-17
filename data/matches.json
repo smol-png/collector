@@ -172516,5 +172516,25 @@
   "market": "Crypto",
   "event": "e10318",
   "by": "rules"
+ },
+ "9708236cf2ce37d6": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10319",
+  "by": "rules"
+ },
+ "79262c7663de2d47": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": 127.0,
+  "market": "Crypto",
+  "event": "e10320",
+  "by": "rules"
  }
 }
