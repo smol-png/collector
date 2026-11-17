@@ -182081,5 +182081,26 @@
   "market": "AI",
   "event": "e7904",
   "by": "rules"
+ },
+ "58610fa958b0472f": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10869",
+  "by": "rules"
+ },
+ "0f52b073e49d5255": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e5542",
+  "by": "rules"
  }
 }
