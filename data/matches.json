@@ -166153,5 +166153,23 @@
   "market": "Crypto",
   "event": "e9948",
   "by": "rules"
+ },
+ "edcd6ca07f5b2b7c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8315",
+  "by": "rules"
+ },
+ "6e7a0f9fe987633e": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9949",
+  "by": "rules"
  }
 }
