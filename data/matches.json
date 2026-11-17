@@ -171676,5 +171676,55 @@
   "market": "Other",
   "event": "e10275",
   "by": "rules"
+ },
+ "d2e57878e57d6478": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "AMZN",
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10276",
+  "by": "rules"
+ },
+ "d93773f56caf9718": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10277",
+  "by": "rules"
+ },
+ "f7291246ff1603c0": {
+  "type": "live",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e7485",
+  "by": "rules"
+ },
+ "7685d6898e634b31": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e10211",
+  "by": "rules"
+ },
+ "257afe42d4150008": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10278",
+  "by": "rules"
  }
 }
