@@ -178113,5 +178113,34 @@
   "market": "Other",
   "event": "e10636",
   "by": "rules"
+ },
+ "1cd603967d7c1576": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10141",
+  "by": "rules"
+ },
+ "368d47aa5fd3c946": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 30.0,
+  "market": "Other",
+  "event": "e10637",
+  "by": "rules"
+ },
+ "dd6e0e95b1f02643": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8056",
+  "by": "rules"
  }
 }
