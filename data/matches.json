@@ -180939,5 +180939,34 @@
   "market": "Stocks",
   "event": "e8360",
   "by": "rules"
+ },
+ "654a799a46aa5f66": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 600000.0,
+  "market": "Other",
+  "event": "e10821",
+  "by": "rules"
+ },
+ "cc7ce15a9fe7ea90": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e10822",
+  "by": "rules"
+ },
+ "f181bbd49765271c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10823",
+  "by": "rules"
  }
 }
