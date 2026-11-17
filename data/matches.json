@@ -167315,5 +167315,43 @@
   "market": "Stocks",
   "event": "e10014",
   "by": "rules"
+ },
+ "9dd9932c8c37a3b9": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8384",
+  "by": "rules"
+ },
+ "f890143f0938307c": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e10015",
+  "by": "rules"
+ },
+ "e176130894ee3bf7": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10016",
+  "by": "rules"
+ },
+ "0df83cf4391611cf": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10017",
+  "by": "rules"
  }
 }
