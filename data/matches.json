@@ -182005,5 +182005,34 @@
   "market": "Stocks",
   "event": "e219",
   "by": "rules"
+ },
+ "2f58bf7d3778f2df": {
+  "type": "explainer",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10867",
+  "by": "rules"
+ },
+ "adec13d7ed1e9af8": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
+ },
+ "2b696d7d9680cffb": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10334",
+  "by": "rules"
  }
 }
