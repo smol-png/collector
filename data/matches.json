@@ -165577,5 +165577,25 @@
   "market": "Other",
   "event": "e9922",
   "by": "rules"
+ },
+ "99b282ccb31d6b7a": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": 62.0,
+  "market": "Crypto",
+  "event": "e9923",
+  "by": "rules"
+ },
+ "6ee9a9d96aa141ad": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e5542",
+  "by": "rules"
  }
 }
