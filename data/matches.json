@@ -164372,5 +164372,36 @@
   "market": "AI",
   "event": "e8503",
   "by": "rules"
+ },
+ "1e84689d9854ad34": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8286",
+  "by": "rules"
+ },
+ "c03ed808c0e66c31": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9765",
+  "by": "rules"
+ },
+ "171e62c9244f2ab6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e9852",
+  "by": "rules"
  }
 }
