@@ -161969,5 +161969,16 @@
   "market": "AI",
   "event": "e9724",
   "by": "rules"
+ },
+ "24bbee674c080ecb": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8913",
+  "by": "rules"
  }
 }
