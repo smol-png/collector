@@ -180322,5 +180322,52 @@
   "market": "Crypto",
   "event": "e10780",
   "by": "rules"
+ },
+ "f85f55821d96a8b9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10781",
+  "by": "rules"
+ },
+ "7467b321612cf8c1": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 10600.0,
+  "market": "Other",
+  "event": "e10709",
+  "by": "rules"
+ },
+ "2db306736453f8d3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10782",
+  "by": "rules"
+ },
+ "46a62f65628d2a34": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10783",
+  "by": "rules"
+ },
+ "5ab932b8508db54e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10784",
+  "by": "rules"
  }
 }
