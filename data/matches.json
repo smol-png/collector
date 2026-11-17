@@ -171133,5 +171133,43 @@
   "market": "Stocks",
   "event": "e10240",
   "by": "rules"
+ },
+ "d316ace53e5a0504": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10241",
+  "by": "rules"
+ },
+ "dd36ea935a28bc3c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10242",
+  "by": "rules"
+ },
+ "f718dc2f1f45643f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10067",
+  "by": "rules"
+ },
+ "6a5120487be60958": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10243",
+  "by": "rules"
  }
 }
