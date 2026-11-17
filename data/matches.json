@@ -171584,5 +171584,28 @@
   "market": "Other",
   "event": "e10269",
   "by": "rules"
+ },
+ "34d566078cde3b32": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9256",
+  "by": "rules"
+ },
+ "ac3974051bcbb609": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AMZN",
+   "GOOGL",
+   "NVDA",
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8868",
+  "by": "rules"
  }
 }
