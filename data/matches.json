@@ -177400,5 +177400,14 @@
   "market": "Stocks",
   "event": "e8190",
   "by": "rules"
+ },
+ "1f180ab370df9a99": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e10600",
+  "by": "rules"
  }
 }
