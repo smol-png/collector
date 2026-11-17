@@ -171458,5 +171458,37 @@
   "market": "AI",
   "event": "e8320",
   "by": "rules"
+ },
+ "0766ce6fece184a3": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10261",
+  "by": "rules"
+ },
+ "7cb55a25a07be886": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10262",
+  "by": "rules"
+ },
+ "54f5558e4e21ed3a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AMZN",
+   "GOOGL",
+   "NVDA",
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8868",
+  "by": "rules"
  }
 }
