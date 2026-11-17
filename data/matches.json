@@ -180485,5 +180485,36 @@
   "market": "Crypto",
   "event": "e9698",
   "by": "rules"
+ },
+ "cf135530d33e7730": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10794",
+  "by": "rules"
+ },
+ "9c6c5c4a49597df7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10795",
+  "by": "rules"
+ },
+ "8cde49ced16be1b7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10796",
+  "by": "rules"
  }
 }
