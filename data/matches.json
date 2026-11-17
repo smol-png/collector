@@ -172054,5 +172054,32 @@
   "market": "Crypto",
   "event": "e10293",
   "by": "rules"
+ },
+ "7ea245c4b1c4d4ab": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e10294",
+  "by": "rules"
+ },
+ "81d9918a224496b9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10295",
+  "by": "rules"
+ },
+ "5b64434e36416434": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e10211",
+  "by": "rules"
  }
 }
