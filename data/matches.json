@@ -181967,5 +181967,14 @@
   "market": "Stocks",
   "event": "e10770",
   "by": "rules"
+ },
+ "e48d5de417a0524e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10865",
+  "by": "rules"
  }
 }
