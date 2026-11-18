@@ -202584,5 +202584,34 @@
   "market": "AI",
   "event": "e12030",
   "by": "rules"
+ },
+ "eaf04376cccd544a": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e12031",
+  "by": "rules"
+ },
+ "b009c4e2bb30aa6a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12032",
+  "by": "rules"
+ },
+ "f06d8de23097ccd9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12033",
+  "by": "rules"
  }
 }
