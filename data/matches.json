@@ -210140,5 +210140,43 @@
   "market": "Other",
   "event": "e12285",
   "by": "rules"
+ },
+ "a9c6bb19578bece4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12471",
+  "by": "rules"
+ },
+ "59c44734b01e7761": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e9593",
+  "by": "rules"
+ },
+ "4b161671f5fbec02": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12472",
+  "by": "rules"
+ },
+ "914a6d19ef481fe1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12473",
+  "by": "rules"
  }
 }
