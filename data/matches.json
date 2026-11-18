@@ -202128,5 +202128,34 @@
   "market": "Other",
   "event": "e12006",
   "by": "rules"
+ },
+ "8faf82223ab62eab": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12007",
+  "by": "rules"
+ },
+ "5129d4e122703f6c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12008",
+  "by": "rules"
+ },
+ "23bd6f7b011fd934": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11384",
+  "by": "rules"
  }
 }
