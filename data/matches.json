@@ -202525,5 +202525,17 @@
   "market": "Other",
   "event": "e9094",
   "by": "rules"
+ },
+ "9ef3fb11c158b523": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12027",
+  "by": "rules"
  }
 }
