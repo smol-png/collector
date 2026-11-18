@@ -209055,5 +209055,34 @@
   "market": "Other",
   "event": "e10677",
   "by": "rules"
+ },
+ "5df7a7540ff23c04": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12405",
+  "by": "rules"
+ },
+ "d65d0618738bb888": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8287",
+  "by": "rules"
+ },
+ "983cfe298df1c8f2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e12406",
+  "by": "rules"
  }
 }
