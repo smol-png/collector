@@ -205045,5 +205045,23 @@
   "market": "Macro",
   "event": "e12163",
   "by": "rules"
+ },
+ "e174e33923cfdfec": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12164",
+  "by": "rules"
+ },
+ "d4b9f34831bbf0b6": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8973",
+  "by": "rules"
  }
 }
