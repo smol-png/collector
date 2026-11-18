@@ -201403,5 +201403,23 @@
   "market": "Crypto",
   "event": "e4074",
   "by": "rules"
+ },
+ "1a718a5d7cfa61c1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11914",
+  "by": "rules"
+ },
+ "08e82de17d7fdd2c": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 110.0,
+  "market": "Other",
+  "event": "e11950",
+  "by": "rules"
  }
 }
