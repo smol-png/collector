@@ -204620,5 +204620,27 @@
   "market": "AI",
   "event": "e12140",
   "by": "rules"
+ },
+ "bf1d280be57a1c80": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12141",
+  "by": "rules"
+ },
+ "fb20da66cf89de68": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12142",
+  "by": "rules"
  }
 }
