@@ -208875,5 +208875,34 @@
   "market": "Other",
   "event": "e12392",
   "by": "rules"
+ },
+ "32614f5f6cd68d5d": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12393",
+  "by": "rules"
+ },
+ "7c07ec20aa83fc58": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12394",
+  "by": "rules"
+ },
+ "fd067723618433eb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12395",
+  "by": "rules"
  }
 }
