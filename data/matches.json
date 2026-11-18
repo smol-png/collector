@@ -205973,5 +205973,26 @@
   "market": "AI",
   "event": "e12222",
   "by": "rules"
+ },
+ "a1c1678657a18769": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e12223",
+  "by": "rules"
+ },
+ "b9ba7091572e91ac": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [
+   "ETH",
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11668",
+  "by": "rules"
  }
 }
