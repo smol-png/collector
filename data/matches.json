@@ -209821,5 +209821,25 @@
   "market": "Other",
   "event": "e12451",
   "by": "rules"
+ },
+ "8cba087bf7b5ed74": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12452",
+  "by": "rules"
+ },
+ "e322cdd1f2533107": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12453",
+  "by": "rules"
  }
 }
