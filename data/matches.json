@@ -204161,5 +204161,25 @@
   "market": "Other",
   "event": "e11008",
   "by": "rules"
+ },
+ "1f16868beba5a719": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12116",
+  "by": "rules"
+ },
+ "56b091175c23d35c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12064",
+  "by": "rules"
  }
 }
