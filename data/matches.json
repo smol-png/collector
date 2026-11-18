@@ -210512,5 +210512,34 @@
   "market": "AI",
   "event": "e12493",
   "by": "rules"
+ },
+ "0a30a9a0d47229f2": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12494",
+  "by": "rules"
+ },
+ "1a77bd753f0cbe86": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12495",
+  "by": "rules"
+ },
+ "083c36e313a702c5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12496",
+  "by": "rules"
  }
 }
