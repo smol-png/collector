@@ -186070,5 +186070,34 @@
   "market": "AI",
   "event": "e9613",
   "by": "rules"
+ },
+ "a233b783c3768d09": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10849",
+  "by": "rules"
+ },
+ "e0d9aea84d51be88": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11053",
+  "by": "rules"
+ },
+ "b6da2ff6b8ec97af": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11105",
+  "by": "rules"
  }
 }
