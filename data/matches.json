@@ -188859,5 +188859,32 @@
   "market": "Other",
   "event": "e11052",
   "by": "rules"
+ },
+ "84211d6812952dd0": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9702",
+  "by": "rules"
+ },
+ "6bdc650d5d5bcd9e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10112",
+  "by": "rules"
+ },
+ "cb243ee0b46c47da": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10168",
+  "by": "rules"
  }
 }
