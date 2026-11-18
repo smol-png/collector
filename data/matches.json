@@ -190781,5 +190781,45 @@
   "market": "Other",
   "event": "e11346",
   "by": "rules"
+ },
+ "8448ea3a6d2d373d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11347",
+  "by": "rules"
+ },
+ "6a6e15729023fcfc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8515",
+  "by": "rules"
+ },
+ "300207ecdd01d05b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11348",
+  "by": "rules"
+ },
+ "a1260de291ecaa41": {
+  "type": "live",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.07,
+  "market": "Crypto",
+  "event": "e4074",
+  "by": "rules"
  }
 }
