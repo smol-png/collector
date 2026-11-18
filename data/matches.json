@@ -191384,5 +191384,32 @@
   "market": "Macro",
   "event": "e11381",
   "by": "rules"
+ },
+ "e5601f1b4ee7e137": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11382",
+  "by": "rules"
+ },
+ "f01ca7de041a2c58": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11383",
+  "by": "rules"
+ },
+ "a310fd19f8c32a6c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11383",
+  "by": "rules"
  }
 }
