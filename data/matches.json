@@ -202041,5 +202041,25 @@
   "market": "Stocks",
   "event": "e12003",
   "by": "rules"
+ },
+ "9764caf1df42212e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12004",
+  "by": "rules"
+ },
+ "9c50fed0c3086f50": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12005",
+  "by": "rules"
  }
 }
