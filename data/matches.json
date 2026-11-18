@@ -198486,5 +198486,45 @@
   "market": "Prediction markets",
   "event": "e10963",
   "by": "rules"
+ },
+ "8e561d33596eeb30": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11789",
+  "by": "rules"
+ },
+ "4eec240a767717b3": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11790",
+  "by": "rules"
+ },
+ "a557addad3e25794": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11791",
+  "by": "rules"
+ },
+ "fcfa4866d25e6e9e": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": 500.0,
+  "market": "AI",
+  "event": "e11792",
+  "by": "rules"
  }
 }
