@@ -206772,5 +206772,25 @@
   "market": "Other",
   "event": "e12262",
   "by": "rules"
+ },
+ "ba3490a00c02cdd0": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12268",
+  "by": "rules"
+ },
+ "9d2b5af16ee2ce41": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12269",
+  "by": "rules"
  }
 }
