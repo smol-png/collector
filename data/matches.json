@@ -198033,5 +198033,16 @@
   "market": "AI",
   "event": "e11760",
   "by": "rules"
+ },
+ "ff0c6e563e8c66f7": {
+  "type": "roundup",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11761",
+  "by": "rules"
  }
 }
