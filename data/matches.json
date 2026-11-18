@@ -191032,5 +191032,16 @@
   "market": "Other",
   "event": "e11246",
   "by": "rules"
+ },
+ "9fce7388a2c1d05e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11361",
+  "by": "rules"
  }
 }
