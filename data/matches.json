@@ -208111,5 +208111,34 @@
   "market": "Other",
   "event": "e12349",
   "by": "rules"
+ },
+ "dbdbb3bc3845fa54": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12350",
+  "by": "rules"
+ },
+ "eceaf7e2d0ca9852": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12351",
+  "by": "rules"
+ },
+ "36b9cc448c23c7c6": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12352",
+  "by": "rules"
  }
 }
