@@ -186508,5 +186508,45 @@
   "market": "Other",
   "event": "e11127",
   "by": "rules"
+ },
+ "8ebb12b59fdca1de": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11107",
+  "by": "rules"
+ },
+ "9e671b919f38f5f0": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11128",
+  "by": "rules"
+ },
+ "792dcb7a0caeda19": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11129",
+  "by": "rules"
+ },
+ "53acf12ea79044e2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11039",
+  "by": "rules"
  }
 }
