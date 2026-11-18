@@ -209922,5 +209922,23 @@
   "market": "Other",
   "event": "e12460",
   "by": "rules"
+ },
+ "9ba25484f3fa5cd8": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": 350000.0,
+  "market": "Other",
+  "event": "e12461",
+  "by": "rules"
+ },
+ "282fd2e1082a7c4e": {
+  "type": "analysis",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8245",
+  "by": "rules"
  }
 }
