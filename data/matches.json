@@ -190586,5 +190586,16 @@
   "market": "Other",
   "event": "e11337",
   "by": "rules"
+ },
+ "f1f72f19986e8e08": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8032",
+  "by": "rules"
  }
 }
