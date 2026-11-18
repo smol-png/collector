@@ -192395,5 +192395,34 @@
   "market": "Other",
   "event": "e8688",
   "by": "rules"
+ },
+ "7975e8e5438f6b70": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e11443",
+  "by": "rules"
+ },
+ "3f007cac46f13c67": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e11438",
+  "by": "rules"
+ },
+ "2b2c108cd9551ff4": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9519",
+  "by": "rules"
  }
 }
