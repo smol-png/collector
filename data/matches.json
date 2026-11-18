@@ -198999,5 +198999,34 @@
   "market": "Other",
   "event": "e11823",
   "by": "rules"
+ },
+ "7c0c622b4c237cb5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11824",
+  "by": "rules"
+ },
+ "ef496b05b9b16db8": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "USDC"
+  ],
+  "usd_m": 1880.0,
+  "market": "Crypto",
+  "event": "e11825",
+  "by": "rules"
+ },
+ "89af6c0b2eb71c75": {
+  "type": "explainer",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11826",
+  "by": "rules"
  }
 }
