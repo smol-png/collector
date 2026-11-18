@@ -197884,5 +197884,33 @@
   "market": "Other",
   "event": "e11733",
   "by": "rules"
+ },
+ "1291f91fe796cae7": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "MSFT",
+   "NVDA",
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8868",
+  "by": "rules"
+ },
+ "78db04c580c8e31b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "MSFT",
+   "NVDA",
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8868",
+  "by": "rules"
  }
 }
