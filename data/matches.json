@@ -210216,5 +210216,50 @@
   "market": "AI",
   "event": "e12477",
   "by": "rules"
+ },
+ "a5d26bf03b6f3014": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12478",
+  "by": "rules"
+ },
+ "fb680a16ad5731bf": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12479",
+  "by": "rules"
+ },
+ "6771f486b0db0b73": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8287",
+  "by": "rules"
+ },
+ "35933578cbfb55b6": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12480",
+  "by": "rules"
+ },
+ "06e168a29c463739": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": 1400000.0,
+  "market": "AI",
+  "event": "e12481",
+  "by": "rules"
  }
 }
