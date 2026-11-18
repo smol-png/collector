@@ -204549,5 +204549,45 @@
   "market": "Crypto",
   "event": "e12135",
   "by": "rules"
+ },
+ "e38ce51c6289f244": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12136",
+  "by": "rules"
+ },
+ "4ea58e16255f0bea": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12137",
+  "by": "rules"
+ },
+ "7ab91e5981d4bf66": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.04,
+  "market": "Crypto",
+  "event": "e5542",
+  "by": "rules"
+ },
+ "e6c3c2ca68204d7f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12138",
+  "by": "rules"
  }
 }
