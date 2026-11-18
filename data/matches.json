@@ -186148,5 +186148,47 @@
   "market": "Macro",
   "event": "e11108",
   "by": "rules"
+ },
+ "6499add6129fb645": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11101",
+  "by": "rules"
+ },
+ "a0fc02a2e9c4c60e": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11109",
+  "by": "rules"
+ },
+ "0ffe29d24f1eec2c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10908",
+  "by": "rules"
+ },
+ "8013416b49f371a0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11110",
+  "by": "rules"
  }
 }
