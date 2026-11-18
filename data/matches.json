@@ -194296,5 +194296,17 @@
   "market": "AI",
   "event": "e11540",
   "by": "rules"
+ },
+ "db360f8788175902": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "BTC",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11541",
+  "by": "rules"
  }
 }
