@@ -197027,5 +197027,16 @@
   "market": "Macro",
   "event": "e10363",
   "by": "rules"
+ },
+ "8799aeaa408617f7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e4074",
+  "by": "rules"
  }
 }
