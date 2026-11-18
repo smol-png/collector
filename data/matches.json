@@ -190716,5 +190716,16 @@
   "market": "Macro",
   "event": "e11335",
   "by": "rules"
+ },
+ "0d0a161d868e3bd0": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8811",
+  "by": "rules"
  }
 }
