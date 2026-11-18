@@ -191146,5 +191146,23 @@
   "market": "Macro",
   "event": "e9773",
   "by": "rules"
+ },
+ "98ba92b6b3d3d642": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 960.0,
+  "market": "Other",
+  "event": "e11367",
+  "by": "rules"
+ },
+ "282b8ad4ea3a1400": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11368",
+  "by": "rules"
  }
 }
