@@ -192529,5 +192529,25 @@
   "market": "Stocks",
   "event": "e8515",
   "by": "rules"
+ },
+ "6835fef718f0303f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11452",
+  "by": "rules"
+ },
+ "db203c15ceca4853": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11453",
+  "by": "rules"
  }
 }
