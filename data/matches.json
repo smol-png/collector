@@ -203396,5 +203396,34 @@
   "market": "AI",
   "event": "e7485",
   "by": "rules"
+ },
+ "de4dbaf42371aa72": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12068",
+  "by": "rules"
+ },
+ "2672f9386e7d5c97": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11794",
+  "by": "rules"
+ },
+ "e9defa283c976fd6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "DOGE"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e12069",
+  "by": "rules"
  }
 }
