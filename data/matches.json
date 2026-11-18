@@ -187094,5 +187094,26 @@
   "market": "Macro",
   "event": "e11160",
   "by": "rules"
+ },
+ "d196a4f1284f342e": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11161",
+  "by": "rules"
+ },
+ "bebadc4cd5749d9e": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11162",
+  "by": "rules"
  }
 }
