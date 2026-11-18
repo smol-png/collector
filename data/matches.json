@@ -200705,5 +200705,43 @@
   "market": "Other",
   "event": "e11918",
   "by": "rules"
+ },
+ "3af46fc6385b1f0c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11919",
+  "by": "rules"
+ },
+ "5822f5a3424005a7": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11920",
+  "by": "rules"
+ },
+ "35272e9550a18cb1": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11921",
+  "by": "rules"
+ },
+ "38536479ddce81b0": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11922",
+  "by": "rules"
  }
 }
