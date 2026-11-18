@@ -202537,5 +202537,16 @@
   "market": "Crypto",
   "event": "e12027",
   "by": "rules"
+ },
+ "fd59ab25cff28783": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12028",
+  "by": "rules"
  }
 }
