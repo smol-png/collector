@@ -208281,5 +208281,36 @@
   "market": "Stocks",
   "event": "e12360",
   "by": "rules"
+ },
+ "6983189b78a7ffcc": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11471",
+  "by": "rules"
+ },
+ "62ea998e1b4f46c9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12361",
+  "by": "rules"
+ },
+ "7e8422d05e6558c5": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12362",
+  "by": "rules"
  }
 }
