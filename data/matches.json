@@ -205543,5 +205543,52 @@
   "market": "Other",
   "event": "e12196",
   "by": "rules"
+ },
+ "99b984c5723e154c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12148",
+  "by": "rules"
+ },
+ "6f373630a0cabacd": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e11106",
+  "by": "rules"
+ },
+ "50dfa2438ee611a4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12197",
+  "by": "rules"
+ },
+ "cccd7fd81b7f1367": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12198",
+  "by": "rules"
+ },
+ "8b6eb85011f944dd": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12199",
+  "by": "rules"
  }
 }
