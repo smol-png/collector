@@ -187576,5 +187576,25 @@
   "market": "Other",
   "event": "e9331",
   "by": "rules"
+ },
+ "52a8521314105408": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7316",
+  "by": "rules"
+ },
+ "53071e8ae1a4eb32": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11183",
+  "by": "rules"
  }
 }
