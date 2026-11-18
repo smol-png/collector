@@ -202204,5 +202204,16 @@
   "market": "Macro",
   "event": "e12011",
   "by": "rules"
+ },
+ "cc3a086fc6b86036": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12012",
+  "by": "rules"
  }
 }
