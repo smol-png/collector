@@ -198044,5 +198044,16 @@
   "market": "AI",
   "event": "e11761",
   "by": "rules"
+ },
+ "6885c2b262282d52": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11762",
+  "by": "rules"
  }
 }
