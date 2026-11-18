@@ -200826,5 +200826,16 @@
   "market": "Other",
   "event": "e11928",
   "by": "rules"
+ },
+ "674cd3e37c8e8185": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 2560.0,
+  "market": "Crypto",
+  "event": "e11929",
+  "by": "rules"
  }
 }
