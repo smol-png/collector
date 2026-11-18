@@ -199364,5 +199364,32 @@
   "market": "Other",
   "event": "e11845",
   "by": "rules"
+ },
+ "9a806bca73a06546": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11483",
+  "by": "rules"
+ },
+ "e361e4f9c11bb567": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11846",
+  "by": "rules"
+ },
+ "288e5850cc530980": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e11847",
+  "by": "rules"
  }
 }
