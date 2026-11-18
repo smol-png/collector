@@ -198455,5 +198455,36 @@
   "market": "Macro",
   "event": "e11715",
   "by": "rules"
+ },
+ "698004e8183ecce4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11788",
+  "by": "rules"
+ },
+ "b45e41759b33335b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10317",
+  "by": "rules"
+ },
+ "5323d9c234772e4e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "HOOD"
+  ],
+  "usd_m": 0.0,
+  "market": "Prediction markets",
+  "event": "e10963",
+  "by": "rules"
  }
 }
