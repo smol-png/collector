@@ -189829,5 +189829,26 @@
   "market": "Crypto",
   "event": "e9392",
   "by": "rules"
+ },
+ "b5cad3041d93cd7e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL",
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11295",
+  "by": "rules"
+ },
+ "960defebda239d82": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e9313",
+  "by": "rules"
  }
 }
