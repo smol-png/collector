@@ -186117,5 +186117,16 @@
   "market": "Prediction markets",
   "event": "e9109",
   "by": "rules"
+ },
+ "5e007470fe756836": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10756",
+  "by": "rules"
  }
 }
