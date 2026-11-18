@@ -198800,5 +198800,36 @@
   "market": "AI",
   "event": "e10327",
   "by": "rules"
+ },
+ "ae50eb92a111d0bd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11811",
+  "by": "rules"
+ },
+ "6762f268a83017b3": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11482",
+  "by": "rules"
+ },
+ "c48988c068637a76": {
+  "type": "explainer",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11812",
+  "by": "rules"
  }
 }
