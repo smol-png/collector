@@ -208140,5 +208140,16 @@
   "market": "AI",
   "event": "e12352",
   "by": "rules"
+ },
+ "8bd4ff47fae2346d": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12353",
+  "by": "rules"
  }
 }
