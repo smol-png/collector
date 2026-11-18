@@ -208761,5 +208761,34 @@
   "market": "AI",
   "event": "e10561",
   "by": "rules"
+ },
+ "78fadbaef79b7d4f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12387",
+  "by": "rules"
+ },
+ "aebbed434d10120e": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12388",
+  "by": "rules"
+ },
+ "ba0bca7447cc2d35": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10802",
+  "by": "rules"
  }
 }
