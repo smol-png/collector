@@ -187614,5 +187614,23 @@
   "market": "Other",
   "event": "e11008",
   "by": "rules"
+ },
+ "567edd198268efbb": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11171",
+  "by": "rules"
+ },
+ "d05d9d4209ab39a7": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11172",
+  "by": "rules"
  }
 }
