@@ -193521,5 +193521,34 @@
   "market": "Stocks",
   "event": "e11474",
   "by": "rules"
+ },
+ "653b33b17b8464e6": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11474",
+  "by": "rules"
+ },
+ "427d603f8348c006": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e11508",
+  "by": "rules"
+ },
+ "98cf737020a68bce": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11509",
+  "by": "rules"
  }
 }
