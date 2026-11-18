@@ -198831,5 +198831,90 @@
   "market": "AI",
   "event": "e11812",
   "by": "rules"
+ },
+ "784e7fc2b1efb5cf": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11813",
+  "by": "rules"
+ },
+ "dc91b66c65948951": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11814",
+  "by": "rules"
+ },
+ "d1e7da09cc91bec3": {
+  "type": "analysis",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11815",
+  "by": "rules"
+ },
+ "1895ecda129cb52e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8951",
+  "by": "rules"
+ },
+ "6a62fbcdddcc3646": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11816",
+  "by": "rules"
+ },
+ "6287b6e023faff26": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9030",
+  "by": "rules"
+ },
+ "f5ab11278bb9354d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10916",
+  "by": "rules"
+ },
+ "6604bc17a8fb6840": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8515",
+  "by": "rules"
+ },
+ "d9e65c21ce05a130": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e7748",
+  "by": "rules"
  }
 }
