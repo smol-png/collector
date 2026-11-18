@@ -203443,5 +203443,32 @@
   "market": "Other",
   "event": "e12071",
   "by": "rules"
+ },
+ "ae50eec98229cfb7": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12072",
+  "by": "rules"
+ },
+ "c700a5e5f6168b38": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12073",
+  "by": "rules"
+ },
+ "2b4e4a0e3371537a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e12074",
+  "by": "rules"
  }
 }
