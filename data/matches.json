@@ -195659,5 +195659,34 @@
   "market": "Other",
   "event": "e9194",
   "by": "rules"
+ },
+ "baf3561e2bd0dfaa": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8178",
+  "by": "rules"
+ },
+ "557304e62321645e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11631",
+  "by": "rules"
+ },
+ "622848b99bad125e": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11626",
+  "by": "rules"
  }
 }
