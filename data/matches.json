@@ -200743,5 +200743,43 @@
   "market": "Other",
   "event": "e11922",
   "by": "rules"
+ },
+ "21df9d5d3e9e6ece": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11923",
+  "by": "rules"
+ },
+ "1015e8f21b690358": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10977",
+  "by": "rules"
+ },
+ "8136d83728591f4b": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10384",
+  "by": "rules"
+ },
+ "e0f3e24586259830": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11569",
+  "by": "rules"
  }
 }
