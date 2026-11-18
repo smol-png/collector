@@ -187889,5 +187889,16 @@
   "market": "Prediction markets",
   "event": "e11202",
   "by": "rules"
+ },
+ "b54a05b87db9369e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11203",
+  "by": "rules"
  }
 }
