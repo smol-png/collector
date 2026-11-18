@@ -209879,5 +209879,17 @@
   "market": "Other",
   "event": "e12457",
   "by": "rules"
+ },
+ "af88d2490068ec46": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "MSFT",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12458",
+  "by": "rules"
  }
 }
