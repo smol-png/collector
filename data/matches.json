@@ -202296,5 +202296,34 @@
   "market": "Other",
   "event": "e12016",
   "by": "rules"
+ },
+ "aacb832c9daeb910": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12017",
+  "by": "rules"
+ },
+ "d96871f44c9c991f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12018",
+  "by": "rules"
+ },
+ "a36524d75b210861": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12019",
+  "by": "rules"
  }
 }
