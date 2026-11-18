@@ -204998,5 +204998,34 @@
   "market": "Other",
   "event": "e10384",
   "by": "rules"
+ },
+ "6cec69dd495856cf": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1000.0,
+  "market": "Prediction markets",
+  "event": "e12040",
+  "by": "rules"
+ },
+ "18acffe285ad377f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12161",
+  "by": "rules"
+ },
+ "8d8d52a9ca826078": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12134",
+  "by": "rules"
  }
 }
