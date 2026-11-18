@@ -209891,5 +209891,27 @@
   "market": "Stocks",
   "event": "e12458",
   "by": "rules"
+ },
+ "9d4896faf56b4e5a": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12459",
+  "by": "rules"
+ },
+ "99bd79bfded37441": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12116",
+  "by": "rules"
  }
 }
