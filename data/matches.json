@@ -204709,5 +204709,41 @@
   "market": "Other",
   "event": "e12145",
   "by": "rules"
+ },
+ "8964f2d9c2d35090": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": 22000.0,
+  "market": "Other",
+  "event": "e12039",
+  "by": "rules"
+ },
+ "851d404da94c6730": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1000.0,
+  "market": "Other",
+  "event": "e12099",
+  "by": "rules"
+ },
+ "8e335b189ae731db": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12146",
+  "by": "rules"
+ },
+ "4440aba38ae2f0ca": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12147",
+  "by": "rules"
  }
 }
