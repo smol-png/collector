@@ -191962,5 +191962,23 @@
   "market": "Stocks",
   "event": "e11419",
   "by": "rules"
+ },
+ "96ca8cac67a2b172": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e11342",
+  "by": "rules"
+ },
+ "fb77429207279297": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11420",
+  "by": "rules"
  }
 }
