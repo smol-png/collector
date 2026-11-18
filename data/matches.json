@@ -208178,5 +208178,23 @@
   "market": "Other",
   "event": "e12355",
   "by": "rules"
+ },
+ "cbdc9093fece3f6c": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12356",
+  "by": "rules"
+ },
+ "6c8e3a4ec247000a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "AI",
+  "event": "e12280",
+  "by": "rules"
  }
 }
