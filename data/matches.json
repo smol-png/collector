@@ -193906,5 +193906,34 @@
   "market": "Crypto",
   "event": "e9967",
   "by": "rules"
+ },
+ "59059a8d36511549": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11527",
+  "by": "rules"
+ },
+ "97bed1fd51eccf77": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11528",
+  "by": "rules"
+ },
+ "ce93b59849bdd82f": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e9109",
+  "by": "rules"
  }
 }
