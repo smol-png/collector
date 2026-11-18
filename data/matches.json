@@ -193864,5 +193864,47 @@
   "market": "Other",
   "event": "e11526",
   "by": "rules"
+ },
+ "fee8f32e4a08f25d": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11527",
+  "by": "rules"
+ },
+ "e890465b84a93529": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11527",
+  "by": "rules"
+ },
+ "6b8850fa68cb7fdd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11518",
+  "by": "rules"
+ },
+ "d238104b748fe4fe": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 142.0,
+  "market": "Crypto",
+  "event": "e9967",
+  "by": "rules"
  }
 }
