@@ -197921,5 +197921,25 @@
   "market": "AI",
   "event": "e11753",
   "by": "rules"
+ },
+ "ad48109e06bfcdef": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10983",
+  "by": "rules"
+ },
+ "c4483df331fdc025": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e11457",
+  "by": "rules"
  }
 }
