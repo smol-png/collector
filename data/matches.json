@@ -206160,5 +206160,23 @@
   "market": "Other",
   "event": "e12235",
   "by": "rules"
+ },
+ "252024687bf95ca6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.2,
+  "market": "Other",
+  "event": "e12236",
+  "by": "rules"
+ },
+ "600ac8168cf49d11": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12237",
+  "by": "rules"
  }
 }
