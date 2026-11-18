@@ -201612,5 +201612,25 @@
   "market": "Other",
   "event": "e9578",
   "by": "rules"
+ },
+ "e257c3085ab79f89": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11976",
+  "by": "rules"
+ },
+ "29dfb565a36130fa": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11474",
+  "by": "rules"
  }
 }
