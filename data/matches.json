@@ -200376,5 +200376,23 @@
   "market": "Other",
   "event": "e11903",
   "by": "rules"
+ },
+ "ad75d3db97330e0f": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 50000.0,
+  "market": "Other",
+  "event": "e11883",
+  "by": "rules"
+ },
+ "69a12e0d83d31b81": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11904",
+  "by": "rules"
  }
 }
