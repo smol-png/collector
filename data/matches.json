@@ -191612,5 +191612,16 @@
   "market": "Other",
   "event": "e11396",
   "by": "rules"
+ },
+ "883e6449d2f93fde": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BNB"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e11397",
+  "by": "rules"
  }
 }
