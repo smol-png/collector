@@ -208666,5 +208666,73 @@
   "market": "Crypto",
   "event": "e12381",
   "by": "rules"
+ },
+ "973120f268bd3637": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8223",
+  "by": "rules"
+ },
+ "7256abbb72f23348": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 4400.0,
+  "market": "Other",
+  "event": "e12382",
+  "by": "rules"
+ },
+ "7804953a14ca79ab": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12383",
+  "by": "rules"
+ },
+ "5ebe6a69eb036f45": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12384",
+  "by": "rules"
+ },
+ "e287482fb006944e": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9074",
+  "by": "rules"
+ },
+ "2e1d6d529c64c56b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e12385",
+  "by": "rules"
+ },
+ "2a7ca2d374f335f1": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12027",
+  "by": "rules"
  }
 }
