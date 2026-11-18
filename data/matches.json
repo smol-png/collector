@@ -199707,5 +199707,34 @@
   "market": "Stocks",
   "event": "e11865",
   "by": "rules"
+ },
+ "de08d401e55ff2a7": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10944",
+  "by": "rules"
+ },
+ "832e408920583972": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11866",
+  "by": "rules"
+ },
+ "a4296aa949843e68": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10709",
+  "by": "rules"
  }
 }
