@@ -187408,5 +187408,32 @@
   "market": "Other",
   "event": "e11030",
   "by": "rules"
+ },
+ "86036f7e2ae3d187": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11176",
+  "by": "rules"
+ },
+ "facb4197741ea152": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e11177",
+  "by": "rules"
+ },
+ "a9446710d454d2a9": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11030",
+  "by": "rules"
  }
 }
