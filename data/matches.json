@@ -192587,5 +192587,36 @@
   "market": "Crypto",
   "event": "e11457",
   "by": "rules"
+ },
+ "a67230ffa800665d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11237",
+  "by": "rules"
+ },
+ "69eee9e40f5f9ef6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ADA"
+  ],
+  "usd_m": 5.0,
+  "market": "Crypto",
+  "event": "e8459",
+  "by": "rules"
+ },
+ "a289dddc5ac1dc67": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e11458",
+  "by": "rules"
  }
 }
