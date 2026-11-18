@@ -205330,5 +205330,50 @@
   "market": "Macro",
   "event": "e12187",
   "by": "rules"
+ },
+ "a9ed5df30ba7af95": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12188",
+  "by": "rules"
+ },
+ "7aff47bb78c67531": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11727",
+  "by": "rules"
+ },
+ "79f44d5ec9eda04c": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8973",
+  "by": "rules"
+ },
+ "15fd521fd66abd1a": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12085",
+  "by": "rules"
+ },
+ "d3532cafdaef0959": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12189",
+  "by": "rules"
  }
 }
