@@ -208734,5 +208734,32 @@
   "market": "Crypto",
   "event": "e12027",
   "by": "rules"
+ },
+ "667874fa911c7f21": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 3.9,
+  "market": "Other",
+  "event": "e11777",
+  "by": "rules"
+ },
+ "99254e38a59cbb43": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12386",
+  "by": "rules"
+ },
+ "fcfab772886069d9": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10561",
+  "by": "rules"
  }
 }
