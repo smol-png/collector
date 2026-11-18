@@ -201704,5 +201704,79 @@
   "market": "Other",
   "event": "e11980",
   "by": "rules"
+ },
+ "22d41bb8341b47e0": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11981",
+  "by": "rules"
+ },
+ "3ef941d5bf028bfc": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11087",
+  "by": "rules"
+ },
+ "5ab1d0c598c866f7": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11982",
+  "by": "rules"
+ },
+ "3721b3555f5687ed": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11983",
+  "by": "rules"
+ },
+ "534b34f27eee7a39": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11984",
+  "by": "rules"
+ },
+ "d79dc35e02526405": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11945",
+  "by": "rules"
+ },
+ "9c7dc18ea325964d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11985",
+  "by": "rules"
+ },
+ "174a8293b8c8dba5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11986",
+  "by": "rules"
  }
 }
