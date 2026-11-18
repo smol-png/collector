@@ -199086,5 +199086,52 @@
   "market": "AI",
   "event": "e11819",
   "by": "rules"
+ },
+ "50b54df511b4dcac": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10957",
+  "by": "rules"
+ },
+ "7638dc016a6a109d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8384",
+  "by": "rules"
+ },
+ "c265797a9410848e": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11828",
+  "by": "rules"
+ },
+ "af87e81e31c20f66": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11828",
+  "by": "rules"
+ },
+ "cb32ad91ab8189ea": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11829",
+  "by": "rules"
  }
 }
