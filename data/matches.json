@@ -190081,5 +190081,41 @@
   "market": "Other",
   "event": "e11309",
   "by": "rules"
+ },
+ "db7daa356cf6a38e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11310",
+  "by": "rules"
+ },
+ "a53b68ee5653f4a8": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": 10000.0,
+  "market": "Other",
+  "event": "e10931",
+  "by": "rules"
+ },
+ "36a4e3640738ec7c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10983",
+  "by": "rules"
+ },
+ "301fc8904e1b154d": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": 0.04,
+  "market": "Other",
+  "event": "e11311",
+  "by": "rules"
  }
 }
