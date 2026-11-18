@@ -188787,5 +188787,59 @@
   "market": "Crypto",
   "event": "e11242",
   "by": "rules"
+ },
+ "29d4fc46d4d831ea": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.01,
+  "market": "Stocks",
+  "event": "e9610",
+  "by": "rules"
+ },
+ "1cc44e4f44449ab0": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11243",
+  "by": "rules"
+ },
+ "0f4d418e7e1d87a2": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10275",
+  "by": "rules"
+ },
+ "385c4e5b676a98bd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11244",
+  "by": "rules"
+ },
+ "6ad68c65c6bce57e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11244",
+  "by": "rules"
+ },
+ "f06a22d3113de20b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11245",
+  "by": "rules"
  }
 }
