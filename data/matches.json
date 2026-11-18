@@ -206030,5 +206030,23 @@
   "market": "AI",
   "event": "e12225",
   "by": "rules"
+ },
+ "f31f1a943b8c5b61": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e10822",
+  "by": "rules"
+ },
+ "21b41f5b14aa90dc": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12226",
+  "by": "rules"
  }
 }
