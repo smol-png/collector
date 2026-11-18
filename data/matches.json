@@ -204123,5 +204123,34 @@
   "market": "Stocks",
   "event": "e12113",
   "by": "rules"
+ },
+ "a4b2d723abcb5e43": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12113",
+  "by": "rules"
+ },
+ "275fafc35e34daa2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12114",
+  "by": "rules"
+ },
+ "768b56815bc39567": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12115",
+  "by": "rules"
  }
 }
