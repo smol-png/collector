@@ -186099,5 +186099,23 @@
   "market": "Other",
   "event": "e11105",
   "by": "rules"
+ },
+ "1add2e2ce065886f": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e11106",
+  "by": "rules"
+ },
+ "5efd7189acdcc6b3": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e9109",
+  "by": "rules"
  }
 }
