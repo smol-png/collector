@@ -199530,5 +199530,34 @@
   "market": "Other",
   "event": "e11857",
   "by": "rules"
+ },
+ "56f7db1423bea84a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10139",
+  "by": "rules"
+ },
+ "ba6b8978538fa005": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11246",
+  "by": "rules"
+ },
+ "e9ac6a7d60dcaee0": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11858",
+  "by": "rules"
  }
 }
