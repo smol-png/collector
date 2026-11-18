@@ -190821,5 +190821,23 @@
   "market": "Crypto",
   "event": "e4074",
   "by": "rules"
+ },
+ "da22c25761785415": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11347",
+  "by": "rules"
+ },
+ "1c7c6b0680d06712": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 2000.0,
+  "market": "Other",
+  "event": "e11349",
+  "by": "rules"
  }
 }
