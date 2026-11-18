@@ -209541,5 +209541,34 @@
   "market": "Other",
   "event": "e12431",
   "by": "rules"
+ },
+ "9fd3ddd9649ebd6b": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12432",
+  "by": "rules"
+ },
+ "cae14a7260b3300e": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "AI",
+  "event": "e12280",
+  "by": "rules"
+ },
+ "d86e62af9a4ef7bc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12433",
+  "by": "rules"
  }
 }
