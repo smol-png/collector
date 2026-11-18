@@ -201861,5 +201861,23 @@
   "market": "Other",
   "event": "e11894",
   "by": "rules"
+ },
+ "ebddea3f4d363441": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11993",
+  "by": "rules"
+ },
+ "213e7e4a3b6ded0d": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11994",
+  "by": "rules"
  }
 }
