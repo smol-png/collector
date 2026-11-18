@@ -200667,5 +200667,16 @@
   "market": "Other",
   "event": "e11915",
   "by": "rules"
+ },
+ "dc25bdee741d7936": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": 4.7,
+  "market": "Crypto",
+  "event": "e11188",
+  "by": "rules"
  }
 }
