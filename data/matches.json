@@ -206057,5 +206057,61 @@
   "market": "Other",
   "event": "e12227",
   "by": "rules"
+ },
+ "c15e2e437d945ecd": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12228",
+  "by": "rules"
+ },
+ "0dd984abc6aaaf04": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12229",
+  "by": "rules"
+ },
+ "cf37f9a29919314c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12155",
+  "by": "rules"
+ },
+ "1cf4217179b260ad": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12230",
+  "by": "rules"
+ },
+ "340962b89f17ed9c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12231",
+  "by": "rules"
+ },
+ "a44c3d94ba419b5a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12232",
+  "by": "rules"
  }
 }
