@@ -209353,5 +209353,25 @@
   "market": "Other",
   "event": "e10636",
   "by": "rules"
+ },
+ "f9647199d1206325": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12424",
+  "by": "rules"
+ },
+ "3ac2348661728b33": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12425",
+  "by": "rules"
  }
 }
