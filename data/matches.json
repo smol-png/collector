@@ -195919,5 +195919,34 @@
   "market": "Other",
   "event": "e11645",
   "by": "rules"
+ },
+ "24d5cd422f532aaa": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11646",
+  "by": "rules"
+ },
+ "6cfede6dae8f8723": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11646",
+  "by": "rules"
+ },
+ "b9b520a9b0d9bd3e": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e11647",
+  "by": "rules"
  }
 }
