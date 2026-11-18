@@ -194112,5 +194112,46 @@
   "market": "Other",
   "event": "e11533",
   "by": "rules"
+ },
+ "906ac7685baffa22": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11534",
+  "by": "rules"
+ },
+ "b55ce62842f5d4e1": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8384",
+  "by": "rules"
+ },
+ "d2b2f673b185c67a": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11535",
+  "by": "rules"
+ },
+ "652f0b9bce06e8ae": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11533",
+  "by": "rules"
  }
 }
