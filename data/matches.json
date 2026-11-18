@@ -199696,5 +199696,16 @@
   "market": "Other",
   "event": "e11864",
   "by": "rules"
+ },
+ "d21c5aa7fd2d2fb1": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11865",
+  "by": "rules"
  }
 }
