@@ -203682,5 +203682,16 @@
   "market": "AI",
   "event": "e11126",
   "by": "rules"
+ },
+ "d759dc7f882187e3": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12084",
+  "by": "rules"
  }
 }
