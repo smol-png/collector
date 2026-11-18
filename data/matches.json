@@ -189361,5 +189361,26 @@
   "market": "AI",
   "event": "e11262",
   "by": "rules"
+ },
+ "53db782c67f6b98b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11157",
+  "by": "rules"
+ },
+ "c63bad5a47b19341": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "COIN",
+   "NVDA"
+  ],
+  "usd_m": 85.0,
+  "market": "Crypto",
+  "event": "e9698",
+  "by": "rules"
  }
 }
