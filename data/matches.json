@@ -187860,5 +187860,34 @@
   "market": "Crypto",
   "event": "e11199",
   "by": "rules"
+ },
+ "c3a9b33eacb20886": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11200",
+  "by": "rules"
+ },
+ "e4a0ad8c1b7298b0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11201",
+  "by": "rules"
+ },
+ "aa659fac7039ae26": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "LINK"
+  ],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e11202",
+  "by": "rules"
  }
 }
