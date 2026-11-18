@@ -208619,5 +208619,16 @@
   "market": "AI",
   "event": "e10327",
   "by": "rules"
+ },
+ "febdf1526d139d80": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BNB"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12157",
+  "by": "rules"
  }
 }
