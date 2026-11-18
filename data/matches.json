@@ -190687,5 +190687,16 @@
   "market": "Macro",
   "event": "e11335",
   "by": "rules"
+ },
+ "d9177b219cd69e0f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11341",
+  "by": "rules"
  }
 }
