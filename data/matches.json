@@ -205310,5 +205310,25 @@
   "market": "AI",
   "event": "e12185",
   "by": "rules"
+ },
+ "2c60b7b8d6ad0e3e": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12186",
+  "by": "rules"
+ },
+ "2e5d33713df215d7": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e12187",
+  "by": "rules"
  }
 }
