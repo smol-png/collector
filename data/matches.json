@@ -198372,5 +198372,25 @@
   "market": "Other",
   "event": "e11782",
   "by": "rules"
+ },
+ "eac250595d33a920": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11668",
+  "by": "rules"
+ },
+ "f9427535ae7f844b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11001",
+  "by": "rules"
  }
 }
