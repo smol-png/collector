@@ -187361,5 +187361,25 @@
   "market": "Other",
   "event": "e9074",
   "by": "rules"
+ },
+ "e2062e004f7e81de": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8498",
+  "by": "rules"
+ },
+ "781807d10f2913e8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11173",
+  "by": "rules"
  }
 }
