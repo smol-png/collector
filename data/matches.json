@@ -201185,5 +201185,23 @@
   "market": "Crypto",
   "event": "e11950",
   "by": "rules"
+ },
+ "50c78d1ffb9357d3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 110.0,
+  "market": "Other",
+  "event": "e11951",
+  "by": "rules"
+ },
+ "0679e3a24ecb7315": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11952",
+  "by": "rules"
  }
 }
