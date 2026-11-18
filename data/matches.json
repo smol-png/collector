@@ -208321,5 +208321,45 @@
   "market": "AI",
   "event": "e10740",
   "by": "rules"
+ },
+ "d5f3893bd8e1e70d": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12363",
+  "by": "rules"
+ },
+ "3b0aed17928949e4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12364",
+  "by": "rules"
+ },
+ "8b0a44c53d2be1f9": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12365",
+  "by": "rules"
+ },
+ "ced724077c279034": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e12366",
+  "by": "rules"
  }
 }
