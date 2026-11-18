@@ -195558,5 +195558,23 @@
   "market": "Other",
   "event": "e11623",
   "by": "rules"
+ },
+ "a12e3285503a30e0": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10867",
+  "by": "rules"
+ },
+ "53deaee7a3f0b5e9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11624",
+  "by": "rules"
  }
 }
