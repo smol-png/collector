@@ -199763,5 +199763,25 @@
   "market": "Other",
   "event": "e11869",
   "by": "rules"
+ },
+ "7a0b939bdac0e745": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11571",
+  "by": "rules"
+ },
+ "00bf892107829c87": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11870",
+  "by": "rules"
  }
 }
