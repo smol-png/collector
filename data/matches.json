@@ -207099,5 +207099,32 @@
   "market": "Macro",
   "event": "e12289",
   "by": "rules"
+ },
+ "ac7041ff35ac4a1a": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12290",
+  "by": "rules"
+ },
+ "80e8d40ca10177d4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12291",
+  "by": "rules"
+ },
+ "04498fa3fb51b021": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12292",
+  "by": "rules"
  }
 }
