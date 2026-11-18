@@ -206371,5 +206371,50 @@
   "market": "Macro",
   "event": "e12246",
   "by": "rules"
+ },
+ "508a7aa7c0d8488e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12125",
+  "by": "rules"
+ },
+ "877a42ebca0db17f": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10221",
+  "by": "rules"
+ },
+ "bb199979c5a02457": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12247",
+  "by": "rules"
+ },
+ "0909dd8e3249b8c6": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e11715",
+  "by": "rules"
+ },
+ "0f17d0763c842264": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12248",
+  "by": "rules"
  }
 }
