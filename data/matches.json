@@ -198136,5 +198136,23 @@
   "market": "Stocks",
   "event": "e11664",
   "by": "rules"
+ },
+ "48409ef06fcc4eb1": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8269",
+  "by": "rules"
+ },
+ "4b71dd59fde35624": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11768",
+  "by": "rules"
  }
 }
