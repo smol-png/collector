@@ -199142,5 +199142,16 @@
   "market": "AI",
   "event": "e11830",
   "by": "rules"
+ },
+ "faec47d32d685797": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 540.0,
+  "market": "Crypto",
+  "event": "e11831",
+  "by": "rules"
  }
 }
