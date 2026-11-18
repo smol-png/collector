@@ -191043,5 +191043,34 @@
   "market": "AI",
   "event": "e11361",
   "by": "rules"
+ },
+ "59ba395743b3dc71": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11347",
+  "by": "rules"
+ },
+ "851aff7f6242beb1": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e9773",
+  "by": "rules"
+ },
+ "8fd137be6f16be7f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11362",
+  "by": "rules"
  }
 }
