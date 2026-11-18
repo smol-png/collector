@@ -196331,5 +196331,35 @@
   "market": "Stocks",
   "event": "e8766",
   "by": "rules"
+ },
+ "24db3a24cdd2b2c8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 2000.0,
+  "market": "Other",
+  "event": "e11666",
+  "by": "rules"
+ },
+ "d4bef27bddcf4c4a": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11667",
+  "by": "rules"
+ },
+ "ed1a28a2bac87fe8": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "ETH",
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11668",
+  "by": "rules"
  }
 }
