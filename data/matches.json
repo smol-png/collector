@@ -207805,5 +207805,41 @@
   "market": "Stocks",
   "event": "e10568",
   "by": "rules"
+ },
+ "3941cb6fe5334040": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e12246",
+  "by": "rules"
+ },
+ "6126ce5ff390e605": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12333",
+  "by": "rules"
+ },
+ "098986a59a7aaab6": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11916",
+  "by": "rules"
+ },
+ "818d1d7c067afb73": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9451",
+  "by": "rules"
  }
 }
