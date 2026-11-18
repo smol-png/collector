@@ -208574,5 +208574,32 @@
   "market": "Other",
   "event": "e12354",
   "by": "rules"
+ },
+ "541fb289869bebf9": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 4500.0,
+  "market": "AI",
+  "event": "e12298",
+  "by": "rules"
+ },
+ "7fc26a65a7c3000d": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12379",
+  "by": "rules"
+ },
+ "4fba1729d003ab0b": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12380",
+  "by": "rules"
  }
 }
