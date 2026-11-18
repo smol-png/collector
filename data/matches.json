@@ -210196,5 +210196,16 @@
   "market": "Other",
   "event": "e12475",
   "by": "rules"
+ },
+ "29efe2a2696060c1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12476",
+  "by": "rules"
  }
 }
