@@ -187153,5 +187153,36 @@
   "market": "Stocks",
   "event": "e11163",
   "by": "rules"
+ },
+ "8af3d679bdd4b367": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11133",
+  "by": "rules"
+ },
+ "09b9719953fb6950": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11134",
+  "by": "rules"
+ },
+ "c6e45514b949ce5c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11163",
+  "by": "rules"
  }
 }
