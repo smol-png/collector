@@ -195116,5 +195116,47 @@
   "market": "Other",
   "event": "e11594",
   "by": "rules"
+ },
+ "455e8c82b0b3a347": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11595",
+  "by": "rules"
+ },
+ "205f2ce7fc2aed50": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11596",
+  "by": "rules"
+ },
+ "5d74cff50db012c8": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11597",
+  "by": "rules"
+ },
+ "58ad33733f11c496": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8190",
+  "by": "rules"
  }
 }
