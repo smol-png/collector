@@ -205852,5 +205852,117 @@
   "market": "Other",
   "event": "e10840",
   "by": "rules"
+ },
+ "f9ef9a9382bb4a17": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e9037",
+  "by": "rules"
+ },
+ "4d9c73366877914e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12059",
+  "by": "rules"
+ },
+ "4a121f2832e46ac7": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.05,
+  "market": "Stocks",
+  "event": "e12218",
+  "by": "rules"
+ },
+ "be8b99827e09d65c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10554",
+  "by": "rules"
+ },
+ "0ed849e3b42b5195": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e9037",
+  "by": "rules"
+ },
+ "b9fbc9ac958d672d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12219",
+  "by": "rules"
+ },
+ "b46e3e24a10cb326": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e9037",
+  "by": "rules"
+ },
+ "32a580c3ebfb7f18": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10253",
+  "by": "rules"
+ },
+ "1288149fc95aefe6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12220",
+  "by": "rules"
+ },
+ "6e2a2ef9e9cfaf9b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12220",
+  "by": "rules"
+ },
+ "e32e7dd4becf96e7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12221",
+  "by": "rules"
+ },
+ "3d563b0d3ae8cf30": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12221",
+  "by": "rules"
  }
 }
