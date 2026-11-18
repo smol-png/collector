@@ -210281,5 +210281,25 @@
   "market": "Stocks",
   "event": "e12483",
   "by": "rules"
+ },
+ "ce9c3e79924d9700": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12029",
+  "by": "rules"
+ },
+ "87747125a8e0dd63": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12483",
+  "by": "rules"
  }
 }
