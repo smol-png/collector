@@ -209373,5 +209373,108 @@
   "market": "Crypto",
   "event": "e12425",
   "by": "rules"
+ },
+ "0c332fd097282642": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12410",
+  "by": "rules"
+ },
+ "2ebc180408e9cf79": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8256",
+  "by": "rules"
+ },
+ "d7ba341e3fef2fc3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e10253",
+  "by": "rules"
+ },
+ "74c402e4dfd30272": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11819",
+  "by": "rules"
+ },
+ "d3621c4f16cdd53d": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12426",
+  "by": "rules"
+ },
+ "503e0c7947416b64": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12427",
+  "by": "rules"
+ },
+ "fc1c1e868338b508": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 500.0,
+  "market": "Other",
+  "event": "e11083",
+  "by": "rules"
+ },
+ "9fce981cc4a87c43": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
+ },
+ "dff7ec63759ae6d9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
+ },
+ "56aa37f14885f764": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e9487",
+  "by": "rules"
+ },
+ "487f4e9244f32aac": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12336",
+  "by": "rules"
  }
 }
