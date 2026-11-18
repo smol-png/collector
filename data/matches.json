@@ -205823,5 +205823,34 @@
   "market": "Other",
   "event": "e12215",
   "by": "rules"
+ },
+ "89bc1887c7b52c51": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12216",
+  "by": "rules"
+ },
+ "f86aa7d5ecd06611": {
+  "type": "explainer",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12217",
+  "by": "rules"
+ },
+ "63f9a108ae25f32d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10840",
+  "by": "rules"
  }
 }
