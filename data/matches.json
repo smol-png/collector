@@ -194615,5 +194615,34 @@
   "market": "Other",
   "event": "e11561",
   "by": "rules"
+ },
+ "4d5348c97dc21996": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11563",
+  "by": "rules"
+ },
+ "48f883f1b8cba81d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11564",
+  "by": "rules"
+ },
+ "192b15ccc228fa8e": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10384",
+  "by": "rules"
  }
 }
