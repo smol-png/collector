@@ -190538,5 +190538,23 @@
   "market": "Other",
   "event": "e11333",
   "by": "rules"
+ },
+ "0ac966a695cff1ab": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11334",
+  "by": "rules"
+ },
+ "b54d6f19f5c82c47": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e11335",
+  "by": "rules"
  }
 }
