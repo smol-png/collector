@@ -189617,5 +189617,34 @@
   "market": "Stocks",
   "event": "e11282",
   "by": "rules"
+ },
+ "cbe5e51a2e0edbba": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11283",
+  "by": "rules"
+ },
+ "2f99c617ca1b61b3": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11284",
+  "by": "rules"
+ },
+ "b699e83756b01979": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11285",
+  "by": "rules"
  }
 }
