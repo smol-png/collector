@@ -208361,5 +208361,36 @@
   "market": "Crypto",
   "event": "e12366",
   "by": "rules"
+ },
+ "80f27158fac2fc57": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": 4.7,
+  "market": "Crypto",
+  "event": "e11188",
+  "by": "rules"
+ },
+ "ed89820dc6dd9f13": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e7485",
+  "by": "rules"
+ },
+ "e1714219abf87f82": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 4.48,
+  "market": "Other",
+  "event": "e12367",
+  "by": "rules"
  }
 }
