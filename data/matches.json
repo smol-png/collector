@@ -202215,5 +202215,28 @@
   "market": "Crypto",
   "event": "e12012",
   "by": "rules"
+ },
+ "2a66ad8cb787943e": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12008",
+  "by": "rules"
+ },
+ "bba0344fe25bcfc7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL",
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12013",
+  "by": "rules"
  }
 }
