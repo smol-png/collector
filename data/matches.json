@@ -209635,5 +209635,25 @@
   "market": "AI",
   "event": "e12440",
   "by": "rules"
+ },
+ "504ea05f817e9839": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "AI",
+  "event": "e10327",
+  "by": "rules"
+ },
+ "eb16db205422a1d7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12441",
+  "by": "rules"
  }
 }
