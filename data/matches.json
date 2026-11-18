@@ -200678,5 +200678,32 @@
   "market": "Crypto",
   "event": "e11188",
   "by": "rules"
+ },
+ "b6648a449b75088f": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11916",
+  "by": "rules"
+ },
+ "85df70f047c22fac": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11917",
+  "by": "rules"
+ },
+ "443594735495612e": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11918",
+  "by": "rules"
  }
 }
