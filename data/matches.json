@@ -209940,5 +209940,41 @@
   "market": "Other",
   "event": "e8245",
   "by": "rules"
+ },
+ "e4bf3f336fe92820": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12462",
+  "by": "rules"
+ },
+ "a8b193af2e83a7b3": {
+  "type": "live",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8319",
+  "by": "rules"
+ },
+ "bc9e692db570e505": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12463",
+  "by": "rules"
+ },
+ "b76ac84a6a339b6d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12464",
+  "by": "rules"
  }
 }
