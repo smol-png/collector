@@ -208837,5 +208837,43 @@
   "market": "Prediction markets",
   "event": "e10501",
   "by": "rules"
+ },
+ "36fa24e00f7f487a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12390",
+  "by": "rules"
+ },
+ "f34ef18a0852990b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 1500000.0,
+  "market": "AI",
+  "event": "e12343",
+  "by": "rules"
+ },
+ "78202717e47b099c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12391",
+  "by": "rules"
+ },
+ "aab16a39b236fbcd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12392",
+  "by": "rules"
  }
 }
