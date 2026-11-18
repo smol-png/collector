@@ -192182,5 +192182,43 @@
   "market": "Crypto",
   "event": "e11199",
   "by": "rules"
+ },
+ "a6181f57d255cb52": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11027",
+  "by": "rules"
+ },
+ "ae761a6eb412df7c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11427",
+  "by": "rules"
+ },
+ "dee46e72c9f11354": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11428",
+  "by": "rules"
+ },
+ "624beec8179916fe": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11429",
+  "by": "rules"
  }
 }
