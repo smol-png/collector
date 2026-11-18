@@ -198943,5 +198943,32 @@
   "market": "AI",
   "event": "e11818",
   "by": "rules"
+ },
+ "49cfdc5723e1bfd0": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11797",
+  "by": "rules"
+ },
+ "82e439d41d4d4b8a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11819",
+  "by": "rules"
+ },
+ "fc689a1ee056afbf": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11820",
+  "by": "rules"
  }
 }
