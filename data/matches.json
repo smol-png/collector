@@ -204239,5 +204239,32 @@
   "market": "AI",
   "event": "e12119",
   "by": "rules"
+ },
+ "127cd4688e0377a8": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9074",
+  "by": "rules"
+ },
+ "f2f82861845ca13b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12120",
+  "by": "rules"
+ },
+ "830546ba3577c808": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12120",
+  "by": "rules"
  }
 }
