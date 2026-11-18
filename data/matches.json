@@ -204855,5 +204855,36 @@
   "market": "Other",
   "event": "e12151",
   "by": "rules"
+ },
+ "f8c7f76223e38148": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12152",
+  "by": "rules"
+ },
+ "2ccb4d3202244a74": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12153",
+  "by": "rules"
+ },
+ "687862de1aba93d2": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10109",
+  "by": "rules"
  }
 }
