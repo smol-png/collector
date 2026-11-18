@@ -207765,5 +207765,25 @@
   "market": "Crypto",
   "event": "e12331",
   "by": "rules"
+ },
+ "0bd923915213b956": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12159",
+  "by": "rules"
+ },
+ "2c1ca1709fc3faf8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12320",
+  "by": "rules"
  }
 }
