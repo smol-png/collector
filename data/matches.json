@@ -204105,5 +204105,23 @@
   "market": "AI",
   "event": "e12112",
   "by": "rules"
+ },
+ "db70011136f13630": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11561",
+  "by": "rules"
+ },
+ "f441f3464d9e70b5": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12113",
+  "by": "rules"
  }
 }
