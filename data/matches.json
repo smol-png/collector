@@ -190556,5 +190556,17 @@
   "market": "Macro",
   "event": "e11335",
   "by": "rules"
+ },
+ "5d847cb5b1e2e002": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11336",
+  "by": "rules"
  }
 }
