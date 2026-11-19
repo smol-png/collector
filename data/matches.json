@@ -232110,5 +232110,32 @@
   "market": "Other",
   "event": "e11497",
   "by": "rules"
+ },
+ "667c534fd108835b": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13737",
+  "by": "rules"
+ },
+ "34e5af918903f674": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13738",
+  "by": "rules"
+ },
+ "f922dd9d8da06135": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8486",
+  "by": "rules"
  }
 }
