@@ -211975,5 +211975,25 @@
   "market": "Other",
   "event": "e11286",
   "by": "rules"
+ },
+ "e9f7bd66a191f76b": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12576",
+  "by": "rules"
+ },
+ "9a5476549f3dd91f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12577",
+  "by": "rules"
  }
 }
