@@ -210747,5 +210747,41 @@
   "market": "Other",
   "event": "e12510",
   "by": "rules"
+ },
+ "52a226b7541de1f5": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11008",
+  "by": "rules"
+ },
+ "a81f305461571bc5": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11564",
+  "by": "rules"
+ },
+ "5e11cd856c50d4c8": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8983",
+  "by": "rules"
+ },
+ "cad28fddab434f2a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10679",
+  "by": "rules"
  }
 }
