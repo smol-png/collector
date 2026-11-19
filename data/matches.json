@@ -229232,5 +229232,43 @@
   "market": "Other",
   "event": "e13566",
   "by": "rules"
+ },
+ "e7c74623d5af9090": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13567",
+  "by": "rules"
+ },
+ "0612e175b14b2140": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11666",
+  "by": "rules"
+ },
+ "089606a5fa43731a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13568",
+  "by": "rules"
+ },
+ "a73453524e4e430d": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13569",
+  "by": "rules"
  }
 }
