@@ -222335,5 +222335,23 @@
   "market": "Crypto",
   "event": "e13163",
   "by": "rules"
+ },
+ "c4b9fd0f42aa41d0": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13164",
+  "by": "rules"
+ },
+ "f1e94b97e84642a8": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13165",
+  "by": "rules"
  }
 }
