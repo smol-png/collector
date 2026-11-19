@@ -228450,5 +228450,162 @@
   "market": "Crypto",
   "event": "e13517",
   "by": "rules"
+ },
+ "b22d9c76e6a33947": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13489",
+  "by": "rules"
+ },
+ "cdf94b9006bf23f2": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13518",
+  "by": "rules"
+ },
+ "148fcdbcfdcfc129": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13519",
+  "by": "rules"
+ },
+ "e2a7141c0abdc75c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13520",
+  "by": "rules"
+ },
+ "06f266484d2c2489": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13520",
+  "by": "rules"
+ },
+ "0c4d3663c26830e9": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8501",
+  "by": "rules"
+ },
+ "e74c61896acbe67c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12844",
+  "by": "rules"
+ },
+ "a5eaa3ed47a47d4c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13521",
+  "by": "rules"
+ },
+ "ae54f37f30605e48": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11913",
+  "by": "rules"
+ },
+ "9489ded9a29dfb2e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13522",
+  "by": "rules"
+ },
+ "a4b49927dfbbeec8": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13523",
+  "by": "rules"
+ },
+ "da0b8ed11c1c5fc8": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13523",
+  "by": "rules"
+ },
+ "c1315542c0b458c2": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13524",
+  "by": "rules"
+ },
+ "f596e385a2e2d0e4": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13525",
+  "by": "rules"
+ },
+ "f5b3737d83d589f5": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13525",
+  "by": "rules"
+ },
+ "1f2edeec563dc86c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13526",
+  "by": "rules"
+ },
+ "23aa3c3d9a9f78ca": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13527",
+  "by": "rules"
  }
 }
