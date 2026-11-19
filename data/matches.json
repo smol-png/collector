@@ -232968,5 +232968,32 @@
   "market": "AI",
   "event": "e10919",
   "by": "rules"
+ },
+ "d12a300d51e0bf0b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13328",
+  "by": "rules"
+ },
+ "ab1047aa6cf2104a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 3700.0,
+  "market": "Other",
+  "event": "e13745",
+  "by": "rules"
+ },
+ "a64d5df6c9be2c5f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13787",
+  "by": "rules"
  }
 }
