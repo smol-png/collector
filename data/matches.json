@@ -213530,5 +213530,34 @@
   "market": "Other",
   "event": "e12661",
   "by": "rules"
+ },
+ "12894c4acb2c8a4e": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8384",
+  "by": "rules"
+ },
+ "d63d264d652474b4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12662",
+  "by": "rules"
+ },
+ "9d7330b3c25e6566": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BNB"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12157",
+  "by": "rules"
  }
 }
