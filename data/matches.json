@@ -231617,5 +231617,18 @@
   "market": "AI",
   "event": "e13331",
   "by": "rules"
+ },
+ "712d1eaf8abfd7d9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "AMZN",
+   "GOOGL",
+   "NVDA"
+  ],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e13715",
+  "by": "rules"
  }
 }
