@@ -223857,5 +223857,43 @@
   "market": "AI",
   "event": "e11821",
   "by": "rules"
+ },
+ "777a3a49b83d83e7": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e13257",
+  "by": "rules"
+ },
+ "8d8cb53e41319ad6": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12844",
+  "by": "rules"
+ },
+ "649892aacb94f016": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13258",
+  "by": "rules"
+ },
+ "df8db3d871cf3b1f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12588",
+  "by": "rules"
  }
 }
