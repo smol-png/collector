@@ -218242,5 +218242,50 @@
   "market": "Other",
   "event": "e12938",
   "by": "rules"
+ },
+ "96abcb457372763a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 396.0,
+  "market": "Stocks",
+  "event": "e12939",
+  "by": "rules"
+ },
+ "3da35897d7c179a6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12940",
+  "by": "rules"
+ },
+ "60c52d68bbcb0f7d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12941",
+  "by": "rules"
+ },
+ "6b35e01e87fcaa9f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12942",
+  "by": "rules"
+ },
+ "50c1530bee1bdcec": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 7.0,
+  "market": "Other",
+  "event": "e12943",
+  "by": "rules"
  }
 }
