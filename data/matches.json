@@ -220813,5 +220813,27 @@
   "market": "Other",
   "event": "e12547",
   "by": "rules"
+ },
+ "2340a8d1ba253be8": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e11558",
+  "by": "rules"
+ },
+ "c256ee11dcb4c7f6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13090",
+  "by": "rules"
  }
 }
