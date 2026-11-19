@@ -213649,5 +213649,23 @@
   "market": "Stocks",
   "event": "e12667",
   "by": "rules"
+ },
+ "249aaccae1d286d4": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12668",
+  "by": "rules"
+ },
+ "a79682c03b131e2d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12553",
+  "by": "rules"
  }
 }
