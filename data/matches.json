@@ -218129,5 +218129,17 @@
   "market": "Crypto",
   "event": "e12930",
   "by": "rules"
+ },
+ "1f8a6307235cc1b9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12931",
+  "by": "rules"
  }
 }
