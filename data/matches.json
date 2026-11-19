@@ -211270,5 +211270,45 @@
   "market": "Other",
   "event": "e12536",
   "by": "rules"
+ },
+ "462d4682945fb9b1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12531",
+  "by": "rules"
+ },
+ "cdcfe6ca1a286068": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12537",
+  "by": "rules"
+ },
+ "b7e457aa9d4a1d11": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11546",
+  "by": "rules"
+ },
+ "6ee490229290f44a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "HOOD"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12538",
+  "by": "rules"
  }
 }
