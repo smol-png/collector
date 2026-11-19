@@ -231900,5 +231900,25 @@
   "market": "Other",
   "event": "e11913",
   "by": "rules"
+ },
+ "270aec5582bbe07a": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13726",
+  "by": "rules"
+ },
+ "a30c28aeb52f53d4": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13694",
+  "by": "rules"
  }
 }
