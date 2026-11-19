@@ -222954,5 +222954,16 @@
   "market": "Other",
   "event": "e13197",
   "by": "rules"
+ },
+ "2382f9c101feb304": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13198",
+  "by": "rules"
  }
 }
