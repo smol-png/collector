@@ -220318,5 +220318,23 @@
   "market": "AI",
   "event": "e8737",
   "by": "rules"
+ },
+ "e99ab8e859c816f5": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13058",
+  "by": "rules"
+ },
+ "b46132853c43ce44": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1.3,
+  "market": "Other",
+  "event": "e13059",
+  "by": "rules"
  }
 }
