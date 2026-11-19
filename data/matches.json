@@ -219513,5 +219513,79 @@
   "market": "AI",
   "event": "e12957",
   "by": "rules"
+ },
+ "5f7306207cc21641": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13013",
+  "by": "rules"
+ },
+ "8ea64fe77b50c74f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13014",
+  "by": "rules"
+ },
+ "4642b7a849f9c7c3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13014",
+  "by": "rules"
+ },
+ "c84369c8108ec70c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8871",
+  "by": "rules"
+ },
+ "d8d287bb3244ba9f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "HYPE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13015",
+  "by": "rules"
+ },
+ "5b3ba86a3c967024": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12457",
+  "by": "rules"
+ },
+ "f7b719eccb83c5a1": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12457",
+  "by": "rules"
+ },
+ "019ca371e17c87cc": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13016",
+  "by": "rules"
  }
 }
