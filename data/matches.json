@@ -224050,5 +224050,23 @@
   "market": "Other",
   "event": "e13270",
   "by": "rules"
+ },
+ "fee609a6a9c7bcbc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e13271",
+  "by": "rules"
+ },
+ "fcc60b6dabcc3477": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13272",
+  "by": "rules"
  }
 }
