@@ -232265,5 +232265,52 @@
   "market": "Crypto",
   "event": "e13437",
   "by": "rules"
+ },
+ "a1a05f8f9e24a9eb": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13749",
+  "by": "rules"
+ },
+ "efff1ff7fea14388": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12281",
+  "by": "rules"
+ },
+ "a5627c5e6e9ccf62": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13526",
+  "by": "rules"
+ },
+ "2053880a6b51b019": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e322",
+  "by": "rules"
+ },
+ "b07f52b0129d2a65": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13750",
+  "by": "rules"
  }
 }
