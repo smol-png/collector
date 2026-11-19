@@ -228636,5 +228636,34 @@
   "market": "AI",
   "event": "e13530",
   "by": "rules"
+ },
+ "ab88e1ba9e11b1ce": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13531",
+  "by": "rules"
+ },
+ "1c46231cb97c5236": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13532",
+  "by": "rules"
+ },
+ "fa6583183c9bdf8c": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13533",
+  "by": "rules"
  }
 }
