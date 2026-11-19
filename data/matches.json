@@ -229100,5 +229100,27 @@
   "market": "Crypto",
   "event": "e13557",
   "by": "rules"
+ },
+ "c3f8517555960709": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12985",
+  "by": "rules"
+ },
+ "16fa388bb762ba64": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13558",
+  "by": "rules"
  }
 }
