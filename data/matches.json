@@ -212150,5 +212150,41 @@
   "market": "Other",
   "event": "e12586",
   "by": "rules"
+ },
+ "01ee49a162916f77": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 525.0,
+  "market": "Other",
+  "event": "e12587",
+  "by": "rules"
+ },
+ "198fbcba33e05139": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12588",
+  "by": "rules"
+ },
+ "f9def23da24d5db8": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12588",
+  "by": "rules"
+ },
+ "fd158a3a0f1fa1f4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12589",
+  "by": "rules"
  }
 }
