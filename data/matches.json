@@ -228948,5 +228948,146 @@
   "market": "Other",
   "event": "e13551",
   "by": "rules"
+ },
+ "8f70af26eb6df973": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13552",
+  "by": "rules"
+ },
+ "fba0949e4216c538": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13157",
+  "by": "rules"
+ },
+ "437249ae32e2d7c5": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e13497",
+  "by": "rules"
+ },
+ "e3a58f90cb0821cb": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13076",
+  "by": "rules"
+ },
+ "5cf8c21677191f46": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13553",
+  "by": "rules"
+ },
+ "c173349056840c2c": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8501",
+  "by": "rules"
+ },
+ "386259953d2422ff": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8701",
+  "by": "rules"
+ },
+ "1996913da1eda978": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e8701",
+  "by": "rules"
+ },
+ "ba147114620ba53d": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8701",
+  "by": "rules"
+ },
+ "1953424c587b918b": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": 150.0,
+  "market": "Other",
+  "event": "e13554",
+  "by": "rules"
+ },
+ "b82c4d12bdddc3c3": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": 150.0,
+  "market": "Other",
+  "event": "e13554",
+  "by": "rules"
+ },
+ "cdd6d56e832ba920": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9037",
+  "by": "rules"
+ },
+ "a04380d9881aae1e": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e13190",
+  "by": "rules"
+ },
+ "d25759b5d924415a": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13555",
+  "by": "rules"
+ },
+ "0c58f3f8be2f48c5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13556",
+  "by": "rules"
  }
 }
