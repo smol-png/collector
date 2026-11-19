@@ -233016,5 +233016,34 @@
   "market": "Crypto",
   "event": "e13789",
   "by": "rules"
+ },
+ "3523dbb4ec8c4ec9": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12481",
+  "by": "rules"
+ },
+ "2a644bb240acde2d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13790",
+  "by": "rules"
+ },
+ "286cfef97a5898b1": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13791",
+  "by": "rules"
  }
 }
