@@ -234181,5 +234181,26 @@
   "market": "Other",
   "event": "e13855",
   "by": "rules"
+ },
+ "60d5634db53beb65": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL",
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13856",
+  "by": "rules"
+ },
+ "5ca16a33cb108b05": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 115000.0,
+  "market": "Other",
+  "event": "e13857",
+  "by": "rules"
  }
 }
