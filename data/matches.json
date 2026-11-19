@@ -213739,5 +213739,23 @@
   "market": "AI",
   "event": "e11175",
   "by": "rules"
+ },
+ "6ceb2b67eb18e7e8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12671",
+  "by": "rules"
+ },
+ "31a32fcd5e185bb5": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12672",
+  "by": "rules"
  }
 }
