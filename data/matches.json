@@ -219123,5 +219123,41 @@
   "market": "Other",
   "event": "e12897",
   "by": "rules"
+ },
+ "dfabc21b5d51987e": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12992",
+  "by": "rules"
+ },
+ "bddc704934346fe4": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12992",
+  "by": "rules"
+ },
+ "b67596c6576a03e2": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": 77.5,
+  "market": "Other",
+  "event": "e12879",
+  "by": "rules"
+ },
+ "f29eacbc362329a7": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8301",
+  "by": "rules"
  }
 }
