@@ -227771,5 +227771,25 @@
   "market": "Other",
   "event": "e13474",
   "by": "rules"
+ },
+ "0008f1c0130e121f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13475",
+  "by": "rules"
+ },
+ "2f4b720e5a58b7f7": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12043",
+  "by": "rules"
  }
 }
