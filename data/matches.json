@@ -233045,5 +233045,41 @@
   "market": "Crypto",
   "event": "e13791",
   "by": "rules"
+ },
+ "8207bc8693f8a899": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12481",
+  "by": "rules"
+ },
+ "a81263257838972c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13788",
+  "by": "rules"
+ },
+ "84397a8ea04a4f45": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": 2000000.0,
+  "market": "AI",
+  "event": "e12481",
+  "by": "rules"
+ },
+ "161d00cf70adfd20": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12361",
+  "by": "rules"
  }
 }
