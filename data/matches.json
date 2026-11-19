@@ -212884,5 +212884,23 @@
   "market": "Other",
   "event": "e12622",
   "by": "rules"
+ },
+ "8e352fd3d7b2065f": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12623",
+  "by": "rules"
+ },
+ "f731a6dc8117556b": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11339",
+  "by": "rules"
  }
 }
