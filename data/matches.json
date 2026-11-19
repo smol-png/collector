@@ -211876,5 +211876,23 @@
   "market": "Other",
   "event": "e12569",
   "by": "rules"
+ },
+ "be202f63a94a8abf": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 2000.0,
+  "market": "Other",
+  "event": "e12570",
+  "by": "rules"
+ },
+ "dd0ec73385e10bb1": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12569",
+  "by": "rules"
  }
 }
