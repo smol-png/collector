@@ -225515,5 +225515,23 @@
   "market": "AI",
   "event": "e12111",
   "by": "rules"
+ },
+ "d8468ddd8c9cbf3d": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e12651",
+  "by": "rules"
+ },
+ "79e77b102e06c7df": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8384",
+  "by": "rules"
  }
 }
