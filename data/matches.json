@@ -211310,5 +211310,34 @@
   "market": "Stocks",
   "event": "e12538",
   "by": "rules"
+ },
+ "a24c540c840e2cc6": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10168",
+  "by": "rules"
+ },
+ "e864e4da9e9bf218": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 81300.0,
+  "market": "AI",
+  "event": "e12539",
+  "by": "rules"
+ },
+ "01c6a68bf6d00258": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12458",
+  "by": "rules"
  }
 }
