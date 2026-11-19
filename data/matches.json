@@ -224725,5 +224725,43 @@
   "market": "Other",
   "event": "e13312",
   "by": "rules"
+ },
+ "f868388373a09a06": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 250000.0,
+  "market": "Other",
+  "event": "e13313",
+  "by": "rules"
+ },
+ "74537773ef8bf229": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 50000.0,
+  "market": "Other",
+  "event": "e13314",
+  "by": "rules"
+ },
+ "d0ff3259f71f1715": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8384",
+  "by": "rules"
+ },
+ "8d3ad6270d4c561e": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13225",
+  "by": "rules"
  }
 }
