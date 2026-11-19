@@ -224396,5 +224396,35 @@
   "market": "AI",
   "event": "e7939",
   "by": "rules"
+ },
+ "afc92c88bc88cef3": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12825",
+  "by": "rules"
+ },
+ "6593a8eb9e9c3295": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13292",
+  "by": "rules"
+ },
+ "b865afaa758eef41": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH",
+   "LINK"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13293",
+  "by": "rules"
  }
 }
