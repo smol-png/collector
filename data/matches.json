@@ -216159,5 +216159,44 @@
   "market": "Other",
   "event": "e11820",
   "by": "rules"
+ },
+ "2c89567daae933a8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12818",
+  "by": "rules"
+ },
+ "56c0f34de08f20f6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1000.0,
+  "market": "Other",
+  "event": "e12819",
+  "by": "rules"
+ },
+ "fc669af02814bc98": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e12820",
+  "by": "rules"
+ },
+ "634330a988116e6f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAVE",
+   "TRX"
+  ],
+  "usd_m": 91000.0,
+  "market": "Crypto",
+  "event": "e12821",
+  "by": "rules"
  }
 }
