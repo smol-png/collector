@@ -216465,5 +216465,25 @@
   "market": "Other",
   "event": "e12836",
   "by": "rules"
+ },
+ "ca576eea378bc03f": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12453",
+  "by": "rules"
+ },
+ "6622ea4ebe7e845c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12837",
+  "by": "rules"
  }
 }
