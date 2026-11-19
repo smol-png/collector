@@ -234512,5 +234512,16 @@
   "market": "AI",
   "event": "e13865",
   "by": "rules"
+ },
+ "c830b16614730273": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12747",
+  "by": "rules"
  }
 }
