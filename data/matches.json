@@ -232137,5 +232137,115 @@
   "market": "AI",
   "event": "e8486",
   "by": "rules"
+ },
+ "11841301a71b3a9f": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13739",
+  "by": "rules"
+ },
+ "aece6b7002883814": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.1,
+  "market": "Other",
+  "event": "e13740",
+  "by": "rules"
+ },
+ "4608f9f8e4fbb499": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13741",
+  "by": "rules"
+ },
+ "76678bd714d03931": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11282",
+  "by": "rules"
+ },
+ "0eeb1c79daa25868": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11282",
+  "by": "rules"
+ },
+ "98cef0077dccd1ed": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 1300.0,
+  "market": "Other",
+  "event": "e13742",
+  "by": "rules"
+ },
+ "c9be5153088e6de3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13743",
+  "by": "rules"
+ },
+ "d371dfa2b66a142e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13744",
+  "by": "rules"
+ },
+ "69fd502a9184303f": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 3680.0,
+  "market": "Other",
+  "event": "e13745",
+  "by": "rules"
+ },
+ "aa247105b6a14ecf": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13746",
+  "by": "rules"
+ },
+ "ecf07d687f8aafe0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e9487",
+  "by": "rules"
+ },
+ "65e66791dc999c7f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 3680.0,
+  "market": "Other",
+  "event": "e13747",
+  "by": "rules"
  }
 }
