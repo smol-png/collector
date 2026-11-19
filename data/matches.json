@@ -223180,5 +223180,122 @@
   "market": "Crypto",
   "event": "e11115",
   "by": "rules"
+ },
+ "4b2a6f551bee28e5": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e13212",
+  "by": "rules"
+ },
+ "4d3c2e47211d19d2": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13213",
+  "by": "rules"
+ },
+ "846e8a806e08d9e2": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e11373",
+  "by": "rules"
+ },
+ "9243ee494258f290": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13196",
+  "by": "rules"
+ },
+ "5f34b43b9af61d29": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13196",
+  "by": "rules"
+ },
+ "6bd7634160cadafd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13214",
+  "by": "rules"
+ },
+ "157858776acac15d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13215",
+  "by": "rules"
+ },
+ "e30631e3c5bbdc27": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13216",
+  "by": "rules"
+ },
+ "d64727c1fb72b2ff": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13217",
+  "by": "rules"
+ },
+ "44eaf49d474683ba": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13218",
+  "by": "rules"
+ },
+ "cee61baa5e2e683f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13219",
+  "by": "rules"
+ },
+ "f4406173880bd7cd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13219",
+  "by": "rules"
+ },
+ "6583593fca9c6014": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8241",
+  "by": "rules"
  }
 }
