@@ -223790,5 +223790,34 @@
   "market": "Crypto",
   "event": "e13251",
   "by": "rules"
+ },
+ "79142f6fbb3d899c": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13252",
+  "by": "rules"
+ },
+ "2d0048b5dbb2c7d9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13253",
+  "by": "rules"
+ },
+ "2354edc4fabbed5b": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13254",
+  "by": "rules"
  }
 }
