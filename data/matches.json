@@ -217601,5 +217601,23 @@
   "market": "Macro",
   "event": "e12895",
   "by": "rules"
+ },
+ "78cf9835b1cf1fd5": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11198",
+  "by": "rules"
+ },
+ "72b9591bb605d32c": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12896",
+  "by": "rules"
  }
 }
