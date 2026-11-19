@@ -226115,5 +226115,50 @@
   "market": "Stocks",
   "event": "e13370",
   "by": "rules"
+ },
+ "2e0d89f399d88ebc": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": 12.5,
+  "market": "Other",
+  "event": "e13381",
+  "by": "rules"
+ },
+ "d8195238e2475fde": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3119",
+  "by": "rules"
+ },
+ "8ace7f037a485e95": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13382",
+  "by": "rules"
+ },
+ "5bcb99fa7aa9add7": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 20000.0,
+  "market": "AI",
+  "event": "e11118",
+  "by": "rules"
+ },
+ "31025eba0dbc6a48": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13383",
+  "by": "rules"
  }
 }
