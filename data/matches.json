@@ -229851,5 +229851,34 @@
   "market": "Other",
   "event": "e13605",
   "by": "rules"
+ },
+ "4bea42a5b1e52583": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13345",
+  "by": "rules"
+ },
+ "f21c5feca86d1a6c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13606",
+  "by": "rules"
+ },
+ "dd03a25a217b9713": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13607",
+  "by": "rules"
  }
 }
