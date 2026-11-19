@@ -230407,5 +230407,23 @@
   "market": "AI",
   "event": "e12230",
   "by": "rules"
+ },
+ "4b6d61f7ef87c550": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13360",
+  "by": "rules"
+ },
+ "e887c4f3a0885c6f": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10384",
+  "by": "rules"
  }
 }
