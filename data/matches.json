@@ -233635,5 +233635,16 @@
   "market": "Other",
   "event": "e13825",
   "by": "rules"
+ },
+ "943061bce1b10e6d": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "HOOD"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12715",
+  "by": "rules"
  }
 }
