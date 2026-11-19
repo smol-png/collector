@@ -232063,5 +232063,16 @@
   "market": "Crypto",
   "event": "e4074",
   "by": "rules"
+ },
+ "25b834c197e11d4a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13735",
+  "by": "rules"
  }
 }
