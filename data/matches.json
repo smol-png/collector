@@ -222102,5 +222102,43 @@
   "market": "Crypto",
   "event": "e13147",
   "by": "rules"
+ },
+ "159fca4d639a304f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11819",
+  "by": "rules"
+ },
+ "370487bb78f9fd3d": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12009",
+  "by": "rules"
+ },
+ "1572113ea98929ea": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13148",
+  "by": "rules"
+ },
+ "7b01445760f490a4": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13149",
+  "by": "rules"
  }
 }
