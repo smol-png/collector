@@ -233368,5 +233368,16 @@
   "market": "Other",
   "event": "e9194",
   "by": "rules"
+ },
+ "c77b1c94beae40fd": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13190",
+  "by": "rules"
  }
 }
