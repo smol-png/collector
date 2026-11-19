@@ -223447,5 +223447,23 @@
   "market": "Crypto",
   "event": "e7748",
   "by": "rules"
+ },
+ "fc8dec44f7144c08": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13230",
+  "by": "rules"
+ },
+ "7de87ab713d159ca": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13231",
+  "by": "rules"
  }
 }
