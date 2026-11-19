@@ -226654,5 +226654,16 @@
   "market": "Stocks",
   "event": "e13413",
   "by": "rules"
+ },
+ "1700fc648803c3d5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": 3500.0,
+  "market": "Stocks",
+  "event": "e13414",
+  "by": "rules"
  }
 }
