@@ -222254,5 +222254,23 @@
   "market": "AI",
   "event": "e12045",
   "by": "rules"
+ },
+ "0ca0f2c61389b7a2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13157",
+  "by": "rules"
+ },
+ "ed5554fb4978c88f": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e13158",
+  "by": "rules"
  }
 }
