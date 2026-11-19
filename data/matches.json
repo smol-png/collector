@@ -214093,5 +214093,41 @@
   "market": "AI",
   "event": "e12694",
   "by": "rules"
+ },
+ "244dd76825cfeb18": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12695",
+  "by": "rules"
+ },
+ "9520d618818eafe1": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12494",
+  "by": "rules"
+ },
+ "e5530feb9b891509": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12696",
+  "by": "rules"
+ },
+ "17a508c8eba6806d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11547",
+  "by": "rules"
  }
 }
