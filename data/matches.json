@@ -228335,5 +228335,28 @@
   "market": "Other",
   "event": "e13509",
   "by": "rules"
+ },
+ "a5cfa57b0ff30b4b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.13,
+  "market": "Crypto",
+  "event": "e7748",
+  "by": "rules"
+ },
+ "d40173560828eff3": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "AAPL",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13510",
+  "by": "rules"
  }
 }
