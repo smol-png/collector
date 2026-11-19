@@ -228421,5 +228421,34 @@
   "market": "AI",
   "event": "e13514",
   "by": "rules"
+ },
+ "033167baba28cc7e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13515",
+  "by": "rules"
+ },
+ "3d34348f6eff2150": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13516",
+  "by": "rules"
+ },
+ "1e38688abcc6d752": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "USDC"
+  ],
+  "usd_m": 1690.0,
+  "market": "Crypto",
+  "event": "e13517",
+  "by": "rules"
  }
 }
