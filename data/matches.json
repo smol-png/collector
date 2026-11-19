@@ -213757,5 +213757,83 @@
   "market": "Other",
   "event": "e12672",
   "by": "rules"
+ },
+ "33d82532902fd8bb": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e9820",
+  "by": "rules"
+ },
+ "a755d38d0211161f": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e9820",
+  "by": "rules"
+ },
+ "fc970e298472468d": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e12673",
+  "by": "rules"
+ },
+ "0bbebaf5b09626cb": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12674",
+  "by": "rules"
+ },
+ "95686413824c8aee": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9595",
+  "by": "rules"
+ },
+ "b2f442cf191b163d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.51,
+  "market": "Stocks",
+  "event": "e12675",
+  "by": "rules"
+ },
+ "55a2143268df2975": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 4.5,
+  "market": "Other",
+  "event": "e12676",
+  "by": "rules"
+ },
+ "5cd1aaafbb72fcfc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.16,
+  "market": "Stocks",
+  "event": "e11138",
+  "by": "rules"
  }
 }
