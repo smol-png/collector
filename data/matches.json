@@ -234133,5 +234133,35 @@
   "market": "Other",
   "event": "e13180",
   "by": "rules"
+ },
+ "4024edfc2f4b6582": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9074",
+  "by": "rules"
+ },
+ "41121e066e720699": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13853",
+  "by": "rules"
+ },
+ "4b047c969e4be26f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "META"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13854",
+  "by": "rules"
  }
 }
