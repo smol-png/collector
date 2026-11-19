@@ -212554,5 +212554,117 @@
   "market": "Other",
   "event": "e12494",
   "by": "rules"
+ },
+ "47ec33fa280dc8ea": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e12498",
+  "by": "rules"
+ },
+ "7ca484c414b5ad0a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e9811",
+  "by": "rules"
+ },
+ "3adb9fd4a7206b44": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12607",
+  "by": "rules"
+ },
+ "5f4de4b1f12b11d7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12607",
+  "by": "rules"
+ },
+ "b0eebde21ce56bf5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12273",
+  "by": "rules"
+ },
+ "ac308c7c74895f87": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12608",
+  "by": "rules"
+ },
+ "1dc33242232e8e56": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12608",
+  "by": "rules"
+ },
+ "4a9179379b9db6a8": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12111",
+  "by": "rules"
+ },
+ "689605370d15c64d": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12111",
+  "by": "rules"
+ },
+ "3b6e1a99aaa64fbf": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.01,
+  "market": "Stocks",
+  "event": "e1802",
+  "by": "rules"
+ },
+ "783b304c49f37f3f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.38,
+  "market": "Stocks",
+  "event": "e12609",
+  "by": "rules"
+ },
+ "01e27e85017ee92f": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.08,
+  "market": "Stocks",
+  "event": "e12610",
+  "by": "rules"
  }
 }
