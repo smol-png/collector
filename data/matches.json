@@ -216029,5 +216029,126 @@
   "market": "Other",
   "event": "e11219",
   "by": "rules"
+ },
+ "91ee9706e5d52174": {
+  "type": "analysis",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12810",
+  "by": "rules"
+ },
+ "9aae366dda1fb7af": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12743",
+  "by": "rules"
+ },
+ "9f10efc83bb75507": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12743",
+  "by": "rules"
+ },
+ "12a3e520ebdf71f0": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.1,
+  "market": "Stocks",
+  "event": "e12811",
+  "by": "rules"
+ },
+ "db9959d15f59a326": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.1,
+  "market": "Stocks",
+  "event": "e12812",
+  "by": "rules"
+ },
+ "80f3ca8fac6fd8c7": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e12813",
+  "by": "rules"
+ },
+ "42b6f294e92cabca": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12814",
+  "by": "rules"
+ },
+ "a317cfe9909f45fe": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12814",
+  "by": "rules"
+ },
+ "4b72af8b0453df49": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12815",
+  "by": "rules"
+ },
+ "415aae5ad9a0bd57": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e11317",
+  "by": "rules"
+ },
+ "aa587eeb24733778": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8241",
+  "by": "rules"
+ },
+ "030caaa83bed3a54": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12816",
+  "by": "rules"
+ },
+ "0915e2ec535c1f09": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12817",
+  "by": "rules"
  }
 }
