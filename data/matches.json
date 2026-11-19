@@ -216272,5 +216272,41 @@
   "market": "Crypto",
   "event": "e9967",
   "by": "rules"
+ },
+ "6bea14305013bca9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12236",
+  "by": "rules"
+ },
+ "1e3ca3a9cbb7692d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 71800.0,
+  "market": "Other",
+  "event": "e12827",
+  "by": "rules"
+ },
+ "55c07d3c26df3f98": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12828",
+  "by": "rules"
+ },
+ "ac2bde8c71f92c63": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12825",
+  "by": "rules"
  }
 }
