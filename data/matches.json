@@ -219251,5 +219251,25 @@
   "market": "Crypto",
   "event": "e13000",
   "by": "rules"
+ },
+ "ca3d3158294818d5": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e11638",
+  "by": "rules"
+ },
+ "ad43af30d4a2a111": {
+  "type": "live",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e7748",
+  "by": "rules"
  }
 }
