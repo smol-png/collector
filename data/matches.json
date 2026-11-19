@@ -231341,5 +231341,23 @@
   "market": "Other",
   "event": "e13480",
   "by": "rules"
+ },
+ "313a26b7db58e27d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 180000.0,
+  "market": "AI",
+  "event": "e11118",
+  "by": "rules"
+ },
+ "6fd0abe3b1714cf1": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13440",
+  "by": "rules"
  }
 }
