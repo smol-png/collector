@@ -226569,5 +226569,27 @@
   "market": "Other",
   "event": "e13345",
   "by": "rules"
+ },
+ "273727a61828d6d2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13410",
+  "by": "rules"
+ },
+ "4671c84a03f6417a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13411",
+  "by": "rules"
  }
 }
