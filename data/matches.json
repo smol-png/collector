@@ -214293,5 +214293,32 @@
   "market": "Stocks",
   "event": "e11080",
   "by": "rules"
+ },
+ "8a34ad8eab25ac22": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12707",
+  "by": "rules"
+ },
+ "aea0ca07ecbdcc04": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12708",
+  "by": "rules"
+ },
+ "51d7b6e3b3b1722e": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8871",
+  "by": "rules"
  }
 }
