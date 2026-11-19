@@ -220685,5 +220685,61 @@
   "market": "Prediction markets",
   "event": "e13080",
   "by": "rules"
+ },
+ "37b1d3da53a24b74": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12354",
+  "by": "rules"
+ },
+ "d749481205920900": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13081",
+  "by": "rules"
+ },
+ "58b9fd653e9f8ef5": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13082",
+  "by": "rules"
+ },
+ "f5c988fe5fd9a378": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13083",
+  "by": "rules"
+ },
+ "13237bd40ab91354": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8508",
+  "by": "rules"
+ },
+ "3a651d05aca12a98": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e219",
+  "by": "rules"
  }
 }
