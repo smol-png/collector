@@ -228705,5 +228705,38 @@
   "market": "Crypto",
   "event": "e13535",
   "by": "rules"
+ },
+ "7d74f98034e5c55c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13536",
+  "by": "rules"
+ },
+ "cb36d3b8c4412bd7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13537",
+  "by": "rules"
+ },
+ "5bf19544c2a7876e": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "HYPE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13538",
+  "by": "rules"
  }
 }
