@@ -227926,5 +227926,76 @@
   "market": "Other",
   "event": "e9194",
   "by": "rules"
+ },
+ "ff927e93f83a18d9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "AMZN",
+   "GOOGL"
+  ],
+  "usd_m": 260000.0,
+  "market": "AI",
+  "event": "e10276",
+  "by": "rules"
+ },
+ "c63cbd8e2b827a29": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13488",
+  "by": "rules"
+ },
+ "6fe300ef97a93c20": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 301.0,
+  "market": "Other",
+  "event": "e12118",
+  "by": "rules"
+ },
+ "d3b911d766bf8693": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13489",
+  "by": "rules"
+ },
+ "86c680ea23a92bee": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13490",
+  "by": "rules"
+ },
+ "b5610007600907e0": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12025",
+  "by": "rules"
+ },
+ "f8b86baf88eb8f23": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAVE",
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13491",
+  "by": "rules"
  }
 }
