@@ -227744,5 +227744,32 @@
   "market": "Crypto",
   "event": "e13253",
   "by": "rules"
+ },
+ "8f68ac135923e888": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12715",
+  "by": "rules"
+ },
+ "cf52a815e4709aa5": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8303",
+  "by": "rules"
+ },
+ "22599c8067113956": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13474",
+  "by": "rules"
  }
 }
