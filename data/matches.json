@@ -231323,5 +231323,23 @@
   "market": "Stocks",
   "event": "e13616",
   "by": "rules"
+ },
+ "e344555db7287c55": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13706",
+  "by": "rules"
+ },
+ "26ac48044b8385f5": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13480",
+  "by": "rules"
  }
 }
