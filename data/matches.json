@@ -211584,5 +211584,34 @@
   "market": "AI",
   "event": "e12554",
   "by": "rules"
+ },
+ "17863d563716500c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": 513.0,
+  "market": "AI",
+  "event": "e12555",
+  "by": "rules"
+ },
+ "5f2449f7e644c3e8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12354",
+  "by": "rules"
+ },
+ "c2c8859e21d5e4d8": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12350",
+  "by": "rules"
  }
 }
