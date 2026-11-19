@@ -217069,5 +217069,34 @@
   "market": "Other",
   "event": "e8287",
   "by": "rules"
+ },
+ "31cf690e8e333523": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11799",
+  "by": "rules"
+ },
+ "156a69de26fd63c4": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e10823",
+  "by": "rules"
+ },
+ "d1800e0e831c1a91": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12869",
+  "by": "rules"
  }
 }
