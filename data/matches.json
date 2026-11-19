@@ -235073,5 +235073,34 @@
   "market": "Stocks",
   "event": "e13857",
   "by": "rules"
+ },
+ "9116652e118b1f51": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12932",
+  "by": "rules"
+ },
+ "8030a38c7aae81b5": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8515",
+  "by": "rules"
+ },
+ "7d186c04de2d1bff": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13908",
+  "by": "rules"
  }
 }
