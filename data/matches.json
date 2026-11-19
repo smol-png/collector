@@ -219271,5 +219271,27 @@
   "market": "Crypto",
   "event": "e7748",
   "by": "rules"
+ },
+ "c38935acdb191705": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13001",
+  "by": "rules"
+ },
+ "1fb3c69044d9cfa5": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "HYPE"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e12955",
+  "by": "rules"
  }
 }
