@@ -215220,5 +215220,16 @@
   "market": "Other",
   "event": "e12766",
   "by": "rules"
+ },
+ "16293de4e8a435f1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12767",
+  "by": "rules"
  }
 }
