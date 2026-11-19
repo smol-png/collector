@@ -227250,5 +227250,23 @@
   "market": "AI",
   "event": "e10327",
   "by": "rules"
+ },
+ "00459fef527cf7ce": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13445",
+  "by": "rules"
+ },
+ "e9e93653373aa091": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e10327",
+  "by": "rules"
  }
 }
