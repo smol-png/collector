@@ -213348,5 +213348,16 @@
   "market": "Other",
   "event": "e12628",
   "by": "rules"
+ },
+ "15d8afe266aaabfa": {
+  "type": "explainer",
+  "category": "AI",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12648",
+  "by": "rules"
  }
 }
