@@ -222299,5 +222299,23 @@
   "market": "Other",
   "event": "e13161",
   "by": "rules"
+ },
+ "b202df2681f46a91": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9074",
+  "by": "rules"
+ },
+ "61a115d788418f3d": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e11515",
+  "by": "rules"
  }
 }
