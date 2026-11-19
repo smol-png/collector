@@ -227515,5 +227515,43 @@
   "market": "Other",
   "event": "e13465",
   "by": "rules"
+ },
+ "6cd0f14d73a7a2a8": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e11558",
+  "by": "rules"
+ },
+ "4252c238334e14ad": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13466",
+  "by": "rules"
+ },
+ "3ec78fb2c40adf7c": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13467",
+  "by": "rules"
+ },
+ "9f2180a318fc0279": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13468",
+  "by": "rules"
  }
 }
