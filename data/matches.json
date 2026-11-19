@@ -229992,5 +229992,63 @@
   "market": "Crypto",
   "event": "e13614",
   "by": "rules"
+ },
+ "3a9aeaf78a1e88a7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11781",
+  "by": "rules"
+ },
+ "a5480ecc5793f0e8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13612",
+  "by": "rules"
+ },
+ "69b589e06b7d9d20": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13615",
+  "by": "rules"
+ },
+ "3ad7f1b7fb3f3285": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": 0.0,
+  "market": "AI",
+  "event": "e13616",
+  "by": "rules"
+ },
+ "00cbcc191196f2e5": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "HOOD"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13617",
+  "by": "rules"
+ },
+ "76e5882438a59a07": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13618",
+  "by": "rules"
  }
 }
