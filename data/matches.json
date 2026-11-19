@@ -225288,5 +225288,23 @@
   "market": "Other",
   "event": "e13339",
   "by": "rules"
+ },
+ "c655527e734eba09": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12045",
+  "by": "rules"
+ },
+ "c803b34058a05b94": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e13340",
+  "by": "rules"
  }
 }
