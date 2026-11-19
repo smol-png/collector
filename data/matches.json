@@ -232995,5 +232995,26 @@
   "market": "AI",
   "event": "e13787",
   "by": "rules"
+ },
+ "74c898c65a04cd69": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13788",
+  "by": "rules"
+ },
+ "d4d75be85ef7cf89": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e13789",
+  "by": "rules"
  }
 }
