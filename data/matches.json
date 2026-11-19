@@ -228861,5 +228861,63 @@
   "market": "Crypto",
   "event": "e13543",
   "by": "rules"
+ },
+ "1b205eec78f4a4e2": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": 445.0,
+  "market": "Other",
+  "event": "e13547",
+  "by": "rules"
+ },
+ "d54814dc25a6f47a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13548",
+  "by": "rules"
+ },
+ "39f75a09109b3188": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13549",
+  "by": "rules"
+ },
+ "089b5383070d0e3b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 300000.0,
+  "market": "Other",
+  "event": "e13178",
+  "by": "rules"
+ },
+ "f593f75e5e3b77a7": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12985",
+  "by": "rules"
+ },
+ "8e117aabf39e02bc": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e13550",
+  "by": "rules"
  }
 }
