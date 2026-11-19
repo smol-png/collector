@@ -223151,5 +223151,25 @@
   "market": "AI",
   "event": "e12844",
   "by": "rules"
+ },
+ "53e406c3a3f5914a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 66.0,
+  "market": "Other",
+  "event": "e13210",
+  "by": "rules"
+ },
+ "fae90298a537e3ed": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13211",
+  "by": "rules"
  }
 }
