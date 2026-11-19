@@ -212186,5 +212186,32 @@
   "market": "Other",
   "event": "e12589",
   "by": "rules"
+ },
+ "bd23172b48ac7df1": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12576",
+  "by": "rules"
+ },
+ "f26129ed8ffa5f56": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12590",
+  "by": "rules"
+ },
+ "900852c5664dba70": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 3000.0,
+  "market": "AI",
+  "event": "e12519",
+  "by": "rules"
  }
 }
