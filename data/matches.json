@@ -231920,5 +231920,32 @@
   "market": "AI",
   "event": "e13694",
   "by": "rules"
+ },
+ "3d4bc3c410dae6fe": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 7000.0,
+  "market": "AI",
+  "event": "e13727",
+  "by": "rules"
+ },
+ "34e8f4d16587cb6f": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13728",
+  "by": "rules"
+ },
+ "bfacd8ec14af4df3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12837",
+  "by": "rules"
  }
 }
