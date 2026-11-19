@@ -215622,5 +215622,25 @@
   "market": "Other",
   "event": "e8287",
   "by": "rules"
+ },
+ "5a08090c6276d763": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12785",
+  "by": "rules"
+ },
+ "089ebbfc4535e716": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12786",
+  "by": "rules"
  }
 }
