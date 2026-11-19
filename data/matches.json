@@ -227434,5 +227434,41 @@
   "market": "Other",
   "event": "e13456",
   "by": "rules"
+ },
+ "e5545af23cb87888": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13457",
+  "by": "rules"
+ },
+ "8f43bae8612b9727": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13458",
+  "by": "rules"
+ },
+ "b0c081fdd8424d92": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13459",
+  "by": "rules"
+ },
+ "44d3fccc03976303": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 11.8,
+  "market": "Other",
+  "event": "e13460",
+  "by": "rules"
  }
 }
