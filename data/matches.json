@@ -218213,5 +218213,16 @@
   "market": "Stocks",
   "event": "e8515",
   "by": "rules"
+ },
+ "2781a3f66a3460d7": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": 150.0,
+  "market": "AI",
+  "event": "e12937",
+  "by": "rules"
  }
 }
