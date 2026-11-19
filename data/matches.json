@@ -217907,5 +217907,43 @@
   "market": "Other",
   "event": "e12918",
   "by": "rules"
+ },
+ "b905b44f40d31cd6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12919",
+  "by": "rules"
+ },
+ "c2116e7ce22b950c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12920",
+  "by": "rules"
+ },
+ "f2ec7c6a1c665a01": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 1100.0,
+  "market": "AI",
+  "event": "e12715",
+  "by": "rules"
+ },
+ "60e0d0faeebfeedb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 19.3,
+  "market": "Crypto",
+  "event": "e12921",
+  "by": "rules"
  }
 }
