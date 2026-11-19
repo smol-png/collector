@@ -222526,5 +222526,38 @@
   "market": "Other",
   "event": "e13175",
   "by": "rules"
+ },
+ "eaa1de1cb8dce41d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e9820",
+  "by": "rules"
+ },
+ "c9fc1a16bb8d4eac": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 13.5,
+  "market": "Other",
+  "event": "e13176",
+  "by": "rules"
+ },
+ "5f12dbec60227bf0": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "MSTR",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8868",
+  "by": "rules"
  }
 }
