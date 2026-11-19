@@ -225268,5 +225268,25 @@
   "market": "Stocks",
   "event": "e13264",
   "by": "rules"
+ },
+ "effa6db0c9b7ef14": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13190",
+  "by": "rules"
+ },
+ "f0a49e699356ad9a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13339",
+  "by": "rules"
  }
 }
