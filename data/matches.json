@@ -227997,5 +227997,26 @@
   "market": "Crypto",
   "event": "e13491",
   "by": "rules"
+ },
+ "aa59fbba0b755279": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13492",
+  "by": "rules"
+ },
+ "389b34f0fd987e45": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12027",
+  "by": "rules"
  }
 }
