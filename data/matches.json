@@ -214320,5 +214320,25 @@
   "market": "AI",
   "event": "e8871",
   "by": "rules"
+ },
+ "0bf55b79c2dbb100": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12709",
+  "by": "rules"
+ },
+ "e6d55cba2d047e0e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12710",
+  "by": "rules"
  }
 }
