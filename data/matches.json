@@ -218422,5 +218422,36 @@
   "market": "AI",
   "event": "e8610",
   "by": "rules"
+ },
+ "2f078886f2d456d6": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11614",
+  "by": "rules"
+ },
+ "df6fdf172e244639": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12157",
+  "by": "rules"
+ },
+ "fbfdf1a10acbbeba": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "HYPE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12955",
+  "by": "rules"
  }
 }
