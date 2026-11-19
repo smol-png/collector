@@ -214156,5 +214156,43 @@
   "market": "Other",
   "event": "e12323",
   "by": "rules"
+ },
+ "9c1a692d7605e2cf": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12698",
+  "by": "rules"
+ },
+ "b13992db653e830e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12698",
+  "by": "rules"
+ },
+ "e13be2154ede8d57": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 100.0,
+  "market": "Other",
+  "event": "e12699",
+  "by": "rules"
+ },
+ "67890628f4dd1cfb": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12700",
+  "by": "rules"
  }
 }
