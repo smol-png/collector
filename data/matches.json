@@ -229898,5 +229898,16 @@
   "market": "AI",
   "event": "e13440",
   "by": "rules"
+ },
+ "b9a199feabf0386a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13609",
+  "by": "rules"
  }
 }
