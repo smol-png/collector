@@ -230843,5 +230843,23 @@
   "market": "Crypto",
   "event": "e13668",
   "by": "rules"
+ },
+ "e673e0efc67249b8": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13665",
+  "by": "rules"
+ },
+ "e36fe383360ef1b9": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13669",
+  "by": "rules"
  }
 }
