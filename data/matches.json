@@ -214718,5 +214718,16 @@
   "market": "Other",
   "event": "e12737",
   "by": "rules"
+ },
+ "c2b763bb2c11eb9e": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 3.4,
+  "market": "Crypto",
+  "event": "e12738",
+  "by": "rules"
  }
 }
