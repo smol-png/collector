@@ -216766,5 +216766,72 @@
   "market": "Other",
   "event": "e12850",
   "by": "rules"
+ },
+ "a816d555383ac208": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12513",
+  "by": "rules"
+ },
+ "741cd1edce6cc6c0": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12851",
+  "by": "rules"
+ },
+ "2942a9ce56d8c0c5": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12852",
+  "by": "rules"
+ },
+ "5adbeecaab268c59": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12853",
+  "by": "rules"
+ },
+ "0cfb510c8a18a751": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12854",
+  "by": "rules"
+ },
+ "d413ca3eb1035404": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 100.0,
+  "market": "AI",
+  "event": "e12855",
+  "by": "rules"
+ },
+ "36f301032f121ff6": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "BNB"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e12157",
+  "by": "rules"
  }
 }
