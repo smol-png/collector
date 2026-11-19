@@ -221527,5 +221527,61 @@
   "market": "Other",
   "event": "e12614",
   "by": "rules"
+ },
+ "9af237a747910dd9": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12614",
+  "by": "rules"
+ },
+ "c0fa28badf664628": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8384",
+  "by": "rules"
+ },
+ "b22197b34e3cae78": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13116",
+  "by": "rules"
+ },
+ "81187625ab2d207c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13117",
+  "by": "rules"
+ },
+ "33c07c5a1699898d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 884.0,
+  "market": "Crypto",
+  "event": "e11708",
+  "by": "rules"
+ },
+ "d51baeeca89a5ba8": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13061",
+  "by": "rules"
  }
 }
