@@ -211838,5 +211838,23 @@
   "market": "Other",
   "event": "e12567",
   "by": "rules"
+ },
+ "afeda27da4dff546": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": 400.0,
+  "market": "Other",
+  "event": "e10064",
+  "by": "rules"
+ },
+ "d3fb8101ebecc394": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12568",
+  "by": "rules"
  }
 }
