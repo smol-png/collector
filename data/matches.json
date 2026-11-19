@@ -227086,5 +227086,34 @@
   "market": "AI",
   "event": "e13277",
   "by": "rules"
+ },
+ "d3385280736434cf": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13399",
+  "by": "rules"
+ },
+ "c23b7ec6ce837fbb": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13413",
+  "by": "rules"
+ },
+ "8f4585a3069acdb9": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13345",
+  "by": "rules"
  }
 }
