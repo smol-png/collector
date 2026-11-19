@@ -235138,5 +235138,54 @@
   "market": "Other",
   "event": "e13911",
   "by": "rules"
+ },
+ "9f6b2ab4263f6556": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13912",
+  "by": "rules"
+ },
+ "83cdb02be98fd53c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13913",
+  "by": "rules"
+ },
+ "9eba0fe0c7281015": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13190",
+  "by": "rules"
+ },
+ "32b65f573d1a6d49": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13190",
+  "by": "rules"
+ },
+ "e35f80ed53cb730f": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12459",
+  "by": "rules"
  }
 }
