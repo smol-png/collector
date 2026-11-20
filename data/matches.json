@@ -252903,5 +252903,23 @@
   "market": "Crypto",
   "event": "e5542",
   "by": "rules"
+ },
+ "c8f2fe4555f10e7b": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14956",
+  "by": "rules"
+ },
+ "112db8b84afc732a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 2360.0,
+  "market": "Other",
+  "event": "e14957",
+  "by": "rules"
  }
 }
