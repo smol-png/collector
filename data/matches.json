@@ -239682,5 +239682,16 @@
   "market": "Other",
   "event": "e14169",
   "by": "rules"
+ },
+ "3525602e72b90678": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14170",
+  "by": "rules"
  }
 }
