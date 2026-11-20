@@ -253277,5 +253277,25 @@
   "market": "Other",
   "event": "e14977",
   "by": "rules"
+ },
+ "bd53427233065449": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14978",
+  "by": "rules"
+ },
+ "acce5d4673c514bf": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "DOGE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e14979",
+  "by": "rules"
  }
 }
