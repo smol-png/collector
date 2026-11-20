@@ -253584,5 +253584,34 @@
   "market": "Other",
   "event": "e14972",
   "by": "rules"
+ },
+ "f8d2f5a0ddcbc5d0": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 9000.0,
+  "market": "Stocks",
+  "event": "e14994",
+  "by": "rules"
+ },
+ "dfd931eec93fe2d7": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14995",
+  "by": "rules"
+ },
+ "8a11f8a641682635": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14996",
+  "by": "rules"
  }
 }
