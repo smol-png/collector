@@ -240284,5 +240284,16 @@
   "market": "Other",
   "event": "e14206",
   "by": "rules"
+ },
+ "f0c9c8fb6aa717c0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": 7500.0,
+  "market": "Stocks",
+  "event": "e14207",
+  "by": "rules"
  }
 }
