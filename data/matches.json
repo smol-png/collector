@@ -238577,5 +238577,52 @@
   "market": "Other",
   "event": "e14107",
   "by": "rules"
+ },
+ "d3f7421eff96e9e1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14096",
+  "by": "rules"
+ },
+ "7b1c3b07738a7585": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14100",
+  "by": "rules"
+ },
+ "2712d9d622776949": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14108",
+  "by": "rules"
+ },
+ "2de2a6eb039b2c1c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13440",
+  "by": "rules"
+ },
+ "5ad54fa926e8afa5": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e14109",
+  "by": "rules"
  }
 }
