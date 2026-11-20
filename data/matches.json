@@ -240073,5 +240073,97 @@
   "market": "Other",
   "event": "e14193",
   "by": "rules"
+ },
+ "9ac203b72c7f1182": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14128",
+  "by": "rules"
+ },
+ "d78c462213c67c1d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14194",
+  "by": "rules"
+ },
+ "e40d2af1f85f9d5f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14194",
+  "by": "rules"
+ },
+ "34b26a66bcb51424": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.1,
+  "market": "Stocks",
+  "event": "e1802",
+  "by": "rules"
+ },
+ "dbe0ec7bf24a97fa": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": 0.24,
+  "market": "Stocks",
+  "event": "e14195",
+  "by": "rules"
+ },
+ "fd4b79c1e65fd9c2": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e14196",
+  "by": "rules"
+ },
+ "7e48f3f95450e837": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e8701",
+  "by": "rules"
+ },
+ "5d0787e8040fd172": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14197",
+  "by": "rules"
+ },
+ "d2d74532bd07e160": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8256",
+  "by": "rules"
+ },
+ "1790d7bb745b7c2d": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14198",
+  "by": "rules"
  }
 }
