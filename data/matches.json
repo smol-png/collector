@@ -242132,5 +242132,23 @@
   "market": "Macro",
   "event": "e14321",
   "by": "rules"
+ },
+ "969a3cfb6c976c23": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13932",
+  "by": "rules"
+ },
+ "83ade10b43c3066a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e14322",
+  "by": "rules"
  }
 }
