@@ -253707,5 +253707,32 @@
   "market": "AI",
   "event": "e14865",
   "by": "rules"
+ },
+ "65d922b787ea3906": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15000",
+  "by": "rules"
+ },
+ "6653eb4fcbc70f29": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15001",
+  "by": "rules"
+ },
+ "03040ceecc35b5f5": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15002",
+  "by": "rules"
  }
 }
