@@ -235301,5 +235301,32 @@
   "market": "AI",
   "event": "e13879",
   "by": "rules"
+ },
+ "69fbb50488e2ff86": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 110.0,
+  "market": "AI",
+  "event": "e11950",
+  "by": "rules"
+ },
+ "de09163d8c99fc5a": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12459",
+  "by": "rules"
+ },
+ "f5063928052e38c2": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11515",
+  "by": "rules"
  }
 }
