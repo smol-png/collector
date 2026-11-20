@@ -253306,5 +253306,25 @@
   "market": "Other",
   "event": "e14980",
   "by": "rules"
+ },
+ "c7967beccb4a509f": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14667",
+  "by": "rules"
+ },
+ "8378b2a4ea16163d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 43000.0,
+  "market": "AI",
+  "event": "e14981",
+  "by": "rules"
  }
 }
