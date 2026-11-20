@@ -245400,5 +245400,27 @@
   "market": "AI",
   "event": "e12844",
   "by": "rules"
+ },
+ "58d2398439392915": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14022",
+  "by": "rules"
+ },
+ "231ca020ea87e50d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e14527",
+  "by": "rules"
  }
 }
