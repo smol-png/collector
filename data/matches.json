@@ -243014,5 +243014,43 @@
   "market": "Crypto",
   "event": "e13741",
   "by": "rules"
+ },
+ "43c4770ba22462d4": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13440",
+  "by": "rules"
+ },
+ "7978aa0ee64783df": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13893",
+  "by": "rules"
+ },
+ "5d6bb465b7fdc0ba": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13893",
+  "by": "rules"
+ },
+ "27c309f653bb0069": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13590",
+  "by": "rules"
  }
 }
