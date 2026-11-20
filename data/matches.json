@@ -237955,5 +237955,28 @@
   "market": "AI",
   "event": "e8301",
   "by": "rules"
+ },
+ "f8ead4abbdda02ed": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9698",
+  "by": "rules"
+ },
+ "03101fece920f29a": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e14063",
+  "by": "rules"
  }
 }
