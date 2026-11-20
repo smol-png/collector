@@ -242639,5 +242639,25 @@
   "market": "Prediction markets",
   "event": "e14058",
   "by": "rules"
+ },
+ "d53b11efb8dc351d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e14352",
+  "by": "rules"
+ },
+ "34314df3e1e8a8af": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14353",
+  "by": "rules"
  }
 }
