@@ -238110,5 +238110,23 @@
   "market": "AI",
   "event": "e13879",
   "by": "rules"
+ },
+ "d4859f20cd0befc6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14072",
+  "by": "rules"
+ },
+ "5e040ce6ebe486c0": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 150.0,
+  "market": "Other",
+  "event": "e12937",
+  "by": "rules"
  }
 }
