@@ -253375,5 +253375,41 @@
   "market": "Crypto",
   "event": "e14983",
   "by": "rules"
+ },
+ "7dc646cfebf94119": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14984",
+  "by": "rules"
+ },
+ "9bf92bd1c4a8eaf4": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14985",
+  "by": "rules"
+ },
+ "42b04fe9331148c5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e14986",
+  "by": "rules"
+ },
+ "fe02f3d569d84f88": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14980",
+  "by": "rules"
  }
 }
