@@ -252353,5 +252353,23 @@
   "market": "Other",
   "event": "e14923",
   "by": "rules"
+ },
+ "fe04ac079e63160f": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14865",
+  "by": "rules"
+ },
+ "8955dc3d60207d52": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14924",
+  "by": "rules"
  }
 }
