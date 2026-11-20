@@ -237156,5 +237156,44 @@
   "market": "AI",
   "event": "e14018",
   "by": "rules"
+ },
+ "8c90293283a88741": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14019",
+  "by": "rules"
+ },
+ "3c93f8a9e7077f26": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13893",
+  "by": "rules"
+ },
+ "2fa87df6a5a3b7a1": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "AMZN",
+   "TSLA"
+  ],
+  "usd_m": 41000.0,
+  "market": "AI",
+  "event": "e13152",
+  "by": "rules"
+ },
+ "c1e7bbc3f26d3e41": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14020",
+  "by": "rules"
  }
 }
