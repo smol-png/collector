@@ -238200,5 +238200,25 @@
   "market": "Other",
   "event": "e14077",
   "by": "rules"
+ },
+ "3106c5ad09728dcb": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12752",
+  "by": "rules"
+ },
+ "997d5cc5bf5c7232": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13606",
+  "by": "rules"
  }
 }
