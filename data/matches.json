@@ -251321,5 +251321,34 @@
   "market": "Other",
   "event": "e14868",
   "by": "rules"
+ },
+ "72a95c8eecbdf8d6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14869",
+  "by": "rules"
+ },
+ "513f4bf01f9d2097": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14870",
+  "by": "rules"
+ },
+ "8fb977cac012d7f4": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e5542",
+  "by": "rules"
  }
 }
