@@ -242298,5 +242298,16 @@
   "market": "Other",
   "event": "e14332",
   "by": "rules"
+ },
+ "ed4d5eab6230cab5": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14333",
+  "by": "rules"
  }
 }
