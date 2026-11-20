@@ -238850,5 +238850,27 @@
   "market": "Crypto",
   "event": "e14019",
   "by": "rules"
+ },
+ "a23373680827f5b3": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13921",
+  "by": "rules"
+ },
+ "9a3dd80e5b12ad12": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC",
+   "ETH",
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13741",
+  "by": "rules"
  }
 }
