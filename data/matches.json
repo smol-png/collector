@@ -243513,5 +243513,27 @@
   "market": "Other",
   "event": "e14402",
   "by": "rules"
+ },
+ "3804532864124625": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e13497",
+  "by": "rules"
+ },
+ "8ae27c4d44dc5008": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8042",
+  "by": "rules"
  }
 }
