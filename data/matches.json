@@ -242150,5 +242150,32 @@
   "market": "Crypto",
   "event": "e14322",
   "by": "rules"
+ },
+ "a73c82e3ba003264": {
+  "type": "roundup",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14323",
+  "by": "rules"
+ },
+ "3e10a847b71394d2": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e14324",
+  "by": "rules"
+ },
+ "25d5b102ed5748c6": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14325",
+  "by": "rules"
  }
 }
