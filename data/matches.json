@@ -253223,5 +253223,32 @@
   "market": "Stocks",
   "event": "e14859",
   "by": "rules"
+ },
+ "886ace64026b9bb2": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14972",
+  "by": "rules"
+ },
+ "30abad7a4e082f4d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14973",
+  "by": "rules"
+ },
+ "784bec5c4f4864d2": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14974",
+  "by": "rules"
  }
 }
