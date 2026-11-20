@@ -247865,5 +247865,52 @@
   "market": "Macro",
   "event": "e14679",
   "by": "rules"
+ },
+ "e59e5ab5aaacbdfe": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14680",
+  "by": "rules"
+ },
+ "1885a8849542910b": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14681",
+  "by": "rules"
+ },
+ "c4cb3f6682960cf2": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14682",
+  "by": "rules"
+ },
+ "f62564791c7fc909": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14683",
+  "by": "rules"
+ },
+ "21f9ce3824234706": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14684",
+  "by": "rules"
  }
 }
