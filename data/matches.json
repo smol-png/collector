@@ -243948,5 +243948,52 @@
   "market": "AI",
   "event": "e14434",
   "by": "rules"
+ },
+ "1456dc72d491e5c3": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14396",
+  "by": "rules"
+ },
+ "90dfd6cc6931b1f2": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14435",
+  "by": "rules"
+ },
+ "baca74e788c7f061": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14436",
+  "by": "rules"
+ },
+ "a460be07625b2103": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14437",
+  "by": "rules"
+ },
+ "2187e8cdfbe327df": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14438",
+  "by": "rules"
  }
 }
