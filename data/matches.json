@@ -251880,5 +251880,14 @@
   "market": "Stocks",
   "event": "e14840",
   "by": "rules"
+ },
+ "c9b712f5073ab73b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 1000000.0,
+  "market": "AI",
+  "event": "e12319",
+  "by": "rules"
  }
 }
