@@ -241724,5 +241724,23 @@
   "market": "Other",
   "event": "e14293",
   "by": "rules"
+ },
+ "48c77ed6d2c2b65a": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 90.0,
+  "market": "AI",
+  "event": "e14294",
+  "by": "rules"
+ },
+ "f0b60490238ad427": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e14295",
+  "by": "rules"
  }
 }
