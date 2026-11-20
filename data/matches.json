@@ -241861,5 +241861,72 @@
   "market": "Other",
   "event": "e14304",
   "by": "rules"
+ },
+ "29a9b38da0eff6e4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14279",
+  "by": "rules"
+ },
+ "1a0d86ff23f02e3c": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14105",
+  "by": "rules"
+ },
+ "6837753fcf4533dd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14305",
+  "by": "rules"
+ },
+ "7add759f4947fdaa": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14306",
+  "by": "rules"
+ },
+ "d1e04afe3d804d49": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14307",
+  "by": "rules"
+ },
+ "e39af9a8f22ee3e8": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e14167",
+  "by": "rules"
+ },
+ "587487a5ba9b8c39": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "HYPE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13538",
+  "by": "rules"
  }
 }
