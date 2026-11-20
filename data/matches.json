@@ -235328,5 +235328,34 @@
   "market": "AI",
   "event": "e11515",
   "by": "rules"
+ },
+ "fd87b458ae8b4821": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12507",
+  "by": "rules"
+ },
+ "ac1bb5e8c9faf2c4": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11515",
+  "by": "rules"
+ },
+ "0b7d16ba7f8126d8": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13865",
+  "by": "rules"
  }
 }
