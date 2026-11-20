@@ -250058,5 +250058,16 @@
   "market": "Other",
   "event": "e14804",
   "by": "rules"
+ },
+ "5d618a40c7171f4c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDC"
+  ],
+  "usd_m": 2000.0,
+  "market": "Crypto",
+  "event": "e14805",
+  "by": "rules"
  }
 }
