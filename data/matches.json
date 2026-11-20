@@ -253192,5 +253192,16 @@
   "market": "Other",
   "event": "e12614",
   "by": "rules"
+ },
+ "5fe02a1448ea724e": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e14970",
+  "by": "rules"
  }
 }
