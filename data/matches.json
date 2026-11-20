@@ -255160,5 +255160,34 @@
   "market": "Stocks",
   "event": "e15086",
   "by": "rules"
+ },
+ "375e1ffcd2901659": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e15087",
+  "by": "rules"
+ },
+ "e633b98bee441a5b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 3790.0,
+  "market": "Other",
+  "event": "e12354",
+  "by": "rules"
+ },
+ "9c5346ea40b58214": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15088",
+  "by": "rules"
  }
 }
