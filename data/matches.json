@@ -239287,5 +239287,23 @@
   "market": "Other",
   "event": "e14146",
   "by": "rules"
+ },
+ "8ba793c5bf060730": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13929",
+  "by": "rules"
+ },
+ "444de42b28889c8a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 81000.0,
+  "market": "AI",
+  "event": "e14147",
+  "by": "rules"
  }
 }
