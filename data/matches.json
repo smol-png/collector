@@ -247098,5 +247098,25 @@
   "market": "Stocks",
   "event": "e14638",
   "by": "rules"
+ },
+ "d18dfeba855036c5": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e14639",
+  "by": "rules"
+ },
+ "905e5484bb391770": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e14324",
+  "by": "rules"
  }
 }
