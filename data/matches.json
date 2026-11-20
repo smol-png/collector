@@ -254985,5 +254985,32 @@
   "market": "AI",
   "event": "e15075",
   "by": "rules"
+ },
+ "2197f061e99a9def": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 81000.0,
+  "market": "AI",
+  "event": "e12485",
+  "by": "rules"
+ },
+ "f378a776b7cbe432": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e15076",
+  "by": "rules"
+ },
+ "5ea62eda2bc35382": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e15077",
+  "by": "rules"
  }
 }
