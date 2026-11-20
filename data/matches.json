@@ -239305,5 +239305,16 @@
   "market": "AI",
   "event": "e14147",
   "by": "rules"
+ },
+ "840d828c7fed23ce": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": 2.8,
+  "market": "Crypto",
+  "event": "e14148",
+  "by": "rules"
  }
 }
