@@ -240850,5 +240850,122 @@
   "market": "Other",
   "event": "e14174",
   "by": "rules"
+ },
+ "059e7198de7734e7": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e13986",
+  "by": "rules"
+ },
+ "8d05144b4b1b8656": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14246",
+  "by": "rules"
+ },
+ "ed5d6382a50afe8a": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14246",
+  "by": "rules"
+ },
+ "f8cbd8b030381f70": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e1802",
+  "by": "rules"
+ },
+ "7b7a3ce4ce60cd1e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.02,
+  "market": "Stocks",
+  "event": "e14247",
+  "by": "rules"
+ },
+ "b723b6f4f78a19a1": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 3.13,
+  "market": "Stocks",
+  "event": "e14009",
+  "by": "rules"
+ },
+ "d66b53b5b5253f11": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e1802",
+  "by": "rules"
+ },
+ "7345bc39f1653525": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8241",
+  "by": "rules"
+ },
+ "d30fcff50a8aaaa6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3119",
+  "by": "rules"
+ },
+ "982080ff02a0b04a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3119",
+  "by": "rules"
+ },
+ "3c31f194f9030c80": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14248",
+  "by": "rules"
+ },
+ "7e1d7dc634d613eb": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8325",
+  "by": "rules"
+ },
+ "bcdffe4123d89f2b": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8325",
+  "by": "rules"
  }
 }
