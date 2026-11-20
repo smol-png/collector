@@ -236693,5 +236693,14 @@
   "market": "Stocks",
   "event": "e13991",
   "by": "rules"
+ },
+ "3000b16db1e64761": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 20000.0,
+  "market": "AI",
+  "event": "e13379",
+  "by": "rules"
  }
 }
