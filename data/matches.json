@@ -236343,5 +236343,119 @@
   "market": "Other",
   "event": "e13978",
   "by": "rules"
+ },
+ "39eefd770c722ad9": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10954",
+  "by": "rules"
+ },
+ "e9bd25a7cad71e12": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e9487",
+  "by": "rules"
+ },
+ "d4433e9374087851": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": 5.72,
+  "market": "Stocks",
+  "event": "e11046",
+  "by": "rules"
+ },
+ "5bf739e63fbf2cfd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.08,
+  "market": "Stocks",
+  "event": "e11232",
+  "by": "rules"
+ },
+ "789d6f06cbddc028": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": 0.85,
+  "market": "Stocks",
+  "event": "e11480",
+  "by": "rules"
+ },
+ "0df426335ceafb67": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9698",
+  "by": "rules"
+ },
+ "39e6b2bb8030c5cd": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13782",
+  "by": "rules"
+ },
+ "ecf2fe6e55934e27": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13782",
+  "by": "rules"
+ },
+ "7982a6a12f6d5df4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.04,
+  "market": "Stocks",
+  "event": "e13979",
+  "by": "rules"
+ },
+ "f544be485fa927d7": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 0.1,
+  "market": "AI",
+  "event": "e1802",
+  "by": "rules"
+ },
+ "e63cd869f4d50f75": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.65,
+  "market": "AI",
+  "event": "e13980",
+  "by": "rules"
+ },
+ "f841a9c3e5ed518b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12817",
+  "by": "rules"
  }
 }
