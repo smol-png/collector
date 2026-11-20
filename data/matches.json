@@ -249690,5 +249690,23 @@
   "market": "Other",
   "event": "e14784",
   "by": "rules"
+ },
+ "3b3ab680927f6749": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14748",
+  "by": "rules"
+ },
+ "c3f9d8e9c00ff4e5": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 500.0,
+  "market": "AI",
+  "event": "e14785",
+  "by": "rules"
  }
 }
