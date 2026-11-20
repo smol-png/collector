@@ -243419,5 +243419,32 @@
   "market": "Other",
   "event": "e14395",
   "by": "rules"
+ },
+ "19e6c773fab6f699": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14396",
+  "by": "rules"
+ },
+ "d64395a24b0267d9": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": 2000.0,
+  "market": "Other",
+  "event": "e14397",
+  "by": "rules"
+ },
+ "081fc9788ec77c90": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e14398",
+  "by": "rules"
  }
 }
