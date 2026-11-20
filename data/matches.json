@@ -243995,5 +243995,70 @@
   "market": "AI",
   "event": "e14438",
   "by": "rules"
+ },
+ "2d6e5195f65bf9e3": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e1115",
+  "by": "rules"
+ },
+ "45538b87fabb5368": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1.0,
+  "market": "Other",
+  "event": "e14439",
+  "by": "rules"
+ },
+ "149633d2d8d151d8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8490",
+  "by": "rules"
+ },
+ "36bdbd6ecbf7b91b": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14437",
+  "by": "rules"
+ },
+ "99934bda60583cf0": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14440",
+  "by": "rules"
+ },
+ "01c8303f20a3fa74": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14441",
+  "by": "rules"
+ },
+ "9f8eb0dc66f4de98": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14442",
+  "by": "rules"
  }
 }
