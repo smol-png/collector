@@ -251388,5 +251388,61 @@
   "market": "Other",
   "event": "e14872",
   "by": "rules"
+ },
+ "8816f1bf02bcaf03": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14873",
+  "by": "rules"
+ },
+ "028986d077245154": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14865",
+  "by": "rules"
+ },
+ "4d0040f39c525c05": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14874",
+  "by": "rules"
+ },
+ "ace90b120699c7ab": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14875",
+  "by": "rules"
+ },
+ "83f4a09060d2fd41": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14876",
+  "by": "rules"
+ },
+ "4c79aedd2a9ce9dd": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14877",
+  "by": "rules"
  }
 }
