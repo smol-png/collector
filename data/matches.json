@@ -252930,5 +252930,43 @@
   "market": "Other",
   "event": "e14958",
   "by": "rules"
+ },
+ "1fe5e66005dfffff": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e11399",
+  "by": "rules"
+ },
+ "2ddb86d0ea910961": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e14959",
+  "by": "rules"
+ },
+ "50c1e8f0d42d5f11": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14840",
+  "by": "rules"
+ },
+ "37c0a3e063913d6a": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": 560.0,
+  "market": "Crypto",
+  "event": "e13424",
+  "by": "rules"
  }
 }
