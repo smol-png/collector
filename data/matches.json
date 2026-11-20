@@ -247376,5 +247376,34 @@
   "market": "AI",
   "event": "e14634",
   "by": "rules"
+ },
+ "67643287e4a1d4b5": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e14651",
+  "by": "rules"
+ },
+ "315767ad99e53585": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13474",
+  "by": "rules"
+ },
+ "75baca885ec72202": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e14582",
+  "by": "rules"
  }
 }
