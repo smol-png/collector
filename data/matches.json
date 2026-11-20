@@ -235972,5 +235972,25 @@
   "market": "AI",
   "event": "e12428",
   "by": "rules"
+ },
+ "d556512e46ef916f": {
+  "type": "analysis",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e13957",
+  "by": "rules"
+ },
+ "3b11066f368d971a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13194",
+  "by": "rules"
  }
 }
