@@ -243834,5 +243834,25 @@
   "market": "Other",
   "event": "e14424",
   "by": "rules"
+ },
+ "abe4eaf651e722c7": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14425",
+  "by": "rules"
+ },
+ "1c163da9320cc9a3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 600.0,
+  "market": "Crypto",
+  "event": "e9967",
+  "by": "rules"
  }
 }
