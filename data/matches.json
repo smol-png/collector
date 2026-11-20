@@ -245021,5 +245021,61 @@
   "market": "Stocks",
   "event": "e13857",
   "by": "rules"
+ },
+ "af59ba824558aa5d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14503",
+  "by": "rules"
+ },
+ "b70e75e1d96b9aef": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13232",
+  "by": "rules"
+ },
+ "bf8fdff213ccbaa6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14504",
+  "by": "rules"
+ },
+ "fd087f7b17059337": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14505",
+  "by": "rules"
+ },
+ "1d1742b7c05db6e7": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14506",
+  "by": "rules"
+ },
+ "4c17249aff7f23b0": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14507",
+  "by": "rules"
  }
 }
