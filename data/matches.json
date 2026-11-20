@@ -244145,5 +244145,25 @@
   "market": "Other",
   "event": "e14448",
   "by": "rules"
+ },
+ "fde81d14528a3a85": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": 3000.0,
+  "market": "Stocks",
+  "event": "e14449",
+  "by": "rules"
+ },
+ "8d2c7127823f41f7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14450",
+  "by": "rules"
  }
 }
