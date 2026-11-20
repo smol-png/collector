@@ -254446,5 +254446,52 @@
   "market": "AI",
   "event": "e14916",
   "by": "rules"
+ },
+ "b1bb82514bb09726": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15009",
+  "by": "rules"
+ },
+ "c57d0b1384649fe2": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e15048",
+  "by": "rules"
+ },
+ "c578c0924f237b36": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14989",
+  "by": "rules"
+ },
+ "266ab3d6c82dc268": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e15049",
+  "by": "rules"
+ },
+ "05d49b82c051ad67": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14019",
+  "by": "rules"
  }
 }
