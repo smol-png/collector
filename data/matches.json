@@ -244623,5 +244623,26 @@
   "market": "Other",
   "event": "e14476",
   "by": "rules"
+ },
+ "cb36d771143f7248": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14477",
+  "by": "rules"
+ },
+ "ad904ff95ba33907": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "ETH",
+   "SOL"
+  ],
+  "usd_m": 90.0,
+  "market": "Crypto",
+  "event": "e14294",
+  "by": "rules"
  }
 }
