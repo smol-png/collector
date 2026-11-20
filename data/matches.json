@@ -253250,5 +253250,23 @@
   "market": "Other",
   "event": "e14974",
   "by": "rules"
+ },
+ "8a57ce47ef5c2073": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e14975",
+  "by": "rules"
+ },
+ "6797ad06327034ee": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14976",
+  "by": "rules"
  }
 }
