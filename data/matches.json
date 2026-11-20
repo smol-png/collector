@@ -255712,5 +255712,41 @@
   "market": "AI",
   "event": "e15006",
   "by": "rules"
+ },
+ "3583ad231f367409": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14865",
+  "by": "rules"
+ },
+ "5b208481fad27ad6": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14984",
+  "by": "rules"
+ },
+ "6ddb85efced0c34c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15123",
+  "by": "rules"
+ },
+ "baf218581ea24f92": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14865",
+  "by": "rules"
  }
 }
