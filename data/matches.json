@@ -237797,5 +237797,17 @@
   "market": "Other",
   "event": "e14052",
   "by": "rules"
+ },
+ "66a8b3a86a3cf687": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "ETH",
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e14053",
+  "by": "rules"
  }
 }
