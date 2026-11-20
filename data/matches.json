@@ -251502,5 +251502,16 @@
   "market": "Crypto",
   "event": "e9820",
   "by": "rules"
+ },
+ "ec517c6a36feee33": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "HOOD"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14881",
+  "by": "rules"
  }
 }
