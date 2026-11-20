@@ -250652,5 +250652,43 @@
   "market": "Other",
   "event": "e14836",
   "by": "rules"
+ },
+ "0a83320c6df85189": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14837",
+  "by": "rules"
+ },
+ "e23bb71f849e44ff": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e7748",
+  "by": "rules"
+ },
+ "065568c9e3ed733a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14838",
+  "by": "rules"
+ },
+ "fa27dfe3217b3a7f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14839",
+  "by": "rules"
  }
 }
