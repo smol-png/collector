@@ -255245,5 +255245,43 @@
   "market": "Other",
   "event": "e15093",
   "by": "rules"
+ },
+ "6dcceff289e29e15": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15094",
+  "by": "rules"
+ },
+ "352391609ed3f444": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15095",
+  "by": "rules"
+ },
+ "b6d4d57ce21687f5": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15096",
+  "by": "rules"
+ },
+ "78c9ef55fcc5f095": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e15097",
+  "by": "rules"
  }
 }
