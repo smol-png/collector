@@ -256453,5 +256453,44 @@
   "market": "Prediction markets",
   "event": "e14363",
   "by": "rules"
+ },
+ "2ad5b239ceef37be": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15046",
+  "by": "rules"
+ },
+ "767f3e3b4b148660": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15167",
+  "by": "rules"
+ },
+ "8e51bf4b8efdee91": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAVE",
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e15168",
+  "by": "rules"
+ },
+ "5327e86c38f00fa1": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e15155",
+  "by": "rules"
  }
 }
