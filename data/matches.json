@@ -248823,5 +248823,23 @@
   "market": "Stocks",
   "event": "e14177",
   "by": "rules"
+ },
+ "2fd7e6b2c4f16a46": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14732",
+  "by": "rules"
+ },
+ "ad5f4571d918b5b2": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e14324",
+  "by": "rules"
  }
 }
