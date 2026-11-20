@@ -235788,5 +235788,34 @@
   "market": "Macro",
   "event": "e13943",
   "by": "rules"
+ },
+ "2402eb1a369ade67": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13944",
+  "by": "rules"
+ },
+ "09ad4ebf3fe695e7": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9451",
+  "by": "rules"
+ },
+ "3d88fbd7310e0428": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13945",
+  "by": "rules"
  }
 }
