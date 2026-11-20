@@ -253411,5 +253411,23 @@
   "market": "Other",
   "event": "e14980",
   "by": "rules"
+ },
+ "7cbe916ab30c1d42": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14987",
+  "by": "rules"
+ },
+ "e1831c031204c3d2": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": 560.0,
+  "market": "Other",
+  "event": "e14764",
+  "by": "rules"
  }
 }
