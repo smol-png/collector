@@ -243115,5 +243115,17 @@
   "market": "Other",
   "event": "e14377",
   "by": "rules"
+ },
+ "0d70ab42847d0b2f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "META"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14378",
+  "by": "rules"
  }
 }
