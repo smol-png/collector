@@ -253016,5 +253016,172 @@
   "market": "Other",
   "event": "e14963",
   "by": "rules"
+ },
+ "e28487c80b6af98e": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14964",
+  "by": "rules"
+ },
+ "c18c25da9f9b80f0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9077",
+  "by": "rules"
+ },
+ "4b80343012c321c2": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8325",
+  "by": "rules"
+ },
+ "d4f5541f50ad00c7": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8325",
+  "by": "rules"
+ },
+ "ca47d460194c3661": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e10604",
+  "by": "rules"
+ },
+ "fe60619b46a6a4fb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "HOOD"
+  ],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e9037",
+  "by": "rules"
+ },
+ "988102f64c47088d": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e14965",
+  "by": "rules"
+ },
+ "2a9d794945830c86": {
+  "type": "analysis",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 1000.0,
+  "market": "AI",
+  "event": "e14966",
+  "by": "rules"
+ },
+ "a9a8742cd6b0b8a6": {
+  "type": "analysis",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 1000.0,
+  "market": "AI",
+  "event": "e14966",
+  "by": "rules"
+ },
+ "5376fed33a2f14c3": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14967",
+  "by": "rules"
+ },
+ "ea400e9b3c971498": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14967",
+  "by": "rules"
+ },
+ "8aad503d639bb09d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 3790.0,
+  "market": "Other",
+  "event": "e12354",
+  "by": "rules"
+ },
+ "0b831d28068e8be8": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12926",
+  "by": "rules"
+ },
+ "cb74b667b58a72e2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14968",
+  "by": "rules"
+ },
+ "819a67d2c5c0af74": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14968",
+  "by": "rules"
+ },
+ "2f85077855bdb9ca": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e9037",
+  "by": "rules"
+ },
+ "c9ca763674dfc3a4": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": 3790.0,
+  "market": "Other",
+  "event": "e14969",
+  "by": "rules"
  }
 }
