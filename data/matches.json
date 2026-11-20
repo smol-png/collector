@@ -247829,5 +247829,41 @@
   "market": "Stocks",
   "event": "e14131",
   "by": "rules"
+ },
+ "4ddd032de7e5071a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14677",
+  "by": "rules"
+ },
+ "814270ef758c6eb4": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14678",
+  "by": "rules"
+ },
+ "7b77493a90e5a4e8": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9074",
+  "by": "rules"
+ },
+ "fd4f5e7b2a2c7f53": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e14679",
+  "by": "rules"
  }
 }
