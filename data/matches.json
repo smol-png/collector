@@ -250125,5 +250125,27 @@
   "market": "Other",
   "event": "e14809",
   "by": "rules"
+ },
+ "0b89ef45a50c4b95": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14810",
+  "by": "rules"
+ },
+ "82d81fd2f1b4dd0d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "ETH",
+   "XRP"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e14527",
+  "by": "rules"
  }
 }
