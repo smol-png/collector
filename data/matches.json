@@ -245757,5 +245757,49 @@
   "market": "Other",
   "event": "e14553",
   "by": "rules"
+ },
+ "704e741af347687f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14538",
+  "by": "rules"
+ },
+ "35bd7ef5368ba4e8": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8868",
+  "by": "rules"
+ },
+ "a8926850a4ee839c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8868",
+  "by": "rules"
+ },
+ "01d2f118409f0ff3": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13869",
+  "by": "rules"
  }
 }
