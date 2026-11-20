@@ -252142,5 +252142,41 @@
   "market": "Other",
   "event": "e14908",
   "by": "rules"
+ },
+ "15785365610e98e2": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e14887",
+  "by": "rules"
+ },
+ "b14eec2aab7f2e61": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14758",
+  "by": "rules"
+ },
+ "a31cdc44516bc15b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14909",
+  "by": "rules"
+ },
+ "c8290fc43f778488": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e14910",
+  "by": "rules"
  }
 }
