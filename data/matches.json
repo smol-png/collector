@@ -243910,5 +243910,16 @@
   "market": "AI",
   "event": "e14431",
   "by": "rules"
+ },
+ "76bc9f80e1b5c80f": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13789",
+  "by": "rules"
  }
 }
