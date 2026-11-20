@@ -246545,5 +246545,34 @@
   "market": "Other",
   "event": "e14602",
   "by": "rules"
+ },
+ "9521787d513651e1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14603",
+  "by": "rules"
+ },
+ "6f64d9cea7991d3d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14604",
+  "by": "rules"
+ },
+ "df3a26c3ce20de4b": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e14006",
+  "by": "rules"
  }
 }
