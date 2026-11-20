@@ -239186,5 +239186,88 @@
   "market": "Other",
   "event": "e14141",
   "by": "rules"
+ },
+ "529314e1152ce8ba": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14142",
+  "by": "rules"
+ },
+ "5e5bcc1b432f69e2": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14121",
+  "by": "rules"
+ },
+ "0dbb9936573c37a5": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14121",
+  "by": "rules"
+ },
+ "bea1b4989237d00d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14142",
+  "by": "rules"
+ },
+ "abb82ce00c973f17": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14143",
+  "by": "rules"
+ },
+ "4db1f5f4a645e834": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.32,
+  "market": "Stocks",
+  "event": "e1931",
+  "by": "rules"
+ },
+ "b529efb874eaef0e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": 0.52,
+  "market": "Stocks",
+  "event": "e11180",
+  "by": "rules"
+ },
+ "f8d1daea62ecacbc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14144",
+  "by": "rules"
+ },
+ "5678bf5d135de31f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14144",
+  "by": "rules"
  }
 }
