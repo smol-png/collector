@@ -235770,5 +235770,23 @@
   "market": "Stocks",
   "event": "e9643",
   "by": "rules"
+ },
+ "a2d1a91dc4ba9607": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13942",
+  "by": "rules"
+ },
+ "e4814931e14ef38f": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e13943",
+  "by": "rules"
  }
 }
