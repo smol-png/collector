@@ -247405,5 +247405,34 @@
   "market": "Crypto",
   "event": "e14582",
   "by": "rules"
+ },
+ "d6f4f5b7c6b0fd67": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12844",
+  "by": "rules"
+ },
+ "3bcbb78f33cd404c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14654",
+  "by": "rules"
+ },
+ "cef8c0a9d57dbaa2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDC"
+  ],
+  "usd_m": 5.0,
+  "market": "Crypto",
+  "event": "e14655",
+  "by": "rules"
  }
 }
