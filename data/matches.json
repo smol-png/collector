@@ -254331,5 +254331,55 @@
   "market": "AI",
   "event": "e15040",
   "by": "rules"
+ },
+ "4963aff7f3541107": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14865",
+  "by": "rules"
+ },
+ "68cae29870830ebe": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15041",
+  "by": "rules"
+ },
+ "0045cd6f0cac97ee": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13780",
+  "by": "rules"
+ },
+ "463dfa9f83251080": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15042",
+  "by": "rules"
+ },
+ "7ea7158b95a8ffb2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL",
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e15043",
+  "by": "rules"
  }
 }
