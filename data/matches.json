@@ -247349,5 +247349,32 @@
   "market": "Crypto",
   "event": "e14652",
   "by": "rules"
+ },
+ "691be2673495203b": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12705",
+  "by": "rules"
+ },
+ "f54eba42091f3654": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14653",
+  "by": "rules"
+ },
+ "3660e92bc226c615": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14634",
+  "by": "rules"
  }
 }
