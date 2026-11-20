@@ -247318,5 +247318,36 @@
   "market": "Other",
   "event": "e14649",
   "by": "rules"
+ },
+ "7ab909ff86b30722": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e14650",
+  "by": "rules"
+ },
+ "7475854a47e7757c": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e14651",
+  "by": "rules"
+ },
+ "281f55b610d1062a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e14652",
+  "by": "rules"
  }
 }
