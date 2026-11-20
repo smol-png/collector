@@ -251023,5 +251023,16 @@
   "market": "Other",
   "event": "e14852",
   "by": "rules"
+ },
+ "0d1193929190c3b1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13536",
+  "by": "rules"
  }
 }
