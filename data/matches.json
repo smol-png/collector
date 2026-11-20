@@ -242590,5 +242590,54 @@
   "market": "Crypto",
   "event": "e14349",
   "by": "rules"
+ },
+ "434cfed4cf488554": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12639",
+  "by": "rules"
+ },
+ "c27279683a147798": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14350",
+  "by": "rules"
+ },
+ "dea2662e3cd7a54e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14345",
+  "by": "rules"
+ },
+ "8686957946846db2": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e14351",
+  "by": "rules"
+ },
+ "683c176ce12c8530": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e14058",
+  "by": "rules"
  }
 }
