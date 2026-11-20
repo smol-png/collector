@@ -243136,5 +243136,243 @@
   "market": "Other",
   "event": "e14105",
   "by": "rules"
+ },
+ "d78d9c5e509866fd": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e14379",
+  "by": "rules"
+ },
+ "236a8a6e23aee39a": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14380",
+  "by": "rules"
+ },
+ "610327cbbd1a8151": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14381",
+  "by": "rules"
+ },
+ "7823735eaa058b87": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8527",
+  "by": "rules"
+ },
+ "a484d5a952e5ee02": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8370",
+  "by": "rules"
+ },
+ "381dc72c869b3ae2": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8326",
+  "by": "rules"
+ },
+ "e782bfd84d779ee5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14382",
+  "by": "rules"
+ },
+ "88fdcd5a48903ed1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14383",
+  "by": "rules"
+ },
+ "85cd888f50db05ce": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14026",
+  "by": "rules"
+ },
+ "1192f90dd0fd5bf1": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8326",
+  "by": "rules"
+ },
+ "76926b1f4a85ac34": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8326",
+  "by": "rules"
+ },
+ "89574951a8035951": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14384",
+  "by": "rules"
+ },
+ "27ea41bedd0d72f2": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8256",
+  "by": "rules"
+ },
+ "e862be3423bf4692": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8490",
+  "by": "rules"
+ },
+ "81a610b8f019b61c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.11,
+  "market": "Stocks",
+  "event": "e14385",
+  "by": "rules"
+ },
+ "511b5eb15af424b3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14386",
+  "by": "rules"
+ },
+ "9b78d168242cd671": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14386",
+  "by": "rules"
+ },
+ "3c667523df9768ed": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "HOOD"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14387",
+  "by": "rules"
+ },
+ "3cb588ec25cb8a64": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "HOOD"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14387",
+  "by": "rules"
+ },
+ "1bd8568fb5fe694d": {
+  "type": "analysis",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14388",
+  "by": "rules"
+ },
+ "fd102d6946fe157e": {
+  "type": "analysis",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14388",
+  "by": "rules"
+ },
+ "128cc4d66b8b7757": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14389",
+  "by": "rules"
+ },
+ "204ddc57e706dde9": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14389",
+  "by": "rules"
+ },
+ "ca590088b523f45f": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14390",
+  "by": "rules"
+ },
+ "b92951a302222ac7": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14390",
+  "by": "rules"
+ },
+ "f96400e5b27515b8": {
+  "type": "analysis",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14391",
+  "by": "rules"
  }
 }
