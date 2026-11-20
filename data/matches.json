@@ -236868,5 +236868,25 @@
   "market": "Other",
   "event": "e14000",
   "by": "rules"
+ },
+ "d3b63af7ccb43ec5": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14001",
+  "by": "rules"
+ },
+ "c3929c13c6b838cf": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e13497",
+  "by": "rules"
  }
 }
