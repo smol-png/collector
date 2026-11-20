@@ -236269,5 +236269,52 @@
   "market": "Macro",
   "event": "e13974",
   "by": "rules"
+ },
+ "f425b78c2cca5ffe": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13975",
+  "by": "rules"
+ },
+ "14803cef44369b2e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 40000.0,
+  "market": "AI",
+  "event": "e13950",
+  "by": "rules"
+ },
+ "3222fbeabbcece99": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e12413",
+  "by": "rules"
+ },
+ "3e4d7b274db3b5b2": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13972",
+  "by": "rules"
+ },
+ "d25fa33dd667ac24": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": 11.8,
+  "market": "Other",
+  "event": "e13460",
+  "by": "rules"
  }
 }
