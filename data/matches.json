@@ -236052,5 +236052,34 @@
   "market": "AI",
   "event": "e12413",
   "by": "rules"
+ },
+ "e3ac002dfccf00ee": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13893",
+  "by": "rules"
+ },
+ "ac3a9dc6ac4c989d": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e9656",
+  "by": "rules"
+ },
+ "19af3b6c2a50fe7f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13834",
+  "by": "rules"
  }
 }
