@@ -255802,5 +255802,32 @@
   "market": "Other",
   "event": "e15125",
   "by": "rules"
+ },
+ "2455d399d6d89145": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15126",
+  "by": "rules"
+ },
+ "b95cfb15e6af6420": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e9194",
+  "by": "rules"
+ },
+ "e32fb6dd51cfff35": {
+  "type": "analysis",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15125",
+  "by": "rules"
  }
 }
