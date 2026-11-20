@@ -249627,5 +249627,50 @@
   "market": "AI",
   "event": "e14778",
   "by": "rules"
+ },
+ "71df5b589cd88a6d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14779",
+  "by": "rules"
+ },
+ "f20b161b8a577bae": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e14780",
+  "by": "rules"
+ },
+ "8a7435a55e7bc08a": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14026",
+  "by": "rules"
+ },
+ "332bc92b677e9d33": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14781",
+  "by": "rules"
+ },
+ "21bfd286dd9f504e": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14782",
+  "by": "rules"
  }
 }
