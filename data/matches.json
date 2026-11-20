@@ -242267,5 +242267,27 @@
   "market": "Other",
   "event": "e14329",
   "by": "rules"
+ },
+ "b6653a82173f45fe": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e14330",
+  "by": "rules"
+ },
+ "2e878b3739102559": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e14331",
+  "by": "rules"
  }
 }
