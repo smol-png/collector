@@ -242893,5 +242893,16 @@
   "market": "Other",
   "event": "e14364",
   "by": "rules"
+ },
+ "0ddd37dbce53a9a2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e13497",
+  "by": "rules"
  }
 }
