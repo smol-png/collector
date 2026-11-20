@@ -248376,5 +248376,34 @@
   "market": "Macro",
   "event": "e14703",
   "by": "rules"
+ },
+ "6160ca25659f36ef": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14712",
+  "by": "rules"
+ },
+ "85d60c6a0225eeb5": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e14713",
+  "by": "rules"
+ },
+ "2e216d5efcbc3bda": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14714",
+  "by": "rules"
  }
 }
