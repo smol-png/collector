@@ -235561,5 +235561,79 @@
   "market": "Other",
   "event": "e13934",
   "by": "rules"
+ },
+ "45f5ce223766ef71": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13935",
+  "by": "rules"
+ },
+ "537234e6bed01a4d": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8486",
+  "by": "rules"
+ },
+ "816d239eedeebbc3": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e11515",
+  "by": "rules"
+ },
+ "2799238e36eb7864": {
+  "type": "live",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e12844",
+  "by": "rules"
+ },
+ "f81e4fa443f70d7e": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e13936",
+  "by": "rules"
+ },
+ "c4a264cb9a52b9aa": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13889",
+  "by": "rules"
+ },
+ "1abc34b1a425b631": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13937",
+  "by": "rules"
+ },
+ "630de8463efd55f9": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13938",
+  "by": "rules"
  }
 }
