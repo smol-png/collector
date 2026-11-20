@@ -236702,5 +236702,16 @@
   "market": "AI",
   "event": "e13379",
   "by": "rules"
+ },
+ "79ebe7d96004eb90": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13453",
+  "by": "rules"
  }
 }
