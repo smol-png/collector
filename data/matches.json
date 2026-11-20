@@ -247959,5 +247959,43 @@
   "market": "Other",
   "event": "e14688",
   "by": "rules"
+ },
+ "80bb88b7d9cd204a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e14689",
+  "by": "rules"
+ },
+ "ed15fbd57ba2f7b1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14690",
+  "by": "rules"
+ },
+ "88b8353576a51223": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14691",
+  "by": "rules"
+ },
+ "5ae6a121c430d8a2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14692",
+  "by": "rules"
  }
 }
