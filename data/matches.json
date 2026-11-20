@@ -254740,5 +254740,23 @@
   "market": "AI",
   "event": "e15061",
   "by": "rules"
+ },
+ "b9a430ddb6c463d2": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": 7250.0,
+  "market": "Other",
+  "event": "e15062",
+  "by": "rules"
+ },
+ "b57776b0a13261e0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e15063",
+  "by": "rules"
  }
 }
