@@ -244983,5 +244983,25 @@
   "market": "Other",
   "event": "e14500",
   "by": "rules"
+ },
+ "50f527670958a47d": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14501",
+  "by": "rules"
+ },
+ "36d1259054daf57e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e13497",
+  "by": "rules"
  }
 }
