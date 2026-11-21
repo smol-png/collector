@@ -260657,5 +260657,16 @@
   "market": "Other",
   "event": "e15442",
   "by": "rules"
+ },
+ "163938bf3f15073f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e15443",
+  "by": "rules"
  }
 }
