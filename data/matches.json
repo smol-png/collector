@@ -262157,5 +262157,23 @@
   "market": "Crypto",
   "event": "e15561",
   "by": "rules"
+ },
+ "f24a45ef97585a53": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15562",
+  "by": "rules"
+ },
+ "44bd7103b681d78d": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": 4.86,
+  "market": "Other",
+  "event": "e15563",
+  "by": "rules"
  }
 }
