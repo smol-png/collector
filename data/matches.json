@@ -259863,5 +259863,32 @@
   "market": "Other",
   "event": "e15381",
   "by": "rules"
+ },
+ "06d68c781c87786a": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.08,
+  "market": "Stocks",
+  "event": "e15382",
+  "by": "rules"
+ },
+ "fc6d485fdb1b2ed1": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15383",
+  "by": "rules"
+ },
+ "baf916908ad3c9d8": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15383",
+  "by": "rules"
  }
 }
