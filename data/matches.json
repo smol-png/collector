@@ -258838,5 +258838,83 @@
   "market": "Crypto",
   "event": "e15316",
   "by": "rules"
+ },
+ "8f2c75200f622901": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e15314",
+  "by": "rules"
+ },
+ "48c7d85638669bc9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.15,
+  "market": "Stocks",
+  "event": "e9682",
+  "by": "rules"
+ },
+ "7ccb6b7b936a806c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.85,
+  "market": "Stocks",
+  "event": "e12542",
+  "by": "rules"
+ },
+ "60c3fec48cc3e4d9": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e4074",
+  "by": "rules"
+ },
+ "2de57b3726740be7": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "ADA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e15317",
+  "by": "rules"
+ },
+ "7b5a8808d8ec41d3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.13,
+  "market": "Stocks",
+  "event": "e15318",
+  "by": "rules"
+ },
+ "ab457db407efc421": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 2.5,
+  "market": "Stocks",
+  "event": "e11046",
+  "by": "rules"
+ },
+ "f1f409a8c699f2b0": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.49,
+  "market": "Other",
+  "event": "e13885",
+  "by": "rules"
  }
 }
