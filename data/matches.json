@@ -261133,5 +261133,28 @@
   "market": "Other",
   "event": "e15483",
   "by": "rules"
+ },
+ "2c2fd2b6e713f9bf": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e15484",
+  "by": "rules"
+ },
+ "1a6ef90855fec0a1": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "AAVE",
+   "ETH"
+  ],
+  "usd_m": 54.0,
+  "market": "Crypto",
+  "event": "e15485",
+  "by": "rules"
  }
 }
