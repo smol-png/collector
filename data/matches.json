@@ -263304,5 +263304,18 @@
   "market": "Other",
   "event": "e15646",
   "by": "rules"
+ },
+ "9de7377b923fc131": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "AAVE",
+   "ETH",
+   "USDC"
+  ],
+  "usd_m": 4000.0,
+  "market": "Crypto",
+  "event": "e15640",
+  "by": "rules"
  }
 }
