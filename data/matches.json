@@ -263034,5 +263034,43 @@
   "market": "Other",
   "event": "e15376",
   "by": "rules"
+ },
+ "08f3be59f9a64666": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e15627",
+  "by": "rules"
+ },
+ "32457edfb1fcced4": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15554",
+  "by": "rules"
+ },
+ "8e4129964d7a5f4d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15628",
+  "by": "rules"
+ },
+ "3c6cd2ca65989fd9": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e15629",
+  "by": "rules"
  }
 }
