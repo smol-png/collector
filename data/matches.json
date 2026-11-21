@@ -261619,5 +261619,27 @@
   "market": "Stocks",
   "event": "e15516",
   "by": "rules"
+ },
+ "fa528da72e0d5362": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e15517",
+  "by": "rules"
+ },
+ "76c306cdb5ffb92b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.02,
+  "market": "Crypto",
+  "event": "e15518",
+  "by": "rules"
  }
 }
