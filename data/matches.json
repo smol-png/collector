@@ -257454,5 +257454,25 @@
   "market": "Other",
   "event": "e15233",
   "by": "rules"
+ },
+ "0e4a67a051398890": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15234",
+  "by": "rules"
+ },
+ "6647edc4976826c5": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e13517",
+  "by": "rules"
  }
 }
