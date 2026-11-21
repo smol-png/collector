@@ -258806,5 +258806,16 @@
   "market": "Other",
   "event": "e15313",
   "by": "rules"
+ },
+ "6ba993182f70090a": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": 1000.0,
+  "market": "Crypto",
+  "event": "e15314",
+  "by": "rules"
  }
 }
