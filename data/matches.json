@@ -257876,5 +257876,14 @@
   "market": "Stocks",
   "event": "e15205",
   "by": "rules"
+ },
+ "b156913a94d66db1": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8303",
+  "by": "rules"
  }
 }
