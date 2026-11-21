@@ -259154,5 +259154,16 @@
   "market": "Other",
   "event": "e15337",
   "by": "rules"
+ },
+ "f5567f61372c8bbb": {
+  "type": "roundup",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 560.0,
+  "market": "Crypto",
+  "event": "e14324",
+  "by": "rules"
  }
 }
