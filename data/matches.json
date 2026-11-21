@@ -261953,5 +261953,16 @@
   "market": "Other",
   "event": "e15542",
   "by": "rules"
+ },
+ "9ef66ee6fba08ffa": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e9820",
+  "by": "rules"
  }
 }
