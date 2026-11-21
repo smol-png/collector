@@ -260233,5 +260233,16 @@
   "market": "Other",
   "event": "e15411",
   "by": "rules"
+ },
+ "0a8ed275b40ad538": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e15412",
+  "by": "rules"
  }
 }
