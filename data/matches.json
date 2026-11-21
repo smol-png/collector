@@ -262828,5 +262828,34 @@
   "market": "AI",
   "event": "e15610",
   "by": "rules"
+ },
+ "cbc026128c54523d": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15600",
+  "by": "rules"
+ },
+ "4ef3abcd41f3525d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e15611",
+  "by": "rules"
+ },
+ "77e17cf029c22fe8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15612",
+  "by": "rules"
  }
 }
