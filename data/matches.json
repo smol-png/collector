@@ -263182,5 +263182,26 @@
   "market": "Other",
   "event": "e15639",
   "by": "rules"
+ },
+ "30592fa7cf7df3c3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15475",
+  "by": "rules"
+ },
+ "29e89f2c2f17d3d0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAVE",
+   "USDC"
+  ],
+  "usd_m": 4000.0,
+  "market": "Crypto",
+  "event": "e15640",
+  "by": "rules"
  }
 }
