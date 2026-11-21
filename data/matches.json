@@ -257921,5 +257921,104 @@
   "market": "AI",
   "event": "e15257",
   "by": "rules"
+ },
+ "9b4552a196a08e4a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.6,
+  "market": "Stocks",
+  "event": "e1931",
+  "by": "rules"
+ },
+ "9488607832cae710": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.06,
+  "market": "Stocks",
+  "event": "e15258",
+  "by": "rules"
+ },
+ "1c983b57baf42681": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.95,
+  "market": "Stocks",
+  "event": "e12812",
+  "by": "rules"
+ },
+ "88e0dae39a3847e8": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.86,
+  "market": "Stocks",
+  "event": "e8282",
+  "by": "rules"
+ },
+ "367482c7e349914b": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": 0.14,
+  "market": "Stocks",
+  "event": "e11046",
+  "by": "rules"
+ },
+ "85abab74d7fc91fa": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.12,
+  "market": "Stocks",
+  "event": "e15259",
+  "by": "rules"
+ },
+ "978988e085eca2d6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.01,
+  "market": "Stocks",
+  "event": "e1802",
+  "by": "rules"
+ },
+ "6087312e3403822b": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13149",
+  "by": "rules"
+ },
+ "f04db5eb4b6ec46c": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13149",
+  "by": "rules"
+ },
+ "afbbd71bd7db32be": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.01,
+  "market": "Stocks",
+  "event": "e8282",
+  "by": "rules"
+ },
+ "156dcb37a27557d1": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.32,
+  "market": "Stocks",
+  "event": "e15260",
+  "by": "rules"
  }
 }
