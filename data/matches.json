@@ -262550,5 +262550,25 @@
   "market": "Stocks",
   "event": "e15594",
   "by": "rules"
+ },
+ "4c0692ef958ead2e": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": 7000.0,
+  "market": "Other",
+  "event": "e15218",
+  "by": "rules"
+ },
+ "4a4238c420d7cb04": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e15332",
+  "by": "rules"
  }
 }
