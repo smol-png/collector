@@ -260412,5 +260412,88 @@
   "market": "AI",
   "event": "e15422",
   "by": "rules"
+ },
+ "562e495d845a9a19": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e14276",
+  "by": "rules"
+ },
+ "4f299e41d464e823": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15423",
+  "by": "rules"
+ },
+ "3be61bc1eacf6037": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e14697",
+  "by": "rules"
+ },
+ "9e0747c555447a97": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15424",
+  "by": "rules"
+ },
+ "fdc7fddec57e8d37": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15425",
+  "by": "rules"
+ },
+ "8c3b012ce3b7bc84": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15396",
+  "by": "rules"
+ },
+ "40cd233d37db332f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15397",
+  "by": "rules"
+ },
+ "fa2f80439030aaa0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15426",
+  "by": "rules"
+ },
+ "4a9e2b666234b1cc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15427",
+  "by": "rules"
  }
 }
