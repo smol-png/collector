@@ -259582,5 +259582,16 @@
   "market": "AI",
   "event": "e15321",
   "by": "rules"
+ },
+ "0082987b6b3e5528": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 33.0,
+  "market": "Crypto",
+  "event": "e15367",
+  "by": "rules"
  }
 }
