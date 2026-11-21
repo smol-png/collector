@@ -262018,5 +262018,16 @@
   "market": "AI",
   "event": "e15548",
   "by": "rules"
+ },
+ "721f18fc0924a432": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e15518",
+  "by": "rules"
  }
 }
