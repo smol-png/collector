@@ -261915,5 +261915,34 @@
   "market": "Other",
   "event": "e15538",
   "by": "rules"
+ },
+ "60ecfffbbbaa4c31": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e15539",
+  "by": "rules"
+ },
+ "ddd2d26f8940acb1": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e15540",
+  "by": "rules"
+ },
+ "04c6113d152fe630": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15541",
+  "by": "rules"
  }
 }
