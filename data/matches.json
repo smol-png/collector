@@ -258750,5 +258750,25 @@
   "market": "Stocks",
   "event": "e15309",
   "by": "rules"
+ },
+ "5f5d7e2d85462d1c": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e13211",
+  "by": "rules"
+ },
+ "3b5f0ba2e9aa2dd1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15310",
+  "by": "rules"
  }
 }
