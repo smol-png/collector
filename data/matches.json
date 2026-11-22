@@ -266922,5 +266922,25 @@
   "market": "Other",
   "event": "e15884",
   "by": "rules"
+ },
+ "e419c1edfaad8430": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e15885",
+  "by": "rules"
+ },
+ "794654cb490eb092": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e15886",
+  "by": "rules"
  }
 }
