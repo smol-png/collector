@@ -265777,5 +265777,16 @@
   "market": "Stocks",
   "event": "e15790",
   "by": "rules"
+ },
+ "07a656db3efddb74": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e15791",
+  "by": "rules"
  }
 }
