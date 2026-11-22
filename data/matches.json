@@ -264913,5 +264913,16 @@
   "market": "Stocks",
   "event": "e15118",
   "by": "rules"
+ },
+ "8ca4939d5355f9a4": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "BNB"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e15733",
+  "by": "rules"
  }
 }
