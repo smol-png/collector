@@ -265701,5 +265701,16 @@
   "market": "Stocks",
   "event": "e14247",
   "by": "rules"
+ },
+ "ea676f1dc676bdad": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e15786",
+  "by": "rules"
  }
 }
