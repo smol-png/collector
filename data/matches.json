@@ -268421,5 +268421,25 @@
   "market": "Stocks",
   "event": "e9682",
   "by": "rules"
+ },
+ "48b58715c6cfa06d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e15999",
+  "by": "rules"
+ },
+ "9619c8f8b488cbac": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16000",
+  "by": "rules"
  }
 }
