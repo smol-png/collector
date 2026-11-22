@@ -265579,5 +265579,17 @@
   "market": "Other",
   "event": "e15379",
   "by": "rules"
+ },
+ "78d2df03cce1d54e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e15777",
+  "by": "rules"
  }
 }
