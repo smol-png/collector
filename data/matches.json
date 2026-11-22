@@ -266504,5 +266504,59 @@
   "market": "Crypto",
   "event": "e15573",
   "by": "rules"
+ },
+ "7f812c3c0dad3f98": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 4.6,
+  "market": "Stocks",
+  "event": "e15849",
+  "by": "rules"
+ },
+ "4bd5a07d26fc408e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.19,
+  "market": "Stocks",
+  "event": "e15850",
+  "by": "rules"
+ },
+ "cb6f9a39a98a6157": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15851",
+  "by": "rules"
+ },
+ "a461fbeb8860944d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.05,
+  "market": "Stocks",
+  "event": "e10809",
+  "by": "rules"
+ },
+ "13c07d139d3c84c4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e15852",
+  "by": "rules"
+ },
+ "fd66ad035525e7f0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 4.45,
+  "market": "Stocks",
+  "event": "e15290",
+  "by": "rules"
  }
 }
