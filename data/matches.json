@@ -267196,5 +267196,23 @@
   "market": "Macro",
   "event": "e15906",
   "by": "rules"
+ },
+ "5639236e042397d2": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15898",
+  "by": "rules"
+ },
+ "543f663ca76d8cd8": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e15907",
+  "by": "rules"
  }
 }
