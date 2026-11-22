@@ -268567,5 +268567,16 @@
   "market": "Other",
   "event": "e16008",
   "by": "rules"
+ },
+ "186ccc0d0395cdd6": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16003",
+  "by": "rules"
  }
 }
