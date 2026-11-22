@@ -268005,5 +268005,25 @@
   "market": "Other",
   "event": "e15967",
   "by": "rules"
+ },
+ "1b0578508a2cc6b7": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15968",
+  "by": "rules"
+ },
+ "d75f6c3035f619d0": {
+  "type": "explainer",
+  "category": "Hacks & security",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e15969",
+  "by": "rules"
  }
 }
