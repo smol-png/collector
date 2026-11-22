@@ -267491,5 +267491,34 @@
   "market": "Other",
   "event": "e15928",
   "by": "rules"
+ },
+ "b00dbf5ca9a26149": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15929",
+  "by": "rules"
+ },
+ "defc88b290fa296d": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15930",
+  "by": "rules"
+ },
+ "70671fa1a51f28b4": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e15931",
+  "by": "rules"
  }
 }
