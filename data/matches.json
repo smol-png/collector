@@ -267279,5 +267279,16 @@
   "market": "Other",
   "event": "e15912",
   "by": "rules"
+ },
+ "fb17a05d1b583c00": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e15913",
+  "by": "rules"
  }
 }
