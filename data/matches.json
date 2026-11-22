@@ -268634,5 +268634,32 @@
   "market": "Other",
   "event": "e16012",
   "by": "rules"
+ },
+ "37ada7264179e645": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16013",
+  "by": "rules"
+ },
+ "5d4cc7c858967d7e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16014",
+  "by": "rules"
+ },
+ "7c4516f5640d3118": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16015",
+  "by": "rules"
  }
 }
