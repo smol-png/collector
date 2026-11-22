@@ -269834,5 +269834,32 @@
   "market": "Other",
   "event": "e16072",
   "by": "rules"
+ },
+ "38e340a534d93c0a": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.09,
+  "market": "Stocks",
+  "event": "e16095",
+  "by": "rules"
+ },
+ "cb23dbed3eeb5454": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.53,
+  "market": "Stocks",
+  "event": "e12564",
+  "by": "rules"
+ },
+ "af0fbbec8c4aa51c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16096",
+  "by": "rules"
  }
 }
