@@ -269670,5 +269670,32 @@
   "market": "Other",
   "event": "e16082",
   "by": "rules"
+ },
+ "e26ee3e1cfaa2391": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.01,
+  "market": "Stocks",
+  "event": "e15669",
+  "by": "rules"
+ },
+ "a9f5734e6fffe18d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.03,
+  "market": "Stocks",
+  "event": "e16083",
+  "by": "rules"
+ },
+ "2305d5b39b265a94": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15949",
+  "by": "rules"
  }
 }
