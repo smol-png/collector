@@ -1,216 +1,216 @@
 {
  "_gdelt": {
-  "cursor": 33,
-  "pause_until": "2026-11-22T17:28:47Z"
+  "cursor": 35,
+  "pause_until": "2026-11-22T17:44:01Z"
  },
  "aljazeera": {
   "etag": "W/\"da518cdf277101bba5c8a1f1554e0e96\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Sun, 22 Nov 2026 17:09:13 GMT",
   "newest_item": "2026-11-22T16:50:48Z"
  },
  "axios": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Sun, 22 Nov 2026 16:37:10 GMT",
   "newest_item": "2026-11-22T16:37:10Z"
  },
  "bbc-business": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T13:50:21Z"
  },
  "bbc-mideast": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-20T22:14:17Z"
  },
  "bbc-world": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T17:18:26Z"
  },
  "benzinga": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
-  "modified": "Sun, 22 Nov 2026 17:28:18 GMT",
+  "last_ok": "2026-11-22T17:29:01Z",
+  "modified": "Sun, 22 Nov 2026 17:29:19 GMT",
   "newest_item": "2026-11-22T17:00:08Z"
  },
  "bitcoinmagazine": {
   "etag": "\"4d6a3b62b3842bf1e5aace4773257a7c\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Fri, 20 Nov 2026 22:10:11 GMT",
   "newest_item": "2026-11-20T22:10:11Z"
  },
  "bloomberg-business": {
-  "etag": "W/\"2568-b3XrvLgnNP6otdLrY79tOqcmsQs\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "etag": "W/\"2568-AzFxPHa9xVnuNsgYCWp/eI90D78\"",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T16:52:02Z"
  },
  "bloomberg-crypto": {
-  "etag": "W/\"6c1-kROfUsDCGOOCpAtipCNnuBiPhoY\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "etag": "W/\"6c1-HBvIuyyEQcoyqF0zkcnm1j1l8/w\"",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T13:00:00Z"
  },
  "bloomberg-economics": {
-  "etag": "W/\"11af-jrkM6p+N/JXebRyNYVnb57CnI/c\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "etag": "W/\"11af-lgUABrEKtI+okItOyaelB2SsppQ\"",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T16:08:20Z"
  },
  "bloomberg-industries": {
-  "etag": "W/\"1222-TKk7nnJD8HzNfc9ekcVSuF1SHw0\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "etag": "W/\"1222-X3/1OCjdYEtvy9/gWMbwgyO7dGU\"",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T16:57:40Z"
  },
  "bloomberg-markets": {
   "etag": "W/\"3dbc-dUGTK3bbF4pYOr21hNtp8S51IPY\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T16:41:22Z"
  },
  "bloomberg-politics": {
-  "etag": "W/\"3327-En5UxucpPLzkrGUEHxvBvAjL0a4\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "etag": "W/\"3327-C66e2PYIAb42PphNpIt3IXlLLoE\"",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T16:25:22Z"
  },
  "bloomberg-tech": {
-  "etag": "W/\"1f29-qpxcjHV+TNCv6eQONW8UAYPGAXE\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "etag": "W/\"1f29-t2bl+vBWxroLBIBjYk6bWmN/6/I\"",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T15:03:37Z"
  },
  "businessinsider": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T15:22:01Z"
  },
  "cbs": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Sun, 22 Nov 2026 17:25:21 GMT",
   "newest_item": "2026-11-22T17:17:06Z"
  },
  "cftc": {
   "etag": "W/\"1795355006\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Sun, 22 Nov 2026 13:43:26 GMT",
   "newest_item": "2026-11-17T15:18:19Z"
  },
  "cnbc-business": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T13:00:01Z"
  },
  "cnbc-earnings": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-20T21:04:48Z"
  },
  "cnbc-economy": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-21T15:04:56Z"
  },
  "cnbc-finance": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-21T06:00:02Z"
  },
  "cnbc-investing": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T12:15:24Z"
  },
  "cnbc-politics": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T17:14:03Z"
  },
  "cnbc-tech": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T17:14:03Z"
  },
  "cnbc-top": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T17:14:03Z"
  },
  "cnbc-world": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T15:20:28Z"
  },
  "coinbase-blog": {},
  "coindesk": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T14:00:00Z"
  },
  "cointelegraph": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Sun, 22 Nov 2026 17:27:13 GMT",
   "newest_item": "2026-11-22T14:30:00Z"
  },
  "cryptonews": {
   "etag": "W/\"25b143fb7638bf1934460834e0fa85e5\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Sun, 22 Nov 2026 16:27:03 GMT",
   "newest_item": "2026-11-22T15:53:21Z"
  },
  "cryptoslate": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Sun, 22 Nov 2026 17:22:08 GMT",
   "newest_item": "2026-11-22T17:05:07Z"
  },
  "decrypt": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
-  "modified": "Sun, 22 Nov 2026 17:27:58 GMT",
+  "last_ok": "2026-11-22T17:29:01Z",
+  "modified": "Sun, 22 Nov 2026 17:28:58 GMT",
   "newest_item": "2026-11-22T14:01:02Z"
  },
  "fed": {
   "etag": "W/\"f37fd93c3479dd1:0\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Fri, 20 Nov 2026 21:15:15 GMT",
   "newest_item": "2026-11-20T21:15:00Z"
  },
  "fortune": {
   "etag": "W/\"4c0997d8fb2e1b20a9e3d18a60c74753\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Sun, 22 Nov 2026 16:34:13 GMT",
   "newest_item": "2026-11-22T16:34:00Z"
  },
  "ft-companies": {
-  "etag": "W/\"2ed4-YmD0gqd5REw4GFkimPbtYgFgn0Q\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "etag": "W/\"2ed4-aAiPYcfZ55XGMWQOKrpGjiOJ8UY\"",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T16:43:09Z"
  },
  "ft-home": {
-  "etag": "W/\"18cd-cYGn4lEi81nAT157tMhuJpA/+pU\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "etag": "W/\"18cd-BS4vn+lYQA00s3aJRd0MjwQsX1s\"",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T14:15:40Z"
  },
@@ -391,147 +391,147 @@
   "newest_item": "2026-11-12T06:45:00Z"
  },
  "guardian-business": {
-  "etag": "W/\"hash-5775971545143473807\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "etag": "W/\"hash-2473570602554290007\"",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T16:12:54Z"
  },
  "guardian-world": {
-  "etag": "W/\"hash-6520254149819298419\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "etag": "W/\"hash7607734691617322555\"",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T16:55:49Z"
  },
  "investing-economy": {
   "etag": "W/\"12e7-660e0c3b56e6b\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Sun, 22 Nov 2026 17:25:32 GMT",
   "newest_item": "2026-11-22T09:43:25Z"
  },
  "investing-news": {
   "etag": "W/\"123e-660e0c3b4be9e\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Sun, 22 Nov 2026 17:25:32 GMT",
   "newest_item": "2026-11-22T17:01:11Z"
  },
  "investing-stocks": {
   "etag": "W/\"1290-660e0c3b52819\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Sun, 22 Nov 2026 17:25:32 GMT",
   "newest_item": "2026-11-22T15:56:18Z"
  },
  "iranintl": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
-  "modified": "Sun, 22 Nov 2026 17:28:51 GMT",
+  "last_ok": "2026-11-22T17:29:01Z",
+  "modified": "Sun, 22 Nov 2026 17:30:03 GMT",
   "newest_item": "2026-11-22T16:37:53Z"
  },
  "kraken-blog": {
   "etag": "W/\"5f9da33d0f1f875d9db46a824d586f9f\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Fri, 20 Nov 2026 21:19:17 GMT",
   "newest_item": "2026-11-20T17:22:13Z"
  },
  "mw-bulletins": {
   "etag": "W/\"128a-9SoBDxAnVIjtcyOVXDMjbgkDTk4\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-21T16:21:01Z"
  },
  "mw-marketpulse": {
   "etag": "W/\"33db-3hRDGHHaMcpwxJQrvmPBGMqx8hE\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2025-07-03T12:36:00Z"
  },
  "mw-realtime": {
   "etag": "W/\"1415-lp2FPSeoNbxELZQNp4NnmOIC2D0\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2025-06-11T07:09:00Z"
  },
  "mw-top": {
   "etag": "W/\"1ffe-paiks4WWMla5lv2KjVQ3IuZHGto\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T17:22:00Z"
  },
  "nbc": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T15:51:39Z"
  },
  "npr": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T10:00:00Z"
  },
  "nyt-business": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T14:35:24Z"
  },
  "nyt-world": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T16:32:44Z"
  },
  "ofac": {},
  "politico": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
-  "modified": "Sun, 22 Nov 2026 17:28:47 GMT",
+  "last_ok": "2026-11-22T17:29:01Z",
+  "modified": "Sun, 22 Nov 2026 17:29:54 GMT",
   "newest_item": "2026-11-21T12:00:00Z"
  },
  "sec": {
   "etag": "\"1795363677\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Sun, 22 Nov 2026 16:07:57 GMT",
   "newest_item": "2026-11-20T18:03:24Z"
  },
  "semafor": {
   "etag": "W/\"0e6bb4eb165d649b550cadbc1241b506\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Sun, 22 Nov 2026 15:34:01 GMT",
   "newest_item": "2026-11-20T20:30:08Z"
  },
  "techcrunch": {
   "etag": "W/\"160f0023025dda59b9ad95391141f86b\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Fri, 20 Nov 2026 22:07:24 GMT",
   "newest_item": "2026-11-22T17:06:00Z"
  },
  "theblock": {
   "etag": "W/\"fd4d856e319ef5ec973de7d5e8a820ac\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Sun, 22 Nov 2026 05:01:23 GMT",
   "newest_item": "2026-11-21T21:17:36Z"
  },
  "thedefiant": {
   "etag": "W/\"242bbba94f3b0c30c64711bbdd06da1d6e7469db1aeba103923b9e0ea3e168c0\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T13:44:01Z"
  },
  "thehill": {
-  "etag": "W/\"b508c93c9c91ecf644bce947958a7631\"",
-  "last_ok": "2026-11-22T17:28:01Z",
-  "modified": "Sun, 22 Nov 2026 17:04:06 GMT",
-  "newest_item": "2026-11-22T17:00:00Z"
+  "etag": "W/\"decc5bb63b27206f0fd17c6c37036e70\"",
+  "last_ok": "2026-11-22T17:29:01Z",
+  "modified": "Sun, 22 Nov 2026 17:21:43 GMT",
+  "newest_item": "2026-11-22T17:19:23Z"
  },
  "theinformation": {
   "etag": "W/\"69af7f0006700ffea59daf7e58414867\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Sun, 22 Nov 2026 16:31:51 GMT",
   "newest_item": "2026-11-22T16:00:57Z"
  },
  "theverge": {
   "etag": "W/\"a985c14dc7a9a4662afdce8e2e082153\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T17:25:20Z"
  },
@@ -539,56 +539,56 @@
  "treasury": {},
  "truth-archive": {
   "etag": null,
-  "last_ok": "2026-11-22T17:28:01Z",
-  "modified": null,
+  "last_ok": "2026-11-22T17:29:01Z",
+  "modified": "Sun, 22 Nov 2026 17:29:44 GMT",
   "newest_item": "2026-11-22T17:22:54Z"
  },
  "truth-trump": {},
  "unchained": {
   "etag": "W/\"694afc7971d57c034ad8654e5d735270\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Sun, 22 Nov 2026 05:00:36 GMT",
   "newest_item": "2026-11-20T19:09:00Z"
  },
  "whitehouse": {
   "etag": "W/\"b7ccd6631c3d23bfec7636a61af8f499\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": "Sat, 21 Nov 2026 02:46:26 GMT",
   "newest_item": "2026-11-21T02:46:26Z"
  },
  "wsj-business": {
-  "etag": "W/\"edbb-jBjGZ5Uj1Lj9JvtPwvlvULiSvlA\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "etag": "W/\"edbb-QdDBfpVfR+i3dsqwZeBGOrDK4sY\"",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T10:30:00Z"
  },
  "wsj-economy": {
-  "etag": "W/\"6b3b-Z9Lo5UIxfbuLP4v+iVCMZUi3GEs\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "etag": "W/\"6b3b-jS1Je6DDtc1f42pU1MGDGydfaXQ\"",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T10:00:00Z"
  },
  "wsj-markets": {
   "etag": "W/\"9f53-PVuKyjpZc1bOEglGHmlvuoeQ6JU\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T10:30:00Z"
  },
  "wsj-politics": {
   "etag": "W/\"45db-yuuTHpXy9nUWxAC3D+9Mtq0H+8E\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T17:07:00Z"
  },
  "wsj-tech": {
-  "etag": "W/\"6ba8-2bzJQqgbdAlqrWcyolV1Ut5sGFM\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "etag": "W/\"6ba8-LcFNtfwKAtjhNdHIYEuknsVqlPs\"",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T15:55:00Z"
  },
  "wsj-world": {
-  "etag": "W/\"cc2b-IRRf8CdnFtY6EbJLd8HMpYlRpSc\"",
-  "last_ok": "2026-11-22T17:28:01Z",
+  "etag": "W/\"cc2b-4EP09nJ3k+rYxCUWq06G40greF8\"",
+  "last_ok": "2026-11-22T17:29:01Z",
   "modified": null,
   "newest_item": "2026-11-22T16:59:00Z"
  },
