@@ -267261,5 +267261,23 @@
   "market": "Other",
   "event": "e15910",
   "by": "rules"
+ },
+ "64133f77c105aa18": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e15911",
+  "by": "rules"
+ },
+ "21e22f5727950bfd": {
+  "type": "live",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15912",
+  "by": "rules"
  }
 }
