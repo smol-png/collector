@@ -266666,5 +266666,32 @@
   "market": "AI",
   "event": "e15864",
   "by": "rules"
+ },
+ "9bb7b89ed0798d33": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e15857",
+  "by": "rules"
+ },
+ "09cbd83f764d4273": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e15865",
+  "by": "rules"
+ },
+ "2a2194766bbbd6bb": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e15862",
+  "by": "rules"
  }
 }
