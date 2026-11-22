@@ -269926,5 +269926,32 @@
   "market": "Stocks",
   "event": "e16101",
   "by": "rules"
+ },
+ "a319fbccbcbfa29e": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16096",
+  "by": "rules"
+ },
+ "2b3a11bc44b0cbd1": {
+  "type": "live",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16102",
+  "by": "rules"
+ },
+ "0ca50fc6fd95fc59": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16103",
+  "by": "rules"
  }
 }
