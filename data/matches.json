@@ -268228,5 +268228,50 @@
   "market": "Other",
   "event": "e15984",
   "by": "rules"
+ },
+ "94d13feb7d2a8971": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.1,
+  "market": "Stocks",
+  "event": "e15947",
+  "by": "rules"
+ },
+ "2bab44eb3d270213": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15554",
+  "by": "rules"
+ },
+ "0a12cdcdbcee27b1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15985",
+  "by": "rules"
+ },
+ "e3383950b297696e": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15986",
+  "by": "rules"
+ },
+ "0ad5a1bd45a30aac": {
+  "type": "analysis",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15987",
+  "by": "rules"
  }
 }
