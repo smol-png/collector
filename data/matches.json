@@ -265817,5 +265817,16 @@
   "market": "AI",
   "event": "e15794",
   "by": "rules"
+ },
+ "a3354ed2222e41bf": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e15795",
+  "by": "rules"
  }
 }
