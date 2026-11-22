@@ -267232,5 +267232,16 @@
   "market": "Other",
   "event": "e15711",
   "by": "rules"
+ },
+ "e7247847a23dc0ba": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": 135.0,
+  "market": "Crypto",
+  "event": "e15908",
+  "by": "rules"
  }
 }
