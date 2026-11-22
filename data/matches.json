@@ -268815,5 +268815,16 @@
   "market": "AI",
   "event": "e8190",
   "by": "rules"
+ },
+ "3ab166d4a9d3603b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16025",
+  "by": "rules"
  }
 }
