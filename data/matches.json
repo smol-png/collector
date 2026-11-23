@@ -276070,5 +276070,27 @@
   "market": "Stocks",
   "event": "e16520",
   "by": "rules"
+ },
+ "38957e59ccffd242": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16521",
+  "by": "rules"
+ },
+ "682c2c95ae11d269": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16522",
+  "by": "rules"
  }
 }
