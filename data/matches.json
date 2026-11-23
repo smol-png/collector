@@ -283951,5 +283951,23 @@
   "market": "Other",
   "event": "e16947",
   "by": "rules"
+ },
+ "4b32cd961b7e63ad": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e16951",
+  "by": "rules"
+ },
+ "a1dcef4f68849d31": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16952",
+  "by": "rules"
  }
 }
