@@ -288434,5 +288434,34 @@
   "market": "Other",
   "event": "e17196",
   "by": "rules"
+ },
+ "61fda26282265986": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17197",
+  "by": "rules"
+ },
+ "94e58a84b92671fe": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17198",
+  "by": "rules"
+ },
+ "308c0718a4aa4aa3": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17125",
+  "by": "rules"
  }
 }
