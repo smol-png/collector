@@ -286576,5 +286576,16 @@
   "market": "Stocks",
   "event": "e16873",
   "by": "rules"
+ },
+ "87fd66742c72f42f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17102",
+  "by": "rules"
  }
 }
