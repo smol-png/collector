@@ -280153,5 +280153,27 @@
   "market": "Other",
   "event": "e16779",
   "by": "rules"
+ },
+ "fe3d3ab1507f7977": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 150.0,
+  "market": "Crypto",
+  "event": "e16616",
+  "by": "rules"
+ },
+ "1af9e9b8b033c3b8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 150.0,
+  "market": "Crypto",
+  "event": "e16616",
+  "by": "rules"
  }
 }
