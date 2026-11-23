@@ -276092,5 +276092,34 @@
   "market": "Crypto",
   "event": "e16522",
   "by": "rules"
+ },
+ "c687cc437a32a2a7": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15868",
+  "by": "rules"
+ },
+ "741fb91755481a70": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 20.0,
+  "market": "Crypto",
+  "event": "e4074",
+  "by": "rules"
+ },
+ "d0008557884ae8ef": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16501",
+  "by": "rules"
  }
 }
