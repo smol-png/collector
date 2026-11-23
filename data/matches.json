@@ -283475,5 +283475,34 @@
   "market": "Other",
   "event": "e16930",
   "by": "rules"
+ },
+ "5f875a500f89c1c3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16931",
+  "by": "rules"
+ },
+ "4f035b4fc0abff28": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e16932",
+  "by": "rules"
+ },
+ "13edab8bfd77b189": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16808",
+  "by": "rules"
  }
 }
