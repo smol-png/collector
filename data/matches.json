@@ -287434,5 +287434,48 @@
   "market": "Crypto",
   "event": "e17138",
   "by": "rules"
+ },
+ "caf01c330b93a8a3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16664",
+  "by": "rules"
+ },
+ "e1a583178f4f03e1": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16808",
+  "by": "rules"
+ },
+ "a5d16f34bd3b3c43": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17139",
+  "by": "rules"
+ },
+ "227a3d3f23f10aec": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAVE",
+   "ETH"
+  ],
+  "usd_m": 43.8,
+  "market": "Crypto",
+  "event": "e17140",
+  "by": "rules"
  }
 }
