@@ -288043,5 +288043,52 @@
   "market": "Other",
   "event": "e16704",
   "by": "rules"
+ },
+ "1a30425190f729a5": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17173",
+  "by": "rules"
+ },
+ "03755a00310a75ea": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16577",
+  "by": "rules"
+ },
+ "07cc148be2709215": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17174",
+  "by": "rules"
+ },
+ "6db4bf6493576d95": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17175",
+  "by": "rules"
+ },
+ "1cf90ed150fe1f4e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17125",
+  "by": "rules"
  }
 }
