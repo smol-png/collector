@@ -277549,5 +277549,99 @@
   "market": "Stocks",
   "event": "e16613",
   "by": "rules"
+ },
+ "d9bb6cabe5b00a28": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16614",
+  "by": "rules"
+ },
+ "f44540cfc70f0ab1": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e16237",
+  "by": "rules"
+ },
+ "fa7724e725db0ae5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16615",
+  "by": "rules"
+ },
+ "060a51af5500c7f6": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16459",
+  "by": "rules"
+ },
+ "141eb2b900d9e948": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16566",
+  "by": "rules"
+ },
+ "c9a9ef0304cf73de": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 150.0,
+  "market": "Crypto",
+  "event": "e16616",
+  "by": "rules"
+ },
+ "647a2ebe73481d05": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16613",
+  "by": "rules"
+ },
+ "224dad3e894e4d23": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16617",
+  "by": "rules"
+ },
+ "86249d96304daf27": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 150.0,
+  "market": "Crypto",
+  "event": "e16616",
+  "by": "rules"
+ },
+ "dfb8830bac0915b4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e16618",
+  "by": "rules"
  }
 }
