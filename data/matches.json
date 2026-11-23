@@ -291314,5 +291314,32 @@
   "market": "Other",
   "event": "e17340",
   "by": "rules"
+ },
+ "76020484c2cd41bc": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e17341",
+  "by": "rules"
+ },
+ "7896e94ad34be27e": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17342",
+  "by": "rules"
+ },
+ "64ff5485dfc197fc": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15986",
+  "by": "rules"
  }
 }
