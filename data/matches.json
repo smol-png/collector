@@ -286708,5 +286708,43 @@
   "market": "Other",
   "event": "e16981",
   "by": "rules"
+ },
+ "bb1dae402505e8ad": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8190",
+  "by": "rules"
+ },
+ "cd13027668001784": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17098",
+  "by": "rules"
+ },
+ "cfb502f52510a4d9": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17108",
+  "by": "rules"
+ },
+ "6c3d880423aebb4b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17098",
+  "by": "rules"
  }
 }
