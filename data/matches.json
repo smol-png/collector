@@ -277786,5 +277786,61 @@
   "market": "Other",
   "event": "e16625",
   "by": "rules"
+ },
+ "2f036dc69eccabb7": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e16626",
+  "by": "rules"
+ },
+ "9e927ef5df53cdc2": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16627",
+  "by": "rules"
+ },
+ "942d6a4f8b315111": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": 277.0,
+  "market": "Stocks",
+  "event": "e16628",
+  "by": "rules"
+ },
+ "8f1cb183df6fdf19": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16629",
+  "by": "rules"
+ },
+ "76eceeb85ad3a348": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16630",
+  "by": "rules"
+ },
+ "554f895eed5d3c9e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16631",
+  "by": "rules"
  }
 }
