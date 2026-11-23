@@ -270243,5 +270243,23 @@
   "market": "Other",
   "event": "e16126",
   "by": "rules"
+ },
+ "6051d456b938fdc2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e12507",
+  "by": "rules"
+ },
+ "33d5a179ffb7bf60": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.05,
+  "market": "Other",
+  "event": "e16095",
+  "by": "rules"
  }
 }
