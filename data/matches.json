@@ -283032,5 +283032,37 @@
   "market": "AI",
   "event": "e16911",
   "by": "rules"
+ },
+ "3d3ff7344d6ce468": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16740",
+  "by": "rules"
+ },
+ "8f280a0a2aeb17ed": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16888",
+  "by": "rules"
+ },
+ "8b3192134725dcdd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16912",
+  "by": "rules"
  }
 }
