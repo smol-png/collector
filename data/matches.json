@@ -284919,5 +284919,32 @@
   "market": "Other",
   "event": "e17004",
   "by": "rules"
+ },
+ "2ba2df1d0acd3f85": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16664",
+  "by": "rules"
+ },
+ "cb5d95abf049a663": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17005",
+  "by": "rules"
+ },
+ "e01f3adeb538f692": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17006",
+  "by": "rules"
  }
 }
