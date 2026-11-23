@@ -286004,5 +286004,43 @@
   "market": "Other",
   "event": "e16474",
   "by": "rules"
+ },
+ "7be45ebb9f0f6ee7": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17067",
+  "by": "rules"
+ },
+ "ac7cb953bc728c3e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16182",
+  "by": "rules"
+ },
+ "72a7dcdd2e636da0": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17068",
+  "by": "rules"
+ },
+ "c18fe09cb06b6871": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17069",
+  "by": "rules"
  }
 }
