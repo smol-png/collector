@@ -274429,5 +274429,32 @@
   "market": "Crypto",
   "event": "e16354",
   "by": "rules"
+ },
+ "a2ddb9ee54d5019d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16404",
+  "by": "rules"
+ },
+ "c1b1e35197764676": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16405",
+  "by": "rules"
+ },
+ "5508673aa5628a07": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e16406",
+  "by": "rules"
  }
 }
