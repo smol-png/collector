@@ -280238,5 +280238,17 @@
   "market": "Stocks",
   "event": "e16101",
   "by": "rules"
+ },
+ "3eb73165c0edb1b7": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16786",
+  "by": "rules"
  }
 }
