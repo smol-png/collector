@@ -280106,5 +280106,32 @@
   "market": "Other",
   "event": "e15760",
   "by": "rules"
+ },
+ "315ebc89163665d2": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e16776",
+  "by": "rules"
+ },
+ "13521f8c8f54bced": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16687",
+  "by": "rules"
+ },
+ "0ef8c778887fa211": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16777",
+  "by": "rules"
  }
 }
