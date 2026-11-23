@@ -273809,5 +273809,25 @@
   "market": "Other",
   "event": "e16359",
   "by": "rules"
+ },
+ "7674e736b14e74db": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16360",
+  "by": "rules"
+ },
+ "92ada8f0cfc36d7e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ADA"
+  ],
+  "usd_m": 5.0,
+  "market": "Crypto",
+  "event": "e16361",
+  "by": "rules"
  }
 }
