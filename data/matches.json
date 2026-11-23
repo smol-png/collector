@@ -285489,5 +285489,225 @@
   "market": "Crypto",
   "event": "e16759",
   "by": "rules"
+ },
+ "6f4fe678fd0b1ead": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17038",
+  "by": "rules"
+ },
+ "6aae6b719479d98e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17039",
+  "by": "rules"
+ },
+ "37595f1cdeecbe88": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16093",
+  "by": "rules"
+ },
+ "c3704bf12fd31341": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e16546",
+  "by": "rules"
+ },
+ "3700bae57023b532": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e16546",
+  "by": "rules"
+ },
+ "e4eee980ecf69d47": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17029",
+  "by": "rules"
+ },
+ "88b178d33ec09b3b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17040",
+  "by": "rules"
+ },
+ "bf6678ce12e28b67": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17041",
+  "by": "rules"
+ },
+ "fa417ab37437296c": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 43900.0,
+  "market": "Other",
+  "event": "e17042",
+  "by": "rules"
+ },
+ "a6d9185008eba306": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 43900.0,
+  "market": "Other",
+  "event": "e17042",
+  "by": "rules"
+ },
+ "6a28607bedb72dd0": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e16546",
+  "by": "rules"
+ },
+ "35aee353cf7df870": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e16546",
+  "by": "rules"
+ },
+ "5058b6dc7f58cb9c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "AI",
+  "event": "e17043",
+  "by": "rules"
+ },
+ "6ed7ad6187c45c37": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "AI",
+  "event": "e17043",
+  "by": "rules"
+ },
+ "5e1a4a0b48dde29a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17044",
+  "by": "rules"
+ },
+ "6020f0287ee30615": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17044",
+  "by": "rules"
+ },
+ "84a60e0bb27d6b2d": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17045",
+  "by": "rules"
+ },
+ "179c42842760c6cb": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17045",
+  "by": "rules"
+ },
+ "2c3082bb174024f6": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e17044",
+  "by": "rules"
+ },
+ "69f37e5cf2dcbd8e": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e17044",
+  "by": "rules"
+ },
+ "19db1b0569fc8911": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17046",
+  "by": "rules"
+ },
+ "5a91b9f1069e8445": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17047",
+  "by": "rules"
+ },
+ "ed1b3b70d35384cb": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17047",
+  "by": "rules"
+ },
+ "6e4335107cd2771c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17048",
+  "by": "rules"
  }
 }
