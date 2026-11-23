@@ -276575,5 +276575,23 @@
   "market": "Other",
   "event": "e16539",
   "by": "rules"
+ },
+ "021a6871f00eb2fd": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": 148.0,
+  "market": "Other",
+  "event": "e16000",
+  "by": "rules"
+ },
+ "23cb05f19e76b69b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16404",
+  "by": "rules"
  }
 }
