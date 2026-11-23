@@ -270902,5 +270902,32 @@
   "market": "Other",
   "event": "e15988",
   "by": "rules"
+ },
+ "dd36335d70f37f00": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e13737",
+  "by": "rules"
+ },
+ "19c42a4d67b3cb64": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 1700.0,
+  "market": "Other",
+  "event": "e16175",
+  "by": "rules"
+ },
+ "f51164ebcd015592": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16176",
+  "by": "rules"
  }
 }
