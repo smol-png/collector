@@ -284988,5 +284988,23 @@
   "market": "Crypto",
   "event": "e17009",
   "by": "rules"
+ },
+ "6be22f7c1c92ec1c": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17010",
+  "by": "rules"
+ },
+ "0866f240baba2f3f": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16131",
+  "by": "rules"
  }
 }
