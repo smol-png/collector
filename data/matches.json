@@ -275655,5 +275655,25 @@
   "market": "Stocks",
   "event": "e16487",
   "by": "rules"
+ },
+ "bb842f38f2ae38ac": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e14859",
+  "by": "rules"
+ },
+ "d292e3f257763aac": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16488",
+  "by": "rules"
  }
 }
