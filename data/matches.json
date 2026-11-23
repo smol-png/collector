@@ -277880,5 +277880,25 @@
   "market": "Stocks",
   "event": "e16634",
   "by": "rules"
+ },
+ "aa3c8770f6676669": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16635",
+  "by": "rules"
+ },
+ "68315f6f0860dd90": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16636",
+  "by": "rules"
  }
 }
