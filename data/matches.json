@@ -278270,5 +278270,45 @@
   "market": "Crypto",
   "event": "e16665",
   "by": "rules"
+ },
+ "b17e6348b1355e4b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16654",
+  "by": "rules"
+ },
+ "1f0881b0081071b4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 72000.0,
+  "market": "Crypto",
+  "event": "e16666",
+  "by": "rules"
+ },
+ "5b139bf378faacaa": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16667",
+  "by": "rules"
+ },
+ "b5379259dbca6a74": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16352",
+  "by": "rules"
  }
 }
