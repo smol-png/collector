@@ -281691,5 +281691,23 @@
   "market": "Crypto",
   "event": "e16827",
   "by": "rules"
+ },
+ "6b07dfb699d7ad46": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16847",
+  "by": "rules"
+ },
+ "e998e7febe40b6f0": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16848",
+  "by": "rules"
  }
 }
