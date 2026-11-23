@@ -281503,5 +281503,36 @@
   "market": "Other",
   "event": "e16836",
   "by": "rules"
+ },
+ "99310bb5054b72fd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16837",
+  "by": "rules"
+ },
+ "99d6f65edf21f8bd": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8190",
+  "by": "rules"
+ },
+ "420bfc625677510e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16838",
+  "by": "rules"
  }
 }
