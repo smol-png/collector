@@ -273418,5 +273418,34 @@
   "market": "AI",
   "event": "e16189",
   "by": "rules"
+ },
+ "66288b7e9ee55c43": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16333",
+  "by": "rules"
+ },
+ "2e0ab5e462dfc2cf": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 2200.0,
+  "market": "Other",
+  "event": "e16335",
+  "by": "rules"
+ },
+ "125a23a99a8b3336": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16336",
+  "by": "rules"
  }
 }
