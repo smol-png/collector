@@ -277243,5 +277243,34 @@
   "market": "Other",
   "event": "e16593",
   "by": "rules"
+ },
+ "7316df255658ea69": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16594",
+  "by": "rules"
+ },
+ "07c7b4ddd996f093": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16595",
+  "by": "rules"
+ },
+ "75d6a6b823adff31": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16209",
+  "by": "rules"
  }
 }
