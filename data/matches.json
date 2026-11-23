@@ -278758,5 +278758,17 @@
   "market": "Crypto",
   "event": "e16690",
   "by": "rules"
+ },
+ "0b00f006e6719961": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16691",
+  "by": "rules"
  }
 }
