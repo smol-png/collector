@@ -273629,5 +273629,28 @@
   "market": "Other",
   "event": "e16347",
   "by": "rules"
+ },
+ "2fa18a0ae2dbd790": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "ETH",
+   "SOL"
+  ],
+  "usd_m": 146.0,
+  "market": "Crypto",
+  "event": "e16348",
+  "by": "rules"
+ },
+ "c74e6fd803f8b69e": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e16349",
+  "by": "rules"
  }
 }
