@@ -270495,5 +270495,14 @@
   "market": "Stocks",
   "event": "e16145",
   "by": "rules"
+ },
+ "8f640dab8fd9a2d5": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16146",
+  "by": "rules"
  }
 }
