@@ -287372,5 +287372,34 @@
   "market": "AI",
   "event": "e8190",
   "by": "rules"
+ },
+ "902e2b07300b3595": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17096",
+  "by": "rules"
+ },
+ "130703d87404df60": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "LTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17136",
+  "by": "rules"
+ },
+ "a88176ee4f84ff14": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17137",
+  "by": "rules"
  }
 }
