@@ -279854,5 +279854,25 @@
   "market": "Crypto",
   "event": "e16761",
   "by": "rules"
+ },
+ "3f1bb8b937092250": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16762",
+  "by": "rules"
+ },
+ "b6b24065ba429ddc": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16763",
+  "by": "rules"
  }
 }
