@@ -273020,5 +273020,16 @@
   "market": "Other",
   "event": "e16309",
   "by": "rules"
+ },
+ "5d210866d183d69d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ADA"
+  ],
+  "usd_m": 4.0,
+  "market": "Crypto",
+  "event": "e16310",
+  "by": "rules"
  }
 }
