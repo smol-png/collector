@@ -272044,5 +272044,32 @@
   "market": "Other",
   "event": "e15659",
   "by": "rules"
+ },
+ "e59f31b26d8c80ab": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 900000.0,
+  "market": "AI",
+  "event": "e16187",
+  "by": "rules"
+ },
+ "f05c15a931313f48": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16253",
+  "by": "rules"
+ },
+ "59a47f56d1ad5409": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16079",
+  "by": "rules"
  }
 }
