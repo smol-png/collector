@@ -281049,5 +281049,17 @@
   "market": "Stocks",
   "event": "e16790",
   "by": "rules"
+ },
+ "e4d375651ddc6e7a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC",
+   "NVDA"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e16823",
+  "by": "rules"
  }
 }
