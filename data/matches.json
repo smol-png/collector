@@ -277100,5 +277100,25 @@
   "market": "Crypto",
   "event": "e16584",
   "by": "rules"
+ },
+ "946d02868ca46d88": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16585",
+  "by": "rules"
+ },
+ "ebe22248232793d2": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16319",
+  "by": "rules"
  }
 }
