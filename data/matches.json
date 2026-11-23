@@ -282292,5 +282292,45 @@
   "market": "Other",
   "event": "e16841",
   "by": "rules"
+ },
+ "e5eaf3dbb2bd9b7f": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16795",
+  "by": "rules"
+ },
+ "bc2aa3fb2a0511ba": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16876",
+  "by": "rules"
+ },
+ "bd3c017715f06e6c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": 1000.0,
+  "market": "Stocks",
+  "event": "e16877",
+  "by": "rules"
+ },
+ "4d501aaa34301048": {
+  "type": "explainer",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16878",
+  "by": "rules"
  }
 }
