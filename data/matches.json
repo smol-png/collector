@@ -281678,5 +281678,18 @@
   "market": "Other",
   "event": "e16846",
   "by": "rules"
+ },
+ "714cf8a3447287de": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "BTC",
+   "ETH",
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16827",
+  "by": "rules"
  }
 }
