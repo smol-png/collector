@@ -271957,5 +271957,34 @@
   "market": "Other",
   "event": "e16247",
   "by": "rules"
+ },
+ "9ba00c9140e3b629": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16248",
+  "by": "rules"
+ },
+ "b1b00ef345b2bbb9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16249",
+  "by": "rules"
+ },
+ "34dae5a56987eb81": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16250",
+  "by": "rules"
  }
 }
