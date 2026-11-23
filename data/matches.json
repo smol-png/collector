@@ -277732,5 +277732,14 @@
   "market": "Stocks",
   "event": "e16182",
   "by": "rules"
+ },
+ "7c3ba2c8355e3b38": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e16622",
+  "by": "rules"
  }
 }
