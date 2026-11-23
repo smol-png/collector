@@ -283201,5 +283201,32 @@
   "market": "Crypto",
   "event": "e16831",
   "by": "rules"
+ },
+ "c63db46a22b17f72": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16382",
+  "by": "rules"
+ },
+ "266d445019eac685": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16920",
+  "by": "rules"
+ },
+ "3aeb92c6b624bbf8": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16921",
+  "by": "rules"
  }
 }
