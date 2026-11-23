@@ -286160,5 +286160,25 @@
   "market": "AI",
   "event": "e17076",
   "by": "rules"
+ },
+ "4870524e00f8c641": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17077",
+  "by": "rules"
+ },
+ "0f9a2e7a48601022": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17078",
+  "by": "rules"
  }
 }
