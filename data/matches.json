@@ -273238,5 +273238,23 @@
   "market": "Crypto",
   "event": "e16324",
   "by": "rules"
+ },
+ "bc9bd2a16d02c30f": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16325",
+  "by": "rules"
+ },
+ "adba5a6e7c856b27": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16326",
+  "by": "rules"
  }
 }
