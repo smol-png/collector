@@ -275684,5 +275684,63 @@
   "market": "Other",
   "event": "e16489",
   "by": "rules"
+ },
+ "be98867a91385a31": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16490",
+  "by": "rules"
+ },
+ "3ca1583d19f40ad1": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16491",
+  "by": "rules"
+ },
+ "310b73ac0ef0f7f0": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16492",
+  "by": "rules"
+ },
+ "ef826c9dc60e31e0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16493",
+  "by": "rules"
+ },
+ "3618714cbe9efe6e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": 33.5,
+  "market": "Stocks",
+  "event": "e16494",
+  "by": "rules"
+ },
+ "e6af26f84fd5ac3f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16495",
+  "by": "rules"
  }
 }
