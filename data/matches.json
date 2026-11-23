@@ -287029,5 +287029,16 @@
   "market": "AI",
   "event": "e16961",
   "by": "rules"
+ },
+ "2139e8b773c23cee": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": 4000.0,
+  "market": "Stocks",
+  "event": "e16924",
+  "by": "rules"
  }
 }
