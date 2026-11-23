@@ -284461,5 +284461,36 @@
   "market": "Other",
   "event": "e16573",
   "by": "rules"
+ },
+ "b88750c080b9d827": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16974",
+  "by": "rules"
+ },
+ "dcd14fc55757480d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16975",
+  "by": "rules"
+ },
+ "df168383a92b7e60": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": 36000.0,
+  "market": "Stocks",
+  "event": "e16976",
+  "by": "rules"
  }
 }
