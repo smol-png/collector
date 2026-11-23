@@ -278736,5 +278736,27 @@
   "market": "AI",
   "event": "e16669",
   "by": "rules"
+ },
+ "e584ae7326caf830": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16689",
+  "by": "rules"
+ },
+ "4c3edec0138b8aa2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16690",
+  "by": "rules"
  }
 }
