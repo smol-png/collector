@@ -276761,5 +276761,34 @@
   "market": "Crypto",
   "event": "e15931",
   "by": "rules"
+ },
+ "026fcfbf74e0e8ca": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16556",
+  "by": "rules"
+ },
+ "0cd82ea2db31a57c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16557",
+  "by": "rules"
+ },
+ "878bd109567a4220": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16558",
+  "by": "rules"
  }
 }
