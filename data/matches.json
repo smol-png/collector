@@ -280993,5 +280993,43 @@
   "market": "AI",
   "event": "e16820",
   "by": "rules"
+ },
+ "fa918f41d8d343ea": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8190",
+  "by": "rules"
+ },
+ "c31e247f3f545a1f": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16664",
+  "by": "rules"
+ },
+ "4d3b8cf992e48d22": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16821",
+  "by": "rules"
+ },
+ "3bb04b6e847de670": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16112",
+  "by": "rules"
  }
 }
