@@ -275762,5 +275762,52 @@
   "market": "Crypto",
   "event": "e16497",
   "by": "rules"
+ },
+ "9b1a16c42699bca2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16382",
+  "by": "rules"
+ },
+ "d26f6fd2f3ab46ed": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16498",
+  "by": "rules"
+ },
+ "acad375c61290599": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16499",
+  "by": "rules"
+ },
+ "bf512a4803753df5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16500",
+  "by": "rules"
+ },
+ "52f8749fefbfb7d4": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16501",
+  "by": "rules"
  }
 }
