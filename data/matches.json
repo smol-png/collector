@@ -286209,5 +286209,16 @@
   "market": "Other",
   "event": "e17081",
   "by": "rules"
+ },
+ "c29fb6206ed501db": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17077",
+  "by": "rules"
  }
 }
