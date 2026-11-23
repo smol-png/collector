@@ -282698,5 +282698,25 @@
   "market": "Crypto",
   "event": "e16894",
   "by": "rules"
+ },
+ "3364979ab6738f8e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16895",
+  "by": "rules"
+ },
+ "b98dac5343ffe13d": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e16896",
+  "by": "rules"
  }
 }
