@@ -284561,5 +284561,34 @@
   "market": "Other",
   "event": "e16980",
   "by": "rules"
+ },
+ "5189541494838773": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16981",
+  "by": "rules"
+ },
+ "c70d3c1ec4e3c20f": {
+  "type": "analysis",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16982",
+  "by": "rules"
+ },
+ "8510dbe32dec284c": {
+  "type": "analysis",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16983",
+  "by": "rules"
  }
 }
