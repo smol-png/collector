@@ -280295,5 +280295,32 @@
   "market": "Other",
   "event": "e16790",
   "by": "rules"
+ },
+ "3810204fdd468b69": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16791",
+  "by": "rules"
+ },
+ "e36d9dfb66dac31f": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16792",
+  "by": "rules"
+ },
+ "eb3af72ed7aad957": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16777",
+  "by": "rules"
  }
 }
