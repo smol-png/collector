@@ -271829,5 +271829,25 @@
   "market": "Other",
   "event": "e16239",
   "by": "rules"
+ },
+ "238417d2b0dffd15": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": 0.32,
+  "market": "Stocks",
+  "event": "e15925",
+  "by": "rules"
+ },
+ "327ca1a187241c14": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e16240",
+  "by": "rules"
  }
 }
