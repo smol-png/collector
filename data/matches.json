@@ -279492,5 +279492,17 @@
   "market": "Other",
   "event": "e16700",
   "by": "rules"
+ },
+ "e3bd23dd61417f64": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16740",
+  "by": "rules"
  }
 }
