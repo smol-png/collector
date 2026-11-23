@@ -283103,5 +283103,16 @@
   "market": "Crypto",
   "event": "e16915",
   "by": "rules"
+ },
+ "f797b2098eb58bcf": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": 0.0,
+  "market": "AI",
+  "event": "e8190",
+  "by": "rules"
  }
 }
