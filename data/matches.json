@@ -286520,5 +286520,41 @@
   "market": "AI",
   "event": "e17099",
   "by": "rules"
+ },
+ "de407d66f1d24b80": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16479",
+  "by": "rules"
+ },
+ "a9b842cbe7a325f0": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17073",
+  "by": "rules"
+ },
+ "cf5464403d281392": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17100",
+  "by": "rules"
+ },
+ "517b59836d48b4a2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 190.0,
+  "market": "Crypto",
+  "event": "e17101",
+  "by": "rules"
  }
 }
