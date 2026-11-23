@@ -275289,5 +275289,16 @@
   "market": "Other",
   "event": "e16406",
   "by": "rules"
+ },
+ "0c843bd1098b1998": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16461",
+  "by": "rules"
  }
 }
