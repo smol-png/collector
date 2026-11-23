@@ -281928,5 +281928,34 @@
   "market": "Crypto",
   "event": "e16861",
   "by": "rules"
+ },
+ "3d5d6cf59d05a55c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16045",
+  "by": "rules"
+ },
+ "adfac2269a42910b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15704",
+  "by": "rules"
+ },
+ "cdeab78f2bf88470": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16352",
+  "by": "rules"
  }
 }
