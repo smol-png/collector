@@ -277120,5 +277120,16 @@
   "market": "Crypto",
   "event": "e16319",
   "by": "rules"
+ },
+ "bc8b608ca2c584bb": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e15768",
+  "by": "rules"
  }
 }
