@@ -281995,5 +281995,16 @@
   "market": "Stocks",
   "event": "e16865",
   "by": "rules"
+ },
+ "9c8e55c63d52a94a": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e15931",
+  "by": "rules"
  }
 }
