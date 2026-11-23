@@ -277741,5 +277741,23 @@
   "market": "Macro",
   "event": "e16622",
   "by": "rules"
+ },
+ "1511acffa4d5845a": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 3000.0,
+  "market": "Stocks",
+  "event": "e16604",
+  "by": "rules"
+ },
+ "9f61c8ddf2093c50": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16623",
+  "by": "rules"
  }
 }
