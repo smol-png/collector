@@ -279718,5 +279718,26 @@
   "market": "Stocks",
   "event": "e16753",
   "by": "rules"
+ },
+ "09e3a55a342c26d2": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": 1000.0,
+  "market": "Crypto",
+  "event": "e16754",
+  "by": "rules"
+ },
+ "09682738e397a162": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16755",
+  "by": "rules"
  }
 }
