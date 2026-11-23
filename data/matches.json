@@ -285143,5 +285143,81 @@
   "market": "AI",
   "event": "e17017",
   "by": "rules"
+ },
+ "5a8f73d82ce849bb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17018",
+  "by": "rules"
+ },
+ "8a2a665fea73e79c": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17019",
+  "by": "rules"
+ },
+ "848f856510359fce": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17020",
+  "by": "rules"
+ },
+ "b60c3bb75cfd4ed0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17021",
+  "by": "rules"
+ },
+ "84200025e8e612d6": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17022",
+  "by": "rules"
+ },
+ "eac84390ee40899c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e16808",
+  "by": "rules"
+ },
+ "01801db1ef85097c": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17023",
+  "by": "rules"
+ },
+ "487eae4179bca0ad": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15782",
+  "by": "rules"
  }
 }
