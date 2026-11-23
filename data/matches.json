@@ -279951,5 +279951,151 @@
   "market": "Other",
   "event": "e16769",
   "by": "rules"
+ },
+ "e99d12a9947763be": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16770",
+  "by": "rules"
+ },
+ "a456836f8ba16063": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16182",
+  "by": "rules"
+ },
+ "95f5cb0f1ce35629": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16506",
+  "by": "rules"
+ },
+ "1835c28c8573e75b": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 3000.0,
+  "market": "Stocks",
+  "event": "e16604",
+  "by": "rules"
+ },
+ "4f5aff645d4db3b6": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16201",
+  "by": "rules"
+ },
+ "c8c3f245a337066c": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16771",
+  "by": "rules"
+ },
+ "885fab7dd65a58db": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16201",
+  "by": "rules"
+ },
+ "baf2239f0a1b51a4": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16201",
+  "by": "rules"
+ },
+ "8fe0b702dc40b26c": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16078",
+  "by": "rules"
+ },
+ "f31a75662231c334": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16345",
+  "by": "rules"
+ },
+ "1312541fde80e200": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16384",
+  "by": "rules"
+ },
+ "db63f7a8738c687a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 35.0,
+  "market": "AI",
+  "event": "e16772",
+  "by": "rules"
+ },
+ "4cdbe1d294538453": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16773",
+  "by": "rules"
+ },
+ "1da6da80d33af5ec": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16774",
+  "by": "rules"
+ },
+ "73c317a8d737cf29": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16775",
+  "by": "rules"
+ },
+ "b2f1cef1c07dc209": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e8282",
+  "by": "rules"
  }
 }
