@@ -277348,5 +277348,26 @@
   "market": "Stocks",
   "event": "e16540",
   "by": "rules"
+ },
+ "eb5b621a93b9ee38": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e16600",
+  "by": "rules"
+ },
+ "c2fc8993836608e1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16601",
+  "by": "rules"
  }
 }
