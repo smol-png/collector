@@ -282261,5 +282261,27 @@
   "market": "Stocks",
   "event": "e16182",
   "by": "rules"
+ },
+ "c05a85d7bf1a72ef": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16795",
+  "by": "rules"
+ },
+ "a8278c2609587787": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16642",
+  "by": "rules"
  }
 }
