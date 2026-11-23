@@ -285219,5 +285219,17 @@
   "market": "Other",
   "event": "e15782",
   "by": "rules"
+ },
+ "1964af89d9aab2b3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH",
+   "HOOD"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17024",
+  "by": "rules"
  }
 }
