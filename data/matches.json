@@ -282028,5 +282028,38 @@
   "market": "Stocks",
   "event": "e16182",
   "by": "rules"
+ },
+ "c1f032a428ff8680": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16182",
+  "by": "rules"
+ },
+ "a8c2a0b410663d25": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8190",
+  "by": "rules"
+ },
+ "3840552e0b05e080": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16867",
+  "by": "rules"
  }
 }
