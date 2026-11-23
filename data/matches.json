@@ -272677,5 +272677,16 @@
   "market": "Stocks",
   "event": "e12564",
   "by": "rules"
+ },
+ "1de05c60cb5d6f7e": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16292",
+  "by": "rules"
  }
 }
