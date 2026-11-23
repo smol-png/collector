@@ -285765,5 +285765,32 @@
   "market": "Prediction markets",
   "event": "e17052",
   "by": "rules"
+ },
+ "fbbab158c6b4e3e0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17053",
+  "by": "rules"
+ },
+ "fec57d8d60244ecb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e8190",
+  "by": "rules"
+ },
+ "1d8defcd7696a9ce": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17054",
+  "by": "rules"
  }
 }
