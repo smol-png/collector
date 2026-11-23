@@ -281897,5 +281897,25 @@
   "market": "Crypto",
   "event": "e16856",
   "by": "rules"
+ },
+ "4ff99570656659a2": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e16859",
+  "by": "rules"
+ },
+ "001d34022f1e174c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e16860",
+  "by": "rules"
  }
 }
