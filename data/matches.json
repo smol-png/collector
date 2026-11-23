@@ -280133,5 +280133,25 @@
   "market": "Crypto",
   "event": "e16777",
   "by": "rules"
+ },
+ "4c2b29be30d317bd": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": 7500.0,
+  "market": "AI",
+  "event": "e16778",
+  "by": "rules"
+ },
+ "8ba1f6a23077516d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16779",
+  "by": "rules"
  }
 }
