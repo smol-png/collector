@@ -282747,5 +282747,70 @@
   "market": "AI",
   "event": "e16596",
   "by": "rules"
+ },
+ "a97e56f42a128904": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16898",
+  "by": "rules"
+ },
+ "edb386749659003d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16899",
+  "by": "rules"
+ },
+ "367a0ffe06bcc297": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16900",
+  "by": "rules"
+ },
+ "90076c7ae2f8d55e": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16901",
+  "by": "rules"
+ },
+ "4d4ecce4174088bd": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16902",
+  "by": "rules"
+ },
+ "9ef699d36d206aa4": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16903",
+  "by": "rules"
+ },
+ "3d5e6a3dfc4f9829": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16778",
+  "by": "rules"
  }
 }
