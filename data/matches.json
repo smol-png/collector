@@ -287726,5 +287726,36 @@
   "market": "Other",
   "event": "e17159",
   "by": "rules"
+ },
+ "7a6365fede8e68e5": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16813",
+  "by": "rules"
+ },
+ "e5cc2f1e27ff97bd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e17160",
+  "by": "rules"
+ },
+ "997eacd31431a801": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16182",
+  "by": "rules"
  }
 }
