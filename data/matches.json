@@ -275742,5 +275742,25 @@
   "market": "Other",
   "event": "e16495",
   "by": "rules"
+ },
+ "d1e1bdc2aa89721b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16496",
+  "by": "rules"
+ },
+ "8fa66e3c8a62a3e7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16497",
+  "by": "rules"
  }
 }
