@@ -278212,5 +278212,23 @@
   "market": "Other",
   "event": "e16660",
   "by": "rules"
+ },
+ "4754f562881a927b": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16539",
+  "by": "rules"
+ },
+ "326b7df36bda6e7a": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16661",
+  "by": "rules"
  }
 }
