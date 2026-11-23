@@ -279784,5 +279784,14 @@
   "market": "Stocks",
   "event": "e16757",
   "by": "rules"
+ },
+ "74c119535628b41b": {
+  "type": "roundup",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16758",
+  "by": "rules"
  }
 }
