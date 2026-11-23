@@ -277432,5 +277432,14 @@
   "market": "Stocks",
   "event": "e16417",
   "by": "rules"
+ },
+ "4d7834c722b4bfdc": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 3000.0,
+  "market": "Other",
+  "event": "e16604",
+  "by": "rules"
  }
 }
