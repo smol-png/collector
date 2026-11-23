@@ -286060,5 +286060,27 @@
   "market": "Other",
   "event": "e17070",
   "by": "rules"
+ },
+ "15851eca345cd09a": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17071",
+  "by": "rules"
+ },
+ "83dcc6ff3520b5bd": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8190",
+  "by": "rules"
  }
 }
