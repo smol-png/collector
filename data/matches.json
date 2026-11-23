@@ -284968,5 +284968,25 @@
   "market": "AI",
   "event": "e16888",
   "by": "rules"
+ },
+ "c200759009a08ede": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17008",
+  "by": "rules"
+ },
+ "7b6393c20cf8aeb7": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "HOOD"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17009",
+  "by": "rules"
  }
 }
