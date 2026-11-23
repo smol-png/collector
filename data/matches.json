@@ -291350,5 +291350,25 @@
   "market": "Other",
   "event": "e17343",
   "by": "rules"
+ },
+ "ecdc203314eed45e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17344",
+  "by": "rules"
+ },
+ "b0579e772889d27a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17345",
+  "by": "rules"
  }
 }
