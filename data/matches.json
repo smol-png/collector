@@ -279289,5 +279289,35 @@
   "market": "Crypto",
   "event": "e16726",
   "by": "rules"
+ },
+ "fe4f7c367952488a": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16669",
+  "by": "rules"
+ },
+ "e9a6366be55a876c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16727",
+  "by": "rules"
+ },
+ "db9adf0375ad2fb0": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": 30.0,
+  "market": "Crypto",
+  "event": "e15921",
+  "by": "rules"
  }
 }
