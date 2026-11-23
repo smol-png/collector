@@ -283237,5 +283237,187 @@
   "market": "Other",
   "event": "e16922",
   "by": "rules"
+ },
+ "c5034eddf086172d": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16217",
+  "by": "rules"
+ },
+ "9b57778b6588301f": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16217",
+  "by": "rules"
+ },
+ "76cbbaf03a8d2a25": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16201",
+  "by": "rules"
+ },
+ "66138f553a75ba13": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16201",
+  "by": "rules"
+ },
+ "afaf993359484dea": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16217",
+  "by": "rules"
+ },
+ "cff7e89036272f4c": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16217",
+  "by": "rules"
+ },
+ "4966d27b6823dc6b": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16201",
+  "by": "rules"
+ },
+ "9eae5fb0291e360d": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16201",
+  "by": "rules"
+ },
+ "7764c35d270910a8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3119",
+  "by": "rules"
+ },
+ "177d0c51902b8e6d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3119",
+  "by": "rules"
+ },
+ "95e22d87a59d312c": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16217",
+  "by": "rules"
+ },
+ "e8e7740263c334fc": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16217",
+  "by": "rules"
+ },
+ "421f84fe8f295d1d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16923",
+  "by": "rules"
+ },
+ "517f6d7470f8d964": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": 4000.0,
+  "market": "Stocks",
+  "event": "e16924",
+  "by": "rules"
+ },
+ "e40c69c5f233604f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16881",
+  "by": "rules"
+ },
+ "8f5bbcfd846a2734": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16925",
+  "by": "rules"
+ },
+ "0a1f270880ac12dc": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16926",
+  "by": "rules"
+ },
+ "259904f9782d0f15": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16926",
+  "by": "rules"
+ },
+ "8405a5e697d22f23": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e8190",
+  "by": "rules"
  }
 }
