@@ -282017,5 +282017,16 @@
   "market": "Crypto",
   "event": "e16866",
   "by": "rules"
+ },
+ "214b8e452abe6acf": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16182",
+  "by": "rules"
  }
 }
