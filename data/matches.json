@@ -306781,5 +306781,25 @@
   "market": "Stocks",
   "event": "e18180",
   "by": "rules"
+ },
+ "6b6a98ddc4844a85": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e18181",
+  "by": "rules"
+ },
+ "6a9d67dad748f5ed": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18182",
+  "by": "rules"
  }
 }
