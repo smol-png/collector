@@ -309993,5 +309993,26 @@
   "market": "Stocks",
   "event": "e18346",
   "by": "rules"
+ },
+ "9fdd4dd0e4decfb9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL",
+   "AMZN"
+  ],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e18368",
+  "by": "rules"
+ },
+ "232ed425b7d434db": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18369",
+  "by": "rules"
  }
 }
