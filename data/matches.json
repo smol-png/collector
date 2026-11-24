@@ -309421,5 +309421,34 @@
   "market": "AI",
   "event": "e18333",
   "by": "rules"
+ },
+ "24690406431ab1a0": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e18334",
+  "by": "rules"
+ },
+ "90fedeb6f7ebf9d4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18335",
+  "by": "rules"
+ },
+ "26aebc9c8fe8d069": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18085",
+  "by": "rules"
  }
 }
