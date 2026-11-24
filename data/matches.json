@@ -293973,5 +293973,25 @@
   "market": "Other",
   "event": "e17477",
   "by": "rules"
+ },
+ "5c10f6c1ec7aa16f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17478",
+  "by": "rules"
+ },
+ "b11d5fe352f6b876": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16778",
+  "by": "rules"
  }
 }
