@@ -312175,5 +312175,43 @@
   "market": "Other",
   "event": "e18501",
   "by": "rules"
+ },
+ "ced038846493761a": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18502",
+  "by": "rules"
+ },
+ "b1301cf5d3160767": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18503",
+  "by": "rules"
+ },
+ "062c5405d2f939da": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 100.0,
+  "market": "Other",
+  "event": "e18230",
+  "by": "rules"
+ },
+ "b9cf2cb428be187e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18504",
+  "by": "rules"
  }
 }
