@@ -308374,5 +308374,32 @@
   "market": "Other",
   "event": "e18273",
   "by": "rules"
+ },
+ "596ebce5e33dcf75": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e18274",
+  "by": "rules"
+ },
+ "f5cbfdaf0d4de8bd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18275",
+  "by": "rules"
+ },
+ "c89275934a6ab464": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18276",
+  "by": "rules"
  }
 }
