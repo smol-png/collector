@@ -308944,5 +308944,32 @@
   "market": "Crypto",
   "event": "e16616",
   "by": "rules"
+ },
+ "6dd48ec32f0917a8": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18117",
+  "by": "rules"
+ },
+ "93cfb683a91a8c82": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e18308",
+  "by": "rules"
+ },
+ "de59cc64ee53f6cb": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18309",
+  "by": "rules"
  }
 }
