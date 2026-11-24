@@ -304692,5 +304692,54 @@
   "market": "AI",
   "event": "e18070",
   "by": "rules"
+ },
+ "cc2bdaace060a4d4": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8190",
+  "by": "rules"
+ },
+ "e0703c337a2f726e": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18071",
+  "by": "rules"
+ },
+ "6c4389a688d8188e": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17129",
+  "by": "rules"
+ },
+ "7dc8f201fc937ebb": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "USDC"
+  ],
+  "usd_m": 1100.0,
+  "market": "Crypto",
+  "event": "e17138",
+  "by": "rules"
+ },
+ "27ebaa1f1221ebc0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17893",
+  "by": "rules"
  }
 }
