@@ -294002,5 +294002,16 @@
   "market": "AI",
   "event": "e17479",
   "by": "rules"
+ },
+ "691e8e00fb7da691": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17480",
+  "by": "rules"
  }
 }
