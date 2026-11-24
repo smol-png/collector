@@ -311632,5 +311632,115 @@
   "market": "Stocks",
   "event": "e16643",
   "by": "rules"
+ },
+ "3550bf5c94db4b46": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18470",
+  "by": "rules"
+ },
+ "1ab894e02dac46fc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16303",
+  "by": "rules"
+ },
+ "1efd69a76f15215b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16303",
+  "by": "rules"
+ },
+ "40ff1a714e11f523": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e16704",
+  "by": "rules"
+ },
+ "ecd14f305bd06083": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18471",
+  "by": "rules"
+ },
+ "84e5ff275a015070": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17274",
+  "by": "rules"
+ },
+ "3d7c0b0bbda1fa79": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18472",
+  "by": "rules"
+ },
+ "7bfd86e5500a7a13": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18472",
+  "by": "rules"
+ },
+ "c95e0a861d4a2e5f": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18473",
+  "by": "rules"
+ },
+ "85979f26330d1c7c": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18473",
+  "by": "rules"
+ },
+ "7ad6e576c1629194": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18474",
+  "by": "rules"
+ },
+ "1a757ca058990e4d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18475",
+  "by": "rules"
  }
 }
