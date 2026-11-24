@@ -299568,5 +299568,23 @@
   "market": "AI",
   "event": "e16795",
   "by": "rules"
+ },
+ "ec62dbdd2b0dc33e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 7400.0,
+  "market": "Other",
+  "event": "e17779",
+  "by": "rules"
+ },
+ "ac8b7082a587fb9c": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17780",
+  "by": "rules"
  }
 }
