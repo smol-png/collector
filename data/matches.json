@@ -299974,5 +299974,34 @@
   "market": "Other",
   "event": "e16862",
   "by": "rules"
+ },
+ "71caa7b8717107f0": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17800",
+  "by": "rules"
+ },
+ "0b139840acb48acc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 655.0,
+  "market": "Crypto",
+  "event": "e17801",
+  "by": "rules"
+ },
+ "b9e76c0122160ee5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17802",
+  "by": "rules"
  }
 }
