@@ -301162,5 +301162,32 @@
   "market": "Other",
   "event": "e17458",
   "by": "rules"
+ },
+ "ff5c747f952c0fb0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17868",
+  "by": "rules"
+ },
+ "31c61afde9cec0bc": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17869",
+  "by": "rules"
+ },
+ "dbe1781a9abdbca2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17870",
+  "by": "rules"
  }
 }
