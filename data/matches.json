@@ -301873,5 +301873,16 @@
   "market": "Stocks",
   "event": "e8190",
   "by": "rules"
+ },
+ "28752ce700f16f59": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": 950000.0,
+  "market": "AI",
+  "event": "e8190",
+  "by": "rules"
  }
 }
