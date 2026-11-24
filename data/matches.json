@@ -307760,5 +307760,23 @@
   "market": "Crypto",
   "event": "e18095",
   "by": "rules"
+ },
+ "93fe0afc04e6b2d2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 3400.0,
+  "market": "Other",
+  "event": "e18239",
+  "by": "rules"
+ },
+ "d2355b5eb1f86884": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18225",
+  "by": "rules"
  }
 }
