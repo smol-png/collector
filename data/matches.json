@@ -311211,5 +311211,27 @@
   "market": "Crypto",
   "event": "e18443",
   "by": "rules"
+ },
+ "e95f2225ce8a0bfe": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e18234",
+  "by": "rules"
+ },
+ "d3cb5ea0de4cd42d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18319",
+  "by": "rules"
  }
 }
