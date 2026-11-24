@@ -306317,5 +306317,37 @@
   "market": "Other",
   "event": "e18154",
   "by": "rules"
+ },
+ "6bee83cb55aeac27": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18153",
+  "by": "rules"
+ },
+ "c10c28dbb2f6b2c1": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18033",
+  "by": "rules"
+ },
+ "46edb87a380da99b": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "AMZN",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17077",
+  "by": "rules"
  }
 }
