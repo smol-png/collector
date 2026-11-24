@@ -309601,5 +309601,43 @@
   "market": "Other",
   "event": "e18347",
   "by": "rules"
+ },
+ "bf8e230bfc624aa3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18348",
+  "by": "rules"
+ },
+ "755eff54381afa60": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18068",
+  "by": "rules"
+ },
+ "85d5e125d82f183d": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17525",
+  "by": "rules"
+ },
+ "9ce14f018b528829": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18349",
+  "by": "rules"
  }
 }
