@@ -302317,5 +302317,52 @@
   "market": "Other",
   "event": "e17114",
   "by": "rules"
+ },
+ "07b3c177b9cc2b1f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17855",
+  "by": "rules"
+ },
+ "ac509ff448441a1f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 6300.0,
+  "market": "Crypto",
+  "event": "e17924",
+  "by": "rules"
+ },
+ "3099d28e5c3771e4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17114",
+  "by": "rules"
+ },
+ "fdaf101df029b249": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 14700.0,
+  "market": "Crypto",
+  "event": "e17925",
+  "by": "rules"
+ },
+ "d24861bc9862b45f": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17926",
+  "by": "rules"
  }
 }
