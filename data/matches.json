@@ -296707,5 +296707,88 @@
   "market": "Other",
   "event": "e17634",
   "by": "rules"
+ },
+ "ffb83a8c7e7da856": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17632",
+  "by": "rules"
+ },
+ "6f0ccb0fbff05848": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.15,
+  "market": "Stocks",
+  "event": "e17635",
+  "by": "rules"
+ },
+ "11c5d47b355adfa3": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e17636",
+  "by": "rules"
+ },
+ "83817b8fe95e1f14": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17637",
+  "by": "rules"
+ },
+ "2690738f157a5a94": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17625",
+  "by": "rules"
+ },
+ "32a345482b5311d0": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17633",
+  "by": "rules"
+ },
+ "d6420d154b3c4c03": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17634",
+  "by": "rules"
+ },
+ "dc94fb2d77205899": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16949",
+  "by": "rules"
+ },
+ "774658fd4a6ae3ca": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16352",
+  "by": "rules"
  }
 }
