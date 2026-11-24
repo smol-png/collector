@@ -300914,5 +300914,25 @@
   "market": "Crypto",
   "event": "e16827",
   "by": "rules"
+ },
+ "4c0c19042ee84e5e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16700",
+  "by": "rules"
+ },
+ "b82e623202be87d4": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17383",
+  "by": "rules"
  }
 }
