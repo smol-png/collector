@@ -294603,5 +294603,95 @@
   "market": "Other",
   "event": "e17515",
   "by": "rules"
+ },
+ "678241487dfe4898": {
+  "type": "explainer",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17516",
+  "by": "rules"
+ },
+ "ef40dab47e0d1e1c": {
+  "type": "explainer",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17516",
+  "by": "rules"
+ },
+ "fa08d6b0f583d619": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16445",
+  "by": "rules"
+ },
+ "12784239fcc79644": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16445",
+  "by": "rules"
+ },
+ "c3a47a0d1432f641": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e16626",
+  "by": "rules"
+ },
+ "6ca7401bdb21a47a": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e16626",
+  "by": "rules"
+ },
+ "c889b98f9bd28430": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e15353",
+  "by": "rules"
+ },
+ "5a9db53c822366ff": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.21,
+  "market": "Stocks",
+  "event": "e17517",
+  "by": "rules"
+ },
+ "274b3fd9889918ce": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17518",
+  "by": "rules"
+ },
+ "e373b5a0c41b9c34": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17518",
+  "by": "rules"
  }
 }
