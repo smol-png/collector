@@ -309571,5 +309571,26 @@
   "market": "AI",
   "event": "e8190",
   "by": "rules"
+ },
+ "9d50498ac6a282ca": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18346",
+  "by": "rules"
+ },
+ "80a91f8f89562a1b": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "BTC",
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e15944",
+  "by": "rules"
  }
 }
