@@ -295899,5 +295899,106 @@
   "market": "Crypto",
   "event": "e17592",
   "by": "rules"
+ },
+ "f24d699364fd787c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17593",
+  "by": "rules"
+ },
+ "cc32c945694cdd46": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17594",
+  "by": "rules"
+ },
+ "35866bc13659bbdd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17595",
+  "by": "rules"
+ },
+ "a3bab708d0e09c57": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e17472",
+  "by": "rules"
+ },
+ "05bf518334b048de": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17596",
+  "by": "rules"
+ },
+ "daee7ef022f1ae7b": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17596",
+  "by": "rules"
+ },
+ "dfb7d80e8331bc45": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17597",
+  "by": "rules"
+ },
+ "08c91e33f26612fb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16427",
+  "by": "rules"
+ },
+ "28482acce89aa15b": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17598",
+  "by": "rules"
+ },
+ "bdfd856d0d5c54b2": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17598",
+  "by": "rules"
+ },
+ "26e6dc2b268f9ce8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17599",
+  "by": "rules"
  }
 }
