@@ -313476,5 +313476,134 @@
   "market": "Stocks",
   "event": "e17314",
   "by": "rules"
+ },
+ "699a86a333a3f326": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18581",
+  "by": "rules"
+ },
+ "c9f3be40478c92c7": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16096",
+  "by": "rules"
+ },
+ "3d85e18769c0f266": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18582",
+  "by": "rules"
+ },
+ "87df464fae51a336": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18583",
+  "by": "rules"
+ },
+ "9238c8dd6e6360fd": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18583",
+  "by": "rules"
+ },
+ "22f67a2afae847b1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 340.0,
+  "market": "Other",
+  "event": "e18584",
+  "by": "rules"
+ },
+ "960ce3ce9873fe43": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18585",
+  "by": "rules"
+ },
+ "02e9b860c0ef0921": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 450.0,
+  "market": "Other",
+  "event": "e16096",
+  "by": "rules"
+ },
+ "69b1869e399b2e9e": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18361",
+  "by": "rules"
+ },
+ "edd5e23259f91ba1": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 1.08,
+  "market": "Other",
+  "event": "e18586",
+  "by": "rules"
+ },
+ "2020d085e62bbb4d": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16130",
+  "by": "rules"
+ },
+ "d83a6c8e17294c01": {
+  "type": "analysis",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17314",
+  "by": "rules"
+ },
+ "8d1a71b42bf9b2b3": {
+  "type": "analysis",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17314",
+  "by": "rules"
  }
 }
