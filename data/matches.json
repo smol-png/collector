@@ -304031,5 +304031,56 @@
   "market": "Other",
   "event": "e18026",
   "by": "rules"
+ },
+ "5c083260ec366499": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18027",
+  "by": "rules"
+ },
+ "8efc9960eed3de84": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18028",
+  "by": "rules"
+ },
+ "fc96674aa8af75fc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18029",
+  "by": "rules"
+ },
+ "2a5d2e89396b739c": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "AAVE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18030",
+  "by": "rules"
+ },
+ "e9926ff96f080d31": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18031",
+  "by": "rules"
  }
 }
