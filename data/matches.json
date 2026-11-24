@@ -310809,5 +310809,126 @@
   "market": "Other",
   "event": "e18416",
   "by": "rules"
+ },
+ "61b9f0fd9722983d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8190",
+  "by": "rules"
+ },
+ "dc0ae3e73e48a138": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16797",
+  "by": "rules"
+ },
+ "d71ce7479af26ae4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16797",
+  "by": "rules"
+ },
+ "8f2365b7dafdf93e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17012",
+  "by": "rules"
+ },
+ "c9d82221012106ec": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17012",
+  "by": "rules"
+ },
+ "0572131e4ae36825": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18411",
+  "by": "rules"
+ },
+ "0577973d8aceb0f7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18417",
+  "by": "rules"
+ },
+ "8e191aa153bba596": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18417",
+  "by": "rules"
+ },
+ "6e23d272cef9521e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18418",
+  "by": "rules"
+ },
+ "fbbe1de4ee3e2644": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e18419",
+  "by": "rules"
+ },
+ "e54b1bd27062144a": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e18419",
+  "by": "rules"
+ },
+ "24e8bd8441e75e9e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18420",
+  "by": "rules"
+ },
+ "447b5ab412d83efa": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18421",
+  "by": "rules"
  }
 }
