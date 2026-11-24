@@ -294574,5 +294574,16 @@
   "market": "Macro",
   "event": "e17512",
   "by": "rules"
+ },
+ "42bd91c6ec6c0194": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17513",
+  "by": "rules"
  }
 }
