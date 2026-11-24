@@ -291658,5 +291658,16 @@
   "market": "Other",
   "event": "e17361",
   "by": "rules"
+ },
+ "41a418a1bd98f24f": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17362",
+  "by": "rules"
  }
 }
