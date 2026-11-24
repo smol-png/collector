@@ -310392,5 +310392,25 @@
   "market": "Other",
   "event": "e18350",
   "by": "rules"
+ },
+ "aa0da2fe9370d803": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e18394",
+  "by": "rules"
+ },
+ "9b519340ed049695": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18395",
+  "by": "rules"
  }
 }
