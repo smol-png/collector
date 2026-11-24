@@ -292394,5 +292394,16 @@
   "market": "Other",
   "event": "e17342",
   "by": "rules"
+ },
+ "ee000cd5cff55c8d": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17395",
+  "by": "rules"
  }
 }
