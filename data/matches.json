@@ -302716,5 +302716,79 @@
   "market": "Other",
   "event": "e16673",
   "by": "rules"
+ },
+ "45af53d8c991c3d8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17945",
+  "by": "rules"
+ },
+ "8ce01d3d992e7538": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17946",
+  "by": "rules"
+ },
+ "1f591ce246a47ab6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17947",
+  "by": "rules"
+ },
+ "2a0d5b8a8461c11e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17948",
+  "by": "rules"
+ },
+ "40328dde28501ec5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17949",
+  "by": "rules"
+ },
+ "556982f18d58012d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17950",
+  "by": "rules"
+ },
+ "f633a8dd8a071e3b": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17871",
+  "by": "rules"
+ },
+ "b8cab21420609cfb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17951",
+  "by": "rules"
  }
 }
