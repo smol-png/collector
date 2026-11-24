@@ -292623,5 +292623,16 @@
   "market": "Other",
   "event": "e17408",
   "by": "rules"
+ },
+ "5fed4f98cf81e808": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16808",
+  "by": "rules"
  }
 }
