@@ -296083,5 +296083,28 @@
   "market": "Other",
   "event": "e17604",
   "by": "rules"
+ },
+ "946185447bf8d690": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8190",
+  "by": "rules"
+ },
+ "d79ed3a592d4c341": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17350",
+  "by": "rules"
  }
 }
