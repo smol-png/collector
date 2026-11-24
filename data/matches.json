@@ -292205,5 +292205,16 @@
   "market": "Stocks",
   "event": "e16808",
   "by": "rules"
+ },
+ "d481ec14711598c6": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17387",
+  "by": "rules"
  }
 }
