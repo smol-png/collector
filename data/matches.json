@@ -292332,5 +292332,27 @@
   "market": "Other",
   "event": "e17394",
   "by": "rules"
+ },
+ "cebce9d3c8963cbf": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17387",
+  "by": "rules"
+ },
+ "6c9e96e5179f4ca6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17387",
+  "by": "rules"
  }
 }
