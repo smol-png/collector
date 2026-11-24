@@ -304082,5 +304082,25 @@
   "market": "Crypto",
   "event": "e18031",
   "by": "rules"
+ },
+ "f83f0184d02dbb85": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17857",
+  "by": "rules"
+ },
+ "2bec532d70be2d7f": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "AAVE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18030",
+  "by": "rules"
  }
 }
