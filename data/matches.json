@@ -303731,5 +303731,54 @@
   "market": "Other",
   "event": "e18010",
   "by": "rules"
+ },
+ "98a99e1e8695416e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18011",
+  "by": "rules"
+ },
+ "b5c115be288db63e": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18012",
+  "by": "rules"
+ },
+ "61c06d548a517dc4": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16182",
+  "by": "rules"
+ },
+ "b2dd2ca2b7af06c5": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e16823",
+  "by": "rules"
+ },
+ "391ee94f35d04dfb": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18013",
+  "by": "rules"
  }
 }
