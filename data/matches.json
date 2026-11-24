@@ -294954,5 +294954,112 @@
   "market": "Other",
   "event": "e17534",
   "by": "rules"
+ },
+ "050cbd6abbd7bb19": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17535",
+  "by": "rules"
+ },
+ "e738ea070707bb1e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.78,
+  "market": "Stocks",
+  "event": "e1802",
+  "by": "rules"
+ },
+ "50db086a617395fc": {
+  "type": "explainer",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8190",
+  "by": "rules"
+ },
+ "0e0765a63f894021": {
+  "type": "explainer",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8190",
+  "by": "rules"
+ },
+ "a3795285e3db2e38": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16202",
+  "by": "rules"
+ },
+ "73d9fcdda3b1857a": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16202",
+  "by": "rules"
+ },
+ "9c071954278bbd7d": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 5000.0,
+  "market": "Stocks",
+  "event": "e17404",
+  "by": "rules"
+ },
+ "a4a87df878d79a8c": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 5000.0,
+  "market": "Stocks",
+  "event": "e17404",
+  "by": "rules"
+ },
+ "f18e26ec5ebdbf44": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e17536",
+  "by": "rules"
+ },
+ "da842ac9ca3aacf1": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e17536",
+  "by": "rules"
+ },
+ "d9610731726e1c2d": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17537",
+  "by": "rules"
  }
 }
