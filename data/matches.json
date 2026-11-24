@@ -307344,5 +307344,41 @@
   "market": "Other",
   "event": "e16675",
   "by": "rules"
+ },
+ "1ab5386de2b26af5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18068",
+  "by": "rules"
+ },
+ "12761a35c415956d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18212",
+  "by": "rules"
+ },
+ "cdcaa4852f24f884": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18213",
+  "by": "rules"
+ },
+ "157ff9f83d182a15": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18068",
+  "by": "rules"
  }
 }
