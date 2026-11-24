@@ -299340,5 +299340,34 @@
   "market": "Prediction markets",
   "event": "e17769",
   "by": "rules"
+ },
+ "ecb03a7a487a059b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17770",
+  "by": "rules"
+ },
+ "04b1a2d1f6a1ea49": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17771",
+  "by": "rules"
+ },
+ "3da230597954b121": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17772",
+  "by": "rules"
  }
 }
