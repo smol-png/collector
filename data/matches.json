@@ -306857,5 +306857,117 @@
   "market": "Other",
   "event": "e18184",
   "by": "rules"
+ },
+ "04a6fcf4bfc91ee3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18185",
+  "by": "rules"
+ },
+ "4ea07546f81a4e87": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3119",
+  "by": "rules"
+ },
+ "9e9e4cfe4208b7e2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18186",
+  "by": "rules"
+ },
+ "114e12e6489d4e49": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17722",
+  "by": "rules"
+ },
+ "503dbc430bee4d61": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17722",
+  "by": "rules"
+ },
+ "d2682b4c25e1b07e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18138",
+  "by": "rules"
+ },
+ "131e7d896ebdf9f8": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18187",
+  "by": "rules"
+ },
+ "26355fa0294a89e5": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18188",
+  "by": "rules"
+ },
+ "673ea005af25942b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18188",
+  "by": "rules"
+ },
+ "de6c579225ed1790": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16096",
+  "by": "rules"
+ },
+ "0f157a0306d1116f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18189",
+  "by": "rules"
+ },
+ "8ae2e7b637b7be8f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18189",
+  "by": "rules"
  }
 }
