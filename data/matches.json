@@ -308213,5 +308213,27 @@
   "market": "Stocks",
   "event": "e18263",
   "by": "rules"
+ },
+ "500530b6199fc248": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16182",
+  "by": "rules"
+ },
+ "7916115279429511": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18085",
+  "by": "rules"
  }
 }
