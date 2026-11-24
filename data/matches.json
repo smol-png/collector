@@ -310930,5 +310930,47 @@
   "market": "Crypto",
   "event": "e18421",
   "by": "rules"
+ },
+ "50f542b92e52d82a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": 0.25,
+  "market": "Stocks",
+  "event": "e18422",
+  "by": "rules"
+ },
+ "b25acceedcf58904": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18423",
+  "by": "rules"
+ },
+ "254e256366ceb3c7": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18424",
+  "by": "rules"
+ },
+ "6b35fe5a96dd95ee": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18425",
+  "by": "rules"
  }
 }
