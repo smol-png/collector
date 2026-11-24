@@ -301602,5 +301602,23 @@
   "market": "AI",
   "event": "e16869",
   "by": "rules"
+ },
+ "20b700ce4306fdfd": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17078",
+  "by": "rules"
+ },
+ "ab0489f6bcfb306c": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17891",
+  "by": "rules"
  }
 }
