@@ -294190,5 +294190,32 @@
   "market": "Other",
   "event": "e17495",
   "by": "rules"
+ },
+ "229ed5318d9af0eb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 130000.0,
+  "market": "Other",
+  "event": "e17496",
+  "by": "rules"
+ },
+ "14c3f7285bbd33a0": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17497",
+  "by": "rules"
+ },
+ "ea059626808d3195": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16139",
+  "by": "rules"
  }
 }
