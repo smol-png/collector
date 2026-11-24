@@ -297605,5 +297605,25 @@
   "market": "Crypto",
   "event": "e16344",
   "by": "rules"
+ },
+ "660045ab69c95335": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16182",
+  "by": "rules"
+ },
+ "d356be7315df3a58": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17683",
+  "by": "rules"
  }
 }
