@@ -311075,5 +311075,25 @@
   "market": "Other",
   "event": "e18433",
   "by": "rules"
+ },
+ "169a605132841406": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18434",
+  "by": "rules"
+ },
+ "5295f282dadaa766": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16182",
+  "by": "rules"
  }
 }
