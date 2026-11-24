@@ -296897,5 +296897,25 @@
   "market": "Crypto",
   "event": "e17643",
   "by": "rules"
+ },
+ "1d2f3b4a4ab87da2": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8190",
+  "by": "rules"
+ },
+ "d181390aef14e75c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17630",
+  "by": "rules"
  }
 }
