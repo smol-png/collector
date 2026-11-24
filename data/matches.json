@@ -310125,5 +310125,25 @@
   "market": "Crypto",
   "event": "e18379",
   "by": "rules"
+ },
+ "ee9b32e5d82f0c8c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18380",
+  "by": "rules"
+ },
+ "bd4c6dcc025c2192": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18047",
+  "by": "rules"
  }
 }
