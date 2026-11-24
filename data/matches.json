@@ -305915,5 +305915,27 @@
   "market": "AI",
   "event": "e15899",
   "by": "rules"
+ },
+ "58f0f6d47bad0860": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 6000.0,
+  "market": "Crypto",
+  "event": "e18129",
+  "by": "rules"
+ },
+ "f4ea26d4b68b663a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAVE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18130",
+  "by": "rules"
  }
 }
