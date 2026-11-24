@@ -314674,5 +314674,25 @@
   "market": "Crypto",
   "event": "e17940",
   "by": "rules"
+ },
+ "f387d8a140cb782b": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17074",
+  "by": "rules"
+ },
+ "8b21df4f9d9674ec": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18645",
+  "by": "rules"
  }
 }
