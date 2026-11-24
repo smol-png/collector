@@ -292441,5 +292441,17 @@
   "market": "Other",
   "event": "e17399",
   "by": "rules"
+ },
+ "57540abf4a519614": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17400",
+  "by": "rules"
  }
 }
