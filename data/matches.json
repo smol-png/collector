@@ -304478,5 +304478,34 @@
   "market": "Other",
   "event": "e17705",
   "by": "rules"
+ },
+ "319ca76b484ae778": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 2.4,
+  "market": "Other",
+  "event": "e18057",
+  "by": "rules"
+ },
+ "e700f9b2df17596d": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18058",
+  "by": "rules"
+ },
+ "78ac2ae02a6f17a7": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "AAVE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18030",
+  "by": "rules"
  }
 }
