@@ -310582,5 +310582,25 @@
   "market": "Macro",
   "event": "e18403",
   "by": "rules"
+ },
+ "3e5835dedbd18ddb": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18404",
+  "by": "rules"
+ },
+ "60e28097f76b9843": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18354",
+  "by": "rules"
  }
 }
