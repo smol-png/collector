@@ -301484,5 +301484,43 @@
   "market": "Other",
   "event": "e16700",
   "by": "rules"
+ },
+ "1a0793f39f357c25": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17885",
+  "by": "rules"
+ },
+ "67dc569418aa5b9b": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17203",
+  "by": "rules"
+ },
+ "fbca87e182f27875": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16700",
+  "by": "rules"
+ },
+ "9ade5e5679bda01b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17237",
+  "by": "rules"
  }
 }
