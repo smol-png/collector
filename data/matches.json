@@ -296371,5 +296371,36 @@
   "market": "Macro",
   "event": "e17610",
   "by": "rules"
+ },
+ "4dae24df333a799f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17617",
+  "by": "rules"
+ },
+ "22ac8088ae2dd30e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17618",
+  "by": "rules"
+ },
+ "a5946dc467222a1c": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16873",
+  "by": "rules"
  }
 }
