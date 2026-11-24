@@ -300214,5 +300214,32 @@
   "market": "Crypto",
   "event": "e17823",
   "by": "rules"
+ },
+ "1453d9315e51084c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17679",
+  "by": "rules"
+ },
+ "c2f1fa46ca2b9d12": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16420",
+  "by": "rules"
+ },
+ "e33e2b5c19b6b7fe": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17824",
+  "by": "rules"
  }
 }
