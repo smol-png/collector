@@ -299631,5 +299631,37 @@
   "market": "Other",
   "event": "e17784",
   "by": "rules"
+ },
+ "d1c189c6c58715b2": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8190",
+  "by": "rules"
+ },
+ "53676a871ad30483": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e16932",
+  "by": "rules"
+ },
+ "b41f1b07cb52b01b": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17785",
+  "by": "rules"
  }
 }
