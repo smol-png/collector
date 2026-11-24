@@ -291954,5 +291954,47 @@
   "market": "Crypto",
   "event": "e17373",
   "by": "rules"
+ },
+ "dba56ffb3dfdb135": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 470.0,
+  "market": "Other",
+  "event": "e17374",
+  "by": "rules"
+ },
+ "5f580543f5a4874d": {
+  "type": "live",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8190",
+  "by": "rules"
+ },
+ "9fafdc0fc3a1f489": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8190",
+  "by": "rules"
+ },
+ "7b11ce3250bbdd88": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17375",
+  "by": "rules"
  }
 }
