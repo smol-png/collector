@@ -305867,5 +305867,17 @@
   "market": "Other",
   "event": "e18104",
   "by": "rules"
+ },
+ "72f634dad43bb7c1": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "AAVE",
+   "ETH"
+  ],
+  "usd_m": 43.8,
+  "market": "Crypto",
+  "event": "e17140",
+  "by": "rules"
  }
 }
