@@ -294374,5 +294374,23 @@
   "market": "Stocks",
   "event": "e17280",
   "by": "rules"
+ },
+ "9a4b1d1d01bbb90d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17501",
+  "by": "rules"
+ },
+ "8db7673d23db4839": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e17502",
+  "by": "rules"
  }
 }
