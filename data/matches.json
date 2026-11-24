@@ -307456,5 +307456,25 @@
   "market": "Other",
   "event": "e18221",
   "by": "rules"
+ },
+ "aa6f8701f19a2a5a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18222",
+  "by": "rules"
+ },
+ "45b21daf9d7e6a17": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18223",
+  "by": "rules"
  }
 }
