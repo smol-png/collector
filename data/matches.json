@@ -313409,5 +313409,34 @@
   "market": "Other",
   "event": "e17305",
   "by": "rules"
+ },
+ "c274a3d89a758f96": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18375",
+  "by": "rules"
+ },
+ "52a1fd85a6021f89": {
+  "type": "analysis",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18578",
+  "by": "rules"
+ },
+ "948686c5067fc1a8": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18460",
+  "by": "rules"
  }
 }
