@@ -313279,5 +313279,43 @@
   "market": "AI",
   "event": "e18445",
   "by": "rules"
+ },
+ "bbab56d56353d04e": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18567",
+  "by": "rules"
+ },
+ "e23c47864aac65fc": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 1.0,
+  "market": "AI",
+  "event": "e18445",
+  "by": "rules"
+ },
+ "ed510ec9ba08f0a9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18568",
+  "by": "rules"
+ },
+ "d90668b9363b7ac0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 987.0,
+  "market": "Crypto",
+  "event": "e18569",
+  "by": "rules"
  }
 }
