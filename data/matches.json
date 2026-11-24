@@ -293022,5 +293022,17 @@
   "market": "AI",
   "event": "e17171",
   "by": "rules"
+ },
+ "dd76c772a03158e9": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "AAVE",
+   "USDC"
+  ],
+  "usd_m": 2600.0,
+  "market": "Crypto",
+  "event": "e17430",
+  "by": "rules"
  }
 }
