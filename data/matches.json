@@ -299009,5 +299009,16 @@
   "market": "Crypto",
   "event": "e8190",
   "by": "rules"
+ },
+ "82f9ad30a5be21ed": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16182",
+  "by": "rules"
  }
 }
