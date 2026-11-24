@@ -298997,5 +298997,17 @@
   "market": "Other",
   "event": "e16520",
   "by": "rules"
+ },
+ "a4b4ec850d3db944": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "NVDA"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e8190",
+  "by": "rules"
  }
 }
