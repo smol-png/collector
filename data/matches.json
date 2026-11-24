@@ -310778,5 +310778,16 @@
   "market": "Stocks",
   "event": "e18414",
   "by": "rules"
+ },
+ "22b114513e084e02": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17553",
+  "by": "rules"
  }
 }
