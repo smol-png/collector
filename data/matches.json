@@ -310192,5 +310192,115 @@
   "market": "Crypto",
   "event": "e18383",
   "by": "rules"
+ },
+ "3cd3f76f70775f31": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18361",
+  "by": "rules"
+ },
+ "5abd08679fa8751e": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16182",
+  "by": "rules"
+ },
+ "62637a3507f6d981": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18384",
+  "by": "rules"
+ },
+ "9f1dcc787513b1a7": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18384",
+  "by": "rules"
+ },
+ "c918c74d4cbd10af": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.01,
+  "market": "Stocks",
+  "event": "e8282",
+  "by": "rules"
+ },
+ "3f9c106cb19f59e6": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e18385",
+  "by": "rules"
+ },
+ "c7905acdad917fed": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e18385",
+  "by": "rules"
+ },
+ "df7cec3f8bf380c4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17106",
+  "by": "rules"
+ },
+ "677986c64d1c56b0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17106",
+  "by": "rules"
+ },
+ "258150b01dd714d0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18386",
+  "by": "rules"
+ },
+ "1097c4ecd23d59fc": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18387",
+  "by": "rules"
+ },
+ "5a094b3e2858d26e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18388",
+  "by": "rules"
  }
 }
