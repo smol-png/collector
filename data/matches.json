@@ -294125,5 +294125,25 @@
   "market": "Other",
   "event": "e17489",
   "by": "rules"
+ },
+ "8bab2daddbfe5c75": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17490",
+  "by": "rules"
+ },
+ "6b049bdf8349529a": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17491",
+  "by": "rules"
  }
 }
