@@ -311601,5 +311601,25 @@
   "market": "Other",
   "event": "e16790",
   "by": "rules"
+ },
+ "c85ffa62a7ebc353": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18446",
+  "by": "rules"
+ },
+ "243a2d53d405abb9": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18469",
+  "by": "rules"
  }
 }
