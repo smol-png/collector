@@ -295817,5 +295817,39 @@
   "market": "Crypto",
   "event": "e16790",
   "by": "rules"
+ },
+ "8960bcb05133a88f": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": 1170.0,
+  "market": "Crypto",
+  "event": "e16754",
+  "by": "rules"
+ },
+ "cfa23bb23c6c511e": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17383",
+  "by": "rules"
+ },
+ "341d7b6cc829aacf": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17279",
+  "by": "rules"
  }
 }
