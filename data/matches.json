@@ -303180,5 +303180,84 @@
   "market": "Crypto",
   "event": "e17977",
   "by": "rules"
+ },
+ "42c75ccccb4959f1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e17180",
+  "by": "rules"
+ },
+ "eb8674ea75b45867": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17350",
+  "by": "rules"
+ },
+ "7aaa5bfe413c7ce7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17978",
+  "by": "rules"
+ },
+ "cd408883a7e2bd4f": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16736",
+  "by": "rules"
+ },
+ "3d0a6ada1b3c4b23": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17979",
+  "by": "rules"
+ },
+ "ef2bac675b312b76": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17980",
+  "by": "rules"
+ },
+ "d3d1ecbb8bdf44c9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8190",
+  "by": "rules"
+ },
+ "0e547a9f46bd08b3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17981",
+  "by": "rules"
  }
 }
