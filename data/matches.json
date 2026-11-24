@@ -300610,5 +300610,25 @@
   "market": "AI",
   "event": "e17043",
   "by": "rules"
+ },
+ "cc684c374c28afc1": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17395",
+  "by": "rules"
+ },
+ "4e0c7d4d23cf4b82": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17846",
+  "by": "rules"
  }
 }
