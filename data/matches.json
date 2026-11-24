@@ -302384,5 +302384,16 @@
   "market": "Other",
   "event": "e17893",
   "by": "rules"
+ },
+ "7f186ef9f05096dd": {
+  "type": "live",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e4074",
+  "by": "rules"
  }
 }
