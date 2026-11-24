@@ -293671,5 +293671,16 @@
   "market": "Crypto",
   "event": "e17462",
   "by": "rules"
+ },
+ "046a14cede69ba6a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17463",
+  "by": "rules"
  }
 }
