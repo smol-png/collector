@@ -303587,5 +303587,57 @@
   "market": "Prediction markets",
   "event": "e17052",
   "by": "rules"
+ },
+ "ced8dc09a6104a4a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA",
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16740",
+  "by": "rules"
+ },
+ "9d01509c3509a6e4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17795",
+  "by": "rules"
+ },
+ "25aa8e27a3b8f7e3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17944",
+  "by": "rules"
+ },
+ "6fbcad9c30ae0417": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18004",
+  "by": "rules"
+ },
+ "3682200c4de29b3f": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17106",
+  "by": "rules"
  }
 }
