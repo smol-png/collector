@@ -307284,5 +307284,27 @@
   "market": "Stocks",
   "event": "e18207",
   "by": "rules"
+ },
+ "d7b2a8b1bd000fa5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18208",
+  "by": "rules"
+ },
+ "2bd5b8281192db96": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e18209",
+  "by": "rules"
  }
 }
