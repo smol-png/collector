@@ -294334,5 +294334,16 @@
   "market": "AI",
   "event": "e17498",
   "by": "rules"
+ },
+ "cc31d0dd4ca5a7b8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17499",
+  "by": "rules"
  }
 }
