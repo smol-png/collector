@@ -303140,5 +303140,45 @@
   "market": "Other",
   "event": "e17973",
   "by": "rules"
+ },
+ "752379f691ba44a9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17974",
+  "by": "rules"
+ },
+ "29a1c12a4c8eee2f": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17975",
+  "by": "rules"
+ },
+ "baf3eb193120008a": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17976",
+  "by": "rules"
+ },
+ "bf7d7bd167558a31": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAVE"
+  ],
+  "usd_m": 1490.0,
+  "market": "Crypto",
+  "event": "e17977",
+  "by": "rules"
  }
 }
