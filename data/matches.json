@@ -311816,5 +311816,34 @@
   "market": "Prediction markets",
   "event": "e18480",
   "by": "rules"
+ },
+ "bdadbd69312ae97f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18469",
+  "by": "rules"
+ },
+ "be20138054bcc08b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e18299",
+  "by": "rules"
+ },
+ "d3037bfedc801836": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18481",
+  "by": "rules"
  }
 }
