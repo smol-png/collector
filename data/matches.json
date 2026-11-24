@@ -314300,5 +314300,43 @@
   "market": "AI",
   "event": "e8190",
   "by": "rules"
+ },
+ "e62d1e104827390d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16182",
+  "by": "rules"
+ },
+ "86f2790c1b813230": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18626",
+  "by": "rules"
+ },
+ "d589b1ed631dc5f0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18627",
+  "by": "rules"
+ },
+ "25c2e5495b275f01": {
+  "type": "live",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16101",
+  "by": "rules"
  }
 }
