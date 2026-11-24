@@ -312857,5 +312857,43 @@
   "market": "Other",
   "event": "e16956",
   "by": "rules"
+ },
+ "d3757502c59cdc69": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 25000.0,
+  "market": "AI",
+  "event": "e18526",
+  "by": "rules"
+ },
+ "33e3ca17e0ca5897": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e16790",
+  "by": "rules"
+ },
+ "52a9aba2124efe22": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18530",
+  "by": "rules"
+ },
+ "5b663029e5d412d2": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18527",
+  "by": "rules"
  }
 }
