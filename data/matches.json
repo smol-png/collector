@@ -305113,5 +305113,236 @@
   "market": "AI",
   "event": "e18085",
   "by": "rules"
+ },
+ "01bed61afcce4e1c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18086",
+  "by": "rules"
+ },
+ "2c62525ca28b2a33": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18087",
+  "by": "rules"
+ },
+ "379c3bdfbdf1fb61": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16202",
+  "by": "rules"
+ },
+ "91fa80b72f4c4069": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17255",
+  "by": "rules"
+ },
+ "8b6fc4dd25d35a3e": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": 237500.0,
+  "market": "Other",
+  "event": "e18088",
+  "by": "rules"
+ },
+ "e202236e98da8f36": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16202",
+  "by": "rules"
+ },
+ "361a8d8044cd5f9d": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18089",
+  "by": "rules"
+ },
+ "0334a9dd658bd3e9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18090",
+  "by": "rules"
+ },
+ "ea5ecf3c9b16bc4b": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16202",
+  "by": "rules"
+ },
+ "7891f3efb35ab302": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16202",
+  "by": "rules"
+ },
+ "b7344fbd1cc437a5": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16202",
+  "by": "rules"
+ },
+ "c9d9492efd30de92": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16202",
+  "by": "rules"
+ },
+ "edc87e95a678f31a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16799",
+  "by": "rules"
+ },
+ "c3c7789bf057e157": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16704",
+  "by": "rules"
+ },
+ "6967720f35d67211": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18091",
+  "by": "rules"
+ },
+ "7d8711771003eab1": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18091",
+  "by": "rules"
+ },
+ "47d3a11b425bbb2d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16943",
+  "by": "rules"
+ },
+ "655a4739b0ab4d81": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18092",
+  "by": "rules"
+ },
+ "47ac5315aaba0509": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18093",
+  "by": "rules"
+ },
+ "676fa43d2799d207": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18093",
+  "by": "rules"
+ },
+ "c060ef3f24cb1dc2": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16096",
+  "by": "rules"
+ },
+ "28864afc1c53ffaa": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18094",
+  "by": "rules"
+ },
+ "83f5cfd690d1b91c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16704",
+  "by": "rules"
+ },
+ "9c90b2238303aa19": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16202",
+  "by": "rules"
+ },
+ "5f6fd0025ba8318f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18095",
+  "by": "rules"
  }
 }
