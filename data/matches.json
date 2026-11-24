@@ -310014,5 +310014,25 @@
   "market": "Other",
   "event": "e18369",
   "by": "rules"
+ },
+ "cc5fc89e9c2edcf6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18370",
+  "by": "rules"
+ },
+ "16b840d6511487da": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18371",
+  "by": "rules"
  }
 }
