@@ -292547,5 +292547,25 @@
   "market": "AI",
   "event": "e16096",
   "by": "rules"
+ },
+ "f729bc4fedceaf75": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16808",
+  "by": "rules"
+ },
+ "80fed0824e8e4bd1": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17404",
+  "by": "rules"
  }
 }
