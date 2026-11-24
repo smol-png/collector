@@ -307172,5 +307172,117 @@
   "market": "Other",
   "event": "e18202",
   "by": "rules"
+ },
+ "1dee8dc33f12f1ec": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18203",
+  "by": "rules"
+ },
+ "d9e476b083267a5b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18165",
+  "by": "rules"
+ },
+ "cb18101f5b13e6a5": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e16237",
+  "by": "rules"
+ },
+ "2985fba49f3bc692": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18204",
+  "by": "rules"
+ },
+ "f9229a1b148c38e9": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16217",
+  "by": "rules"
+ },
+ "dc54de479efb232c": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16217",
+  "by": "rules"
+ },
+ "54f237f8db565039": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17863",
+  "by": "rules"
+ },
+ "db1d1666c669656c": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17863",
+  "by": "rules"
+ },
+ "ce24bb7922b8fe9c": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18205",
+  "by": "rules"
+ },
+ "49ba371d4ba7e736": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18206",
+  "by": "rules"
+ },
+ "40e9f79aa5a86453": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18207",
+  "by": "rules"
+ },
+ "eed34ead48d57e75": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18207",
+  "by": "rules"
  }
 }
