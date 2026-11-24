@@ -310083,5 +310083,27 @@
   "market": "AI",
   "event": "e18375",
   "by": "rules"
+ },
+ "8cd69ae9a1692508": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18376",
+  "by": "rules"
+ },
+ "e888bf0126434395": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18377",
+  "by": "rules"
  }
 }
