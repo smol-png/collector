@@ -298860,5 +298860,70 @@
   "market": "Other",
   "event": "e17588",
   "by": "rules"
+ },
+ "a6b94e78610c6cf7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17740",
+  "by": "rules"
+ },
+ "8c646eac0daba206": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17741",
+  "by": "rules"
+ },
+ "e1791a92263048ec": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16196",
+  "by": "rules"
+ },
+ "7ccced0d0519b542": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16586",
+  "by": "rules"
+ },
+ "b2b78ad19e21799f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17742",
+  "by": "rules"
+ },
+ "f6ec5f68c7c9d9e6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17743",
+  "by": "rules"
+ },
+ "03baaf6d552feb83": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e17744",
+  "by": "rules"
  }
 }
