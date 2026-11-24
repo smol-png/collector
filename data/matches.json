@@ -313952,5 +313952,43 @@
   "market": "AI",
   "event": "e18608",
   "by": "rules"
+ },
+ "d2c70f9a8765add7": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17305",
+  "by": "rules"
+ },
+ "e44356cd24b256c3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16961",
+  "by": "rules"
+ },
+ "8c94c031451efdb7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17070",
+  "by": "rules"
+ },
+ "ca0a08f70b2c0722": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18609",
+  "by": "rules"
  }
 }
