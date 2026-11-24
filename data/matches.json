@@ -312493,5 +312493,34 @@
   "market": "Other",
   "event": "e18521",
   "by": "rules"
+ },
+ "5164f0d71d2cc646": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17346",
+  "by": "rules"
+ },
+ "3c18bd242983107e": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17989",
+  "by": "rules"
+ },
+ "04076c2e53125072": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16555",
+  "by": "rules"
  }
 }
