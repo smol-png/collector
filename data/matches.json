@@ -311233,5 +311233,32 @@
   "market": "Crypto",
   "event": "e18319",
   "by": "rules"
+ },
+ "9754456aecc2f89e": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e18299",
+  "by": "rules"
+ },
+ "e2d394ff091aef06": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16973",
+  "by": "rules"
+ },
+ "e92d4b9089d235c2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18444",
+  "by": "rules"
  }
 }
