@@ -302449,5 +302449,41 @@
   "market": "Stocks",
   "event": "e17249",
   "by": "rules"
+ },
+ "84f61067d4a0726e": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16848",
+  "by": "rules"
+ },
+ "3cd074513518bd82": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17931",
+  "by": "rules"
+ },
+ "016af8a757237d78": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17931",
+  "by": "rules"
+ },
+ "61babb92af5042a4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17932",
+  "by": "rules"
  }
 }
