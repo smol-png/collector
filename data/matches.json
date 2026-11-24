@@ -299020,5 +299020,23 @@
   "market": "Stocks",
   "event": "e16182",
   "by": "rules"
+ },
+ "a4ff92e37419f6ac": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16955",
+  "by": "rules"
+ },
+ "00834a9941b5f47e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17750",
+  "by": "rules"
  }
 }
