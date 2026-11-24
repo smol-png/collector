@@ -305622,5 +305622,25 @@
   "market": "AI",
   "event": "e18118",
   "by": "rules"
+ },
+ "0178686ad704bea2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18119",
+  "by": "rules"
+ },
+ "51f96159614cb567": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18120",
+  "by": "rules"
  }
 }
