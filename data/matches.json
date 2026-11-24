@@ -300893,5 +300893,26 @@
   "market": "Other",
   "event": "e16700",
   "by": "rules"
+ },
+ "a02e3d86e0427c22": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e17197",
+  "by": "rules"
+ },
+ "b0aa4c215c7b3923": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "BTC",
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16827",
+  "by": "rules"
  }
 }
