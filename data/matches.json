@@ -301943,5 +301943,16 @@
   "market": "Crypto",
   "event": "e17140",
   "by": "rules"
+ },
+ "1aa285136482b424": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16182",
+  "by": "rules"
  }
 }
