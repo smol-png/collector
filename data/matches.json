@@ -310682,5 +310682,52 @@
   "market": "AI",
   "event": "e8190",
   "by": "rules"
+ },
+ "956da4313ee30fe0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18410",
+  "by": "rules"
+ },
+ "5583f5790e68972b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16914",
+  "by": "rules"
+ },
+ "05d92927fc0bc44f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18411",
+  "by": "rules"
+ },
+ "427a8760c48a6292": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18395",
+  "by": "rules"
+ },
+ "3c272a76b34d940a": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17314",
+  "by": "rules"
  }
 }
