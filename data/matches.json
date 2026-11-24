@@ -299867,5 +299867,26 @@
   "market": "Other",
   "event": "e17795",
   "by": "rules"
+ },
+ "4a9daaa8ef767982": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17795",
+  "by": "rules"
+ },
+ "827a777d47850e21": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAVE",
+   "ETH"
+  ],
+  "usd_m": 43.8,
+  "market": "Crypto",
+  "event": "e17140",
+  "by": "rules"
  }
 }
