@@ -294693,5 +294693,47 @@
   "market": "Stocks",
   "event": "e17518",
   "by": "rules"
+ },
+ "86ac3c8f0ab81177": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17071",
+  "by": "rules"
+ },
+ "da1285aab7fafae5": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16869",
+  "by": "rules"
+ },
+ "6417879a187cbded": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16808",
+  "by": "rules"
+ },
+ "90f2eddfff0fafc0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17519",
+  "by": "rules"
  }
 }
