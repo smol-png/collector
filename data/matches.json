@@ -309038,5 +309038,65 @@
   "market": "Other",
   "event": "e18314",
   "by": "rules"
+ },
+ "41f19bc0fd024fd3": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e15924",
+  "by": "rules"
+ },
+ "ce7968587531fa0c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18315",
+  "by": "rules"
+ },
+ "64a921a876e7a693": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18316",
+  "by": "rules"
+ },
+ "e2e1c8bbe68104e8": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18317",
+  "by": "rules"
+ },
+ "6590b379be7a82e5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18318",
+  "by": "rules"
+ },
+ "f9da775b3631a088": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e16860",
+  "by": "rules"
  }
 }
