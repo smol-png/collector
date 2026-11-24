@@ -303558,5 +303558,34 @@
   "market": "Crypto",
   "event": "e18002",
   "by": "rules"
+ },
+ "2baa539b13bd1a66": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16762",
+  "by": "rules"
+ },
+ "459baecfc6573806": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18003",
+  "by": "rules"
+ },
+ "42c4617b98a75387": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e17052",
+  "by": "rules"
  }
 }
