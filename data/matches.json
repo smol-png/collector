@@ -313914,5 +313914,25 @@
   "market": "Other",
   "event": "e16096",
   "by": "rules"
+ },
+ "26df55cc30516473": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18605",
+  "by": "rules"
+ },
+ "a3a5303a197a4bf1": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18606",
+  "by": "rules"
  }
 }
