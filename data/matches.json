@@ -311010,5 +311010,70 @@
   "market": "Other",
   "event": "e16545",
   "by": "rules"
+ },
+ "f82b08eaf363a1bb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18428",
+  "by": "rules"
+ },
+ "9f01f09f3cbcba18": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16182",
+  "by": "rules"
+ },
+ "0af8beb646ee2f7c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18429",
+  "by": "rules"
+ },
+ "08bc58a52c8c7906": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18430",
+  "by": "rules"
+ },
+ "5faca123c8468bea": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18431",
+  "by": "rules"
+ },
+ "90094ca97b6ffec7": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18432",
+  "by": "rules"
+ },
+ "6f3318b0f9d27582": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18433",
+  "by": "rules"
  }
 }
