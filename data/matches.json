@@ -301844,5 +301844,34 @@
   "market": "Other",
   "event": "e17902",
   "by": "rules"
+ },
+ "23f473030c25ee30": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e17903",
+  "by": "rules"
+ },
+ "d1f725d04badede6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17904",
+  "by": "rules"
+ },
+ "fae6a8ed21a5f986": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8190",
+  "by": "rules"
  }
 }
