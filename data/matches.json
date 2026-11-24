@@ -306998,5 +306998,41 @@
   "market": "Crypto",
   "event": "e18192",
   "by": "rules"
+ },
+ "72cce392103fe999": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17255",
+  "by": "rules"
+ },
+ "cac4c551f4bf4aff": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18193",
+  "by": "rules"
+ },
+ "310d6641d05c83e9": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e18194",
+  "by": "rules"
+ },
+ "a4720a2d619c56bd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18195",
+  "by": "rules"
  }
 }
