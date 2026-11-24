@@ -294791,5 +294791,72 @@
   "market": "Stocks",
   "event": "e16795",
   "by": "rules"
+ },
+ "fe3fbdc0cdacf020": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17523",
+  "by": "rules"
+ },
+ "65f0572683b4ec55": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17524",
+  "by": "rules"
+ },
+ "5e4bfb3f0a798116": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17525",
+  "by": "rules"
+ },
+ "3a3aae262f76145e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17526",
+  "by": "rules"
+ },
+ "99d5adfe1e19e338": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17527",
+  "by": "rules"
+ },
+ "3e31979ff4681553": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17527",
+  "by": "rules"
+ },
+ "85c5658f39f4acdf": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17528",
+  "by": "rules"
  }
 }
