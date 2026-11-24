@@ -309753,5 +309753,16 @@
   "market": "Prediction markets",
   "event": "e18345",
   "by": "rules"
+ },
+ "89af92523d4124a8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18354",
+  "by": "rules"
  }
 }
