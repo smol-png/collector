@@ -330076,5 +330076,25 @@
   "market": "Other",
   "event": "e19546",
   "by": "rules"
+ },
+ "5caab34116ec9091": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19547",
+  "by": "rules"
+ },
+ "bc9682c47f448a16": {
+  "type": "explainer",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19548",
+  "by": "rules"
  }
 }
