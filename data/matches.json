@@ -323665,5 +323665,52 @@
   "market": "Other",
   "event": "e19161",
   "by": "rules"
+ },
+ "1442350f4a1e18fb": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16182",
+  "by": "rules"
+ },
+ "f71c8fef24a2060d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19161",
+  "by": "rules"
+ },
+ "2819c3c61fa416b2": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e19047",
+  "by": "rules"
+ },
+ "162a7e947aec8f07": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17495",
+  "by": "rules"
+ },
+ "a0ba320eb79582b7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19162",
+  "by": "rules"
  }
 }
