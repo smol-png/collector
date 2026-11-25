@@ -330022,5 +330022,41 @@
   "market": "AI",
   "event": "e19540",
   "by": "rules"
+ },
+ "48e73d29ebfe9c4e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19541",
+  "by": "rules"
+ },
+ "d85a18cac925fb9f": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e19542",
+  "by": "rules"
+ },
+ "8b596ad2779b93fd": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19543",
+  "by": "rules"
+ },
+ "712a24cbfb28f83d": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19544",
+  "by": "rules"
  }
 }
