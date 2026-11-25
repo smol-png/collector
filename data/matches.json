@@ -320524,5 +320524,43 @@
   "market": "Stocks",
   "event": "e18976",
   "by": "rules"
+ },
+ "fe0c2f6934ad836f": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18977",
+  "by": "rules"
+ },
+ "591216a0a46b2204": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18978",
+  "by": "rules"
+ },
+ "9b315cc01a5ca578": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18979",
+  "by": "rules"
+ },
+ "249bfe519bce0bad": {
+  "type": "live",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e15931",
+  "by": "rules"
  }
 }
