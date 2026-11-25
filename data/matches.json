@@ -321122,5 +321122,16 @@
   "market": "Crypto",
   "event": "e19006",
   "by": "rules"
+ },
+ "6caaf028821b4182": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAVE"
+  ],
+  "usd_m": 6.0,
+  "market": "Crypto",
+  "event": "e19007",
+  "by": "rules"
  }
 }
