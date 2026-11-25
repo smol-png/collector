@@ -329180,5 +329180,34 @@
   "market": "AI",
   "event": "e14859",
   "by": "rules"
+ },
+ "bb79a576571d5397": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19494",
+  "by": "rules"
+ },
+ "5196654d20d14197": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19495",
+  "by": "rules"
+ },
+ "6be7a65071c330de": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19420",
+  "by": "rules"
  }
 }
