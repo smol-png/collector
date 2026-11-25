@@ -317318,5 +317318,41 @@
   "market": "Other",
   "event": "e16848",
   "by": "rules"
+ },
+ "723eecbe53e53369": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17945",
+  "by": "rules"
+ },
+ "3252eba620e9efad": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18791",
+  "by": "rules"
+ },
+ "75ad49274f135c17": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18437",
+  "by": "rules"
+ },
+ "6cec06fe0a7be1ac": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18733",
+  "by": "rules"
  }
 }
