@@ -330407,5 +330407,38 @@
   "market": "Other",
   "event": "e19566",
   "by": "rules"
+ },
+ "62c321065e15ac24": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": 290.0,
+  "market": "Crypto",
+  "event": "e19528",
+  "by": "rules"
+ },
+ "aa6da48834808cdc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19567",
+  "by": "rules"
+ },
+ "6329506b9ab7b13e": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC",
+   "ETH",
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19399",
+  "by": "rules"
  }
 }
