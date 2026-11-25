@@ -328808,5 +328808,52 @@
   "market": "AI",
   "event": "e19466",
   "by": "rules"
+ },
+ "da52da114e847ae9": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8190",
+  "by": "rules"
+ },
+ "53cea2353b92309a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19467",
+  "by": "rules"
+ },
+ "f6df13b4e228fbf0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19468",
+  "by": "rules"
+ },
+ "cec00c1497152811": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19469",
+  "by": "rules"
+ },
+ "a12d58b1dbd9b9c7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19470",
+  "by": "rules"
  }
 }
