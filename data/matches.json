@@ -328026,5 +328026,32 @@
   "market": "Other",
   "event": "e19187",
   "by": "rules"
+ },
+ "210abbbdd3f917ce": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 159000.0,
+  "market": "Other",
+  "event": "e19422",
+  "by": "rules"
+ },
+ "a912e51006f34b34": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19423",
+  "by": "rules"
+ },
+ "71a6b25725fae96f": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e19424",
+  "by": "rules"
  }
 }
