@@ -327979,5 +327979,23 @@
   "market": "Stocks",
   "event": "e16196",
   "by": "rules"
+ },
+ "0a807dcec8ffa1d3": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19418",
+  "by": "rules"
+ },
+ "18a7541aa69817a2": {
+  "type": "analysis",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19419",
+  "by": "rules"
  }
 }
