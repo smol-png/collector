@@ -329641,5 +329641,32 @@
   "market": "Crypto",
   "event": "e19499",
   "by": "rules"
+ },
+ "c5ffa6f153edfa0f": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17891",
+  "by": "rules"
+ },
+ "3c558a33f2988246": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19376",
+  "by": "rules"
+ },
+ "0dc69908dde3bb65": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19482",
+  "by": "rules"
  }
 }
