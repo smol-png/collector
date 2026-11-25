@@ -321713,5 +321713,23 @@
   "market": "Stocks",
   "event": "e19043",
   "by": "rules"
+ },
+ "db5773b5ff9a7dc6": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19044",
+  "by": "rules"
+ },
+ "7e888abaa04d5da8": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e19045",
+  "by": "rules"
  }
 }
