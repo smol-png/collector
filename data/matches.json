@@ -328436,5 +328436,98 @@
   "market": "Crypto",
   "event": "e19054",
   "by": "rules"
+ },
+ "4cb1b6164dde16b2": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "COIN",
+   "HOOD"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19449",
+  "by": "rules"
+ },
+ "194b67b269f5515c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15986",
+  "by": "rules"
+ },
+ "44693e93d118479e": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19450",
+  "by": "rules"
+ },
+ "0b1629b036f7322d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e16704",
+  "by": "rules"
+ },
+ "ccf675edde1f87c6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19451",
+  "by": "rules"
+ },
+ "3079f68e41b7539f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16704",
+  "by": "rules"
+ },
+ "4e49ca98c54ba677": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19452",
+  "by": "rules"
+ },
+ "bb840add8fae2ef2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16704",
+  "by": "rules"
+ },
+ "9da8bc583e0fb216": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19453",
+  "by": "rules"
+ },
+ "5949339ef63251f1": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19121",
+  "by": "rules"
  }
 }
