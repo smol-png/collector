@@ -332416,5 +332416,34 @@
   "market": "Stocks",
   "event": "e19096",
   "by": "rules"
+ },
+ "a1447a2eb79ad51d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19693",
+  "by": "rules"
+ },
+ "09a1eb1346cbe74b": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19694",
+  "by": "rules"
+ },
+ "6919f312921c6146": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19695",
+  "by": "rules"
  }
 }
