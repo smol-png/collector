@@ -330096,5 +330096,16 @@
   "market": "Stocks",
   "event": "e19548",
   "by": "rules"
+ },
+ "ab0e9bfff8d2d1a0": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19352",
+  "by": "rules"
  }
 }
