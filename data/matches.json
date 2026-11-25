@@ -323734,5 +323734,52 @@
   "market": "Other",
   "event": "e19164",
   "by": "rules"
+ },
+ "b87332428a28dd4b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19165",
+  "by": "rules"
+ },
+ "f1760ddce2d06183": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19166",
+  "by": "rules"
+ },
+ "611fb1c60b228685": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19167",
+  "by": "rules"
+ },
+ "efd6b07a8a8528bc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19168",
+  "by": "rules"
+ },
+ "11db996f5db4c588": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19169",
+  "by": "rules"
  }
 }
