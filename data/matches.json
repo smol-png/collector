@@ -325418,5 +325418,34 @@
   "market": "Other",
   "event": "e19025",
   "by": "rules"
+ },
+ "2ee20b391e2fd8cf": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19136",
+  "by": "rules"
+ },
+ "3d294211ad8e0f53": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19265",
+  "by": "rules"
+ },
+ "d80ea5567ad9c97c": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": 10000.0,
+  "market": "Other",
+  "event": "e19266",
+  "by": "rules"
  }
 }
