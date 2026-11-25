@@ -319593,5 +319593,32 @@
   "market": "Stocks",
   "event": "e18908",
   "by": "rules"
+ },
+ "9f79d79509a96952": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18920",
+  "by": "rules"
+ },
+ "8aa8bdd9c05a6bc6": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18921",
+  "by": "rules"
+ },
+ "dad53e222a639965": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18922",
+  "by": "rules"
  }
 }
