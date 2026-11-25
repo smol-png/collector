@@ -332059,5 +332059,16 @@
   "market": "Macro",
   "event": "e19644",
   "by": "rules"
+ },
+ "a0ef5642246baaf1": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "LINK"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19639",
+  "by": "rules"
  }
 }
