@@ -321749,5 +321749,32 @@
   "market": "Macro",
   "event": "e19047",
   "by": "rules"
+ },
+ "243d89ea81846614": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19048",
+  "by": "rules"
+ },
+ "7011fc9fe7b7b32d": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19049",
+  "by": "rules"
+ },
+ "5b3f3c2881427485": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19050",
+  "by": "rules"
  }
 }
