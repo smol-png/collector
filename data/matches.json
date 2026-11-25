@@ -322778,5 +322778,61 @@
   "market": "Stocks",
   "event": "e18189",
   "by": "rules"
+ },
+ "5298f70f06d4a6d4": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19111",
+  "by": "rules"
+ },
+ "22ccab050bde3acc": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19112",
+  "by": "rules"
+ },
+ "fdc16eb7cd09be50": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19113",
+  "by": "rules"
+ },
+ "b8918a6cb9102fd3": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17818",
+  "by": "rules"
+ },
+ "f6129e3da078627c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19114",
+  "by": "rules"
+ },
+ "7c73580fcc42d7fa": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e17074",
+  "by": "rules"
  }
 }
