@@ -326273,5 +326273,25 @@
   "market": "Other",
   "event": "e19312",
   "by": "rules"
+ },
+ "2ab20258f0408b77": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e19313",
+  "by": "rules"
+ },
+ "8d52cc3e8c3ed774": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19314",
+  "by": "rules"
  }
 }
