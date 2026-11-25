@@ -318400,5 +318400,45 @@
   "market": "Crypto",
   "event": "e18856",
   "by": "rules"
+ },
+ "7ea5c5d7bb702a27": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18857",
+  "by": "rules"
+ },
+ "fae6558258268b12": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18856",
+  "by": "rules"
+ },
+ "a5cf122c3e50d88f": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "BTC",
+   "ETH",
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18858",
+  "by": "rules"
+ },
+ "ec5a995e31cdac56": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18859",
+  "by": "rules"
  }
 }
