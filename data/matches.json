@@ -334797,5 +334797,25 @@
   "market": "Crypto",
   "event": "e19839",
   "by": "rules"
+ },
+ "f1727caa3eaea64c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19840",
+  "by": "rules"
+ },
+ "0ccc28b969b4f63d": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19841",
+  "by": "rules"
  }
 }
