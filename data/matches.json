@@ -335176,5 +335176,25 @@
   "market": "Other",
   "event": "e16848",
   "by": "rules"
+ },
+ "5c4eefdf5fb77b9e": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19760",
+  "by": "rules"
+ },
+ "8fc29cf8b60ed78d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BNB"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19862",
+  "by": "rules"
  }
 }
