@@ -325714,5 +325714,35 @@
   "market": "Stocks",
   "event": "e19279",
   "by": "rules"
+ },
+ "fd3fb42785852e3d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19280",
+  "by": "rules"
+ },
+ "d3862ec0bc7dca74": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19281",
+  "by": "rules"
+ },
+ "d30c600f21facc7c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AMZN",
+   "META"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16555",
+  "by": "rules"
  }
 }
