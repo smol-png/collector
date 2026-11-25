@@ -325043,5 +325043,61 @@
   "market": "Other",
   "event": "e19244",
   "by": "rules"
+ },
+ "8ef3ed3dbc77ba63": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16848",
+  "by": "rules"
+ },
+ "de74cd85f92134b2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19245",
+  "by": "rules"
+ },
+ "f2eccafd610d68b9": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19246",
+  "by": "rules"
+ },
+ "74386eca7f7f25bd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19244",
+  "by": "rules"
+ },
+ "13c9e0c4f3cee037": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19222",
+  "by": "rules"
+ },
+ "ce0381c3b7d3fb1a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19247",
+  "by": "rules"
  }
 }
