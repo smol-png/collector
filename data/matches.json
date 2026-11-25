@@ -326252,5 +326252,17 @@
   "market": "Other",
   "event": "e19311",
   "by": "rules"
+ },
+ "872827509c36488f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AMZN",
+   "META"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18955",
+  "by": "rules"
  }
 }
