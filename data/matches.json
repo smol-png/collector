@@ -330300,5 +330300,36 @@
   "market": "Other",
   "event": "e19559",
   "by": "rules"
+ },
+ "3c4e16ceac6a092d": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19560",
+  "by": "rules"
+ },
+ "39aed9aeba600ac6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19561",
+  "by": "rules"
+ },
+ "19968979b42d7e4d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": 4500.0,
+  "market": "Stocks",
+  "event": "e19535",
+  "by": "rules"
  }
 }
