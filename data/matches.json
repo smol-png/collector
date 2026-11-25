@@ -329231,5 +329231,32 @@
   "market": "Crypto",
   "event": "e19399",
   "by": "rules"
+ },
+ "552c6caf65aa5832": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e19497",
+  "by": "rules"
+ },
+ "61c7a36b81842ddf": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19498",
+  "by": "rules"
+ },
+ "3230003f67654d97": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19499",
+  "by": "rules"
  }
 }
