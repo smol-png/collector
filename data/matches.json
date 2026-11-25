@@ -332559,5 +332559,41 @@
   "market": "Crypto",
   "event": "e19705",
   "by": "rules"
+ },
+ "5c237d43058a8847": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.03,
+  "market": "Stocks",
+  "event": "e19706",
+  "by": "rules"
+ },
+ "0d8893b169b24a58": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19707",
+  "by": "rules"
+ },
+ "869c7eb8949f53f8": {
+  "type": "explainer",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19708",
+  "by": "rules"
+ },
+ "81d36e405c089992": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 50000.0,
+  "market": "Other",
+  "event": "e19709",
+  "by": "rules"
  }
 }
