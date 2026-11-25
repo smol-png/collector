@@ -330331,5 +330331,14 @@
   "market": "Stocks",
   "event": "e19535",
   "by": "rules"
+ },
+ "c818ef9aa9c4d07a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18227",
+  "by": "rules"
  }
 }
