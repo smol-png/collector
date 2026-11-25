@@ -326863,5 +326863,16 @@
   "market": "Other",
   "event": "e19346",
   "by": "rules"
+ },
+ "5a2e65b037b2b594": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19347",
+  "by": "rules"
  }
 }
