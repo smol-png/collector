@@ -319005,5 +319005,34 @@
   "market": "Crypto",
   "event": "e18877",
   "by": "rules"
+ },
+ "92f601d2f3c3bc98": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8190",
+  "by": "rules"
+ },
+ "f89712efe89bc638": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18857",
+  "by": "rules"
+ },
+ "a8be21814120075c": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18336",
+  "by": "rules"
  }
 }
