@@ -319629,5 +319629,34 @@
   "market": "Stocks",
   "event": "e18923",
   "by": "rules"
+ },
+ "0e198f901394cbe1": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 200.0,
+  "market": "Stocks",
+  "event": "e18924",
+  "by": "rules"
+ },
+ "e64fed943eab2e6f": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e15944",
+  "by": "rules"
+ },
+ "75792d6291a8083c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16352",
+  "by": "rules"
  }
 }
