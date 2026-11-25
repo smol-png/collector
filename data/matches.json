@@ -331341,5 +331341,50 @@
   "market": "Crypto",
   "event": "e18943",
   "by": "rules"
+ },
+ "93e4ea0c816af12a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1.58,
+  "market": "Stocks",
+  "event": "e19621",
+  "by": "rules"
+ },
+ "87cb09ff5c4630e1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19241",
+  "by": "rules"
+ },
+ "770016aa8a283844": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19530",
+  "by": "rules"
+ },
+ "f2030f5280c3f098": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16943",
+  "by": "rules"
+ },
+ "9b46aeb5674e2d4d": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 2.51,
+  "market": "Stocks",
+  "event": "e12564",
+  "by": "rules"
  }
 }
