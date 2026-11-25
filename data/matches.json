@@ -321340,5 +321340,25 @@
   "market": "Other",
   "event": "e17855",
   "by": "rules"
+ },
+ "94eb12d9f0b73be8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19018",
+  "by": "rules"
+ },
+ "4d5ba5c24c57c71f": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19019",
+  "by": "rules"
  }
 }
