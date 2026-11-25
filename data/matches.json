@@ -318496,5 +318496,194 @@
   "market": "Crypto",
   "event": "e18864",
   "by": "rules"
+ },
+ "d13247cbb0181a74": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18865",
+  "by": "rules"
+ },
+ "d222b98827a55148": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18866",
+  "by": "rules"
+ },
+ "ca7ad15e26a8c015": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16182",
+  "by": "rules"
+ },
+ "3963d46a991bdccf": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18867",
+  "by": "rules"
+ },
+ "1506837ffac98a3e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e3119",
+  "by": "rules"
+ },
+ "beb630e2f2025c6d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18868",
+  "by": "rules"
+ },
+ "271def4a0b3f2d87": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18869",
+  "by": "rules"
+ },
+ "785d15f704020838": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18869",
+  "by": "rules"
+ },
+ "b18c76264c432e11": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18870",
+  "by": "rules"
+ },
+ "f7b6945c88e027e5": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18870",
+  "by": "rules"
+ },
+ "5917f60ee6245ac0": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18871",
+  "by": "rules"
+ },
+ "693dc2d472ccc7cd": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18871",
+  "by": "rules"
+ },
+ "d7217c0616756d46": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 270.0,
+  "market": "AI",
+  "event": "e18872",
+  "by": "rules"
+ },
+ "a703a449c5f7eba5": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 270.0,
+  "market": "AI",
+  "event": "e18872",
+  "by": "rules"
+ },
+ "3ed2def88efd0463": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18871",
+  "by": "rules"
+ },
+ "f9265c2a9c98f2bb": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18871",
+  "by": "rules"
+ },
+ "2db0f72de9d9c564": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e18234",
+  "by": "rules"
+ },
+ "c5928c3c65d32dd1": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18873",
+  "by": "rules"
+ },
+ "0bba7ff77a1ea5d5": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18873",
+  "by": "rules"
  }
 }
