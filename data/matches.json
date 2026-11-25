@@ -319557,5 +319557,23 @@
   "market": "Crypto",
   "event": "e17823",
   "by": "rules"
+ },
+ "4c0bfef1fb4c08b4": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e18299",
+  "by": "rules"
+ },
+ "ccfdfc85830b2c8b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e18299",
+  "by": "rules"
  }
 }
