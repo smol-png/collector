@@ -327504,5 +327504,16 @@
   "market": "AI",
   "event": "e19393",
   "by": "rules"
+ },
+ "9b0d79327f440fa9": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18564",
+  "by": "rules"
  }
 }
