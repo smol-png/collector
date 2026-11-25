@@ -314996,5 +314996,16 @@
   "market": "Stocks",
   "event": "e16062",
   "by": "rules"
+ },
+ "8c652cd4c548e98a": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e8190",
+  "by": "rules"
  }
 }
