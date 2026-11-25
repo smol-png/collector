@@ -322910,5 +322910,25 @@
   "market": "Stocks",
   "event": "e19121",
   "by": "rules"
+ },
+ "5cbbe25b2d866723": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19108",
+  "by": "rules"
+ },
+ "332906859c6916e1": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 5000.0,
+  "market": "Crypto",
+  "event": "e17713",
+  "by": "rules"
  }
 }
