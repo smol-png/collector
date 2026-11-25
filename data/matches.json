@@ -330680,5 +330680,32 @@
   "market": "AI",
   "event": "e19583",
   "by": "rules"
+ },
+ "74fa06257f810b24": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18597",
+  "by": "rules"
+ },
+ "f576a68f8edba84a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19584",
+  "by": "rules"
+ },
+ "790794b7232a6f4a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18436",
+  "by": "rules"
  }
 }
