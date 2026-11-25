@@ -330869,5 +330869,23 @@
   "market": "Stocks",
   "event": "e16704",
   "by": "rules"
+ },
+ "64faedcb05e8d1de": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e19594",
+  "by": "rules"
+ },
+ "e548be7624931b9a": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18844",
+  "by": "rules"
  }
 }
