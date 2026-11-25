@@ -326347,5 +326347,43 @@
   "market": "Stocks",
   "event": "e16818",
   "by": "rules"
+ },
+ "432826f1a8ff5bf6": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19319",
+  "by": "rules"
+ },
+ "2496ec548f06f8df": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19320",
+  "by": "rules"
+ },
+ "437b3dfdb8f99e17": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19321",
+  "by": "rules"
+ },
+ "31758c698bc131bb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 50.0,
+  "market": "Crypto",
+  "event": "e19222",
+  "by": "rules"
  }
 }
