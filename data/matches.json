@@ -331469,5 +331469,17 @@
   "market": "Other",
   "event": "e19156",
   "by": "rules"
+ },
+ "3f0d37e34963340c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "COIN",
+   "USDC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19627",
+  "by": "rules"
  }
 }
