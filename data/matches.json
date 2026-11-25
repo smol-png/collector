@@ -326874,5 +326874,32 @@
   "market": "Crypto",
   "event": "e19347",
   "by": "rules"
+ },
+ "be102c23a63170d3": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 3250.0,
+  "market": "Other",
+  "event": "e19348",
+  "by": "rules"
+ },
+ "da1166be16aed1ee": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19349",
+  "by": "rules"
+ },
+ "bdb96ac285fc93b1": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19350",
+  "by": "rules"
  }
 }
