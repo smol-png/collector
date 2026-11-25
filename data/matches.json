@@ -327193,5 +327193,43 @@
   "market": "Crypto",
   "event": "e19368",
   "by": "rules"
+ },
+ "4580580e737da470": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19369",
+  "by": "rules"
+ },
+ "a455b0ca09ccc5d8": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19370",
+  "by": "rules"
+ },
+ "82ae1c57b4c95569": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19371",
+  "by": "rules"
+ },
+ "cbaac151c8a36eaa": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19372",
+  "by": "rules"
  }
 }
