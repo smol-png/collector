@@ -332604,5 +332604,25 @@
   "market": "Other",
   "event": "e19710",
   "by": "rules"
+ },
+ "fdda02ea5d2ee9ec": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19711",
+  "by": "rules"
+ },
+ "96f7006c90eaa341": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19712",
+  "by": "rules"
  }
 }
