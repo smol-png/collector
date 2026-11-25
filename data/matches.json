@@ -319685,5 +319685,52 @@
   "market": "Other",
   "event": "e18925",
   "by": "rules"
+ },
+ "324079bc4037ccc8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18361",
+  "by": "rules"
+ },
+ "14644488933bf3d6": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18926",
+  "by": "rules"
+ },
+ "2a3e611c70b3abe7": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18927",
+  "by": "rules"
+ },
+ "c16e573d5f96322c": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18928",
+  "by": "rules"
+ },
+ "53170c8295baa8b8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18929",
+  "by": "rules"
  }
 }
