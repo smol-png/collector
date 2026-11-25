@@ -322767,5 +322767,16 @@
   "market": "Other",
   "event": "e19108",
   "by": "rules"
+ },
+ "0477293ec9e47cb0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18189",
+  "by": "rules"
  }
 }
