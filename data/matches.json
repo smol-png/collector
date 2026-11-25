@@ -323635,5 +323635,17 @@
   "market": "Other",
   "event": "e19159",
   "by": "rules"
+ },
+ "6f37f16c9d94fa3f": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19160",
+  "by": "rules"
  }
 }
