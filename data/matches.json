@@ -331728,5 +331728,45 @@
   "market": "AI",
   "event": "e19646",
   "by": "rules"
+ },
+ "22a2ac41fc48906c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19647",
+  "by": "rules"
+ },
+ "5b00caff64e48482": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19648",
+  "by": "rules"
+ },
+ "7023d3c5b831acc9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19649",
+  "by": "rules"
+ },
+ "d4f4328543c397ce": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e17713",
+  "by": "rules"
  }
 }
