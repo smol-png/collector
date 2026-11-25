@@ -322304,5 +322304,26 @@
   "market": "Other",
   "event": "e19080",
   "by": "rules"
+ },
+ "c223f9e9c4ab779b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "HYPE",
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19081",
+  "by": "rules"
+ },
+ "3e1df216a28f3016": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18426",
+  "by": "rules"
  }
 }
