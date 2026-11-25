@@ -316614,5 +316614,32 @@
   "market": "Other",
   "event": "e18752",
   "by": "rules"
+ },
+ "1e3d1cc394b5df9b": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e16237",
+  "by": "rules"
+ },
+ "df1d141f3a60e43a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.02,
+  "market": "Stocks",
+  "event": "e18723",
+  "by": "rules"
+ },
+ "ad846c89cca75d00": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18753",
+  "by": "rules"
  }
 }
