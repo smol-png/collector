@@ -323900,5 +323900,45 @@
   "market": "Other",
   "event": "e19178",
   "by": "rules"
+ },
+ "d69ba9f3b2f52134": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18095",
+  "by": "rules"
+ },
+ "b4aaac76cd253b3b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19179",
+  "by": "rules"
+ },
+ "19dfae017c4d896c": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18458",
+  "by": "rules"
+ },
+ "70f1121a5307f93c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18893",
+  "by": "rules"
  }
 }
