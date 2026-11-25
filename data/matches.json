@@ -331976,5 +331976,61 @@
   "market": "AI",
   "event": "e19636",
   "by": "rules"
+ },
+ "e082f447545cbc7b": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19666",
+  "by": "rules"
+ },
+ "4254510030a649aa": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19667",
+  "by": "rules"
+ },
+ "de90d02f3b80f8a4": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19668",
+  "by": "rules"
+ },
+ "1d352a43ff1c04b4": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19669",
+  "by": "rules"
+ },
+ "1959ae16b8cfbdf0": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": 290.0,
+  "market": "Crypto",
+  "event": "e19528",
+  "by": "rules"
+ },
+ "1a59b83c28fc3154": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19670",
+  "by": "rules"
  }
 }
