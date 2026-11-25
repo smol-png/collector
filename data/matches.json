@@ -330813,5 +330813,34 @@
   "market": "Stocks",
   "event": "e19363",
   "by": "rules"
+ },
+ "bbdc4821a96335ce": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18324",
+  "by": "rules"
+ },
+ "ceb5cfb43e28db87": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19592",
+  "by": "rules"
+ },
+ "4168cff08f9ffa06": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e15846",
+  "by": "rules"
  }
 }
