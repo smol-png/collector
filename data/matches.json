@@ -323588,5 +323588,25 @@
   "market": "Crypto",
   "event": "e19156",
   "by": "rules"
+ },
+ "e696a9bf71568929": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19011",
+  "by": "rules"
+ },
+ "fdfd0ff422a2f5ca": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18998",
+  "by": "rules"
  }
 }
