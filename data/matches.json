@@ -319806,5 +319806,41 @@
   "market": "Other",
   "event": "e16520",
   "by": "rules"
+ },
+ "af8362c11d1159d6": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18931",
+  "by": "rules"
+ },
+ "81ddf8e827ff4040": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16520",
+  "by": "rules"
+ },
+ "36489ab8e2bc18fa": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e17470",
+  "by": "rules"
+ },
+ "498f55237f0c5580": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e18932",
+  "by": "rules"
  }
 }
