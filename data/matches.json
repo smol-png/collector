@@ -333749,5 +333749,16 @@
   "market": "Other",
   "event": "e19777",
   "by": "rules"
+ },
+ "3e0093a6b434da13": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e4074",
+  "by": "rules"
  }
 }
