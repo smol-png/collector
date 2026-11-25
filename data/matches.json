@@ -325622,5 +325622,16 @@
   "market": "AI",
   "event": "e19274",
   "by": "rules"
+ },
+ "51386cebc00c8ef0": {
+  "type": "roundup",
+  "category": "Hacks & security",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19275",
+  "by": "rules"
  }
 }
