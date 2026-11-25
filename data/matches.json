@@ -314775,5 +314775,94 @@
   "market": "Other",
   "event": "e18652",
   "by": "rules"
+ },
+ "d0be40350899134b": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.04,
+  "market": "Stocks",
+  "event": "e8085",
+  "by": "rules"
+ },
+ "742c8edfcb3c0d4d": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.03,
+  "market": "Stocks",
+  "event": "e17472",
+  "by": "rules"
+ },
+ "94da86cb16ab2e5a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": 0.6,
+  "market": "Stocks",
+  "event": "e18653",
+  "by": "rules"
+ },
+ "4f40d5df3d1b7573": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": 1.6,
+  "market": "Stocks",
+  "event": "e11046",
+  "by": "rules"
+ },
+ "76686f5d742a8e88": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e18654",
+  "by": "rules"
+ },
+ "20ee61f36a6ae451": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.19,
+  "market": "Stocks",
+  "event": "e17187",
+  "by": "rules"
+ },
+ "6b63d03a38a4392d": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17329",
+  "by": "rules"
+ },
+ "32635f865c878b24": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": 3.9,
+  "market": "Stocks",
+  "event": "e18653",
+  "by": "rules"
+ },
+ "ac9a60cdc8e8a5ac": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": 1.6,
+  "market": "Stocks",
+  "event": "e18655",
+  "by": "rules"
  }
 }
