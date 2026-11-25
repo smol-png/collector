@@ -329937,5 +329937,25 @@
   "market": "Other",
   "event": "e19534",
   "by": "rules"
+ },
+ "1c7e39ccecb382d1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": 4500.0,
+  "market": "Stocks",
+  "event": "e19535",
+  "by": "rules"
+ },
+ "f0784cddcc1ff3e2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19536",
+  "by": "rules"
  }
 }
