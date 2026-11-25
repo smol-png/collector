@@ -332851,5 +332851,23 @@
   "market": "Crypto",
   "event": "e19722",
   "by": "rules"
+ },
+ "ff634a4facb0b9dd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19723",
+  "by": "rules"
+ },
+ "c8c14363e92bf160": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e15986",
+  "by": "rules"
  }
 }
