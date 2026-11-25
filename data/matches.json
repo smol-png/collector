@@ -316123,5 +316123,43 @@
   "market": "Other",
   "event": "e18733",
   "by": "rules"
+ },
+ "d8ad18d0bf3c001a": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18734",
+  "by": "rules"
+ },
+ "70a56d33267e8c63": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16449",
+  "by": "rules"
+ },
+ "9c00b02f42f4ec8b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16280",
+  "by": "rules"
+ },
+ "6576ddbf557a6715": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18735",
+  "by": "rules"
  }
 }
