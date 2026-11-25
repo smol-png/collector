@@ -324673,5 +324673,43 @@
   "market": "AI",
   "event": "e19220",
   "by": "rules"
+ },
+ "1a77311409c38776": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19221",
+  "by": "rules"
+ },
+ "6846734bbf5840e3": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19222",
+  "by": "rules"
+ },
+ "17ad4cc7d4540c7b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19223",
+  "by": "rules"
+ },
+ "c76c92d4521cd3ce": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19224",
+  "by": "rules"
  }
 }
