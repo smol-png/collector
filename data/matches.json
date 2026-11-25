@@ -334549,5 +334549,106 @@
   "market": "AI",
   "event": "e19822",
   "by": "rules"
+ },
+ "32868f756311916f": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19804",
+  "by": "rules"
+ },
+ "3e589f6c20539f71": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19820",
+  "by": "rules"
+ },
+ "e9b5a1da4b9d0384": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1.96,
+  "market": "Stocks",
+  "event": "e19823",
+  "by": "rules"
+ },
+ "af83b253ef06eea8": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16130",
+  "by": "rules"
+ },
+ "44fed4480f2f2c1c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19824",
+  "by": "rules"
+ },
+ "e9cac13825066665": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 200.0,
+  "market": "Other",
+  "event": "e19825",
+  "by": "rules"
+ },
+ "31e29f46f7fa5d52": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19826",
+  "by": "rules"
+ },
+ "a51b603e7cead855": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19827",
+  "by": "rules"
+ },
+ "4f802370dd732cd0": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19804",
+  "by": "rules"
+ },
+ "b2edbdd0cdbbf1a7": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19821",
+  "by": "rules"
+ },
+ "d5dc5340bc9638da": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19822",
+  "by": "rules"
  }
 }
