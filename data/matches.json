@@ -329532,5 +329532,47 @@
   "market": "Other",
   "event": "e19516",
   "by": "rules"
+ },
+ "8484ece7aeedbfd4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19517",
+  "by": "rules"
+ },
+ "0c4eb5c96e0d6882": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 987.0,
+  "market": "Crypto",
+  "event": "e18725",
+  "by": "rules"
+ },
+ "77fe26efb08d7c48": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19518",
+  "by": "rules"
+ },
+ "b05d7b61a9d28ebd": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19519",
+  "by": "rules"
  }
 }
