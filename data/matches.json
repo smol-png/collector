@@ -325023,5 +325023,25 @@
   "market": "AI",
   "event": "e8190",
   "by": "rules"
+ },
+ "f33be3b7ee0d9911": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19243",
+  "by": "rules"
+ },
+ "677db3758f9cc33b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19244",
+  "by": "rules"
  }
 }
