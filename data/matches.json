@@ -319290,5 +319290,23 @@
   "market": "Other",
   "event": "e18910",
   "by": "rules"
+ },
+ "fe80e794d59db1ea": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18033",
+  "by": "rules"
+ },
+ "47502999f3293cf5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18911",
+  "by": "rules"
  }
 }
