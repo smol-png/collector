@@ -328165,5 +328165,45 @@
   "market": "Stocks",
   "event": "e19429",
   "by": "rules"
+ },
+ "32e1d2738d5ac76a": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e19424",
+  "by": "rules"
+ },
+ "882ce51d4b9d700d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19430",
+  "by": "rules"
+ },
+ "38fc2391e8de4321": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "AAVE"
+  ],
+  "usd_m": 63.0,
+  "market": "Crypto",
+  "event": "e19431",
+  "by": "rules"
+ },
+ "f8aa3c9ff7798539": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19432",
+  "by": "rules"
  }
 }
