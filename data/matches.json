@@ -332363,5 +332363,38 @@
   "market": "AI",
   "event": "e19689",
   "by": "rules"
+ },
+ "1c8dfc7cf36e819b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19690",
+  "by": "rules"
+ },
+ "eabf2a5c98af7fe0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19691",
+  "by": "rules"
+ },
+ "363c0db07af96f8b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19692",
+  "by": "rules"
  }
 }
