@@ -328053,5 +328053,34 @@
   "market": "Macro",
   "event": "e19424",
   "by": "rules"
+ },
+ "02f5a1c046649aad": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19425",
+  "by": "rules"
+ },
+ "21556bb554a2dc2c": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18460",
+  "by": "rules"
+ },
+ "cf60674a6e16899f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19426",
+  "by": "rules"
  }
 }
