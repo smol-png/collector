@@ -316899,5 +316899,124 @@
   "market": "AI",
   "event": "e18770",
   "by": "rules"
+ },
+ "b84729da68a4fb0a": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.37,
+  "market": "Other",
+  "event": "e18771",
+  "by": "rules"
+ },
+ "2a444941cf6356f9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.34,
+  "market": "Stocks",
+  "event": "e18772",
+  "by": "rules"
+ },
+ "54827bbf64804057": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.45,
+  "market": "Stocks",
+  "event": "e18724",
+  "by": "rules"
+ },
+ "c4af457f89e54fb3": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": 3.7,
+  "market": "Stocks",
+  "event": "e12564",
+  "by": "rules"
+ },
+ "52b750c7cbef2ae0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.04,
+  "market": "Stocks",
+  "event": "e18773",
+  "by": "rules"
+ },
+ "d77213495dfc5a09": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.17,
+  "market": "Stocks",
+  "event": "e18773",
+  "by": "rules"
+ },
+ "0470426ed2e4a7c4": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18774",
+  "by": "rules"
+ },
+ "bb6005397171ceae": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18774",
+  "by": "rules"
+ },
+ "5adcc106ade79afe": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.03,
+  "market": "Stocks",
+  "event": "e18687",
+  "by": "rules"
+ },
+ "7272af856cd282e3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18764",
+  "by": "rules"
+ },
+ "9c0185ce0d534739": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18764",
+  "by": "rules"
+ },
+ "82067ea0bac46e11": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18764",
+  "by": "rules"
+ },
+ "02445e533b6807dd": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18764",
+  "by": "rules"
  }
 }
