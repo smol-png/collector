@@ -318111,5 +318111,14 @@
   "market": "Stocks",
   "event": "e17429",
   "by": "rules"
+ },
+ "bdb50c085493ae74": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18840",
+  "by": "rules"
  }
 }
