@@ -331276,5 +331276,41 @@
   "market": "Crypto",
   "event": "e19618",
   "by": "rules"
+ },
+ "b3c8d4754c266b26": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19577",
+  "by": "rules"
+ },
+ "a993be83d48f6756": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e18671",
+  "by": "rules"
+ },
+ "4921af22fdb6f4b5": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e18671",
+  "by": "rules"
+ },
+ "d7967ba0fc6ae06f": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19619",
+  "by": "rules"
  }
 }
