@@ -330251,5 +330251,36 @@
   "market": "Other",
   "event": "e18276",
   "by": "rules"
+ },
+ "0d0f5690c3984a3c": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18324",
+  "by": "rules"
+ },
+ "819ef741e58b910b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19557",
+  "by": "rules"
+ },
+ "bad5c1888a85c65a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19558",
+  "by": "rules"
  }
 }
