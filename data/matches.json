@@ -329258,5 +329258,25 @@
   "market": "Crypto",
   "event": "e19499",
   "by": "rules"
+ },
+ "d414915eb4a26181": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19500",
+  "by": "rules"
+ },
+ "3cb86b4c1c775f98": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19501",
+  "by": "rules"
  }
 }
