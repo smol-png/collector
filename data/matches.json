@@ -315852,5 +315852,54 @@
   "market": "Other",
   "event": "e18717",
   "by": "rules"
+ },
+ "79eafa3bf0cc95e6": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8190",
+  "by": "rules"
+ },
+ "0c0bd8f56118e207": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18581",
+  "by": "rules"
+ },
+ "a1fadb805fb94c21": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18718",
+  "by": "rules"
+ },
+ "f89ab02cca7e0afc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18628",
+  "by": "rules"
+ },
+ "5296f4a084af5bbe": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18719",
+  "by": "rules"
  }
 }
