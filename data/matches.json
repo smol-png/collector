@@ -330768,5 +330768,23 @@
   "market": "Crypto",
   "event": "e19156",
   "by": "rules"
+ },
+ "2cc666aeaa37326d": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e19589",
+  "by": "rules"
+ },
+ "bc33876bfc85a5a8": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19590",
+  "by": "rules"
  }
 }
