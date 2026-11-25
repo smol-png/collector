@@ -333515,5 +333515,14 @@
   "market": "Stocks",
   "event": "e16196",
   "by": "rules"
+ },
+ "b2ca8870c00a6306": {
+  "type": "explainer",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e19762",
+  "by": "rules"
  }
 }
