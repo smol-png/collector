@@ -330747,5 +330747,26 @@
   "market": "Other",
   "event": "e19587",
   "by": "rules"
+ },
+ "6cba7b3030986263": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL",
+   "MSFT"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19588",
+  "by": "rules"
+ },
+ "4c359aeb78bc6e4a": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19156",
+  "by": "rules"
  }
 }
