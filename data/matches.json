@@ -325447,5 +325447,27 @@
   "market": "Other",
   "event": "e19266",
   "by": "rules"
+ },
+ "74212f2e4ba979ed": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19265",
+  "by": "rules"
+ },
+ "4ee45ceb67a15e35": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e8190",
+  "by": "rules"
  }
 }
