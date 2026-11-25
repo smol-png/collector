@@ -328127,5 +328127,43 @@
   "market": "Other",
   "event": "e18970",
   "by": "rules"
+ },
+ "c4057e0f78d13d2c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19244",
+  "by": "rules"
+ },
+ "e141c1f87ca8429f": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e19427",
+  "by": "rules"
+ },
+ "86030a4478cf4eb4": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19428",
+  "by": "rules"
+ },
+ "e8b908ec0519293e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19429",
+  "by": "rules"
  }
 }
