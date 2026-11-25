@@ -332182,5 +332182,110 @@
   "market": "Macro",
   "event": "e19648",
   "by": "rules"
+ },
+ "fcd22d3b2c0f9479": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e19680",
+  "by": "rules"
+ },
+ "cf2c014ed1857d53": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e19680",
+  "by": "rules"
+ },
+ "5f4ecb123c372afa": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Stocks",
+  "event": "e16704",
+  "by": "rules"
+ },
+ "9147494f8420bb00": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19681",
+  "by": "rules"
+ },
+ "6f3525f8ffec3695": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19681",
+  "by": "rules"
+ },
+ "f4f56a0c0e4d5b24": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19096",
+  "by": "rules"
+ },
+ "80fc99312545e5d5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19682",
+  "by": "rules"
+ },
+ "30d184318cb5a301": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19682",
+  "by": "rules"
+ },
+ "6d457942f0f10ad9": {
+  "type": "explainer",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18327",
+  "by": "rules"
+ },
+ "78facdb2cf0ca279": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e16707",
+  "by": "rules"
+ },
+ "e6a3a76711f70162": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19683",
+  "by": "rules"
  }
 }
