@@ -319537,5 +319537,25 @@
   "market": "AI",
   "event": "e18375",
   "by": "rules"
+ },
+ "454d925d808e3d34": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18918",
+  "by": "rules"
+ },
+ "034db515f52cd423": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 6.8,
+  "market": "Crypto",
+  "event": "e17823",
+  "by": "rules"
  }
 }
