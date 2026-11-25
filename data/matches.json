@@ -318887,5 +318887,27 @@
   "market": "Other",
   "event": "e18887",
   "by": "rules"
+ },
+ "8c2024d64b33cc9e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18888",
+  "by": "rules"
+ },
+ "fb060952237dc79d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18888",
+  "by": "rules"
  }
 }
