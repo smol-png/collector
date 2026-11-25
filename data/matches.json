@@ -324220,5 +324220,25 @@
   "market": "Other",
   "event": "e19194",
   "by": "rules"
+ },
+ "b7fc67024e232985": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19195",
+  "by": "rules"
+ },
+ "bd61c8970a3bad1b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19196",
+  "by": "rules"
  }
 }
