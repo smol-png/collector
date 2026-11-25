@@ -314922,5 +314922,32 @@
   "market": "Stocks",
   "event": "e18659",
   "by": "rules"
+ },
+ "e48edf65542cf892": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18660",
+  "by": "rules"
+ },
+ "bffd22f01bea9481": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18661",
+  "by": "rules"
+ },
+ "cbe47080c5931b00": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18662",
+  "by": "rules"
  }
 }
