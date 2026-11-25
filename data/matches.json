@@ -335421,5 +335421,41 @@
   "market": "Other",
   "event": "e19875",
   "by": "rules"
+ },
+ "0b46fbf6b4038772": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19693",
+  "by": "rules"
+ },
+ "dea0e82ec5ebd5d4": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e19876",
+  "by": "rules"
+ },
+ "2d7a64dbf7cc4394": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19877",
+  "by": "rules"
+ },
+ "dba66ed8b2ad1f86": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19878",
+  "by": "rules"
  }
 }
