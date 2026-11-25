@@ -333399,5 +333399,16 @@
   "market": "AI",
   "event": "e19510",
   "by": "rules"
+ },
+ "411a69fe4a9e74d9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19754",
+  "by": "rules"
  }
 }
