@@ -323712,5 +323712,27 @@
   "market": "Stocks",
   "event": "e19162",
   "by": "rules"
+ },
+ "6c701f261cd20c98": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC",
+   "ETH",
+   "SOL"
+  ],
+  "usd_m": 1000.0,
+  "market": "Crypto",
+  "event": "e19163",
+  "by": "rules"
+ },
+ "0b7eac148c10ed12": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19164",
+  "by": "rules"
  }
 }
