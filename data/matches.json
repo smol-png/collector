@@ -331947,5 +331947,34 @@
   "market": "Other",
   "event": "e19663",
   "by": "rules"
+ },
+ "657bf275d1472cc1": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19664",
+  "by": "rules"
+ },
+ "728a4cdd1b72b75c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19665",
+  "by": "rules"
+ },
+ "230f8217c0d0c689": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19636",
+  "by": "rules"
  }
 }
