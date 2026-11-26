@@ -339006,5 +339006,85 @@
   "market": "Prediction markets",
   "event": "e19594",
   "by": "rules"
+ },
+ "ce8281cc79f496d5": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16202",
+  "by": "rules"
+ },
+ "02c8c6caab79d63b": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16202",
+  "by": "rules"
+ },
+ "877544aa3f419ff2": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20081",
+  "by": "rules"
+ },
+ "268d914d835c2ced": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20081",
+  "by": "rules"
+ },
+ "75f6f9fb8873b2c8": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20082",
+  "by": "rules"
+ },
+ "aa73a9c582f45383": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20082",
+  "by": "rules"
+ },
+ "d566ee6bd71e509e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16303",
+  "by": "rules"
+ },
+ "b63d0d96c8ebe7c2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16303",
+  "by": "rules"
  }
 }
