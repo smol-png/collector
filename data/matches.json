@@ -349083,5 +349083,16 @@
   "market": "Crypto",
   "event": "e20681",
   "by": "rules"
+ },
+ "d6a497a214e10c29": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e20561",
+  "by": "rules"
  }
 }
