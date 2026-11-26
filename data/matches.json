@@ -347092,5 +347092,25 @@
   "market": "Crypto",
   "event": "e20560",
   "by": "rules"
+ },
+ "0be86977d70d3da2": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e20561",
+  "by": "rules"
+ },
+ "7755d7f4363fdae5": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20562",
+  "by": "rules"
  }
 }
