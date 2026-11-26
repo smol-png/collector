@@ -342491,5 +342491,52 @@
   "market": "Other",
   "event": "e20277",
   "by": "rules"
+ },
+ "0ca46b1b7fb6a89e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18324",
+  "by": "rules"
+ },
+ "ee24e015777dca90": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20278",
+  "by": "rules"
+ },
+ "db03b628b17b647f": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20279",
+  "by": "rules"
+ },
+ "19714521b9d6320e": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20280",
+  "by": "rules"
+ },
+ "3f53641bc640b2e9": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20035",
+  "by": "rules"
  }
 }
