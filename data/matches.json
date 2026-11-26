@@ -344733,5 +344733,16 @@
   "market": "Macro",
   "event": "e20417",
   "by": "rules"
+ },
+ "6042652487619919": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20418",
+  "by": "rules"
  }
 }
