@@ -342363,5 +342363,16 @@
   "market": "Other",
   "event": "e20270",
   "by": "rules"
+ },
+ "873cdad7a62f0d71": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20271",
+  "by": "rules"
  }
 }
