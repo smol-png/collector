@@ -346355,5 +346355,23 @@
   "market": "Crypto",
   "event": "e19616",
   "by": "rules"
+ },
+ "a572fdd29007484c": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e20519",
+  "by": "rules"
+ },
+ "1d0ba4477a8c6421": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20520",
+  "by": "rules"
  }
 }
