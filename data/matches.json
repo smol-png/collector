@@ -336374,5 +336374,23 @@
   "market": "Other",
   "event": "e19932",
   "by": "rules"
+ },
+ "6afe30083896ce0e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e18483",
+  "by": "rules"
+ },
+ "3f0b28f2563c9ac5": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19933",
+  "by": "rules"
  }
 }
