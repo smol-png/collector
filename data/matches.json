@@ -347225,5 +347225,32 @@
   "market": "Macro",
   "event": "e20512",
   "by": "rules"
+ },
+ "12c7d1217dafc1bf": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19522",
+  "by": "rules"
+ },
+ "b29953b07321fa17": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20431",
+  "by": "rules"
+ },
+ "154e952d44b81ff6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16841",
+  "by": "rules"
  }
 }
