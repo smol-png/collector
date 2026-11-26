@@ -339941,5 +339941,16 @@
   "market": "Other",
   "event": "e20139",
   "by": "rules"
+ },
+ "ee785b3a72d7f418": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20140",
+  "by": "rules"
  }
 }
