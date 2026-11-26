@@ -343464,5 +343464,23 @@
   "market": "Other",
   "event": "e20338",
   "by": "rules"
+ },
+ "1dbcbe690f2e8b6f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16700",
+  "by": "rules"
+ },
+ "70f0c872769c7043": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e20339",
+  "by": "rules"
  }
 }
