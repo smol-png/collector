@@ -343228,5 +343228,23 @@
   "market": "Other",
   "event": "e20324",
   "by": "rules"
+ },
+ "3a47f4f6eade14a7": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e20325",
+  "by": "rules"
+ },
+ "75ed71e4bb9dcad0": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20326",
+  "by": "rules"
  }
 }
