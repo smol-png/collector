@@ -345139,5 +345139,88 @@
   "market": "AI",
   "event": "e20442",
   "by": "rules"
+ },
+ "39ee19d09157cde1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.02,
+  "market": "Stocks",
+  "event": "e18711",
+  "by": "rules"
+ },
+ "7ff96166fddffb5c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.06,
+  "market": "Stocks",
+  "event": "e20443",
+  "by": "rules"
+ },
+ "f85464ff872bba01": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.02,
+  "market": "Stocks",
+  "event": "e20424",
+  "by": "rules"
+ },
+ "ec7bc12e4fa968d5": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e20236",
+  "by": "rules"
+ },
+ "3b815099efdaed16": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20444",
+  "by": "rules"
+ },
+ "873aa2c0961ed9f3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20444",
+  "by": "rules"
+ },
+ "d5825499b694c510": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e20403",
+  "by": "rules"
+ },
+ "aa9eb7b36871e378": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e20403",
+  "by": "rules"
+ },
+ "bd81e4f65eff4fc3": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19629",
+  "by": "rules"
  }
 }
