@@ -347080,5 +347080,17 @@
   "market": "Crypto",
   "event": "e20559",
   "by": "rules"
+ },
+ "3060337cde464dae": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20560",
+  "by": "rules"
  }
 }
