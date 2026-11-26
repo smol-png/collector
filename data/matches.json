@@ -348144,5 +348144,23 @@
   "market": "Other",
   "event": "e20616",
   "by": "rules"
+ },
+ "a58ed3d8e646acda": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e20431",
+  "by": "rules"
+ },
+ "41a7d9cd8c75c545": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20617",
+  "by": "rules"
  }
 }
