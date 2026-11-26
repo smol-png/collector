@@ -345370,5 +345370,25 @@
   "market": "Other",
   "event": "e20453",
   "by": "rules"
+ },
+ "f1d25ec0242cdd12": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19342",
+  "by": "rules"
+ },
+ "0dbcb4aee610cd8c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20454",
+  "by": "rules"
  }
 }
