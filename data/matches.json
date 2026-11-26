@@ -349485,5 +349485,36 @@
   "market": "Other",
   "event": "e20698",
   "by": "rules"
+ },
+ "5cb6c70ffa44f6b3": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20699",
+  "by": "rules"
+ },
+ "4099a1c822f355c0": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AMZN",
+   "GOOGL",
+   "META"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20700",
+  "by": "rules"
+ },
+ "31751fae41557e5c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20701",
+  "by": "rules"
  }
 }
