@@ -344210,5 +344210,45 @@
   "market": "Macro",
   "event": "e19353",
   "by": "rules"
+ },
+ "e3d025d02e8033b2": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19882",
+  "by": "rules"
+ },
+ "76c80bc819cc73a8": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20385",
+  "by": "rules"
+ },
+ "78be422cd49228b9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20386",
+  "by": "rules"
+ },
+ "b3251ae5d072e396": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "BNB"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20387",
+  "by": "rules"
  }
 }
