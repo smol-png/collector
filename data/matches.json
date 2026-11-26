@@ -339172,5 +339172,34 @@
   "market": "Stocks",
   "event": "e20088",
   "by": "rules"
+ },
+ "46da70b3462b6bd2": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20032",
+  "by": "rules"
+ },
+ "ddd6d29314ce1f5c": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20010",
+  "by": "rules"
+ },
+ "0e9547d671e19f7b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20089",
+  "by": "rules"
  }
 }
