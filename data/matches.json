@@ -347112,5 +347112,25 @@
   "market": "AI",
   "event": "e20562",
   "by": "rules"
+ },
+ "441a0e6bb5274c86": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20563",
+  "by": "rules"
+ },
+ "889789437348a97e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 0.06,
+  "market": "Crypto",
+  "event": "e16823",
+  "by": "rules"
  }
 }
