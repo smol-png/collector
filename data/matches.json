@@ -342959,5 +342959,25 @@
   "market": "Other",
   "event": "e20296",
   "by": "rules"
+ },
+ "a7f3b7a679469fdc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20306",
+  "by": "rules"
+ },
+ "e13303051f4fd301": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20106",
+  "by": "rules"
  }
 }
