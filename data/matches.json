@@ -341938,5 +341938,34 @@
   "market": "Other",
   "event": "e20240",
   "by": "rules"
+ },
+ "a5190732c4422b9c": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20216",
+  "by": "rules"
+ },
+ "f29c2fcd3bdab08e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20216",
+  "by": "rules"
+ },
+ "daac88648df9a8aa": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 5000.0,
+  "market": "Crypto",
+  "event": "e20241",
+  "by": "rules"
  }
 }
