@@ -344926,5 +344926,16 @@
   "market": "Other",
   "event": "e20426",
   "by": "rules"
+ },
+ "415d8bfbcead7b5b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "MSTR"
+  ],
+  "usd_m": 2000.0,
+  "market": "Stocks",
+  "event": "e20427",
+  "by": "rules"
  }
 }
