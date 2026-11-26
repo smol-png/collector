@@ -340952,5 +340952,32 @@
   "market": "Prediction markets",
   "event": "e19069",
   "by": "rules"
+ },
+ "c4853c57103f5cde": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e20195",
+  "by": "rules"
+ },
+ "408fbc4caadb1c02": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20156",
+  "by": "rules"
+ },
+ "3b7502e9d3d5487c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20196",
+  "by": "rules"
  }
 }
