@@ -338977,5 +338977,34 @@
   "market": "Macro",
   "event": "e18483",
   "by": "rules"
+ },
+ "8675971d13e3251a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19938",
+  "by": "rules"
+ },
+ "f54ddeedc39020f2": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": 6300.0,
+  "market": "Crypto",
+  "event": "e20080",
+  "by": "rules"
+ },
+ "5eaa056f7a4add64": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Prediction markets",
+  "event": "e19594",
+  "by": "rules"
  }
 }
