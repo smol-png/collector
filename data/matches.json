@@ -342556,5 +342556,23 @@
   "market": "Macro",
   "event": "e20282",
   "by": "rules"
+ },
+ "d50b6dc4773650db": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20283",
+  "by": "rules"
+ },
+ "5dff7de05c92ed8b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e20284",
+  "by": "rules"
  }
 }
