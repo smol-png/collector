@@ -338950,5 +338950,32 @@
   "market": "AI",
   "event": "e20079",
   "by": "rules"
+ },
+ "b92f5858198c4a23": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19960",
+  "by": "rules"
+ },
+ "968efa781d176e3b": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20075",
+  "by": "rules"
+ },
+ "1d8340c01fd01293": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e18483",
+  "by": "rules"
  }
 }
