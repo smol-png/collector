@@ -341177,5 +341177,16 @@
   "market": "Other",
   "event": "e20156",
   "by": "rules"
+ },
+ "3255faf05ca3a044": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e18129",
+  "by": "rules"
  }
 }
