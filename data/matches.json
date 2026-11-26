@@ -346795,5 +346795,50 @@
   "market": "Macro",
   "event": "e20417",
   "by": "rules"
+ },
+ "522efa63e768f6bb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20544",
+  "by": "rules"
+ },
+ "759f8bdb04ea59b1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20545",
+  "by": "rules"
+ },
+ "5ff5d9b96a23e2b9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20532",
+  "by": "rules"
+ },
+ "eed6d63dc59c8628": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20546",
+  "by": "rules"
+ },
+ "63b0df9a252a80bc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e20547",
+  "by": "rules"
  }
 }
