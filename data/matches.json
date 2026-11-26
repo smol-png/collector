@@ -343042,5 +343042,16 @@
   "market": "Macro",
   "event": "e20281",
   "by": "rules"
+ },
+ "6e673e73995a644a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20309",
+  "by": "rules"
  }
 }
