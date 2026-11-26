@@ -343518,5 +343518,17 @@
   "market": "Other",
   "event": "e20342",
   "by": "rules"
+ },
+ "85618f1b050d66a3": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20343",
+  "by": "rules"
  }
 }
