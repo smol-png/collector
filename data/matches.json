@@ -336152,5 +336152,34 @@
   "market": "Macro",
   "event": "e19921",
   "by": "rules"
+ },
+ "9281f3ca0bd73138": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19922",
+  "by": "rules"
+ },
+ "0a10842d0c647039": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19916",
+  "by": "rules"
+ },
+ "9cc8a71b032e298d": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e19921",
+  "by": "rules"
  }
 }
