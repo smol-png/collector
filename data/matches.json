@@ -339912,5 +339912,16 @@
   "market": "AI",
   "event": "e20137",
   "by": "rules"
+ },
+ "1664356ca52ae16d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": 300.0,
+  "market": "Crypto",
+  "event": "e20138",
+  "by": "rules"
  }
 }
