@@ -345435,5 +345435,41 @@
   "market": "Other",
   "event": "e20458",
   "by": "rules"
+ },
+ "0e47a4803a91a730": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20459",
+  "by": "rules"
+ },
+ "db99da4361c52b3f": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e20456",
+  "by": "rules"
+ },
+ "96970b4d56a67904": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20460",
+  "by": "rules"
+ },
+ "8a009d4acdc7fd69": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20461",
+  "by": "rules"
  }
 }
