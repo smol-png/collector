@@ -338825,5 +338825,16 @@
   "market": "Stocks",
   "event": "e20069",
   "by": "rules"
+ },
+ "19527322d8e7ef27": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e20070",
+  "by": "rules"
  }
 }
