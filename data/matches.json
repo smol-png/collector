@@ -337466,5 +337466,27 @@
   "market": "Other",
   "event": "e19984",
   "by": "rules"
+ },
+ "a9c9fc3983f10234": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19985",
+  "by": "rules"
+ },
+ "8bd2baf60e511b6d": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19985",
+  "by": "rules"
  }
 }
