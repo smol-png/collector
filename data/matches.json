@@ -347068,5 +347068,17 @@
   "market": "Other",
   "event": "e20532",
   "by": "rules"
+ },
+ "143914476383b435": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20559",
+  "by": "rules"
  }
 }
