@@ -335805,5 +335805,34 @@
   "market": "Other",
   "event": "e19898",
   "by": "rules"
+ },
+ "9ed806982177cfd4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19899",
+  "by": "rules"
+ },
+ "a37e18854e940206": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19900",
+  "by": "rules"
+ },
+ "19a4b4d8f181d05d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18739",
+  "by": "rules"
  }
 }
