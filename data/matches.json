@@ -339694,5 +339694,25 @@
   "market": "Macro",
   "event": "e18890",
   "by": "rules"
+ },
+ "7441cc1e24e67bcb": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20124",
+  "by": "rules"
+ },
+ "d284efe5a7cc59c4": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20125",
+  "by": "rules"
  }
 }
