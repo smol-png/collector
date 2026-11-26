@@ -337350,5 +337350,16 @@
   "market": "Other",
   "event": "e19982",
   "by": "rules"
+ },
+ "a8bd80c15f3a6d6c": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19638",
+  "by": "rules"
  }
 }
