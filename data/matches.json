@@ -343882,5 +343882,34 @@
   "market": "Other",
   "event": "e20223",
   "by": "rules"
+ },
+ "403a8fbe63d10960": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20365",
+  "by": "rules"
+ },
+ "3586ba89858551f0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20366",
+  "by": "rules"
+ },
+ "2914bbbdc840f548": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20367",
+  "by": "rules"
  }
 }
