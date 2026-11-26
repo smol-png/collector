@@ -342721,5 +342721,32 @@
   "market": "AI",
   "event": "e20288",
   "by": "rules"
+ },
+ "3782f270e4b7c253": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20289",
+  "by": "rules"
+ },
+ "0c31e46224292888": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20290",
+  "by": "rules"
+ },
+ "c341488518b0fc33": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20291",
+  "by": "rules"
  }
 }
