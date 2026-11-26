@@ -347946,5 +347946,23 @@
   "market": "AI",
   "event": "e20603",
   "by": "rules"
+ },
+ "293e118b9d0e4af1": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20604",
+  "by": "rules"
+ },
+ "ef3b3ed401fbeb1d": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e20605",
+  "by": "rules"
  }
 }
