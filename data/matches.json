@@ -336599,5 +336599,14 @@
   "market": "Other",
   "event": "e19945",
   "by": "rules"
+ },
+ "e2d6a634fca6f3cd": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e19946",
+  "by": "rules"
  }
 }
