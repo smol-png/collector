@@ -346569,5 +346569,43 @@
   "market": "Crypto",
   "event": "e20529",
   "by": "rules"
+ },
+ "bdbe34659768e562": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20530",
+  "by": "rules"
+ },
+ "43a2f69f19526164": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20531",
+  "by": "rules"
+ },
+ "0b11cf449d4bac0b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20532",
+  "by": "rules"
+ },
+ "67b74866aa354187": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 1900.0,
+  "market": "Crypto",
+  "event": "e20533",
+  "by": "rules"
  }
 }
