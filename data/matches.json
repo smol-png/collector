@@ -341431,5 +341431,16 @@
   "market": "Other",
   "event": "e20218",
   "by": "rules"
+ },
+ "913c3986a2b760bb": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "HYPE"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19399",
+  "by": "rules"
  }
 }
