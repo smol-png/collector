@@ -349626,5 +349626,23 @@
   "market": "Macro",
   "event": "e20708",
   "by": "rules"
+ },
+ "59e9f5358cdd2061": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20709",
+  "by": "rules"
+ },
+ "5badd0a51c2c11f9": {
+  "type": "explainer",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20701",
+  "by": "rules"
  }
 }
