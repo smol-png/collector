@@ -348865,5 +348865,26 @@
   "market": "Crypto",
   "event": "e20665",
   "by": "rules"
+ },
+ "842a30740a8fd8d4": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20666",
+  "by": "rules"
+ },
+ "c147f17f6f8dcdc4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL",
+   "AMZN"
+  ],
+  "usd_m": 4400.0,
+  "market": "Stocks",
+  "event": "e20667",
+  "by": "rules"
  }
 }
