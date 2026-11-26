@@ -339234,5 +339234,23 @@
   "market": "AI",
   "event": "e20092",
   "by": "rules"
+ },
+ "dc20ffa0bb47a175": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 135.0,
+  "market": "Other",
+  "event": "e20093",
+  "by": "rules"
+ },
+ "0d992bcf44ad5ba5": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [],
+  "usd_m": 6300.0,
+  "market": "Crypto",
+  "event": "e20080",
+  "by": "rules"
  }
 }
