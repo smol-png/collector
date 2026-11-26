@@ -346557,5 +346557,17 @@
   "market": "AI",
   "event": "e19557",
   "by": "rules"
+ },
+ "77ca72d9a148d043": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20529",
+  "by": "rules"
  }
 }
