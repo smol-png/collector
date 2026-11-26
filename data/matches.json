@@ -340433,5 +340433,25 @@
   "market": "Crypto",
   "event": "e19283",
   "by": "rules"
+ },
+ "84c5a40b16654eef": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": 6600.0,
+  "market": "Crypto",
+  "event": "e20162",
+  "by": "rules"
+ },
+ "c999912597ebbb1f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 180.0,
+  "market": "Crypto",
+  "event": "e20163",
+  "by": "rules"
  }
 }
