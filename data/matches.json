@@ -349014,5 +349014,16 @@
   "market": "Stocks",
   "event": "e20015",
   "by": "rules"
+ },
+ "fd2216ece104806c": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e20677",
+  "by": "rules"
  }
 }
