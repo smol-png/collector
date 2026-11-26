@@ -336006,5 +336006,34 @@
   "market": "Stocks",
   "event": "e19911",
   "by": "rules"
+ },
+ "30d1596b5ac7c5fd": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19586",
+  "by": "rules"
+ },
+ "6c6c9a462e48ed1d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19678",
+  "by": "rules"
+ },
+ "76f27bc8b99abcf9": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19864",
+  "by": "rules"
  }
 }
