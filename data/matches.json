@@ -339876,5 +339876,41 @@
   "market": "Other",
   "event": "e19475",
   "by": "rules"
+ },
+ "71f82692e900a7c7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 1000.0,
+  "market": "Other",
+  "event": "e20134",
+  "by": "rules"
+ },
+ "1cf198c98e6bba8b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20135",
+  "by": "rules"
+ },
+ "a34a60939117a8fc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20136",
+  "by": "rules"
+ },
+ "c472e5266b1abf03": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20137",
+  "by": "rules"
  }
 }
