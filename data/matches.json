@@ -342300,5 +342300,23 @@
   "market": "AI",
   "event": "e20265",
   "by": "rules"
+ },
+ "57b568602841d38d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20266",
+  "by": "rules"
+ },
+ "2167effe5ee56eb5": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19050",
+  "by": "rules"
  }
 }
