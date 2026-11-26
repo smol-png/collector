@@ -337448,5 +337448,23 @@
   "market": "Stocks",
   "event": "e18774",
   "by": "rules"
+ },
+ "f9bb3d03a066e9e7": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e19983",
+  "by": "rules"
+ },
+ "dc6ee33bb3fd98e1": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19984",
+  "by": "rules"
  }
 }
