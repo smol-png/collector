@@ -335666,5 +335666,99 @@
   "market": "Other",
   "event": "e19760",
   "by": "rules"
+ },
+ "91debfec70638582": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19892",
+  "by": "rules"
+ },
+ "506efecc4dc4361b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19893",
+  "by": "rules"
+ },
+ "2dd4300ab5b454a9": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.01,
+  "market": "Stocks",
+  "event": "e18399",
+  "by": "rules"
+ },
+ "fe244b5618bf55df": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.46,
+  "market": "Stocks",
+  "event": "e19894",
+  "by": "rules"
+ },
+ "beb02f5957056840": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19804",
+  "by": "rules"
+ },
+ "18b03ae2b5fe3158": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18519",
+  "by": "rules"
+ },
+ "a4656d8650e9cdbd": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e19804",
+  "by": "rules"
+ },
+ "fdcad7d1b3e66de0": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": 0.83,
+  "market": "Stocks",
+  "event": "e19895",
+  "by": "rules"
+ },
+ "1137c69f97c8002c": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 6.24,
+  "market": "Stocks",
+  "event": "e12564",
+  "by": "rules"
+ },
+ "eecae2d7d5824e23": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": 0.0,
+  "market": "AI",
+  "event": "e19896",
+  "by": "rules"
  }
 }
