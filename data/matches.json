@@ -340008,5 +340008,124 @@
   "market": "Crypto",
   "event": "e18095",
   "by": "rules"
+ },
+ "9c174352902fa3a5": {
+  "type": "analysis",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20145",
+  "by": "rules"
+ },
+ "52b7265d474345f9": {
+  "type": "analysis",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20145",
+  "by": "rules"
+ },
+ "ce15500feed12fe9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18901",
+  "by": "rules"
+ },
+ "a7cd0069ab3af8be": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e18901",
+  "by": "rules"
+ },
+ "b95587c967508106": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16096",
+  "by": "rules"
+ },
+ "99427ed46e2bb551": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.03,
+  "market": "Stocks",
+  "event": "e18711",
+  "by": "rules"
+ },
+ "786f180e3fd06bbc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19649",
+  "by": "rules"
+ },
+ "d5ac6e7c13029f2c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19649",
+  "by": "rules"
+ },
+ "d35896abc8fcf3fb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18277",
+  "by": "rules"
+ },
+ "19f407cf5e5e16ce": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e18277",
+  "by": "rules"
+ },
+ "6c783c5223ea69e9": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e16177",
+  "by": "rules"
+ },
+ "c0b40070a6766438": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20146",
+  "by": "rules"
+ },
+ "b0100391e88afa5d": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20146",
+  "by": "rules"
  }
 }
