@@ -343651,5 +343651,43 @@
   "market": "AI",
   "event": "e20351",
   "by": "rules"
+ },
+ "029dcc7575f59d6a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e20210",
+  "by": "rules"
+ },
+ "547ce744bb817f6d": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e20350",
+  "by": "rules"
+ },
+ "fe4d7de25515363e": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20352",
+  "by": "rules"
+ },
+ "54bb276806189896": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.01,
+  "market": "Stocks",
+  "event": "e18399",
+  "by": "rules"
  }
 }
