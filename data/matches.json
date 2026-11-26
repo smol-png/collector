@@ -339306,5 +339306,43 @@
   "market": "AI",
   "event": "e20095",
   "by": "rules"
+ },
+ "426aa56b661714cb": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19405",
+  "by": "rules"
+ },
+ "55144e347b357c41": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20097",
+  "by": "rules"
+ },
+ "e561f7b9e7692861": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19021",
+  "by": "rules"
+ },
+ "d8e9752deee975c9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20098",
+  "by": "rules"
  }
 }
