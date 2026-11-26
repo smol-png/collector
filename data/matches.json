@@ -342280,5 +342280,25 @@
   "market": "Other",
   "event": "e20263",
   "by": "rules"
+ },
+ "7c62602c37749095": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20264",
+  "by": "rules"
+ },
+ "8ac70b08f18832b8": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20265",
+  "by": "rules"
  }
 }
