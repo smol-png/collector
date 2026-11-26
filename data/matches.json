@@ -343161,5 +343161,16 @@
   "market": "Other",
   "event": "e20319",
   "by": "rules"
+ },
+ "42ef74b23bc4bdb9": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20320",
+  "by": "rules"
  }
 }
