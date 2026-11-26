@@ -342017,5 +342017,25 @@
   "market": "Crypto",
   "event": "e20243",
   "by": "rules"
+ },
+ "8cc94874789f08d4": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20244",
+  "by": "rules"
+ },
+ "846899bf7903e63b": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "LINK"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e19639",
+  "by": "rules"
  }
 }
