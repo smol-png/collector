@@ -338910,5 +338910,45 @@
   "market": "Other",
   "event": "e20077",
   "by": "rules"
+ },
+ "0fcf9bb6a5372a4e": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e19978",
+  "by": "rules"
+ },
+ "6ea0b7f6e8057d5a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20064",
+  "by": "rules"
+ },
+ "494e8417cc04aea6": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "ZEC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20078",
+  "by": "rules"
+ },
+ "fb39824d237d65d6": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20079",
+  "by": "rules"
  }
 }
