@@ -349220,5 +349220,16 @@
   "market": "Other",
   "event": "e19435",
   "by": "rules"
+ },
+ "4c69292a67638561": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20689",
+  "by": "rules"
  }
 }
