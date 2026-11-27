@@ -358921,5 +358921,54 @@
   "market": "Other",
   "event": "e21293",
   "by": "rules"
+ },
+ "67a74cf8acea4dac": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": 1500.0,
+  "market": "AI",
+  "event": "e21306",
+  "by": "rules"
+ },
+ "70e93453bc6d8e5f": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21307",
+  "by": "rules"
+ },
+ "cb6860fb81695b19": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20041",
+  "by": "rules"
+ },
+ "a7547e5fbfbb55e2": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": 10.0,
+  "market": "Crypto",
+  "event": "e21308",
+  "by": "rules"
+ },
+ "fbee2b33b5e388b3": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21309",
+  "by": "rules"
  }
 }
