@@ -354557,5 +354557,43 @@
   "market": "Stocks",
   "event": "e21020",
   "by": "rules"
+ },
+ "63c5fa6afa11d46e": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e21021",
+  "by": "rules"
+ },
+ "82b5942f257130f5": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20864",
+  "by": "rules"
+ },
+ "92f622f4ba75c8d9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21022",
+  "by": "rules"
+ },
+ "ea33cf4cf5b69dbb": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21022",
+  "by": "rules"
  }
 }
