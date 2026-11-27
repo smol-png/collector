@@ -361983,5 +361983,27 @@
   "market": "Crypto",
   "event": "e20653",
   "by": "rules"
+ },
+ "760ee7ae40d5f5a6": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21195",
+  "by": "rules"
+ },
+ "a25375db1df8dd7b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e21480",
+  "by": "rules"
  }
 }
