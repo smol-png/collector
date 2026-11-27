@@ -356149,5 +356149,16 @@
   "market": "Other",
   "event": "e21121",
   "by": "rules"
+ },
+ "acaa218f12f78487": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "ADA"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e21122",
+  "by": "rules"
  }
 }
