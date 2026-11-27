@@ -363128,5 +363128,17 @@
   "market": "AI",
   "event": "e21524",
   "by": "rules"
+ },
+ "2b6fed9684aefe21": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "MSTR"
+  ],
+  "usd_m": 0.02,
+  "market": "Crypto",
+  "event": "e21539",
+  "by": "rules"
  }
 }
