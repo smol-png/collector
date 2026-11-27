@@ -362677,5 +362677,59 @@
   "market": "Other",
   "event": "e16700",
   "by": "rules"
+ },
+ "e9a4be3d906ec842": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21511",
+  "by": "rules"
+ },
+ "cbc8b438e7d01d57": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21512",
+  "by": "rules"
+ },
+ "a80d14160ebcb8b4": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 531.4,
+  "market": "Other",
+  "event": "e21513",
+  "by": "rules"
+ },
+ "a9537f3aabc2a9a2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21514",
+  "by": "rules"
+ },
+ "1b29b2dfcd512a04": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21515",
+  "by": "rules"
+ },
+ "a65467b3a1deee0b": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e16700",
+  "by": "rules"
  }
 }
