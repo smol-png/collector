@@ -352944,5 +352944,16 @@
   "market": "Other",
   "event": "e20922",
   "by": "rules"
+ },
+ "c128f57f80cbc461": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20836",
+  "by": "rules"
  }
 }
