@@ -358281,5 +358281,54 @@
   "market": "Other",
   "event": "e21261",
   "by": "rules"
+ },
+ "1a1ae1d9ecd434aa": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21262",
+  "by": "rules"
+ },
+ "eb2afb80c0806524": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21033",
+  "by": "rules"
+ },
+ "0a7f85ad0a232eca": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21261",
+  "by": "rules"
+ },
+ "a5760d6318319577": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21261",
+  "by": "rules"
+ },
+ "5e697c66b0d92c1f": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": 408.0,
+  "market": "Other",
+  "event": "e21263",
+  "by": "rules"
  }
 }
