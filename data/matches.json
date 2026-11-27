@@ -362610,5 +362610,16 @@
   "market": "Crypto",
   "event": "e21508",
   "by": "rules"
+ },
+ "3cd2c18633727ac7": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e21360",
+  "by": "rules"
  }
 }
