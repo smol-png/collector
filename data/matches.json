@@ -355264,5 +355264,16 @@
   "market": "Other",
   "event": "e21061",
   "by": "rules"
+ },
+ "46624c0ddde0825a": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": 3.77,
+  "market": "Crypto",
+  "event": "e21062",
+  "by": "rules"
  }
 }
