@@ -361015,5 +361015,34 @@
   "market": "Macro",
   "event": "e21428",
   "by": "rules"
+ },
+ "93ffaa1fb6d60603": {
+  "type": "explainer",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21255",
+  "by": "rules"
+ },
+ "f6c5daaa2dd0b8ab": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21429",
+  "by": "rules"
+ },
+ "57b23de2ae569683": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e21430",
+  "by": "rules"
  }
 }
