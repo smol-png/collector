@@ -356455,5 +356455,32 @@
   "market": "Macro",
   "event": "e20562",
   "by": "rules"
+ },
+ "9675416cf8125239": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20978",
+  "by": "rules"
+ },
+ "2a72a8a5e0a9097a": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21138",
+  "by": "rules"
+ },
+ "22c917832dc924cb": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21139",
+  "by": "rules"
  }
 }
