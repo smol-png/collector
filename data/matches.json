@@ -351195,5 +351195,34 @@
   "market": "Stocks",
   "event": "e16189",
   "by": "rules"
+ },
+ "e189e02017e4276d": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20532",
+  "by": "rules"
+ },
+ "9fdddac495ad7fcc": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20532",
+  "by": "rules"
+ },
+ "8a1aea4c0f287072": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "SOL"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20815",
+  "by": "rules"
  }
 }
