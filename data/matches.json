@@ -355356,5 +355356,34 @@
   "market": "Other",
   "event": "e21071",
   "by": "rules"
+ },
+ "26a99ecf884da92b": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21072",
+  "by": "rules"
+ },
+ "c84523f182c1d2b7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 3.6,
+  "market": "Other",
+  "event": "e21073",
+  "by": "rules"
+ },
+ "d46ebeea852f8de5": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e21074",
+  "by": "rules"
  }
 }
