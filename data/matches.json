@@ -351056,5 +351056,16 @@
   "market": "Other",
   "event": "e20806",
   "by": "rules"
+ },
+ "54cf937c010bf0cc": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20807",
+  "by": "rules"
  }
 }
