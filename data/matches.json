@@ -350849,5 +350849,41 @@
   "market": "Stocks",
   "event": "e20795",
   "by": "rules"
+ },
+ "59739b188f678580": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e19714",
+  "by": "rules"
+ },
+ "cc164aa758516030": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20796",
+  "by": "rules"
+ },
+ "44823cbc72148ed6": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20797",
+  "by": "rules"
+ },
+ "ac40d225056edecc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20798",
+  "by": "rules"
  }
 }
