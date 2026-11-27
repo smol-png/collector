@@ -362827,5 +362827,32 @@
   "market": "Crypto",
   "event": "e21522",
   "by": "rules"
+ },
+ "89b561b058330e91": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21515",
+  "by": "rules"
+ },
+ "1196c445ea73032c": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21515",
+  "by": "rules"
+ },
+ "b8103b5ce6b4fdd7": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 14.7,
+  "market": "Stocks",
+  "event": "e21523",
+  "by": "rules"
  }
 }
