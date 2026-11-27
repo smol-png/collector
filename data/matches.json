@@ -363294,5 +363294,16 @@
   "market": "AI",
   "event": "e21519",
   "by": "rules"
+ },
+ "44b4b46dc2945cfe": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e16182",
+  "by": "rules"
  }
 }
