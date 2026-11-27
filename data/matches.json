@@ -357687,5 +357687,16 @@
   "market": "Other",
   "event": "e21223",
   "by": "rules"
+ },
+ "820aa995911ddb23": {
+  "type": "roundup",
+  "category": "Other",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e21224",
+  "by": "rules"
  }
 }
