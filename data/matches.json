@@ -363926,5 +363926,25 @@
   "market": "Other",
   "event": "e21583",
   "by": "rules"
+ },
+ "e6cc3012ca2859a5": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21584",
+  "by": "rules"
+ },
+ "0b7cec535e3d7745": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e21519",
+  "by": "rules"
  }
 }
