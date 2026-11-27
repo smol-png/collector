@@ -354950,5 +354950,25 @@
   "market": "Crypto",
   "event": "e21043",
   "by": "rules"
+ },
+ "f4fea2c260b9c394": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e20844",
+  "by": "rules"
+ },
+ "fcb26ab228e14067": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21037",
+  "by": "rules"
  }
 }
