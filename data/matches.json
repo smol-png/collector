@@ -354240,5 +354240,23 @@
   "market": "Other",
   "event": "e21002",
   "by": "rules"
+ },
+ "e26890099613b8d2": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21003",
+  "by": "rules"
+ },
+ "9d7862cae3ef3605": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21003",
+  "by": "rules"
  }
 }
