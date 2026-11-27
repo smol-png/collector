@@ -362945,5 +362945,36 @@
   "market": "Crypto",
   "event": "e21532",
   "by": "rules"
+ },
+ "2efc587022fe3301": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e20695",
+  "by": "rules"
+ },
+ "bd2a3e470ae3f59c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21533",
+  "by": "rules"
+ },
+ "8ead422ac3b28424": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20160",
+  "by": "rules"
  }
 }
