@@ -363191,5 +363191,41 @@
   "market": "AI",
   "event": "e21519",
   "by": "rules"
+ },
+ "2e758c75e7fefa7a": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.05,
+  "market": "Stocks",
+  "event": "e18784",
+  "by": "rules"
+ },
+ "71acf96270cae56e": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21419",
+  "by": "rules"
+ },
+ "efe955b29c3961c2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21419",
+  "by": "rules"
+ },
+ "169c17da2f6777ba": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21541",
+  "by": "rules"
  }
 }
