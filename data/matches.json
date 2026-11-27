@@ -361484,5 +361484,27 @@
   "market": "Other",
   "event": "e21455",
   "by": "rules"
+ },
+ "d56e6d59a8ccdafc": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e21456",
+  "by": "rules"
+ },
+ "fc3a91d9560bf4d1": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e21015",
+  "by": "rules"
  }
 }
