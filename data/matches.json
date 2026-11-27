@@ -361515,5 +361515,25 @@
   "market": "Other",
   "event": "e21457",
   "by": "rules"
+ },
+ "5b76303903e0f951": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21458",
+  "by": "rules"
+ },
+ "919925c78a0c6230": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e21444",
+  "by": "rules"
  }
 }
