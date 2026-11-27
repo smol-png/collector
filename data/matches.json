@@ -363727,5 +363727,36 @@
   "market": "Crypto",
   "event": "e21569",
   "by": "rules"
+ },
+ "e35b4c33114e20de": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.0,
+  "market": "Other",
+  "event": "e21570",
+  "by": "rules"
+ },
+ "f492a8458dc2d279": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": 0.0,
+  "market": "AI",
+  "event": "e21571",
+  "by": "rules"
+ },
+ "2af68502b8c778e6": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [
+   "XRP"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e21572",
+  "by": "rules"
  }
 }
