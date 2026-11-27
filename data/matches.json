@@ -362587,5 +362587,28 @@
   "market": "Other",
   "event": "e21167",
   "by": "rules"
+ },
+ "5715d73a03a3b55b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e21507",
+  "by": "rules"
+ },
+ "6fe2cbfd534dd36f": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "BTC",
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e21508",
+  "by": "rules"
  }
 }
