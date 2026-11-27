@@ -363850,5 +363850,25 @@
   "market": "Other",
   "event": "e21557",
   "by": "rules"
+ },
+ "d0fd90facb134669": {
+  "type": "news",
+  "category": "Launches & upgrades",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21578",
+  "by": "rules"
+ },
+ "7de4c235c97dc6c8": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e21519",
+  "by": "rules"
  }
 }
