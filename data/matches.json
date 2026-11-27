@@ -353119,5 +353119,23 @@
   "market": "Other",
   "event": "e20931",
   "by": "rules"
+ },
+ "e9ae39c012692f79": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20932",
+  "by": "rules"
+ },
+ "fa9b6fae4215e393": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20562",
+  "by": "rules"
  }
 }
