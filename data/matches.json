@@ -351699,5 +351699,23 @@
   "market": "Macro",
   "event": "e20847",
   "by": "rules"
+ },
+ "5d6190dd612a5434": {
+  "type": "news",
+  "category": "ETFs & fund flows",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20848",
+  "by": "rules"
+ },
+ "c91c1acab83eabef": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e20142",
+  "by": "rules"
  }
 }
