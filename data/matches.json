@@ -363457,5 +363457,17 @@
   "market": "Stocks",
   "event": "e21553",
   "by": "rules"
+ },
+ "ca6bb6425a48f5ac": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "AMZN",
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21554",
+  "by": "rules"
  }
 }
