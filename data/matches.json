@@ -355385,5 +355385,34 @@
   "market": "Crypto",
   "event": "e21074",
   "by": "rules"
+ },
+ "de0fb8b3bd09bc00": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21075",
+  "by": "rules"
+ },
+ "34c2f464b32d67b3": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20699",
+  "by": "rules"
+ },
+ "94af9702999cf03b": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e21076",
+  "by": "rules"
  }
 }
