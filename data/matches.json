@@ -352580,5 +352580,14 @@
   "market": "Other",
   "event": "e20900",
   "by": "rules"
+ },
+ "d0896f968af7c51d": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e20562",
+  "by": "rules"
  }
 }
