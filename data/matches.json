@@ -362976,5 +362976,108 @@
   "market": "AI",
   "event": "e20160",
   "by": "rules"
+ },
+ "a8f56f2fc2fa62de": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.61,
+  "market": "Stocks",
+  "event": "e20675",
+  "by": "rules"
+ },
+ "0ae83ad93f4379ab": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e21519",
+  "by": "rules"
+ },
+ "f11286c81a331b89": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e21519",
+  "by": "rules"
+ },
+ "e144117c17d8c6e5": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21534",
+  "by": "rules"
+ },
+ "c01ff853ef8fbccd": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21534",
+  "by": "rules"
+ },
+ "9047f7fbe5e0abdc": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20650",
+  "by": "rules"
+ },
+ "ba5ef05978b35095": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20650",
+  "by": "rules"
+ },
+ "417383dd2de3bbf9": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20651",
+  "by": "rules"
+ },
+ "371c885d896e032c": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20651",
+  "by": "rules"
+ },
+ "e9739dbbc93c88f2": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.6,
+  "market": "Stocks",
+  "event": "e21535",
+  "by": "rules"
+ },
+ "7ef4dee771d1ce78": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.21,
+  "market": "Stocks",
+  "event": "e18560",
+  "by": "rules"
  }
 }
