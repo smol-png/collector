@@ -363227,5 +363227,16 @@
   "market": "Other",
   "event": "e21541",
   "by": "rules"
+ },
+ "21deafdcfa3960a6": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e21542",
+  "by": "rules"
  }
 }
