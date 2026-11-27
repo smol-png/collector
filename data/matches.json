@@ -360046,5 +360046,16 @@
   "market": "AI",
   "event": "e21086",
   "by": "rules"
+ },
+ "01a01505a076c0c0": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [
+   "USDT"
+  ],
+  "usd_m": 10.0,
+  "market": "Crypto",
+  "event": "e21308",
+  "by": "rules"
  }
 }
