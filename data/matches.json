@@ -358026,5 +358026,25 @@
   "market": "Other",
   "event": "e21247",
   "by": "rules"
+ },
+ "fbcc19b1295dc9f3": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e21248",
+  "by": "rules"
+ },
+ "541ab95d84b39828": {
+  "type": "news",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "META"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21249",
+  "by": "rules"
  }
 }
