@@ -350242,5 +350242,14 @@
   "market": "Stocks",
   "event": "e16096",
   "by": "rules"
+ },
+ "add9ca5c65e5eb9a": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20752",
+  "by": "rules"
  }
 }
