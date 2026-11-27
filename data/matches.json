@@ -351622,5 +351622,26 @@
   "market": "Other",
   "event": "e20760",
   "by": "rules"
+ },
+ "419f2b49ed4d8b9e": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "AMZN",
+   "META"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e20833",
+  "by": "rules"
+ },
+ "47c150af60f4c0ce": {
+  "type": "explainer",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e20834",
+  "by": "rules"
  }
 }
