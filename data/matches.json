@@ -358339,5 +358339,34 @@
   "market": "Crypto",
   "event": "e21236",
   "by": "rules"
+ },
+ "bb2536d503ca2294": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e19353",
+  "by": "rules"
+ },
+ "eac71a494713ba03": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e19353",
+  "by": "rules"
+ },
+ "3fd8ab8245e4fd7b": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "ETH"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e21264",
+  "by": "rules"
  }
 }
