@@ -365798,5 +365798,16 @@
   "market": "Other",
   "event": "e21688",
   "by": "rules"
+ },
+ "7fc63e28eb90afd1": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "BNB"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e21689",
+  "by": "rules"
  }
 }
