@@ -367071,5 +367071,16 @@
   "market": "Other",
   "event": "e21681",
   "by": "rules"
+ },
+ "a58bf5c0b17cff0c": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21777",
+  "by": "rules"
  }
 }
