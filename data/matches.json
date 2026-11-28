@@ -367344,5 +367344,23 @@
   "market": "Other",
   "event": "e21796",
   "by": "rules"
+ },
+ "25ecd3bbc5d83e1e": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21797",
+  "by": "rules"
+ },
+ "814b45ad25ab4c85": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 1.51,
+  "market": "Stocks",
+  "event": "e18724",
+  "by": "rules"
  }
 }
