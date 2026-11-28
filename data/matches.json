@@ -365939,5 +365939,16 @@
   "market": "AI",
   "event": "e21700",
   "by": "rules"
+ },
+ "2a8a48d04c92fa41": {
+  "type": "roundup",
+  "category": "Regulation & enforcement",
+  "tickers": [
+   "BTC"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e21522",
+  "by": "rules"
  }
 }
