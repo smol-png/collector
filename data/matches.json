@@ -365225,5 +365225,16 @@
   "market": "Stocks",
   "event": "e19994",
   "by": "rules"
+ },
+ "2158f6c3a5dc71c3": {
+  "type": "news",
+  "category": "Hacks & security",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21165",
+  "by": "rules"
  }
 }
