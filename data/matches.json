@@ -367497,5 +367497,52 @@
   "market": "Stocks",
   "event": "e21667",
   "by": "rules"
+ },
+ "88cc8691f7f138ab": {
+  "type": "news",
+  "category": "Courts & lawsuits",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e21519",
+  "by": "rules"
+ },
+ "41961f69b8f735f2": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.54,
+  "market": "Stocks",
+  "event": "e21685",
+  "by": "rules"
+ },
+ "fc3c708c5dc38248": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17403",
+  "by": "rules"
+ },
+ "66741e16fdbc2947": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e17403",
+  "by": "rules"
+ },
+ "abe8ab043f90f51d": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21667",
+  "by": "rules"
  }
 }
