@@ -365562,5 +365562,16 @@
   "market": "Other",
   "event": "e21675",
   "by": "rules"
+ },
+ "85c23fc42aab857b": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "NVDA"
+  ],
+  "usd_m": null,
+  "market": "AI",
+  "event": "e21507",
+  "by": "rules"
  }
 }
