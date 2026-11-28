@@ -365667,5 +365667,41 @@
   "market": "Other",
   "event": "e21682",
   "by": "rules"
+ },
+ "3913d49fa4f5d5fc": {
+  "type": "news",
+  "category": "Companies & earnings",
+  "tickers": [],
+  "usd_m": 0.5,
+  "market": "Stocks",
+  "event": "e12564",
+  "by": "rules"
+ },
+ "9da7c456e9a50a76": {
+  "type": "news",
+  "category": "Deals & funding",
+  "tickers": [],
+  "usd_m": 0.03,
+  "market": "Stocks",
+  "event": "e21683",
+  "by": "rules"
+ },
+ "1dbdc934b8c58af9": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": 0.36,
+  "market": "Stocks",
+  "event": "e21684",
+  "by": "rules"
+ },
+ "a92e49002f1ed60a": {
+  "type": "news",
+  "category": "Politics",
+  "tickers": [],
+  "usd_m": 2.63,
+  "market": "Stocks",
+  "event": "e12564",
+  "by": "rules"
  }
 }
