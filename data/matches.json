@@ -365609,5 +365609,16 @@
   "market": "Stocks",
   "event": "e21678",
   "by": "rules"
+ },
+ "ad0f6e866b2d542a": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "AAPL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21679",
+  "by": "rules"
  }
 }
