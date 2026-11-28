@@ -365703,5 +365703,17 @@
   "market": "Stocks",
   "event": "e12564",
   "by": "rules"
+ },
+ "247f14709a162bd6": {
+  "type": "news",
+  "category": "AI",
+  "tickers": [
+   "BTC",
+   "USDT"
+  ],
+  "usd_m": null,
+  "market": "Crypto",
+  "event": "e21352",
+  "by": "rules"
  }
 }
