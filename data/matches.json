@@ -367268,5 +367268,45 @@
   "market": "Other",
   "event": "e21791",
   "by": "rules"
+ },
+ "1361e5a3bb194ba6": {
+  "type": "news",
+  "category": "Macro & rates",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Macro",
+  "event": "e21792",
+  "by": "rules"
+ },
+ "9b488672bf641aff": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "GOOGL"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21757",
+  "by": "rules"
+ },
+ "ba73fd659d976983": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [
+   "TSLA"
+  ],
+  "usd_m": null,
+  "market": "Stocks",
+  "event": "e21777",
+  "by": "rules"
+ },
+ "6634f567770ff466": {
+  "type": "news",
+  "category": "Other",
+  "tickers": [],
+  "usd_m": null,
+  "market": "Other",
+  "event": "e21793",
+  "by": "rules"
  }
 }
