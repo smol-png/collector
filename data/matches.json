@@ -366136,5 +366136,16 @@
   "market": "Other",
   "event": "e21709",
   "by": "rules"
+ },
+ "64541e96c2466551": {
+  "type": "news",
+  "category": "Markets & prices",
+  "tickers": [
+   "COIN"
+  ],
+  "usd_m": 0.0,
+  "market": "Crypto",
+  "event": "e21712",
+  "by": "rules"
  }
 }
